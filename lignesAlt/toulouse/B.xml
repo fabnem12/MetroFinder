@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="RAMONVILLE,BORDEROUGE" couleur="fedd04">
+	<gare nom="BARRIERE DE PARIS" coord="513, 78">
+		<voisin nom="LA VACHE" distance="0.7962263595483707" />
+		<voisin nom="MINIMES" distance="0.7497938162403743" />
+	</gare>
+	<gare nom="BORDEROUGE" coord="756, 23">
+		<voisin nom="TROIS COCUS" distance="0.9599472571931671" />
+	</gare>
+	<gare nom="CANAL DU MIDI" coord="513, 194">
+		<voisin nom="COMPANS-CAFFARELLI" distance="0.5494592245510692" />
+		<voisin nom="MINIMES" distance="0.5833876741424271" />
+	</gare>
+	<gare nom="CARMES" coord="513, 449">
+		<voisin nom="PALAIS DE JUSTICE" distance="0.5979125192109025" />
+		<voisin nom="FRANCOIS VERDIER" distance="0.8086854708121676" />
+	</gare>
+	<gare nom="COMPANS-CAFFARELLI" coord="513, 253">
+		<voisin nom="JEANNE D'ARC" distance="1.10781417804857" />
+		<voisin nom="CANAL DU MIDI" distance="0.5494592245510692" />
+	</gare>
+	<gare nom="EMPALOT" coord="513, 593">
+		<voisin nom="SAINT MICHEL" distance="0.9147846269616652" />
+		<voisin nom="SAINT AGNE-SNCF" distance="0.8356971434221342" />
+	</gare>
+	<gare nom="FACULTE DE PHARMACIE" coord="624, 725">
+		<voisin nom="UNIVERSITE PAUL SABATIER" distance="0.7882311003244871" />
+		<voisin nom="RANGUEIL" distance="0.801203259686105" />
+	</gare>
+	<gare nom="FRANCOIS VERDIER" coord="513, 409">
+		<voisin nom="JEAN JAURES" distance="0.6791076747389183" />
+		<voisin nom="CARMES" distance="0.8086854708121676" />
+	</gare>
+	<gare nom="JEAN JAURES" coord="513, 367">
+		<voisin nom="JEANNE D'ARC" distance="0.5393288674139174" />
+		<voisin nom="FRANCOIS VERDIER" distance="0.6791076747389183" />
+	</gare>
+	<gare nom="JEANNE D'ARC" coord="513, 311">
+		<voisin nom="COMPANS-CAFFARELLI" distance="1.10781417804857" />
+		<voisin nom="JEAN JAURES" distance="0.5393288674139174" />
+	</gare>
+	<gare nom="LA VACHE" coord="585, 24">
+		<voisin nom="BARRIERE DE PARIS" distance="0.7962263595483707" />
+		<voisin nom="TROIS COCUS" distance="1.0718873542141316" />
+	</gare>
+	<gare nom="MINIMES" coord="513, 136">
+		<voisin nom="CANAL DU MIDI" distance="0.5833876741424271" />
+		<voisin nom="BARRIERE DE PARIS" distance="0.7497938162403743" />
+	</gare>
+	<gare nom="PALAIS DE JUSTICE" coord="513, 492">
+		<voisin nom="SAINT MICHEL" distance="0.6904403959503297" />
+		<voisin nom="CARMES" distance="0.5979125192109025" />
+	</gare>
+	<gare nom="RAMONVILLE" coord="756, 724">
+		<voisin nom="UNIVERSITE PAUL SABATIER" distance="1.5810429182352526" />
+	</gare>
+	<gare nom="RANGUEIL" coord="563, 724">
+		<voisin nom="FACULTE DE PHARMACIE" distance="0.801203259686105" />
+		<voisin nom="SAOUZELONG" distance="0.6188097520092313" />
+	</gare>
+	<gare nom="SAINT AGNE-SNCF" coord="512, 636">
+		<voisin nom="EMPALOT" distance="0.8356971434221342" />
+		<voisin nom="SAOUZELONG" distance="1.0696500649509328" />
+	</gare>
+	<gare nom="SAINT MICHEL" coord="513, 552">
+		<voisin nom="EMPALOT" distance="0.9147846269616652" />
+		<voisin nom="PALAIS DE JUSTICE" distance="0.6904403959503297" />
+	</gare>
+	<gare nom="SAOUZELONG" coord="513, 679">
+		<voisin nom="RANGUEIL" distance="0.6188097520092313" />
+		<voisin nom="SAINT AGNE-SNCF" distance="1.0696500649509328" />
+	</gare>
+	<gare nom="TROIS COCUS" coord="672, 25">
+		<voisin nom="LA VACHE" distance="1.0718873542141316" />
+		<voisin nom="BORDEROUGE" distance="0.9599472571931671" />
+	</gare>
+	<gare nom="UNIVERSITE PAUL SABATIER" coord="685, 724">
+		<voisin nom="FACULTE DE PHARMACIE" distance="0.7882311003244871" />
+		<voisin nom="RAMONVILLE" distance="1.5810429182352526" />
+	</gare>
+</ligne>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="SAINT-REMY-LES-CHEVREUSE,AEROPORT CHARLES DE GAULLE 2-TGV">
+	<gare nom="SAINT-REMY-LES-CHEVREUSE" coord="1102, 2860">
+		<voisin nom ="MASSY-PALAISEAU" distance ="0.18895742393066375"/>
+	</gare>
+	<gare nom="MASSY-PALAISEAU" coord="1102, 2860">
+		<voisin nom ="ANTONY" distance ="0.05200334751781197"/>
+		<voisin nom ="SAINT-REMY-LES-CHEVREUSE" distance ="0.18895742393066375"/>
+	</gare>
+	<gare nom="ANTONY" coord="1147, 2804">
+		<voisin nom ="BOURG-LA-REINE" distance ="0.027778773998927715"/>
+		<voisin nom ="MASSY-PALAISEAU" distance ="0.05200334751781197"/>
+	</gare>
+	<gare nom="BOURG-LA-REINE" coord="1220, 2655">
+		<voisin nom ="BAGNEUX" distance ="0.016354665704031237"/>
+		<voisin nom ="ANTONY" distance ="0.027778773998927715"/>
+	</gare>
+	<gare nom="BAGNEUX" coord="1249, 2605">
+		<voisin nom ="ARCUEIL-CACHAN" distance ="0.008130132958409442"/>
+		<voisin nom ="BOURG-LA-REINE" distance ="0.016354665704031237"/>
+	</gare>
+	<gare nom="ARCUEIL-CACHAN" coord="1283, 2545">
+		<voisin nom ="LAPLACE" distance ="0.011273540214692877"/>
+		<voisin nom ="BAGNEUX" distance ="0.008130132958409442"/>
+	</gare>
+	<gare nom="LAPLACE" coord="1308, 2504">
+		<voisin nom ="GENTILLY" distance ="0.009528978193833245"/>
+		<voisin nom ="ARCUEIL-CACHAN" distance ="0.011273540214692877"/>
+	</gare>
+	<gare nom="GENTILLY" coord="1329, 2466">
+		<voisin nom ="CITE UNIVERSITAIRE" distance ="0.006163969433546441"/>
+		<voisin nom ="LAPLACE" distance ="0.009528978193833245"/>
+	</gare>
+	<gare nom="CITE UNIVERSITAIRE" coord="1375, 2410">
+		<voisin nom ="DENFERT-ROCHEREAU" distance ="0.014555335170003231"/>
+		<voisin nom ="GENTILLY" distance ="0.006163969433546441"/>
+	</gare>
+	<gare nom="DENFERT-ROCHEREAU" coord="1364, 2156">
+		<voisin nom ="PORT ROYAL" distance ="0.007139286798979662"/>
+		<voisin nom ="CITE UNIVERSITAIRE" distance ="0.014555335170003231"/>
+	</gare>
+	<gare nom="PORT ROYAL" coord="1441, 2035">
+		<voisin nom ="LUXEMBOURG" distance ="0.006372890761796071"/>
+		<voisin nom ="DENFERT-ROCHEREAU" distance ="0.007139286798979662"/>
+	</gare>
+	<gare nom="LUXEMBOURG" coord="1512, 1911">
+		<voisin nom ="SAINT-MICHEL" distance ="0.008148947052252848"/>
+		<voisin nom ="PORT ROYAL" distance ="0.006372890761796071"/>
+	</gare>
+	<gare nom="SAINT-MICHEL" coord="1560, 1730">
+		<voisin nom ="CHATELET" distance ="0.006745248662958821"/>
+		<voisin nom ="LUXEMBOURG" distance ="0.008148947052252848"/>
+	</gare>
+	<gare nom="CHATELET" coord="1664, 1527">
+		<voisin nom ="GARE DU NORD" distance ="0.024338682623698475"/>
+		<voisin nom ="SAINT-MICHEL" distance ="0.006745248662958821"/>
+	</gare>
+	<gare nom="GARE DU NORD" coord="1854, 894">
+		<voisin nom ="LA PLAINE-STADE DE FRANCE" distance ="0.03775503866346866"/>
+		<voisin nom ="CHATELET" distance ="0.024338682623698475"/>
+	</gare>
+	<gare nom="LA PLAINE-STADE DE FRANCE" coord="2012, 449">
+		<voisin nom ="LA COURNEUVE-AUBERVILLIERS" distance ="0.024529667900926422"/>
+		<voisin nom ="GARE DU NORD" distance ="0.03775503866346866"/>
+	</gare>
+	<gare nom="LA COURNEUVE-AUBERVILLIERS" coord="2056, 373">
+		<voisin nom ="LE BOURGET" distance ="0.03991721647042473"/>
+		<voisin nom ="LA PLAINE-STADE DE FRANCE" distance ="0.024529667900926422"/>
+	</gare>
+	<gare nom="LE BOURGET" coord="2130, 252">
+		<voisin nom ="AULNAY-SOUS-BOIS" distance ="0.06973692456242078"/>
+		<voisin nom ="LA COURNEUVE-AUBERVILLIERS" distance ="0.03991721647042473"/>
+	</gare>
+	<gare nom="AULNAY-SOUS-BOIS" coord="2301, 247">
+		<voisin nom ="PARC DES EXPOSITIONS" distance ="0.045332516933615376"/>
+		<voisin nom ="LE BOURGET" distance ="0.06973692456242078"/>
+	</gare>
+	<gare nom="PARC DES EXPOSITIONS" coord="2582, 227">
+		<voisin nom ="AEROPORT CHARLES DE GAULLE 2-TGV" distance ="0.06433560802328131"/>
+		<voisin nom ="AULNAY-SOUS-BOIS" distance ="0.045332516933615376"/>
+	</gare>
+	<gare nom="AEROPORT CHARLES DE GAULLE 2-TGV" coord="2787, 226">
+		<voisin nom ="PARC DES EXPOSITIONS" distance ="0.06433560802328131"/>
+	</gare>
+</ligne>

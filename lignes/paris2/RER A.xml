@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="SAINT-GERMAIN-EN-LAYE,BOISSY-SAINT-LEGER">
+	<gare nom="SAINT-GERMAIN-EN-LAYE" coord="142, 913">
+		<voisin nom ="LA DEFENSE-GRANDE ARCHE" distance ="0.1423033476758863"/>
+	</gare>
+	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="709, 716">
+		<voisin nom ="CHARLES DE GAULLE ETOILE" distance ="0.06021000477402768"/>
+		<voisin nom ="SAINT-GERMAIN-EN-LAYE" distance ="0.1423033476758863"/>
+	</gare>
+	<gare nom="CHARLES DE GAULLE ETOILE" coord="946, 1126">
+		<voisin nom ="AUBER" distance ="0.03549762710393362"/>
+		<voisin nom ="LA DEFENSE-GRANDE ARCHE" distance ="0.06021000477402768"/>
+	</gare>
+	<gare nom="AUBER" coord="1391, 1230">
+		<voisin nom ="CHATELET" distance ="0.019968266236208763"/>
+		<voisin nom ="CHARLES DE GAULLE ETOILE" distance ="0.03549762710393362"/>
+	</gare>
+	<gare nom="CHATELET" coord="1664, 1527">
+		<voisin nom ="GARE DE LYON" distance ="0.03164816000209006"/>
+		<voisin nom ="AUBER" distance ="0.019968266236208763"/>
+	</gare>
+	<gare nom="GARE DE LYON" coord="1925, 1841">
+		<voisin nom ="NATION" distance ="0.02293268917979717"/>
+		<voisin nom ="CHATELET" distance ="0.03164816000209006"/>
+	</gare>
+	<gare nom="NATION" coord="2259, 1730">
+		<voisin nom ="VINCENNES" distance ="0.03748763541246617"/>
+		<voisin nom ="GARE DE LYON" distance ="0.02293268917979717"/>
+	</gare>
+	<gare nom="VINCENNES" coord="2624, 1952">
+		<voisin nom ="BOISSY-SAINT-LEGER" distance ="0.11885419924813974"/>
+		<voisin nom ="NATION" distance ="0.03748763541246617"/>
+	</gare>
+	<gare nom="BOISSY-SAINT-LEGER" coord="2864, 2273">
+		<voisin nom ="VINCENNES" distance ="0.11885419924813974"/>
+	</gare>
+</ligne>

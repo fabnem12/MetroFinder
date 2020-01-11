@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="AULNAY-SOUS-BOIS,BONDY">
+	<gare nom="AULNAY-SOUS-BOIS" coord="2413, 332">
+		<voisin nom ="ROUGEMONT-CHANTELOUP" distance ="0.019577227975874998"/>
+	</gare>
+	<gare nom="ROUGEMONT-CHANTELOUP" coord="2513, 390">
+		<voisin nom ="FREINVILLE-SEVRAN" distance ="0.005905422175500591"/>
+		<voisin nom ="AULNAY-SOUS-BOIS" distance ="0.019577227975874998"/>
+	</gare>
+	<gare nom="FREINVILLE-SEVRAN" coord="2564, 441">
+		<voisin nom ="L'ABBAYE" distance ="0.005412870398463155"/>
+		<voisin nom ="ROUGEMONT-CHANTELOUP" distance ="0.005905422175500591"/>
+	</gare>
+	<gare nom="L'ABBAYE" coord="2618, 494">
+		<voisin nom ="BONDY" distance ="0.04560701544621738"/>
+		<voisin nom ="FREINVILLE-SEVRAN" distance ="0.005412870398463155"/>
+	</gare>
+	<gare nom="BONDY" coord="2688, 517">
+		<voisin nom ="L'ABBAYE" distance ="0.04560701544621738"/>
+	</gare>
+</ligne>

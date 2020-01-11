@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Aéroport,Palais de Justice" couleur="409ad9">
+	<gare nom="Ancely" coord="312, 311">
+		<voisin nom="Nadot" distance="1.3182891006403787" />
+		<voisin nom="Arènes Romaines" distance="0.4894915942075492" />
+	</gare>
+	<gare nom="Arènes" coord="357, 496">
+		<voisin nom="Déodat de Séverac" distance="0.5149152362579794" />
+		<voisin nom="Zénith" distance="0.9988686992539428" />
+	</gare>
+	<gare nom="Arènes Romaines" coord="312, 346">
+		<voisin nom="Ancely" distance="0.4894915942075492" />
+		<voisin nom="Purpan" distance="0.7011655860231134" />
+	</gare>
+	<gare nom="Av. Muret" coord="434, 496">
+		<voisin nom="Fer à cheval" distance="0.5482883702643931" />
+		<voisin nom="Croix de Pierre" distance="0.6031326481681287" />
+	</gare>
+	<gare nom="Aéroport" coord="115, 311">
+		<voisin nom="Daurat" distance="0.6225127796207421" />
+	</gare>
+	<gare nom="Cartoucherie" coord="314, 440">
+		<voisin nom="Casselardit" distance="0.48321672986429864" />
+		<voisin nom="Zénith" distance="0.7055303772050182" />
+	</gare>
+	<gare nom="Casselardit" coord="314, 409">
+		<voisin nom="Cartoucherie" distance="0.48321672986429864" />
+		<voisin nom="Purpan" distance="0.913303156775977" />
+	</gare>
+	<gare nom="Croix de Pierre" coord="412, 496">
+		<voisin nom="Déodat de Séverac" distance="0.826089579560706" />
+		<voisin nom="Av. Muret" distance="0.6031326481681287" />
+	</gare>
+	<gare nom="Daurat" coord="177, 311">
+		<voisin nom="Aéroport" distance="0.6225127796207421" />
+		<voisin nom="Nadot" distance="0.9626919509998261" />
+	</gare>
+	<gare nom="Déodat de Séverac" coord="386, 496">
+		<voisin nom="Arènes" distance="0.5149152362579794" />
+		<voisin nom="Croix de Pierre" distance="0.826089579560706" />
+	</gare>
+	<gare nom="Fer à cheval" coord="459, 496">
+		<voisin nom="Ile du Ramier" distance="0.5613069185901525" />
+		<voisin nom="Av. Muret" distance="0.5482883702643931" />
+	</gare>
+	<gare nom="Ile du Ramier" coord="485, 495">
+		<voisin nom="Fer à cheval" distance="0.5613069185901525" />
+		<voisin nom="Palais de Justice" distance="0.40163779378768233" />
+	</gare>
+	<gare nom="Nadot" coord="233, 310">
+		<voisin nom="Ancely" distance="1.3182891006403787" />
+		<voisin nom="Daurat" distance="0.9626919509998261" />
+	</gare>
+	<gare nom="Palais de Justice" coord="513, 493">
+		<voisin nom="Ile du Ramier" distance="0.40163779378768233" />
+	</gare>
+	<gare nom="Purpan" coord="313, 377">
+		<voisin nom="Casselardit" distance="0.913303156775977" />
+		<voisin nom="Arènes Romaines" distance="0.7011655860231134" />
+	</gare>
+	<gare nom="Zénith" coord="314, 471">
+		<voisin nom="Arènes" distance="0.9988686992539428" />
+		<voisin nom="Cartoucherie" distance="0.7055303772050182" />
+	</gare>
+</ligne>

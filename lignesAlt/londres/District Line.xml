@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Wimbledon,Upminster,Kensington (Olympia),Edgware Road (C),Ealing Broadway,Richmond" couleur="0d6928">
+	<gare nom="Acton Town" coord="249, 651">
+		<voisin nom="Ealing Common" distance="1.2138352451361514" />
+		<voisin nom="Chiswick Park" distance="1.6456035506573945" />
+	</gare>
+	<gare nom="Aldgate East" coord="1122, 552">
+		<voisin nom="Tower Hill" distance="0.7660847437153493" />
+		<voisin nom="Whitechapel" distance="1.3448941529495224" />
+	</gare>
+	<gare nom="Barking" coord="1420, 410">
+		<voisin nom="Upney" distance="2.274216594432986" />
+		<voisin nom="East Ham" distance="3.250605376616571" />
+	</gare>
+	<gare nom="Barons Court" coord="464, 665">
+		<voisin nom="West Kensington" distance="0.8240650332072206" />
+		<voisin nom="Hammersmith" distance="1.2936544259765814" />
+	</gare>
+	<gare nom="Bayswater" coord="542, 487">
+		<voisin nom="Paddington" distance="1.4284068865342192" />
+		<voisin nom="Notting Hill Gate" distance="1.0246831750191476" />
+	</gare>
+	<gare nom="Becontree" coord="1462, 373">
+		<voisin nom="Dagenham Heathway" distance="2.2207331357306774" />
+		<voisin nom="Upney" distance="2.8568146873730544" />
+	</gare>
+	<gare nom="Blackfriars" coord="908, 641">
+		<voisin nom="Mansion House" distance="1.013251994544961" />
+		<voisin nom="Temple" distance="1.2286061332116769" />
+	</gare>
+	<gare nom="Bow Road" coord="1258, 484">
+		<voisin nom="Bromley-By-Bow" distance="1.4439386685609241" />
+		<voisin nom="Mile End" distance="0.9720556601611696" />
+	</gare>
+	<gare nom="Bromley-By-Bow" coord="1308, 485">
+		<voisin nom="West Ham" distance="1.9958811714172842" />
+		<voisin nom="Bow Road" distance="1.4439386685609241" />
+	</gare>
+	<gare nom="Cannon Street" coord="945, 609">
+		<voisin nom="Mansion House" distance="0.4130837912492217" />
+		<voisin nom="Monument" distance="0.4597912759971947" />
+	</gare>
+	<gare nom="Chiswick Park" coord="270, 666">
+		<voisin nom="Acton Town" distance="1.6456035506573945" />
+		<voisin nom="Turnham Green" distance="1.4593471331834247" />
+	</gare>
+	<gare nom="Dagenham East" coord="1501, 330">
+		<voisin nom="Dagenham Heathway" distance="2.090673541801088" />
+		<voisin nom="Elm Park" distance="3.6327179855589664" />
+	</gare>
+	<gare nom="Dagenham Heathway" coord="1488, 346">
+		<voisin nom="Becontree" distance="2.2207331357306774" />
+		<voisin nom="Dagenham East" distance="2.090673541801088" />
+	</gare>
+	<gare nom="Ealing Broadway" coord="211, 533">
+		<voisin nom="Ealing Common" distance="1.606472975987653" />
+	</gare>
+	<gare nom="Ealing Common" coord="239, 593">
+		<voisin nom="Ealing Broadway" distance="1.606472975987653" />
+		<voisin nom="Acton Town" distance="1.2138352451361514" />
+	</gare>
+	<gare nom="Earl's Court" coord="524, 664">
+		<voisin nom="Gloucester Road" distance="1.6269789363229685" />
+		<voisin nom="High Street Kensington" distance="1.125643640380644" />
+		<voisin nom="West Kensington" distance="1.0343131087367978" />
+		<voisin nom="Kensington (Olympia)" distance="1.6382488871550804" />
+		<voisin nom="West Brompton" distance="0.5788584635221237" />
+	</gare>
+	<gare nom="East Ham" coord="1401, 430">
+		<voisin nom="Upton Park" distance="2.00341063064214" />
+		<voisin nom="Barking" distance="3.250605376616571" />
+	</gare>
+	<gare nom="East Putney" coord="510, 827">
+		<voisin nom="Putney Bridge" distance="1.0989030337359742" />
+		<voisin nom="Southfields" distance="1.5560764016836228" />
+	</gare>
+	<gare nom="Edgware Road (C)" coord="594, 441">
+		<voisin nom="Paddington" distance="0.819993162433942" />
+	</gare>
+	<gare nom="Elm Park" coord="1523, 310">
+		<voisin nom="Hornchurch" distance="2.3535050708504714" />
+		<voisin nom="Dagenham East" distance="3.6327179855589664" />
+	</gare>
+	<gare nom="Embankment" coord="801, 662">
+		<voisin nom="Westminster" distance="0.7916201973137611" />
+		<voisin nom="Temple" distance="1.0014420523494707" />
+	</gare>
+	<gare nom="Fulham Broadway" coord="510, 754">
+		<voisin nom="Parsons Green" distance="0.8851102913977329" />
+		<voisin nom="West Brompton" distance="0.7577044715082253" />
+	</gare>
+	<gare nom="Gloucester Road" coord="569, 662">
+		<voisin nom="Earl's Court" distance="1.6269789363229685" />
+		<voisin nom="South Kensington" distance="1.0139855176400348" />
+	</gare>
+	<gare nom="Gunnersbury" coord="294, 727">
+		<voisin nom="Kew Gardens" distance="1.935823127999892" />
+		<voisin nom="Turnham Green" distance="2.338900977513255" />
+	</gare>
+	<gare nom="Hammersmith" coord="434, 665">
+		<voisin nom="Barons Court" distance="1.2936544259765814" />
+		<voisin nom="Ravenscourt Park" distance="1.2041043637174538" />
+	</gare>
+	<gare nom="High Street Kensington" coord="540, 576">
+		<voisin nom="Earl's Court" distance="1.125643640380644" />
+		<voisin nom="Notting Hill Gate" distance="1.055418950949264" />
+	</gare>
+	<gare nom="Hornchurch" coord="1535, 297">
+		<voisin nom="Elm Park" distance="2.3535050708504714" />
+		<voisin nom="Upminster Bridge" distance="1.833563171801534" />
+	</gare>
+	<gare nom="Kensington (Olympia)" coord="511, 606">
+		<voisin nom="Earl's Court" distance="1.6382488871550804" />
+	</gare>
+	<gare nom="Kew Gardens" coord="294, 757">
+		<voisin nom="Richmond" distance="2.3702820971473337" />
+		<voisin nom="Gunnersbury" distance="1.935823127999892" />
+	</gare>
+	<gare nom="Mansion House" coord="926, 624">
+		<voisin nom="Cannon Street" distance="0.4130837912492217" />
+		<voisin nom="Blackfriars" distance="1.013251994544961" />
+	</gare>
+	<gare nom="Mile End" coord="1212, 485">
+		<voisin nom="Stepney Green" distance="1.5675112334188297" />
+		<voisin nom="Bow Road" distance="0.9720556601611696" />
+	</gare>
+	<gare nom="Monument" coord="992, 594">
+		<voisin nom="Tower Hill" distance="1.0855220014290208" />
+		<voisin nom="Cannon Street" distance="0.4597912759971947" />
+	</gare>
+	<gare nom="Notting Hill Gate" coord="541, 531">
+		<voisin nom="High Street Kensington" distance="1.055418950949264" />
+		<voisin nom="Bayswater" distance="1.0246831750191476" />
+	</gare>
+	<gare nom="Paddington" coord="546, 452">
+		<voisin nom="Bayswater" distance="1.4284068865342192" />
+		<voisin nom="Edgware Road (C)" distance="0.819993162433942" />
+	</gare>
+	<gare nom="Parsons Green" coord="510, 775">
+		<voisin nom="Fulham Broadway" distance="0.8851102913977329" />
+		<voisin nom="Putney Bridge" distance="1.1741402111864443" />
+	</gare>
+	<gare nom="Plaistow" coord="1370, 462">
+		<voisin nom="Upton Park" distance="1.952443578205888" />
+		<voisin nom="West Ham" distance="1.323344831581136" />
+	</gare>
+	<gare nom="Putney Bridge" coord="510, 797">
+		<voisin nom="East Putney" distance="1.0989030337359742" />
+		<voisin nom="Parsons Green" distance="1.1741402111864443" />
+	</gare>
+	<gare nom="Ravenscourt Park" coord="405, 665">
+		<voisin nom="Hammersmith" distance="1.2041043637174538" />
+		<voisin nom="Stamford Brook" distance="1.1167513838942302" />
+	</gare>
+	<gare nom="Richmond" coord="294, 784">
+		<voisin nom="Kew Gardens" distance="2.3702820971473337" />
+	</gare>
+	<gare nom="Sloane Square" coord="642, 663">
+		<voisin nom="Victoria" distance="1.3906022741009372" />
+		<voisin nom="South Kensington" distance="1.9351028471856992" />
+	</gare>
+	<gare nom="South Kensington" coord="593, 665">
+		<voisin nom="Sloane Square" distance="1.9351028471856992" />
+		<voisin nom="Gloucester Road" distance="1.0139855176400348" />
+	</gare>
+	<gare nom="Southfields" coord="510, 848">
+		<voisin nom="East Putney" distance="1.5560764016836228" />
+		<voisin nom="Wimbledon Park" distance="1.4850556423767989" />
+	</gare>
+	<gare nom="St. James's Park" coord="712, 661">
+		<voisin nom="Westminster" distance="0.9191106895061781" />
+		<voisin nom="Victoria" distance="1.2878945903896746" />
+	</gare>
+	<gare nom="Stamford Brook" coord="359, 665">
+		<voisin nom="Ravenscourt Park" distance="1.1167513838942302" />
+		<voisin nom="Turnham Green" distance="0.9796747682174302" />
+	</gare>
+	<gare nom="Stepney Green" coord="1158, 519">
+		<voisin nom="Whitechapel" distance="1.6090576544309716" />
+		<voisin nom="Mile End" distance="1.5675112334188297" />
+	</gare>
+	<gare nom="Temple" coord="853, 660">
+		<voisin nom="Embankment" distance="1.0014420523494707" />
+		<voisin nom="Blackfriars" distance="1.2286061332116769" />
+	</gare>
+	<gare nom="Tower Hill" coord="1060, 594">
+		<voisin nom="Aldgate East" distance="0.7660847437153493" />
+		<voisin nom="Monument" distance="1.0855220014290208" />
+	</gare>
+	<gare nom="Turnham Green" coord="320, 667">
+		<voisin nom="Chiswick Park" distance="1.4593471331834247" />
+		<voisin nom="Gunnersbury" distance="2.338900977513255" />
+		<voisin nom="Stamford Brook" distance="0.9796747682174302" />
+	</gare>
+	<gare nom="Upminster" coord="1576, 258">
+		<voisin nom="Upminster Bridge" distance="1.8611673041709722" />
+	</gare>
+	<gare nom="Upminster Bridge" coord="1554, 278">
+		<voisin nom="Hornchurch" distance="1.833563171801534" />
+		<voisin nom="Upminster" distance="1.8611673041709722" />
+	</gare>
+	<gare nom="Upney" coord="1443, 391">
+		<voisin nom="Becontree" distance="2.8568146873730544" />
+		<voisin nom="Barking" distance="2.274216594432986" />
+	</gare>
+	<gare nom="Upton Park" coord="1385, 443">
+		<voisin nom="Plaistow" distance="1.952443578205888" />
+		<voisin nom="East Ham" distance="2.00341063064214" />
+	</gare>
+	<gare nom="Victoria" coord="685, 661">
+		<voisin nom="Sloane Square" distance="1.3906022741009372" />
+		<voisin nom="St. James's Park" distance="1.2878945903896746" />
+	</gare>
+	<gare nom="West Brompton" coord="511, 710">
+		<voisin nom="Fulham Broadway" distance="0.7577044715082253" />
+		<voisin nom="Earl's Court" distance="0.5788584635221237" />
+	</gare>
+	<gare nom="West Ham" coord="1332, 484">
+		<voisin nom="Bromley-By-Bow" distance="1.9958811714172842" />
+		<voisin nom="Plaistow" distance="1.323344831581136" />
+	</gare>
+	<gare nom="West Kensington" coord="493, 665">
+		<voisin nom="Barons Court" distance="0.8240650332072206" />
+		<voisin nom="Earl's Court" distance="1.0343131087367978" />
+	</gare>
+	<gare nom="Westminster" coord="764, 661">
+		<voisin nom="St. James's Park" distance="0.9191106895061781" />
+		<voisin nom="Embankment" distance="0.7916201973137611" />
+	</gare>
+	<gare nom="Whitechapel" coord="1139, 537">
+		<voisin nom="Stepney Green" distance="1.6090576544309716" />
+		<voisin nom="Aldgate East" distance="1.3448941529495224" />
+	</gare>
+	<gare nom="Wimbledon" coord="510, 892">
+		<voisin nom="Wimbledon Park" distance="1.6445468989438092" />
+	</gare>
+	<gare nom="Wimbledon Park" coord="510, 869">
+		<voisin nom="Wimbledon" distance="1.6445468989438092" />
+		<voisin nom="Southfields" distance="1.4850556423767989" />
+	</gare>
+</ligne>

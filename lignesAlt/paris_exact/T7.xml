@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="AEROPORT D ORLY,VILLEJUIF-LOUIS ARAGON" couleur="6e491e">
+	<gare nom="AEROPORT D ORLY" coord="2.36837860173, 48.7295686789">
+		<voisin nom="COEUR D'ORLY" distance="0.5455068016172987" />
+	</gare>
+	<gare nom="AUGUSTE PERRET" coord="2.36699185892, 48.7626477685">
+		<voisin nom="PORTE DE THIAIS" distance="0.3449396206472347" />
+		<voisin nom="BRETAGNE" distance="0.608381801351194" />
+	</gare>
+	<gare nom="BRETAGNE" coord="2.36804946889, 48.7680683121">
+		<voisin nom="MOULIN VERT" distance="0.4218881178939042" />
+		<voisin nom="AUGUSTE PERRET" distance="0.608381801351194" />
+	</gare>
+	<gare nom="CAROLINE AIGLE" coord="2.36991014668, 48.7385627773">
+		<voisin nom="HELENE BOUCHER" distance="0.7828422090311513" />
+		<voisin nom="COEUR D'ORLY" distance="0.5077375577206246" />
+	</gare>
+	<gare nom="COEUR D'ORLY" coord="2.37125037622, 48.7340881621">
+		<voisin nom="AEROPORT D ORLY" distance="0.5455068016172987" />
+		<voisin nom="CAROLINE AIGLE" distance="0.5077375577206246" />
+	</gare>
+	<gare nom="DOMAINE CHERIOUX" coord="2.3674058645, 48.7789363931">
+		<voisin nom="MOULIN VERT" distance="0.7888621584520928" />
+		<voisin nom="LAMARTINE" distance="0.48346463288415975" />
+	</gare>
+	<gare nom="FRATERNELLE" coord="2.35286156504, 48.7416678183">
+		<voisin nom="HELENE BOUCHER" distance="0.5197998965965674" />
+		<voisin nom="ROBERT SCHUMAN" distance="0.5623939944752248" />
+	</gare>
+	<gare nom="HELENE BOUCHER" coord="2.3594678211, 48.7399874304">
+		<voisin nom="FRATERNELLE" distance="0.5197998965965674" />
+		<voisin nom="CAROLINE AIGLE" distance="0.7828422090311513" />
+	</gare>
+	<gare nom="LA BELLE EPINE" coord="2.36836469863, 48.7567394335">
+		<voisin nom="PLACE DE LA LOGISTIQUE" distance="0.6424115742728412" />
+		<voisin nom="PORTE DE THIAIS" distance="0.3531427904922727" />
+	</gare>
+	<gare nom="LAMARTINE" coord="2.36698227804, 48.7832704514">
+		<voisin nom="VILLEJUIF-LOUIS ARAGON" distance="0.44353021632014705" />
+		<voisin nom="DOMAINE CHERIOUX" distance="0.48346463288415975" />
+	</gare>
+	<gare nom="MOULIN VERT" coord="2.36782513844, 48.7718553125">
+		<voisin nom="BRETAGNE" distance="0.4218881178939042" />
+		<voisin nom="DOMAINE CHERIOUX" distance="0.7888621584520928" />
+	</gare>
+	<gare nom="PLACE DE LA LOGISTIQUE" coord="2.36195215258, 48.7528113597">
+		<voisin nom="PORTE DE RUNGIS" distance="0.4839924399432645" />
+		<voisin nom="LA BELLE EPINE" distance="0.6424115742728412" />
+	</gare>
+	<gare nom="PORTE DE L'ESSONNE" coord="2.37197353852, 48.7147133187">
+	</gare>
+	<gare nom="PORTE DE RUNGIS" coord="2.35536098908, 48.7526743518">
+		<voisin nom="PLACE DE LA LOGISTIQUE" distance="0.4839924399432645" />
+		<voisin nom="SAARINEN" distance="0.2877309241274773" />
+	</gare>
+	<gare nom="PORTE DE THIAIS" coord="2.36624748438, 48.7595882221">
+		<voisin nom="LA BELLE EPINE" distance="0.3531427904922727" />
+		<voisin nom="AUGUSTE PERRET" distance="0.3449396206472347" />
+	</gare>
+	<gare nom="ROBERT SCHUMAN" coord="2.35273778641, 48.74671923">
+		<voisin nom="FRATERNELLE" distance="0.5623939944752248" />
+		<voisin nom="SAARINEN" distance="0.402756584921632" />
+	</gare>
+	<gare nom="SAARINEN" coord="2.35436727915, 48.7501740371">
+		<voisin nom="PORTE DE RUNGIS" distance="0.2877309241274773" />
+		<voisin nom="ROBERT SCHUMAN" distance="0.402756584921632" />
+	</gare>
+	<gare nom="VILLEJUIF-LOUIS ARAGON" coord="2.36694396619, 48.7872546711">
+		<voisin nom="LAMARTINE" distance="0.44353021632014705" />
+	</gare>
+</ligne>

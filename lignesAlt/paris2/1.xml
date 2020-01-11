@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="LA DEFENSE-GRANDE ARCHE,CHATEAU DE VINCENNES" couleur="ffcd00">
+	<gare nom="ARGENTINE" coord="896, 1039">
+		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.5947305349821552" />
+		<voisin nom="PORTE MAILLOT" distance="0.7194927862036059" />
+	</gare>
+	<gare nom="BASTILLE" coord="1941, 1657">
+		<voisin nom="SAINT-PAUL (LE MARAIS)" distance="0.9733087434811182" />
+		<voisin nom="GARE DE LYON" distance="1.1153020607054365" />
+	</gare>
+	<gare nom="BERAULT" coord="2483, 2086">
+		<voisin nom="SAINT-MANDE" distance="1.0870899016288331" />
+		<voisin nom="CHATEAU DE VINCENNES" distance="1.255731068839912" />
+	</gare>
+	<gare nom="CHAMPS-ELYSEES-CLEMENCEAU" coord="1138, 1361">
+		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.7559740682335936" />
+		<voisin nom="CONCORDE" distance="1.0454740176930073" />
+	</gare>
+	<gare nom="CHARLES DE GAULLE ETOILE" coord="947, 1126">
+		<voisin nom="GEORGE V" distance="0.7191967138893545" />
+		<voisin nom="ARGENTINE" distance="0.5947305349821552" />
+	</gare>
+	<gare nom="CHATEAU DE VINCENNES" coord="2508, 2129">
+		<voisin nom="BERAULT" distance="1.255731068839912" />
+	</gare>
+	<gare nom="CHATELET" coord="1659, 1518">
+		<voisin nom="LOUVRE-RIVOLI" distance="0.7676088196339472" />
+		<voisin nom="HOTEL DE VILLE" distance="0.3970696833423217" />
+	</gare>
+	<gare nom="CONCORDE" coord="1238, 1418">
+		<voisin nom="TUILERIES" distance="0.8002618814397798" />
+		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="1.0454740176930073" />
+	</gare>
+	<gare nom="ESPLANADE DE LA DEFENSE" coord="741, 770">
+		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="1.2777442913601547" />
+		<voisin nom="PONT DE NEUILLY (AVENUE DE MADRID)" distance="1.4670926658994425" />
+	</gare>
+	<gare nom="FRANKLIN-D.ROOSEVELT" coord="1035, 1279">
+		<voisin nom="GEORGE V" distance="0.8077664051397424" />
+		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="0.7559740682335936" />
+	</gare>
+	<gare nom="GARE DE LYON" coord="1867, 1815">
+		<voisin nom="REUILLY-DIDEROT" distance="1.5679991849320218" />
+		<voisin nom="BASTILLE" distance="1.1153020607054365" />
+	</gare>
+	<gare nom="GEORGE V" coord="1009, 1234">
+		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.7191967138893545" />
+		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.8077664051397424" />
+	</gare>
+	<gare nom="HOTEL DE VILLE" coord="1807, 1517">
+		<voisin nom="CHATELET" distance="0.3970696833423217" />
+		<voisin nom="SAINT-PAUL (LE MARAIS)" distance="1.1344966025516285" />
+	</gare>
+	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="709, 716">
+		<voisin nom="ESPLANADE DE LA DEFENSE" distance="1.2777442913601547" />
+	</gare>
+	<gare nom="LES SABLONS (JARDIN D'ACCLIMATATION)" coord="813, 896">
+		<voisin nom="PONT DE NEUILLY (AVENUE DE MADRID)" distance="1.3036901133525252" />
+		<voisin nom="PORTE MAILLOT" distance="1.34008610055686" />
+	</gare>
+	<gare nom="LOUVRE-RIVOLI" coord="1559, 1518">
+		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.5219186181120502" />
+		<voisin nom="CHATELET" distance="0.7676088196339472" />
+	</gare>
+	<gare nom="NATION" coord="2253, 1711">
+		<voisin nom="REUILLY-DIDEROT" distance="0.9871553199519724" />
+		<voisin nom="PORTE DE VINCENNES" distance="1.5426766120484594" />
+	</gare>
+	<gare nom="PALAIS ROYAL-MUSEE DU LOUVRE" coord="1490, 1518">
+		<voisin nom="LOUVRE-RIVOLI" distance="0.5219186181120502" />
+		<voisin nom="TUILERIES" distance="0.7698871118377809" />
+	</gare>
+	<gare nom="PONT DE NEUILLY (AVENUE DE MADRID)" coord="781, 839">
+		<voisin nom="LES SABLONS (JARDIN D'ACCLIMATATION)" distance="1.3036901133525252" />
+		<voisin nom="ESPLANADE DE LA DEFENSE" distance="1.4670926658994425" />
+	</gare>
+	<gare nom="PORTE DE VINCENNES" coord="2405, 1952">
+		<voisin nom="SAINT-MANDE" distance="1.0996493356364057" />
+		<voisin nom="NATION" distance="1.5426766120484594" />
+	</gare>
+	<gare nom="PORTE MAILLOT" coord="851, 961">
+		<voisin nom="LES SABLONS (JARDIN D'ACCLIMATATION)" distance="1.34008610055686" />
+		<voisin nom="ARGENTINE" distance="0.7194927862036059" />
+	</gare>
+	<gare nom="REUILLY-DIDEROT" coord="2051, 1802">
+		<voisin nom="NATION" distance="0.9871553199519724" />
+		<voisin nom="GARE DE LYON" distance="1.5679991849320218" />
+	</gare>
+	<gare nom="SAINT-MANDE" coord="2447, 2025">
+		<voisin nom="BERAULT" distance="1.0870899016288331" />
+		<voisin nom="PORTE DE VINCENNES" distance="1.0996493356364057" />
+	</gare>
+	<gare nom="SAINT-PAUL (LE MARAIS)" coord="1906, 1594">
+		<voisin nom="BASTILLE" distance="0.9733087434811182" />
+		<voisin nom="HOTEL DE VILLE" distance="1.1344966025516285" />
+	</gare>
+	<gare nom="TUILERIES" coord="1328, 1470">
+		<voisin nom="CONCORDE" distance="0.8002618814397798" />
+		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.7698871118377809" />
+	</gare>
+</ligne>

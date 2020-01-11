@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ligne terminus="" couleur="0288D1">
+	<gare nom="Berlin" coord="13.5216148, 52.3854411">
+		<voisin nom="Darwin" distance="10620.281969655303" />
+	</gare>
+	<gare nom="Bucarest" coord="26.0844123, 44.5707306">
+		<voisin nom="Darwin" distance="9941.128316113767" />
+		<voisin nom="Margrethe II" distance="7508.385032799048" />
+		<voisin nom="Chennai" distance="6197.894360709992" />
+		<voisin nom="Doha" distance="3275.7121592264457" />
+		<voisin nom="Mumbai" distance="5429.359059230601" />
+		<voisin nom="New Delhi" distance="5742.619235539824" />
+		<voisin nom="Singapour" distance="8285.819802586211" />
+		<voisin nom="Téhéran" distance="2897.181637613242" />
+		<voisin nom="Téhéran Mehrabad" distance="2907.329116107598" />
+	</gare>
+	<gare nom="Dublin" coord="-6.2499098, 53.4264481">
+		<voisin nom="Bogota" distance="8182.862777376894" />
+		<voisin nom="Cancun" distance="9029.460115901651" />
+		<voisin nom="Halifax" distance="6411.316007023524" />
+		<voisin nom="Mexico" distance="10161.967357906047" />
+		<voisin nom="Montréal" distance="7532.073388292387" />
+		<voisin nom="Ottawa" distance="7744.461344343183" />
+		<voisin nom="Québec" distance="7266.134024590563" />
+		<voisin nom="Toronto" distance="8185.258282270525" />
+	</gare>
+	<gare nom="Helsinki" coord="24.9528604, 60.3210416">
+		<voisin nom="Canton" distance="9375.639842358521" />
+		<voisin nom="Hong Kong" distance="9405.322540034462" />
+		<voisin nom="Kansai" distance="11841.921049833636" />
+		<voisin nom="Manille" distance="9789.740960333977" />
+		<voisin nom="Pékin" distance="10042.514077233935" />
+		<voisin nom="Séoul" distance="11023.412573711654" />
+		<voisin nom="Shanghai" distance="10393.565642678761" />
+		<voisin nom="Tokyo" distance="12341.508772141116" />
+		<voisin nom="Xi'an" distance="9141.10130021467" />
+	</gare>
+	<gare nom="Madrid" coord="-3.5675982, 40.4983322">
+		<voisin nom="Buenos Aires" distance="8830.93130598376" />
+		<voisin nom="El Calafate" distance="9667.781544061552" />
+		<voisin nom="Le Cap" distance="8516.12770039096" />
+		<voisin nom="Lima" distance="8759.79265531788" />
+	</gare>
+	<gare nom="Margrethe II" coord="-38.0, 67.0">
+		<voisin nom="Bucarest" distance="7508.385032799048" />
+		<voisin nom="Calgary" distance="8380.589747852931" />
+		<voisin nom="Chennai" distance="13563.29145883779" />
+		<voisin nom="Edmonton" distance="8355.522483335018" />
+		<voisin nom="Mexico" distance="6500.044129768042" />
+		<voisin nom="Montréal" distance="4144.311739673121" />
+		<voisin nom="Mumbai" distance="12873.034209604944" />
+		<voisin nom="New Delhi" distance="13084.264041337228" />
+		<voisin nom="Ottawa" distance="4335.293111148816" />
+		<voisin nom="Québec" distance="3892.5878407095324" />
+		<voisin nom="Saskatoon" distance="7596.013838229515" />
+		<voisin nom="Toronto" distance="4743.92704148218" />
+		<voisin nom="Toronto" distance="4743.92704148218" />
+		<voisin nom="Vancouver" distance="9350.043091620157" />
+		<voisin nom="Vancouver" distance="9350.043091620157" />
+		<voisin nom="Winnipeg" distance="6561.59851657212" />
+	</gare>
+	<gare nom="Paris" coord="2.5479245, 49.0096906">
+		<voisin nom="Hong Kong" distance="12104.413188964329" />
+		<voisin nom="Kansai" distance="14574.77244021347" />
+		<voisin nom="Le Cap" distance="9188.025828355174" />
+		<voisin nom="Mexico" distance="11178.920082887706" />
+		<voisin nom="Montréal" distance="8496.453586601943" />
+		<voisin nom="Darwin" distance="11823.15344042531" />
+		<voisin nom="Pékin" distance="12658.740978427968" />
+		<voisin nom="Réunion" distance="8531.807006178897" />
+		<voisin nom="Séoul" distance="13699.843465382814" />
+		<voisin nom="Shanghai" distance="13091.836074569143" />
+		<voisin nom="Tokyo" distance="15082.92076762381" />
+		<voisin nom="Xi'an" distance="11754.639176496095" />
+	</gare>
+	<gare nom="Athènes" coord="23.9484156, 37.9356467">
+		<voisin nom="Darwin" distance="10496.0135782976" />
+	</gare>
+	<gare nom="Bacau" coord="26.9107054, 46.5310502">
+		<voisin nom="Bangkok" distance="8042.504806417924" />
+		<voisin nom="Jakarta" distance="8232.547954672238" />
+		<voisin nom="Mumbai" distance="5373.021594292579" />
+		<voisin nom="New Delhi" distance="5667.30042794169" />
+		<voisin nom="Pékin" distance="9968.385579204141" />
+		<voisin nom="Singapour" distance="8161.005808309874" />
+	</gare>
+	<gare nom="Darwin" coord="130.877545, -12.4112158">
+		<voisin nom="Addis-Abeba" distance="17687.11404218232" />
+		<voisin nom="Adélaïde" distance="1949.2709083839775" />
+		<voisin nom="Athènes" distance="10496.0135782976" />
+		<voisin nom="Auckland" distance="5410.054282157869" />
+		<voisin nom="Bangkok" distance="3508.7357735551136" />
+		<voisin nom="Berlin" distance="10620.281969655303" />
+		<voisin nom="Brisbane" distance="2791.6575817639023" />
+		<voisin nom="Bucarest" distance="9941.128316113767" />
+		<voisin nom="Canberra" distance="2801.7669612491445" />
+		<voisin nom="Doha" distance="8268.332150938419" />
+		<voisin nom="Hong Kong" distance="2737.9236868579997" />
+		<voisin nom="Jakarta" distance="2687.2106478002997" />
+		<voisin nom="Kansai" distance="3535.093485674646" />
+		<voisin nom="Melbourne" distance="2579.981155702217" />
+		<voisin nom="Mumbai" distance="6241.863545526271" />
+		<voisin nom="Paris" distance="11823.15344042531" />
+		<voisin nom="Pékin" distance="3483.7499156749413" />
+		<voisin nom="Perth" distance="2028.5479438074317" />
+		<voisin nom="Séoul" distance="3430.5670238004604" />
+		<voisin nom="Sydney" distance="2907.263480017091" />
+		<voisin nom="Wellington" distance="5598.024751179433" />
+	</gare>
+	<gare nom="Addis-Abeba" coord="970.0, 1241.0">
+		<voisin nom="Darwin" distance="17687.11404218232" />
+	</gare>
+	<gare nom="Adélaïde" coord="138.5363087, -34.9376719">
+		<voisin nom="Darwin" distance="1949.2709083839775" />
+	</gare>
+	<gare nom="Auckland" coord="174.7850358, -37.0082476">
+		<voisin nom="Darwin" distance="5410.054282157869" />
+	</gare>
+	<gare nom="Bangkok" coord="100.7501124, 13.6899991">
+		<voisin nom="Bacau" distance="8042.504806417924" />
+		<voisin nom="Darwin" distance="3508.7357735551136" />
+	</gare>
+	<gare nom="Bogota" coord="-74.1444969, 4.7014128">
+		<voisin nom="Dublin" distance="8182.862777376894" />
+	</gare>
+	<gare nom="Brisbane" coord="153.1218303, -27.3942144">
+		<voisin nom="Darwin" distance="2791.6575817639023" />
+	</gare>
+	<gare nom="Buenos Aires" coord="-58.5348284, -34.8150044">
+		<voisin nom="Madrid" distance="8830.93130598376" />
+	</gare>
+	<gare nom="Calgary" coord="-114.0076156, 51.1215031">
+		<voisin nom="Margrethe II" distance="8380.589747852931" />
+	</gare>
+	<gare nom="Canberra" coord="149.1933934, -35.3052327">
+		<voisin nom="Darwin" distance="2801.7669612491445" />
+	</gare>
+	<gare nom="Cancun" coord="-86.873564, 21.0403409">
+		<voisin nom="Dublin" distance="9029.460115901651" />
+	</gare>
+	<gare nom="Canton" coord="113.3079699, 23.3959079">
+		<voisin nom="Helsinki" distance="9375.639842358521" />
+	</gare>
+	<gare nom="Chennai" coord="80.1708668, 12.994112">
+		<voisin nom="Bucarest" distance="6197.894360709992" />
+		<voisin nom="Margrethe II" distance="13563.29145883779" />
+	</gare>
+	<gare nom="Doha" coord="51.6137665, 25.2605946">
+		<voisin nom="Bucarest" distance="3275.7121592264457" />
+		<voisin nom="Darwin" distance="8268.332150938419" />
+	</gare>
+	<gare nom="Edmonton" coord="-113.5898222, 53.3066108">
+		<voisin nom="Margrethe II" distance="8355.522483335018" />
+	</gare>
+	<gare nom="El Calafate" coord="-72.0536406, -50.283977">
+		<voisin nom="Madrid" distance="9667.781544061552" />
+	</gare>
+	<gare nom="Halifax" coord="-63.5094457, 44.8859455">
+		<voisin nom="Dublin" distance="6411.316007023524" />
+	</gare>
+	<gare nom="Hong Kong" coord="113.9184808, 22.308047">
+		<voisin nom="Darwin" distance="2737.9236868579997" />
+		<voisin nom="Helsinki" distance="9405.322540034462" />
+		<voisin nom="Paris" distance="12104.413188964329" />
+	</gare>
+	<gare nom="Jakarta" coord="106.8915848, -6.2636226">
+		<voisin nom="Bacau" distance="8232.547954672238" />
+		<voisin nom="Darwin" distance="2687.2106478002997" />
+	</gare>
+	<gare nom="Kansai" coord="135.2303939, 34.4320024">
+		<voisin nom="Darwin" distance="3535.093485674646" />
+		<voisin nom="Helsinki" distance="11841.921049833636" />
+		<voisin nom="Paris" distance="14574.77244021347" />
+	</gare>
+	<gare nom="Le Cap" coord="18.6020851, -33.971463">
+		<voisin nom="Madrid" distance="8516.12770039096" />
+		<voisin nom="Paris" distance="9188.025828355174" />
+	</gare>
+	<gare nom="Lima" coord="-77.112036, -12.0240527">
+		<voisin nom="Madrid" distance="8759.79265531788" />
+	</gare>
+	<gare nom="Manille" coord="121.016508, 14.5122739">
+		<voisin nom="Helsinki" distance="9789.740960333977" />
+	</gare>
+	<gare nom="Melbourne" coord="144.8410273, -37.6690123">
+		<voisin nom="Darwin" distance="2579.981155702217" />
+	</gare>
+	<gare nom="Mexico" coord="-99.0719083, 19.4360762">
+		<voisin nom="Dublin" distance="10161.967357906047" />
+		<voisin nom="Margrethe II" distance="6500.044129768042" />
+		<voisin nom="Paris" distance="11178.920082887706" />
+	</gare>
+	<gare nom="Montréal" coord="-73.7454814, 45.4656851">
+		<voisin nom="Dublin" distance="7532.073388292387" />
+		<voisin nom="Margrethe II" distance="4144.311739673121" />
+		<voisin nom="Paris" distance="8496.453586601943" />
+	</gare>
+	<gare nom="Mumbai" coord="72.8656144, 19.0895595">
+		<voisin nom="Bacau" distance="5373.021594292579" />
+		<voisin nom="Bucarest" distance="5429.359059230601" />
+		<voisin nom="Darwin" distance="6241.863545526271" />
+		<voisin nom="Margrethe II" distance="12873.034209604944" />
+	</gare>
+	<gare nom="New Delhi" coord="77.0999578, 28.5561624">
+		<voisin nom="Bacau" distance="5667.30042794169" />
+		<voisin nom="Bucarest" distance="5742.619235539824" />
+		<voisin nom="Margrethe II" distance="13084.264041337228" />
+	</gare>
+	<gare nom="Ottawa" coord="-75.6691652, 45.319212">
+		<voisin nom="Dublin" distance="7744.461344343183" />
+		<voisin nom="Margrethe II" distance="4335.293111148816" />
+	</gare>
+	<gare nom="Pékin" coord="116.6031121, 40.0798573">
+		<voisin nom="Bacau" distance="9968.385579204141" />
+		<voisin nom="Darwin" distance="3483.7499156749413" />
+		<voisin nom="Helsinki" distance="10042.514077233935" />
+		<voisin nom="Paris" distance="12658.740978427968" />
+	</gare>
+	<gare nom="Perth" coord="115.9672492, -31.9385476">
+		<voisin nom="Darwin" distance="2028.5479438074317" />
+	</gare>
+	<gare nom="Québec" coord="-71.388569, 46.7907719">
+		<voisin nom="Dublin" distance="7266.134024590563" />
+		<voisin nom="Margrethe II" distance="3892.5878407095324" />
+	</gare>
+	<gare nom="Réunion" coord="55.5121669, -20.8918777">
+		<voisin nom="Paris" distance="8531.807006178897" />
+	</gare>
+	<gare nom="Saskatoon" coord="-106.7004823, 52.1745886">
+		<voisin nom="Margrethe II" distance="7596.013838229515" />
+	</gare>
+	<gare nom="Séoul" coord="126.4409637, 37.4610972">
+		<voisin nom="Darwin" distance="3430.5670238004604" />
+		<voisin nom="Helsinki" distance="11023.412573711654" />
+		<voisin nom="Paris" distance="13699.843465382814" />
+	</gare>
+	<gare nom="Shanghai" coord="121.808273, 31.1443439">
+		<voisin nom="Helsinki" distance="10393.565642678761" />
+		<voisin nom="Paris" distance="13091.836074569143" />
+	</gare>
+	<gare nom="Singapour" coord="103.9915308, 1.3644202">
+		<voisin nom="Bacau" distance="8161.005808309874" />
+		<voisin nom="Bucarest" distance="8285.819802586211" />
+	</gare>
+	<gare nom="Sydney" coord="151.1752764, -33.9399228">
+		<voisin nom="Darwin" distance="2907.263480017091" />
+	</gare>
+	<gare nom="Téhéran" coord="51.1554896, 35.4089938">
+		<voisin nom="Bucarest" distance="2897.181637613242" />
+	</gare>
+	<gare nom="Téhéran Mehrabad" coord="51.311241, 35.6899882">
+		<voisin nom="Bucarest" distance="2907.329116107598" />
+	</gare>
+	<gare nom="Tokyo" coord="139.7798386, 35.5493932">
+		<voisin nom="Helsinki" distance="12341.508772141116" />
+		<voisin nom="Paris" distance="15082.92076762381" />
+	</gare>
+	<gare nom="Toronto" coord="-79.6248197, 43.6777176">
+		<voisin nom="Dublin" distance="8185.258282270525" />
+		<voisin nom="Margrethe II" distance="4743.92704148218" />
+	</gare>
+	<gare nom="Vancouver" coord="-123.1815123, 49.1966913">
+		<voisin nom="Margrethe II" distance="9350.043091620157" />
+	</gare>
+	<gare nom="Wellington" coord="174.8075984, -41.3275941">
+		<voisin nom="Darwin" distance="5598.024751179433" />
+	</gare>
+	<gare nom="Winnipeg" coord="-97.2365461, 49.9098283">
+		<voisin nom="Margrethe II" distance="6561.59851657212" />
+	</gare>
+	<gare nom="Xi'an" coord="108.7573294, 34.437111">
+		<voisin nom="Helsinki" distance="9141.10130021467" />
+		<voisin nom="Paris" distance="11754.639176496095" />
+	</gare>
+</ligne>

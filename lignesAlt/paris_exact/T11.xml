@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="GARE DU BOURGET,GARE D'EPINAY SUR SEINE" couleur="E65E37">
+	<gare nom="GARE D'EPINAY SUR SEINE" coord="2.30230508203, 48.9545625628">
+		<voisin nom="GARE D'EPINAY VILLETANEUSE" distance="2.0358836823619506" />
+	</gare>
+	<gare nom="GARE D'EPINAY VILLETANEUSE" coord="2.32927569976, 48.959128021">
+		<voisin nom="GARE DE VILLETANEUSE - UNIVERSITE" distance="1.0383349550010819" />
+		<voisin nom="GARE D'EPINAY SUR SEINE" distance="2.0358836823619506" />
+	</gare>
+	<gare nom="GARE DE DUGNY - LA COURNEUVE" coord="2.41147348701, 48.9436300067">
+		<voisin nom="GARE DU BOURGET" distance="1.7325948718299768" />
+		<voisin nom="GARE DE STAINS LA CERISAIE" distance="1.9575859985573927" />
+	</gare>
+	<gare nom="GARE DE PIERREFITTE STAINS" coord="2.36584210766, 48.9601628869">
+		<voisin nom="GARE DE VILLETANEUSE - UNIVERSITE" distance="1.63930817951474" />
+		<voisin nom="GARE DE STAINS LA CERISAIE" distance="1.9258644857288296" />
+	</gare>
+	<gare nom="GARE DE STAINS LA CERISAIE" coord="2.39095508616, 48.9549290045">
+		<voisin nom="GARE DE DUGNY - LA COURNEUVE" distance="1.9575859985573927" />
+		<voisin nom="GARE DE PIERREFITTE STAINS" distance="1.9258644857288296" />
+	</gare>
+	<gare nom="GARE DE VILLETANEUSE - UNIVERSITE" coord="2.34341454388, 48.9600337639">
+		<voisin nom="GARE D'EPINAY VILLETANEUSE" distance="1.0383349550010819" />
+		<voisin nom="GARE DE PIERREFITTE STAINS" distance="1.63930817951474" />
+	</gare>
+	<gare nom="GARE DU BOURGET" coord="2.42346455238, 48.9302061789">
+		<voisin nom="GARE DE DUGNY - LA COURNEUVE" distance="1.7325948718299768" />
+	</gare>
+</ligne>

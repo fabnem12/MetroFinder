@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<gare nom="ARENES" coord="358, 496">
+		<voisin nom="Déodat de Séverac" distance="0.004626201771258213" lignes="T1" />
+		<voisin nom="FONTAINE-LESTANG" distance="0.0052863750977909674" lignes="A" />
+		<voisin nom="LE TOEC" distance="0.017052054312119688" lignes="C" />
+		<voisin nom="PATTE D'OIE" distance="0.006245999876625061" lignes="A" />
+		<voisin nom="Zénith" distance="0.008973122722809979" lignes="T1" />
+	</gare>
+	<gare nom="ARGOULETS" coord="672, 173">
+		<voisin nom="BALMA-GRAMONT" distance="0.006855174347471049" lignes="A" />
+		<voisin nom="ROSERAIE" distance="0.008099625356964263" lignes="A" />
+	</gare>
+	<gare nom="Ancely" coord="312, 312">
+		<voisin nom="Arènes Romaines" distance="0.004398377827984886" lignes="T1" />
+		<voisin nom="Nadot" distance="0.011843318458822371" lignes="T2" />
+		<voisin nom="Servanty-Airbus" distance="0.008039338096725489" lignes="T1" />
+	</gare>
+	<gare nom="Andromède-Lycée" coord="226, 23">
+		<voisin nom="Beauzelle" distance="0.006775601220249569" lignes="T1" />
+		<voisin nom="Place Georges Brassens" distance="0.006588129375554922" lignes="T1" />
+	</gare>
+	<gare nom="Arènes Romaines" coord="315, 348">
+		<voisin nom="Ancely" distance="0.004398377827984886" lignes="T1" />
+		<voisin nom="Purpan" distance="0.006299863740449654" lignes="T1" />
+	</gare>
+	<gare nom="Av. Muret" coord="435, 493">
+		<voisin nom="Croix de Pierre" distance="0.005418800813852302" lignes="T1" />
+		<voisin nom="Fer à cheval" distance="0.0049260523015403936" lignes="T1" />
+	</gare>
+	<gare nom="Aéroconstellation" coord="115, 23">
+		<voisin nom="Beauzelle" distance="0.007502527539047904" lignes="T1" />
+	</gare>
+	<gare nom="Aéroport" coord="115, 310">
+		<voisin nom="Daurat" distance="0.00559244140312852" lignes="T2" />
+		<voisin nom="Pont du Béarnais" distance="0.05379739160177915" lignes="BUS" />
+	</gare>
+	<gare nom="BAGATELLE" coord="358, 679">
+		<voisin nom="MERMOZ" distance="0.00455364531142125" lignes="A" />
+		<voisin nom="MIRAIL-UNIVERSITE" distance="0.011585762769468507" lignes="A" />
+	</gare>
+	<gare nom="BALMA-GRAMONT" coord="757, 173">
+		<voisin nom="ARGOULETS" distance="0.006855174347471049" lignes="A" />
+	</gare>
+	<gare nom="BARRIERE DE PARIS" coord="513, 78">
+		<voisin nom="LA VACHE" distance="0.00715474230019001" lignes="B" />
+		<voisin nom="MINIMES" distance="0.006737457169806744" lignes="B" />
+	</gare>
+	<gare nom="BASSO-CAMBO" coord="114, 724">
+		<voisin nom="BELLEFONTAINE" distance="0.007045447578999126" lignes="A" />
+	</gare>
+	<gare nom="BELLEFONTAINE" coord="178, 723">
+		<voisin nom="BASSO-CAMBO" distance="0.007045447578999126" lignes="A" />
+		<voisin nom="REYNERIE" distance="0.006066542829538286" lignes="A" />
+	</gare>
+	<gare nom="BORDEROUGE" coord="756, 23">
+		<voisin nom="TROIS COCUS" distance="0.008623588518572454" lignes="B" />
+	</gare>
+	<gare nom="Beauzelle" coord="178, 24">
+		<voisin nom="Andromède-Lycée" distance="0.006775601220249569" lignes="T1" />
+		<voisin nom="Aéroconstellation" distance="0.007502527539047904" lignes="T1" />
+	</gare>
+	<gare nom="CANAL DU MIDI" coord="513, 194">
+		<voisin nom="COMPANS-CAFFARELLI" distance="0.004937323551546365" lignes="B" />
+		<voisin nom="MINIMES" distance="0.005242156720113848" lignes="B" />
+	</gare>
+	<gare nom="CAPITOLE" coord="458, 367">
+		<voisin nom="ESQUIROL" distance="0.004580254463884107" lignes="A" />
+		<voisin nom="JEAN JAURES" distance="0.0038364969910540054" lignes="A" />
+	</gare>
+	<gare nom="CARMES" coord="513, 449">
+		<voisin nom="FRANCOIS VERDIER" distance="0.0072649370009800285" lignes="B" />
+		<voisin nom="PALAIS DE JUSTICE" distance="0.0050741622987981495" lignes="B" />
+	</gare>
+	<gare nom="COLOMIERS GARE SNCF" coord="114, 503">
+		<voisin nom="RAMASSIERS" distance="0.019099408131117667" lignes="C" />
+	</gare>
+	<gare nom="COMPANS-CAFFARELLI" coord="514, 254">
+		<voisin nom="CANAL DU MIDI" distance="0.004937323551546365" lignes="B" />
+		<voisin nom="JEANNE D'ARC" distance="0.009951758054367689" lignes="B" />
+		<voisin nom="Pont du Béarnais" distance="0.011040415501838818" lignes="BUS" />
+	</gare>
+	<gare nom="Cartoucherie" coord="315, 443">
+		<voisin nom="Casselardit" distance="0.004341206394105659" lignes="T1" />
+		<voisin nom="Zénith" distance="0.006339623523484942" lignes="T1" />
+	</gare>
+	<gare nom="Casselardit" coord="315, 411">
+		<voisin nom="Cartoucherie" distance="0.004341206394105659" lignes="T1" />
+		<voisin nom="Purpan" distance="0.008205608766585446" lignes="T1" />
+	</gare>
+	<gare nom="Croix de Pierre" coord="412, 493">
+		<voisin nom="Av. Muret" distance="0.005418800813852302" lignes="T1" />
+		<voisin nom="Déodat de Séverac" distance="0.007421570741190928" lignes="T1" />
+	</gare>
+	<gare nom="Daurat" coord="178, 310">
+		<voisin nom="Aéroport" distance="0.00559244140312852" lignes="T2" />
+		<voisin nom="Nadot" distance="0.008648679764621667" lignes="T2" />
+	</gare>
+	<gare nom="Déodat de Séverac" coord="387, 494">
+		<voisin nom="ARENES" distance="0.004626201771258213" lignes="T1" />
+		<voisin nom="Croix de Pierre" distance="0.007421570741190928" lignes="T1" />
+	</gare>
+	<gare nom="EMPALOT" coord="513, 597">
+		<voisin nom="SAINT AGNE-SNCF" distance="0.007507199184754112" lignes="B" />
+		<voisin nom="SAINT MICHEL" distance="0.008219340234120645" lignes="B" />
+	</gare>
+	<gare nom="ESQUIROL" coord="407, 366">
+		<voisin nom="CAPITOLE" distance="0.004580254463884107" lignes="A" />
+		<voisin nom="ST CYPRIEN-REPUBLIQUE" distance="0.012692341500500973" lignes="A" />
+	</gare>
+	<gare nom="FACULTE DE PHARMACIE" coord="628, 729">
+		<voisin nom="RANGUEIL" distance="0.007199357424867095" lignes="B" />
+		<voisin nom="UNIVERSITE PAUL SABATIER" distance="0.007083027988878748" lignes="B" />
+	</gare>
+	<gare nom="FONTAINE-LESTANG" coord="358, 571">
+		<voisin nom="ARENES" distance="0.0052863750977909674" lignes="A" />
+		<voisin nom="MERMOZ" distance="0.005131724696134469" lignes="A" />
+	</gare>
+	<gare nom="FRANCOIS VERDIER" coord="513, 409">
+		<voisin nom="CARMES" distance="0.0072649370009800285" lignes="B" />
+		<voisin nom="JEAN JAURES" distance="0.006102003489737087" lignes="B" />
+	</gare>
+	<gare nom="Fer à cheval" coord="460, 493">
+		<voisin nom="Av. Muret" distance="0.0049260523015403936" lignes="T1" />
+		<voisin nom="Ile du Ramier" distance="0.005042317534399277" lignes="T1" />
+	</gare>
+	<gare nom="Grand Noble" coord="313, 64">
+		<voisin nom="Patinoire-Barradels" distance="0.006567129937896637" lignes="T1" />
+		<voisin nom="Place Georges Brassens" distance="0.004233157985154289" lignes="T1" />
+	</gare>
+	<gare nom="Guyenne-Berry" coord="311, 240">
+		<voisin nom="Pasteur-Mairie de Blagnac" distance="0.0035080824310285068" lignes="T1" />
+		<voisin nom="Servanty-Airbus" distance="0.005662729919962603" lignes="T1" />
+	</gare>
+	<gare nom="Ile du Ramier" coord="486, 492">
+		<voisin nom="Fer à cheval" distance="0.005042317534399277" lignes="T1" />
+		<voisin nom="PALAIS DE JUSTICE" distance="0.0036080010028336764" lignes="T1" />
+	</gare>
+	<gare nom="JEAN JAURES" coord="513, 367">
+		<voisin nom="CAPITOLE" distance="0.0038364969910540054" lignes="A" />
+		<voisin nom="FRANCOIS VERDIER" distance="0.006102003489737087" lignes="B" />
+		<voisin nom="JEANNE D'ARC" distance="0.00484546305556486" lignes="B" />
+		<voisin nom="MARENGO-SNCF / Gare Matabiau" distance="0.007825056873736785" lignes="A" />
+	</gare>
+	<gare nom="JEANNE D'ARC" coord="515, 312">
+		<voisin nom="COMPANS-CAFFARELLI" distance="0.009951758054367689" lignes="B" />
+		<voisin nom="JEAN JAURES" distance="0.00484546305556486" lignes="B" />
+	</gare>
+	<gare nom="JOLIMONT" coord="613, 281">
+		<voisin nom="MARENGO-SNCF / Gare Matabiau" distance="0.009341372100494398" lignes="A" />
+		<voisin nom="ROSERAIE" distance="0.008211103614872426" lignes="A" />
+	</gare>
+	<gare nom="LA VACHE" coord="586, 25">
+		<voisin nom="BARRIERE DE PARIS" distance="0.00715474230019001" lignes="B" />
+		<voisin nom="TROIS COCUS" distance="0.00962951424382252" lignes="B" />
+	</gare>
+	<gare nom="LARDENNE" coord="243, 503">
+		<voisin nom="LE TOEC" distance="0.01768273572692203" lignes="C" />
+		<voisin nom="SAINT-MARTIN DU TOUCH" distance="0.01220498939977316" lignes="C" />
+	</gare>
+	<gare nom="LE TOEC" coord="285, 503">
+		<voisin nom="ARENES" distance="0.017052054312119688" lignes="C" />
+		<voisin nom="LARDENNE" distance="0.01768273572692203" lignes="C" />
+	</gare>
+	<gare nom="MARENGO-SNCF / Gare Matabiau" coord="615, 366">
+		<voisin nom="JEAN JAURES" distance="0.007825056873736785" lignes="A" />
+		<voisin nom="JOLIMONT" distance="0.009341372100494398" lignes="A" />
+	</gare>
+	<gare nom="MERMOZ" coord="358, 625">
+		<voisin nom="BAGATELLE" distance="0.00455364531142125" lignes="A" />
+		<voisin nom="FONTAINE-LESTANG" distance="0.005131724696134469" lignes="A" />
+	</gare>
+	<gare nom="MINIMES" coord="513, 136">
+		<voisin nom="BARRIERE DE PARIS" distance="0.006737457169806744" lignes="B" />
+		<voisin nom="CANAL DU MIDI" distance="0.005242156720113848" lignes="B" />
+	</gare>
+	<gare nom="MIRAIL-UNIVERSITE" coord="312, 724">
+		<voisin nom="BAGATELLE" distance="0.011585762769468507" lignes="A" />
+		<voisin nom="REYNERIE" distance="0.0037594222529031642" lignes="A" />
+	</gare>
+	<gare nom="Nadot" coord="234, 309">
+		<voisin nom="Ancely" distance="0.011843318458822371" lignes="T2" />
+		<voisin nom="Daurat" distance="0.008648679764621667" lignes="T2" />
+	</gare>
+	<gare nom="Odyssud-Ritouret" coord="312, 138">
+		<voisin nom="Patinoire-Barradels" distance="0.0050505342452939975" lignes="T1" />
+		<voisin nom="Place du Relais" distance="0.004759625879302065" lignes="T1" />
+	</gare>
+	<gare nom="PALAIS DE JUSTICE" coord="514, 493">
+		<voisin nom="CARMES" distance="0.0050741622987981495" lignes="B" />
+		<voisin nom="Ile du Ramier" distance="0.0036080010028336764" lignes="T1" />
+		<voisin nom="SAINT MICHEL" distance="0.0068819491707798955" lignes="B" />
+	</gare>
+	<gare nom="PATTE D'OIE" coord="358, 448">
+		<voisin nom="ARENES" distance="0.006245999876625061" lignes="A" />
+		<voisin nom="ST CYPRIEN-REPUBLIQUE" distance="0.008330358173377217" lignes="A" />
+	</gare>
+	<gare nom="Pasteur-Mairie de Blagnac" coord="311, 205">
+		<voisin nom="Guyenne-Berry" distance="0.0035080824310285068" lignes="T1" />
+		<voisin nom="Place du Relais" distance="0.002651959806314488" lignes="T1" />
+	</gare>
+	<gare nom="Patinoire-Barradels" coord="312, 98">
+		<voisin nom="Grand Noble" distance="0.006567129937896637" lignes="T1" />
+		<voisin nom="Odyssud-Ritouret" distance="0.0050505342452939975" lignes="T1" />
+	</gare>
+	<gare nom="Place Georges Brassens" coord="273, 25">
+		<voisin nom="Andromède-Lycée" distance="0.006588129375554922" lignes="T1" />
+		<voisin nom="Grand Noble" distance="0.004233157985154289" lignes="T1" />
+	</gare>
+	<gare nom="Place du Relais" coord="312, 171">
+		<voisin nom="Odyssud-Ritouret" distance="0.004759625879302065" lignes="T1" />
+		<voisin nom="Pasteur-Mairie de Blagnac" distance="0.002651959806314488" lignes="T1" />
+	</gare>
+	<gare nom="Pont du Béarnais" coord="467, 223">
+		<voisin nom="Aéroport" distance="0.05379739160177915" lignes="BUS" />
+		<voisin nom="COMPANS-CAFFARELLI" distance="0.011040415501838818" lignes="BUS" />
+	</gare>
+	<gare nom="Purpan" coord="315, 378">
+		<voisin nom="Arènes Romaines" distance="0.006299863740449654" lignes="T1" />
+		<voisin nom="Casselardit" distance="0.008205608766585446" lignes="T1" />
+	</gare>
+	<gare nom="RAMASSIERS" coord="157, 503">
+		<voisin nom="COLOMIERS GARE SNCF" distance="0.019099408131117667" lignes="C" />
+		<voisin nom="SAINT-MARTIN DU TOUCH" distance="0.019005337220048383" lignes="C" />
+	</gare>
+	<gare nom="RAMONVILLE" coord="756, 724">
+		<voisin nom="UNIVERSITE PAUL SABATIER" distance="0.014203390651830997" lignes="B" />
+	</gare>
+	<gare nom="RANGUEIL" coord="566, 727">
+		<voisin nom="FACULTE DE PHARMACIE" distance="0.007199357424867095" lignes="B" />
+		<voisin nom="SAOUZELONG" distance="0.005560276307223552" lignes="B" />
+	</gare>
+	<gare nom="REYNERIE" coord="244, 724">
+		<voisin nom="BELLEFONTAINE" distance="0.006066542829538286" lignes="A" />
+		<voisin nom="MIRAIL-UNIVERSITE" distance="0.0037594222529031642" lignes="A" />
+	</gare>
+	<gare nom="ROSERAIE" coord="614, 222">
+		<voisin nom="ARGOULETS" distance="0.008099625356964263" lignes="A" />
+		<voisin nom="JOLIMONT" distance="0.008211103614872426" lignes="A" />
+	</gare>
+	<gare nom="SAINT AGNE-SNCF" coord="514, 639">
+		<voisin nom="EMPALOT" distance="0.007507199184754112" lignes="B" />
+		<voisin nom="SAOUZELONG" distance="0.009608845502030514" lignes="B" />
+	</gare>
+	<gare nom="SAINT MICHEL" coord="513, 552">
+		<voisin nom="EMPALOT" distance="0.008219340234120645" lignes="B" />
+		<voisin nom="PALAIS DE JUSTICE" distance="0.0068819491707798955" lignes="B" />
+	</gare>
+	<gare nom="SAINT-MARTIN DU TOUCH" coord="200, 502">
+		<voisin nom="LARDENNE" distance="0.01220498939977316" lignes="C" />
+		<voisin nom="RAMASSIERS" distance="0.019005337220048383" lignes="C" />
+	</gare>
+	<gare nom="SAOUZELONG" coord="514, 680">
+		<voisin nom="RANGUEIL" distance="0.005560276307223552" lignes="B" />
+		<voisin nom="SAINT AGNE-SNCF" distance="0.009608845502030514" lignes="B" />
+	</gare>
+	<gare nom="ST CYPRIEN-REPUBLIQUE" coord="359, 409">
+		<voisin nom="ESQUIROL" distance="0.012692341500500973" lignes="A" />
+		<voisin nom="PATTE D'OIE" distance="0.008330358173377217" lignes="A" />
+	</gare>
+	<gare nom="Servanty-Airbus" coord="312, 276">
+		<voisin nom="Ancely" distance="0.008039338096725489" lignes="T1" />
+		<voisin nom="Guyenne-Berry" distance="0.005662729919962603" lignes="T1" />
+	</gare>
+	<gare nom="TROIS COCUS" coord="672, 25">
+		<voisin nom="BORDEROUGE" distance="0.008623588518572454" lignes="B" />
+		<voisin nom="LA VACHE" distance="0.00962951424382252" lignes="B" />
+	</gare>
+	<gare nom="UNIVERSITE PAUL SABATIER" coord="686, 728">
+		<voisin nom="FACULTE DE PHARMACIE" distance="0.007083027988878748" lignes="B" />
+		<voisin nom="RAMONVILLE" distance="0.014203390651830997" lignes="B" />
+	</gare>
+	<gare nom="Zénith" coord="315, 474">
+		<voisin nom="ARENES" distance="0.008973122722809979" lignes="T1" />
+		<voisin nom="Cartoucherie" distance="0.006339623523484942" lignes="T1" />
+	</gare>
+</data>

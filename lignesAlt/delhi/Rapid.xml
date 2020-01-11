@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Sector 55-66" couleur="20B2AA">
+	<gare nom="DLF Phase 1" coord="1611, 2600">
+		<voisin nom="Sikandarpur (Rapid Metro)" distance="8758.318187744784" />
+		<voisin nom="Sector 42-43" distance="0.0" />
+	</gare>
+	<gare nom="DLF Phase 2" coord="1566, 2436">
+		<voisin nom="Vodaphone Belvedere Towers" distance="0.6489598897177083" />
+		<voisin nom="Sikandarpur (Rapid Metro)" distance="0.6918589230258052" />
+	</gare>
+	<gare nom="DLF Phase 3" coord="1486, 2363">
+		<voisin nom="DLF Phase 2" distance="0.6785428391697029" />
+	</gare>
+	<gare nom="Indus Bank Cyber City" coord="1367, 2316">
+		<voisin nom="DLF Phase 3" distance="0.7972007968273694" />
+	</gare>
+	<gare nom="Sector 42-43" coord="1611, 2637">
+		<voisin nom="Sector 53-54" distance="0.0" />
+		<voisin nom="DLF Phase 1" distance="0.0" />
+	</gare>
+	<gare nom="Sector 53-54" coord="1612, 2673">
+		<voisin nom="Sector 54 Chowk" distance="0.0" />
+		<voisin nom="Sector 42-43" distance="0.0" />
+	</gare>
+	<gare nom="Sector 54 Chowk" coord="1613, 2710">
+		<voisin nom="Sector 53-54" distance="0.0" />
+		<voisin nom="Sector 55-66" distance="0.0" />
+	</gare>
+	<gare nom="Sector 55-66" coord="1612, 2743">
+		<voisin nom="Sector 54 Chowk" distance="0.0" />
+	</gare>
+	<gare nom="Sikandarpur (Rapid Metro)" coord="1611, 2563">
+		<voisin nom="DLF Phase 2" distance="0.6918589230258052" />
+		<voisin nom="DLF Phase 1" distance="8758.318187744784" />
+	</gare>
+	<gare nom="Vodaphone Belvedere Towers" coord="1351, 2382">
+		<voisin nom="Indus Bank Cyber City" distance="0.7027682447531943" />
+	</gare>
+</ligne>

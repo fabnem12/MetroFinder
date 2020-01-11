@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Hammersmith,Barking" couleur="f5a6b3">
+	<gare nom="Aldgate East" coord="1122, 552">
+		<voisin nom="Liverpool Street" distance="1.1123596365433162" />
+		<voisin nom="Whitechapel" distance="1.3448941529495224" />
+	</gare>
+	<gare nom="Baker Street" coord="689, 437">
+		<voisin nom="Edgware Road (C)" distance="1.4586674917804119" />
+		<voisin nom="Great Portland Street" distance="1.4754767138712055" />
+	</gare>
+	<gare nom="Barbican" coord="947, 485">
+		<voisin nom="Farringdon" distance="0.8238394439127309" />
+		<voisin nom="Moorgate" distance="1.0544840697936182" />
+	</gare>
+	<gare nom="Barking" coord="1420, 410">
+		<voisin nom="East Ham" distance="3.250605376616571" />
+	</gare>
+	<gare nom="Bow Road" coord="1258, 484">
+		<voisin nom="Bromley-By-Bow" distance="1.4439386685609241" />
+		<voisin nom="Mile End" distance="0.9720556601611696" />
+	</gare>
+	<gare nom="Bromley-By-Bow" coord="1308, 485">
+		<voisin nom="West Ham" distance="1.9958811714172842" />
+		<voisin nom="Bow Road" distance="1.4439386685609241" />
+	</gare>
+	<gare nom="East Ham" coord="1401, 430">
+		<voisin nom="Upton Park" distance="2.00341063064214" />
+		<voisin nom="Barking" distance="3.250605376616571" />
+	</gare>
+	<gare nom="Edgware Road (C)" coord="594, 441">
+		<voisin nom="Paddington" distance="0.819993162433942" />
+		<voisin nom="Baker Street" distance="1.4586674917804119" />
+	</gare>
+	<gare nom="Euston Square" coord="831, 439">
+		<voisin nom="King's Cross St. Pancras" distance="1.4490782764572585" />
+		<voisin nom="Great Portland Street" distance="0.9236162182840373" />
+	</gare>
+	<gare nom="Farringdon" coord="925, 460">
+		<voisin nom="King's Cross St. Pancras" distance="2.3679923286298723" />
+		<voisin nom="Barbican" distance="0.8238394439127309" />
+	</gare>
+	<gare nom="Goldhawk Road" coord="432, 618">
+		<voisin nom="Shepherd's Bush (H)" distance="0.4458307348284144" />
+		<voisin nom="Hammersmith" distance="0.9300272445405026" />
+	</gare>
+	<gare nom="Great Portland Street" coord="744, 437">
+		<voisin nom="Baker Street" distance="1.4754767138712055" />
+		<voisin nom="Euston Square" distance="0.9236162182840373" />
+	</gare>
+	<gare nom="Hammersmith" coord="433, 641">
+		<voisin nom="Goldhawk Road" distance="0.9300272445405026" />
+	</gare>
+	<gare nom="King's Cross St. Pancras" coord="890, 438">
+		<voisin nom="Farringdon" distance="2.3679923286298723" />
+		<voisin nom="Euston Square" distance="1.4490782764572585" />
+	</gare>
+	<gare nom="Ladbroke Grove" coord="452, 473">
+		<voisin nom="Westbourne Park" distance="1.149342417842247" />
+		<voisin nom="Latimer Road" distance="0.8114866258202516" />
+	</gare>
+	<gare nom="Latimer Road" coord="438, 488">
+		<voisin nom="Shepherd's Bush (H)" distance="1.3728858030343212" />
+		<voisin nom="Ladbroke Grove" distance="0.8114866258202516" />
+	</gare>
+	<gare nom="Liverpool Street" coord="1043, 496">
+		<voisin nom="Aldgate East" distance="1.1123596365433162" />
+		<voisin nom="Moorgate" distance="0.7069444867941655" />
+	</gare>
+	<gare nom="Mile End" coord="1212, 485">
+		<voisin nom="Stepney Green" distance="1.5675112334188297" />
+		<voisin nom="Bow Road" distance="0.9720556601611696" />
+	</gare>
+	<gare nom="Moorgate" coord="974, 497">
+		<voisin nom="Liverpool Street" distance="0.7069444867941655" />
+		<voisin nom="Barbican" distance="1.0544840697936182" />
+	</gare>
+	<gare nom="Paddington" coord="529, 435">
+		<voisin nom="Edgware Road (C)" distance="0.819993162433942" />
+		<voisin nom="Royal Oak" distance="1.4480516601721447" />
+	</gare>
+	<gare nom="Plaistow" coord="1370, 462">
+		<voisin nom="Upton Park" distance="1.952443578205888" />
+		<voisin nom="West Ham" distance="1.323344831581136" />
+	</gare>
+	<gare nom="Royal Oak" coord="479, 444">
+		<voisin nom="Paddington" distance="1.4480516601721447" />
+		<voisin nom="Westbourne Park" distance="1.47518258216309" />
+	</gare>
+	<gare nom="Shepherd's Bush (H)" coord="432, 592">
+		<voisin nom="Goldhawk Road" distance="0.4458307348284144" />
+		<voisin nom="Latimer Road" distance="1.3728858030343212" />
+	</gare>
+	<gare nom="Stepney Green" coord="1158, 519">
+		<voisin nom="Whitechapel" distance="1.6090576544309716" />
+		<voisin nom="Mile End" distance="1.5675112334188297" />
+	</gare>
+	<gare nom="Upton Park" coord="1385, 443">
+		<voisin nom="Plaistow" distance="1.952443578205888" />
+		<voisin nom="East Ham" distance="2.00341063064214" />
+	</gare>
+	<gare nom="West Ham" coord="1332, 484">
+		<voisin nom="Bromley-By-Bow" distance="1.9958811714172842" />
+		<voisin nom="Plaistow" distance="1.323344831581136" />
+	</gare>
+	<gare nom="Westbourne Park" coord="463, 461">
+		<voisin nom="Royal Oak" distance="1.47518258216309" />
+		<voisin nom="Ladbroke Grove" distance="1.149342417842247" />
+	</gare>
+	<gare nom="Whitechapel" coord="1139, 537">
+		<voisin nom="Stepney Green" distance="1.6090576544309716" />
+		<voisin nom="Aldgate East" distance="1.3448941529495224" />
+	</gare>
+</ligne>

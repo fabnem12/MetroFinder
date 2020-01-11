@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Tower Gateway,Beckton,Stratford,Bank,Lewisham,King George V" couleur="00A77E">
+	<gare nom="All Saints" coord="1239, 564">
+		<voisin nom="Devons Road" distance="1.3771709851839546" />
+		<voisin nom="Poplar" distance="0.5836581710617282" />
+	</gare>
+	<gare nom="Bank" coord="974, 576">
+		<voisin nom="Shadwell" distance="3.633383589974174" />
+	</gare>
+	<gare nom="Beckton" coord="1541, 719">
+		<voisin nom="Gallions Reach" distance="1.2844260885404197" />
+	</gare>
+	<gare nom="Beckton Park" coord="1483, 660">
+		<voisin nom="Royal Albert" distance="0.9468048270138031" />
+		<voisin nom="Cyprus" distance="1.0021227653944682" />
+	</gare>
+	<gare nom="Blackwall" coord="1280, 591">
+		<voisin nom="Poplar" distance="1.1913266085009424" />
+		<voisin nom="East India" distance="0.5246207864059441" />
+	</gare>
+	<gare nom="Bow Church" coord="1239, 502">
+		<voisin nom="Devons Road" distance="0.6794137450940804" />
+		<voisin nom="Pudding Mill Lane" distance="1.0941635499790894" />
+	</gare>
+	<gare nom="Canary Wharf" coord="1239, 670">
+		<voisin nom="Heron Quays" distance="0.2112138697857809" />
+		<voisin nom="West India Quay" distance="0.22180248668003824" />
+	</gare>
+	<gare nom="Canning Town" coord="1332, 591">
+		<voisin nom="Royal Victoria" distance="1.2661582715241777" />
+		<voisin nom="West Silvertown" distance="2.086639210348712" />
+		<voisin nom="East India" distance="1.2946126537340408" />
+	</gare>
+	<gare nom="Crossharbour &amp; London Arena" coord="1239, 733">
+		<voisin nom="South Quay" distance="0.7638982995061159" />
+		<voisin nom="Mudchute" distance="0.6123583729184027" />
+	</gare>
+	<gare nom="Custom House" coord="1424, 602">
+		<voisin nom="Royal Victoria" distance="1.0584721735821787" />
+		<voisin nom="Prince Regent" distance="0.6682879047701988" />
+	</gare>
+	<gare nom="Cutty Sark" coord="1238, 812">
+		<voisin nom="Island Gardens" distance="0.4929580849931163" />
+		<voisin nom="Greenwich" distance="0.7812217449680077" />
+	</gare>
+	<gare nom="Cyprus" coord="1502, 680">
+		<voisin nom="Beckton Park" distance="1.0021227653944682" />
+		<voisin nom="Gallions Reach" distance="0.854843808668806" />
+	</gare>
+	<gare nom="Deptford Bridge" coord="1238, 856">
+		<voisin nom="Greenwich" distance="0.8744073211484159" />
+		<voisin nom="Elverson Road" distance="0.7016660682674764" />
+	</gare>
+	<gare nom="Devons Road" coord="1239, 521">
+		<voisin nom="Bow Church" distance="0.6794137450940804" />
+		<voisin nom="All Saints" distance="1.3771709851839546" />
+	</gare>
+	<gare nom="East India" coord="1308, 591">
+		<voisin nom="Canning Town" distance="1.2946126537340408" />
+		<voisin nom="Blackwall" distance="0.5246207864059441" />
+	</gare>
+	<gare nom="Elverson Road" coord="1238, 877">
+		<voisin nom="Deptford Bridge" distance="0.7016660682674764" />
+		<voisin nom="Lewisham" distance="0.536185665513671" />
+	</gare>
+	<gare nom="Gallions Reach" coord="1522, 700">
+		<voisin nom="Beckton" distance="1.2844260885404197" />
+		<voisin nom="Cyprus" distance="0.854843808668806" />
+	</gare>
+	<gare nom="Greenwich" coord="1238, 835">
+		<voisin nom="Cutty Sark" distance="0.7812217449680077" />
+		<voisin nom="Deptford Bridge" distance="0.8744073211484159" />
+	</gare>
+	<gare nom="Heron Quays" coord="1239, 690">
+		<voisin nom="Canary Wharf" distance="0.2112138697857809" />
+		<voisin nom="South Quay" distance="0.3938885475869064" />
+	</gare>
+	<gare nom="Island Gardens" coord="1239, 776">
+		<voisin nom="Cutty Sark" distance="0.4929580849931163" />
+		<voisin nom="Mudchute" distance="0.5991636529903259" />
+	</gare>
+	<gare nom="King George V" coord="1509, 727">
+		<voisin nom="London City Airport" distance="1.5588703749350044" />
+	</gare>
+	<gare nom="Lewisham" coord="1238, 899">
+		<voisin nom="Elverson Road" distance="0.536185665513671" />
+	</gare>
+	<gare nom="Limehouse" coord="1187, 591">
+		<voisin nom="Shadwell" distance="1.8268610370892489" />
+		<voisin nom="Westferry" distance="1.4867300315214218" />
+	</gare>
+	<gare nom="London City Airport" coord="1475, 694">
+		<voisin nom="Pontoon Dock" distance="1.8897118806449862" />
+		<voisin nom="King George V" distance="1.5588703749350044" />
+	</gare>
+	<gare nom="Mudchute" coord="1239, 755">
+		<voisin nom="Island Gardens" distance="0.5991636529903259" />
+		<voisin nom="Crossharbour &amp; London Arena" distance="0.6123583729184027" />
+	</gare>
+	<gare nom="Pontoon Dock" coord="1441, 659">
+		<voisin nom="West Silvertown" distance="1.0374235949835233" />
+		<voisin nom="London City Airport" distance="1.8897118806449862" />
+	</gare>
+	<gare nom="Poplar" coord="1239, 591">
+		<voisin nom="West India Quay" distance="0.3429290851995163" />
+		<voisin nom="All Saints" distance="0.5836581710617282" />
+		<voisin nom="Blackwall" distance="1.1913266085009424" />
+		<voisin nom="Westferry" distance="1.048059848901287" />
+	</gare>
+	<gare nom="Prince Regent" coord="1443, 621">
+		<voisin nom="Royal Albert" distance="1.4395121013270067" />
+		<voisin nom="Custom House" distance="0.6682879047701988" />
+	</gare>
+	<gare nom="Pudding Mill Lane" coord="1294, 420">
+		<voisin nom="Bow Church" distance="1.0941635499790894" />
+		<voisin nom="Stratford" distance="1.3514204463213562" />
+	</gare>
+	<gare nom="Royal Albert" coord="1463, 641">
+		<voisin nom="Beckton Park" distance="0.9468048270138031" />
+		<voisin nom="Prince Regent" distance="1.4395121013270067" />
+	</gare>
+	<gare nom="Royal Victoria" coord="1399, 592">
+		<voisin nom="Canning Town" distance="1.2661582715241777" />
+		<voisin nom="Custom House" distance="1.0584721735821787" />
+	</gare>
+	<gare nom="Shadwell" coord="1150, 591">
+		<voisin nom="Tower Gateway" distance="2.0408235947308984" />
+		<voisin nom="Limehouse" distance="1.8268610370892489" />
+		<voisin nom="Bank" distance="3.633383589974174" />
+	</gare>
+	<gare nom="South Quay" coord="1239, 711">
+		<voisin nom="Heron Quays" distance="0.3938885475869064" />
+		<voisin nom="Crossharbour &amp; London Arena" distance="0.7638982995061159" />
+	</gare>
+	<gare nom="Stratford" coord="1301, 395">
+		<voisin nom="Pudding Mill Lane" distance="1.3514204463213562" />
+	</gare>
+	<gare nom="Tower Gateway" coord="1077, 611">
+		<voisin nom="Shadwell" distance="2.0408235947308984" />
+	</gare>
+	<gare nom="West India Quay" coord="1239, 626">
+		<voisin nom="Canary Wharf" distance="0.22180248668003824" />
+		<voisin nom="Poplar" distance="0.3429290851995163" />
+		<voisin nom="Westferry" distance="0.7527864699122441" />
+	</gare>
+	<gare nom="West Silvertown" coord="1407, 624">
+		<voisin nom="Pontoon Dock" distance="1.0374235949835233" />
+		<voisin nom="Canning Town" distance="2.086639210348712" />
+	</gare>
+	<gare nom="Westferry" coord="1213, 591">
+		<voisin nom="West India Quay" distance="0.7527864699122441" />
+		<voisin nom="Poplar" distance="1.048059848901287" />
+		<voisin nom="Limehouse" distance="1.4867300315214218" />
+	</gare>
+</ligne>

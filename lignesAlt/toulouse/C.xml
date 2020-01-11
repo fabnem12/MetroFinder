@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="ARENES,COLOMIERS GARE SNCF" couleur="f9a720">
+	<gare nom="ARENES" coord="358, 496">
+		<voisin nom="LE TOEC" distance="1.988000367269911" />
+	</gare>
+	<gare nom="COLOMIERS GARE SNCF" coord="114, 503">
+		<voisin nom="RAMASSIERS" distance="2.1261346240134267" />
+	</gare>
+	<gare nom="LARDENNE" coord="243, 503">
+		<voisin nom="SAINT-MARTIN DU TOUCH" distance="1.3586292900257302" />
+		<voisin nom="LE TOEC" distance="1.9684309898347412" />
+	</gare>
+	<gare nom="LE TOEC" coord="285, 503">
+		<voisin nom="LARDENNE" distance="1.9684309898347412" />
+		<voisin nom="ARENES" distance="1.988000367269911" />
+	</gare>
+	<gare nom="RAMASSIERS" coord="157, 503">
+		<voisin nom="SAINT-MARTIN DU TOUCH" distance="2.115650861595533" />
+		<voisin nom="COLOMIERS GARE SNCF" distance="2.1261346240134267" />
+	</gare>
+	<gare nom="SAINT-MARTIN DU TOUCH" coord="200, 502">
+		<voisin nom="RAMASSIERS" distance="2.115650861595533" />
+		<voisin nom="LARDENNE" distance="1.3586292900257302" />
+	</gare>
+</ligne>

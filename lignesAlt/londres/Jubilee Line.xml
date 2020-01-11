@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Stratford,Stanmore" couleur="767b7f">
+	<gare nom="Baker Street" coord="673, 454">
+		<voisin nom="Bond Street" distance="1.2685025499721103" />
+		<voisin nom="St. John's Wood" distance="2.3137824515707366" />
+	</gare>
+	<gare nom="Bermondsey" coord="1060, 670">
+		<voisin nom="Canada Water" distance="1.5031841425129213" />
+		<voisin nom="London Bridge" distance="2.654403647625824" />
+	</gare>
+	<gare nom="Bond Street" coord="673, 531">
+		<voisin nom="Baker Street" distance="1.2685025499721103" />
+		<voisin nom="Green Park" distance="1.1121348343675241" />
+	</gare>
+	<gare nom="Canada Water" coord="1139, 670">
+		<voisin nom="Bermondsey" distance="1.5031841425129213" />
+		<voisin nom="Canary Wharf" distance="3.350883058585909" />
+	</gare>
+	<gare nom="Canary Wharf" coord="1239, 670">
+		<voisin nom="North Greenwich" distance="2.8078121140286356" />
+		<voisin nom="Canada Water" distance="3.350883058585909" />
+	</gare>
+	<gare nom="Canning Town" coord="1332, 591">
+		<voisin nom="North Greenwich" distance="1.651622634389608" />
+		<voisin nom="West Ham" distance="1.585120746094642" />
+	</gare>
+	<gare nom="Canons Park" coord="497, 160">
+		<voisin nom="Queensbury" distance="1.7912245189135105" />
+		<voisin nom="Stanmore" distance="1.5749498769672183" />
+	</gare>
+	<gare nom="Dollis Hill" coord="542, 271">
+		<voisin nom="Willesden Green" distance="1.9398994340699507" />
+		<voisin nom="Neasden" distance="1.314324070254311" />
+	</gare>
+	<gare nom="Finchley Road" coord="618, 348">
+		<voisin nom="West Hampstead" distance="1.1470769942285504" />
+		<voisin nom="Swiss Cottage" distance="0.8496080253757134" />
+	</gare>
+	<gare nom="Green Park" coord="685, 583">
+		<voisin nom="Bond Street" distance="1.1121348343675241" />
+		<voisin nom="Westminster" distance="2.0382407909560354" />
+	</gare>
+	<gare nom="Kilburn" coord="581, 311">
+		<voisin nom="West Hampstead" distance="1.5697627089552784" />
+		<voisin nom="Willesden Green" distance="1.8847212940699125" />
+	</gare>
+	<gare nom="Kingsbury" coord="498, 206">
+		<voisin nom="Queensbury" distance="1.3561243635469131" />
+		<voisin nom="Wembley Park" distance="2.3509491563376765" />
+	</gare>
+	<gare nom="London Bridge" coord="974, 670">
+		<voisin nom="Southwark" distance="2.0970653832595896" />
+		<voisin nom="Bermondsey" distance="2.654403647625824" />
+	</gare>
+	<gare nom="Neasden" coord="522, 252">
+		<voisin nom="Wembley Park" distance="3.411407815632068" />
+		<voisin nom="Dollis Hill" distance="1.314324070254311" />
+	</gare>
+	<gare nom="North Greenwich" coord="1293, 661">
+		<voisin nom="Canary Wharf" distance="2.8078121140286356" />
+		<voisin nom="Canning Town" distance="1.651622634389608" />
+	</gare>
+	<gare nom="Queensbury" coord="497, 184">
+		<voisin nom="Canons Park" distance="1.7912245189135105" />
+		<voisin nom="Kingsbury" distance="1.3561243635469131" />
+	</gare>
+	<gare nom="Southwark" coord="853, 728">
+		<voisin nom="Waterloo" distance="1.0139855220941982" />
+		<voisin nom="London Bridge" distance="2.0970653832595896" />
+	</gare>
+	<gare nom="St. John's Wood" coord="650, 377">
+		<voisin nom="Baker Street" distance="2.3137824515707366" />
+		<voisin nom="Swiss Cottage" distance="0.9464732107568347" />
+	</gare>
+	<gare nom="Stanmore" coord="498, 140">
+		<voisin nom="Canons Park" distance="1.5749498769672183" />
+	</gare>
+	<gare nom="Stratford" coord="1301, 395">
+		<voisin nom="West Ham" distance="1.803410106776239" />
+	</gare>
+	<gare nom="Swiss Cottage" coord="633, 361">
+		<voisin nom="Finchley Road" distance="0.8496080253757134" />
+		<voisin nom="St. John's Wood" distance="0.9464732107568347" />
+	</gare>
+	<gare nom="Waterloo" coord="787, 706">
+		<voisin nom="Southwark" distance="1.0139855220941982" />
+		<voisin nom="Westminster" distance="1.2690908691989515" />
+	</gare>
+	<gare nom="Wembley Park" coord="507, 237">
+		<voisin nom="Neasden" distance="3.411407815632068" />
+		<voisin nom="Kingsbury" distance="2.3509491563376765" />
+	</gare>
+	<gare nom="West Ham" coord="1332, 484">
+		<voisin nom="Canning Town" distance="1.585120746094642" />
+		<voisin nom="Stratford" distance="1.803410106776239" />
+	</gare>
+	<gare nom="West Hampstead" coord="598, 328">
+		<voisin nom="Finchley Road" distance="1.1470769942285504" />
+		<voisin nom="Kilburn" distance="1.5697627089552784" />
+	</gare>
+	<gare nom="Westminster" coord="764, 661">
+		<voisin nom="Waterloo" distance="1.2690908691989515" />
+		<voisin nom="Green Park" distance="2.0382407909560354" />
+	</gare>
+	<gare nom="Willesden Green" coord="561, 290">
+		<voisin nom="Dollis Hill" distance="1.9398994340699507" />
+		<voisin nom="Kilburn" distance="1.8847212940699125" />
+	</gare>
+</ligne>

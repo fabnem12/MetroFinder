@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="SAINT-LAZARE,OLYMPIADES">
+	<gare nom="OLYMPIADES" coord="1917, 2209">
+			<voisin nom ="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance ="0.008180725664099166"/>
+		</gare>
+	<gare nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" coord="2051, 2161">
+			<voisin nom ="COUR SAINT-EMILION" distance ="0.011387626145064328"/>
+			<voisin nom ="OLYMPIADES" distance ="0.008180725664099166"/>
+		</gare>
+	<gare nom="COUR SAINT-EMILION" coord="2104, 2105">
+			<voisin nom ="BERCY" distance ="0.009740572823333297"/>
+			<voisin nom ="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance ="0.011387626145064328"/>
+		</gare>
+	<gare nom="BERCY" coord="2067, 2015">
+			<voisin nom ="GARE DE LYON" distance ="0.0075022264113506505"/>
+			<voisin nom ="COUR SAINT-EMILION" distance ="0.009740572823333297"/>
+		</gare>
+	<gare nom="GARE DE LYON" coord="1925, 1841">
+			<voisin nom ="CHATELET" distance ="0.03005485677797101"/>
+			<voisin nom ="BERCY" distance ="0.0075022264113506505"/>
+		</gare>
+	<gare nom="CHATELET" coord="1488, 1464">
+			<voisin nom ="PYRAMIDES" distance ="0.015260390233745565"/>
+			<voisin nom ="GARE DE LYON" distance ="0.03005485677797101"/>
+		</gare>
+	<gare nom="PYRAMIDES" coord="1186, 1353">
+			<voisin nom ="MADELEINE" distance ="0.00977461760862595"/>
+			<voisin nom ="CHATELET" distance ="0.015260390233745565"/>
+		</gare>
+	<gare nom="MADELEINE" coord="966, 1339">
+			<voisin nom ="SAINT-LAZARE" distance ="0.005312727263084538"/>
+			<voisin nom ="PYRAMIDES" distance ="0.00977461760862595"/>
+		</gare>
+	<gare nom="SAINT-LAZARE" coord="1090, 1091">
+			<voisin nom ="MADELEINE" distance ="0.005312727263084538"/>
+	</gare>
+</ligne>

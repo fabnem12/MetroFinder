@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Uxbridge,Heathrow Terminal 5,Cockfosters" couleur="002d73">
+	<gare nom="Acton Town" coord="249, 651">
+		<voisin nom="South Ealing" distance="3.022687886607391" />
+		<voisin nom="Ealing Common" distance="1.2138352451361514" />
+		<voisin nom="Turnham Green" distance="2.9545809917994674" />
+	</gare>
+	<gare nom="Alperton" coord="240, 354">
+		<voisin nom="Sudbury Town" distance="2.090931855271119" />
+		<voisin nom="Park Royal" distance="2.3111736682442965" />
+	</gare>
+	<gare nom="Arnos Grove" coord="1069, 120">
+		<voisin nom="Bounds Green" distance="1.425278890632094" />
+		<voisin nom="Southgate" distance="1.8482009472015644" />
+	</gare>
+	<gare nom="Arsenal" coord="1017, 278">
+		<voisin nom="Holloway Road" distance="1.0518947869041855" />
+		<voisin nom="Finsbury Park" distance="0.626956000329465" />
+	</gare>
+	<gare nom="Barons Court" coord="464, 652">
+		<voisin nom="Hammersmith" distance="1.2936544259765814" />
+		<voisin nom="Earl's Court" distance="1.8554323529779326" />
+	</gare>
+	<gare nom="Boston Manor" coord="184, 694">
+		<voisin nom="Osterley" distance="3.420829755957704" />
+		<voisin nom="Northfields" distance="1.278234391155278" />
+	</gare>
+	<gare nom="Bounds Green" coord="1070, 141">
+		<voisin nom="Wood Green" distance="1.9451296967173473" />
+		<voisin nom="Arnos Grove" distance="1.425278890632094" />
+	</gare>
+	<gare nom="Caledonian Road" coord="977, 320">
+		<voisin nom="King's Cross St. Pancras" distance="2.0046432283398246" />
+		<voisin nom="Holloway Road" distance="0.7997196970691928" />
+	</gare>
+	<gare nom="Cockfosters" coord="1072, 53">
+		<voisin nom="Oakwood" distance="2.0333713952817303" />
+	</gare>
+	<gare nom="Covent Garden" coord="821, 554">
+		<voisin nom="Leicester Square" distance="0.45898184888892757" />
+		<voisin nom="Holborn" distance="0.6928679974756932" />
+	</gare>
+	<gare nom="Ealing Common" coord="239, 593">
+		<voisin nom="North Ealing" distance="0.8256320717322403" />
+		<voisin nom="Acton Town" distance="1.2138352451361514" />
+	</gare>
+	<gare nom="Earl's Court" coord="524, 652">
+		<voisin nom="Gloucester Road" distance="1.6269789363229685" />
+		<voisin nom="Barons Court" distance="1.8554323529779326" />
+	</gare>
+	<gare nom="Eastcote" coord="218, 187">
+		<voisin nom="Ruislip Manor" distance="1.7641222869935715" />
+		<voisin nom="Rayners Lane" distance="2.8529079675012605" />
+	</gare>
+	<gare nom="Finsbury Park" coord="1051, 244">
+		<voisin nom="Arsenal" distance="0.626956000329465" />
+		<voisin nom="Manor House" distance="1.4233660553874572" />
+	</gare>
+	<gare nom="Gloucester Road" coord="569, 651">
+		<voisin nom="Earl's Court" distance="1.6269789363229685" />
+		<voisin nom="South Kensington" distance="1.0139855176400348" />
+	</gare>
+	<gare nom="Green Park" coord="686, 584">
+		<voisin nom="Piccadilly Circus" distance="1.0176449182053893" />
+		<voisin nom="Hyde Park Corner" distance="1.1886184895523013" />
+	</gare>
+	<gare nom="Hammersmith" coord="434, 653">
+		<voisin nom="Barons Court" distance="1.2936544259765814" />
+		<voisin nom="Turnham Green" distance="3.2992850356533605" />
+	</gare>
+	<gare nom="Hatton Cross" coord="94, 785">
+		<voisin nom="Heathrow Terminal 4" distance="2.88233032001567" />
+		<voisin nom="Hounslow West" distance="4.203822382288102" />
+		<voisin nom="Heathrow Terminals 1, 2 &amp; 3" distance="3.342271767977609" />
+	</gare>
+	<gare nom="Heathrow Terminal 4" coord="83, 830">
+		<voisin nom="Hatton Cross" distance="2.88233032001567" />
+		<voisin nom="Heathrow Terminals 1, 2 &amp; 3" distance="1.3871759440730382" />
+	</gare>
+	<gare nom="Heathrow Terminal 5" coord="24, 857">
+		<voisin nom="Heathrow Terminals 1, 2 &amp; 3" distance="4.085804423539746" />
+	</gare>
+	<gare nom="Heathrow Terminals 1, 2 &amp; 3" coord="69, 812">
+		<voisin nom="Hatton Cross" distance="3.342271767977609" />
+		<voisin nom="Heathrow Terminal 5" distance="4.085804423539746" />
+	</gare>
+	<gare nom="Hillingdon" coord="76, 158">
+		<voisin nom="Ickenham" distance="1.2517678708300601" />
+		<voisin nom="Uxbridge" distance="3.3021502472395268" />
+	</gare>
+	<gare nom="Holborn" coord="841, 531">
+		<voisin nom="Covent Garden" distance="0.6928679974756932" />
+		<voisin nom="Russell Square" distance="0.7927937589558628" />
+	</gare>
+	<gare nom="Holloway Road" coord="997, 297">
+		<voisin nom="Arsenal" distance="1.0518947869041855" />
+		<voisin nom="Caledonian Road" distance="0.7997196970691928" />
+	</gare>
+	<gare nom="Hounslow Central" coord="131, 754">
+		<voisin nom="Hounslow West" distance="2.127949475713069" />
+		<voisin nom="Hounslow East" distance="1.1461575115361344" />
+	</gare>
+	<gare nom="Hounslow East" coord="149, 733">
+		<voisin nom="Osterley" distance="1.0058105797785313" />
+		<voisin nom="Hounslow Central" distance="1.1461575115361344" />
+	</gare>
+	<gare nom="Hounslow West" coord="114, 768">
+		<voisin nom="Hatton Cross" distance="4.203822382288102" />
+		<voisin nom="Hounslow Central" distance="2.127949475713069" />
+	</gare>
+	<gare nom="Hyde Park Corner" coord="653, 601">
+		<voisin nom="Knightsbridge" distance="0.9005188740541564" />
+		<voisin nom="Green Park" distance="1.1886184895523013" />
+	</gare>
+	<gare nom="Ickenham" coord="113, 159">
+		<voisin nom="Ruislip" distance="2.550151363901256" />
+		<voisin nom="Hillingdon" distance="1.2517678708300601" />
+	</gare>
+	<gare nom="King's Cross St. Pancras" coord="890, 406">
+		<voisin nom="Russell Square" distance="0.8708551194064355" />
+		<voisin nom="Caledonian Road" distance="2.0046432283398246" />
+	</gare>
+	<gare nom="Knightsbridge" coord="635, 619">
+		<voisin nom="Hyde Park Corner" distance="0.9005188740541564" />
+		<voisin nom="South Kensington" distance="1.6748665087575458" />
+	</gare>
+	<gare nom="Leicester Square" coord="801, 572">
+		<voisin nom="Covent Garden" distance="0.45898184888892757" />
+		<voisin nom="Piccadilly Circus" distance="0.6992777110190628" />
+	</gare>
+	<gare nom="Manor House" coord="1071, 216">
+		<voisin nom="Turnpike Lane" distance="2.2749490718315646" />
+		<voisin nom="Finsbury Park" distance="1.4233660553874572" />
+	</gare>
+	<gare nom="North Ealing" coord="239, 504">
+		<voisin nom="Park Royal" distance="1.1749757472472608" />
+		<voisin nom="Ealing Common" distance="0.8256320717322403" />
+	</gare>
+	<gare nom="Northfields" coord="203, 676">
+		<voisin nom="South Ealing" distance="0.7993322772697037" />
+		<voisin nom="Boston Manor" distance="1.278234391155278" />
+	</gare>
+	<gare nom="Oakwood" coord="1071, 75">
+		<voisin nom="Cockfosters" distance="2.0333713952817303" />
+		<voisin nom="Southgate" distance="1.7657348043487326" />
+	</gare>
+	<gare nom="Osterley" coord="165, 714">
+		<voisin nom="Boston Manor" distance="3.420829755957704" />
+		<voisin nom="Hounslow East" distance="1.0058105797785313" />
+	</gare>
+	<gare nom="Park Royal" coord="239, 475">
+		<voisin nom="North Ealing" distance="1.1749757472472608" />
+		<voisin nom="Alperton" distance="2.3111736682442965" />
+	</gare>
+	<gare nom="Piccadilly Circus" coord="759, 583">
+		<voisin nom="Leicester Square" distance="0.6992777110190628" />
+		<voisin nom="Green Park" distance="1.0176449182053893" />
+	</gare>
+	<gare nom="Rayners Lane" coord="235, 205">
+		<voisin nom="Eastcote" distance="2.8529079675012605" />
+		<voisin nom="South Harrow" distance="2.456545079362256" />
+	</gare>
+	<gare nom="Ruislip" coord="169, 160">
+		<voisin nom="Ruislip Manor" distance="0.9977223020133265" />
+		<voisin nom="Ickenham" distance="2.550151363901256" />
+	</gare>
+	<gare nom="Ruislip Manor" coord="197, 165">
+		<voisin nom="Ruislip" distance="0.9977223020133265" />
+		<voisin nom="Eastcote" distance="1.7641222869935715" />
+	</gare>
+	<gare nom="Russell Square" coord="852, 489">
+		<voisin nom="King's Cross St. Pancras" distance="0.8708551194064355" />
+		<voisin nom="Holborn" distance="0.7927937589558628" />
+	</gare>
+	<gare nom="South Ealing" coord="222, 658">
+		<voisin nom="Northfields" distance="0.7993322772697037" />
+		<voisin nom="Acton Town" distance="3.022687886607391" />
+	</gare>
+	<gare nom="South Harrow" coord="241, 247">
+		<voisin nom="Sudbury Hill" distance="1.9266244696534547" />
+		<voisin nom="Rayners Lane" distance="2.456545079362256" />
+	</gare>
+	<gare nom="South Kensington" coord="592, 652">
+		<voisin nom="Gloucester Road" distance="1.0139855176400348" />
+		<voisin nom="Knightsbridge" distance="1.6748665087575458" />
+	</gare>
+	<gare nom="Southgate" coord="1069, 98">
+		<voisin nom="Oakwood" distance="1.7657348043487326" />
+		<voisin nom="Arnos Grove" distance="1.8482009472015644" />
+	</gare>
+	<gare nom="Sudbury Hill" coord="241, 282">
+		<voisin nom="Sudbury Town" distance="2.4374615810793254" />
+		<voisin nom="South Harrow" distance="1.9266244696534547" />
+	</gare>
+	<gare nom="Sudbury Town" coord="241, 318">
+		<voisin nom="Alperton" distance="2.090931855271119" />
+		<voisin nom="Sudbury Hill" distance="2.4374615810793254" />
+	</gare>
+	<gare nom="Turnham Green" coord="320, 653">
+		<voisin nom="Hammersmith" distance="3.2992850356533605" />
+		<voisin nom="Acton Town" distance="2.9545809917994674" />
+	</gare>
+	<gare nom="Turnpike Lane" coord="1070, 183">
+		<voisin nom="Wood Green" distance="1.1021182032827725" />
+		<voisin nom="Manor House" distance="2.2749490718315646" />
+	</gare>
+	<gare nom="Uxbridge" coord="19, 158">
+		<voisin nom="Hillingdon" distance="3.3021502472395268" />
+	</gare>
+	<gare nom="Wood Green" coord="1070, 162">
+		<voisin nom="Turnpike Lane" distance="1.1021182032827725" />
+		<voisin nom="Bounds Green" distance="1.9451296967173473" />
+	</gare>
+</ligne>

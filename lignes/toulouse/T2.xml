@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne nom ="T2" terminus="Aéroport,Ancely">
+	<gare nom="Aéroport" coord="115, 310">
+			<voisin nom ="Daurat" distance ="0.00559244140312852"/>
+		</gare>
+	<gare nom="Daurat" coord="178, 310">
+			<voisin nom ="Nadot" distance ="0.008648679764621667"/>
+			<voisin nom ="Aéroport" distance ="0.00559244140312852"/>
+		</gare>
+	<gare nom="Nadot" coord="234, 309">
+			<voisin nom ="Ancely" distance ="0.011843318458822371"/>
+			<voisin nom ="Daurat" distance ="0.008648679764621667"/>
+		</gare>
+	<gare nom="Ancely" coord="312, 312">
+			<voisin nom ="Nadot" distance ="0.011843318458822371"/>
+		</gare>
+</ligne>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="PORTE DE VERSAILLES,PONT DE BEZONS">
+	<gare nom="PORTE DE VERSAILLES" coord="783, 2262">
+		<voisin nom ="PORTE D'ISSY" distance ="0.0066714260816462655"/>
+	</gare>
+	<gare nom="PORTE D'ISSY" coord="702, 2293">
+		<voisin nom ="SUZANNE LENGLEN" distance ="0.005042485240984391"/>
+		<voisin nom ="PORTE DE VERSAILLES" distance ="0.0066714260816462655"/>
+	</gare>
+	<gare nom="SUZANNE LENGLEN" coord="640, 2292">
+		<voisin nom ="HENRI FARMANN" distance ="0.005643106596138276"/>
+		<voisin nom ="PORTE D'ISSY" distance ="0.005042485240984391"/>
+	</gare>
+	<gare nom="HENRI FARMANN" coord="580, 2289">
+		<voisin nom ="ISSY-VAL DE SEINE" distance ="0.009414302522128307"/>
+		<voisin nom ="SUZANNE LENGLEN" distance ="0.005643106596138276"/>
+	</gare>
+	<gare nom="ISSY-VAL DE SEINE" coord="541, 2313">
+		<voisin nom ="JACQUES-HENRI LARTIGUE" distance ="0.005762722368700574"/>
+		<voisin nom ="HENRI FARMANN" distance ="0.009414302522128307"/>
+	</gare>
+	<gare nom="JACQUES-HENRI LARTIGUE" coord="487, 2360">
+		<voisin nom ="LES MOULINEAUX" distance ="0.009760554345400487"/>
+		<voisin nom ="ISSY-VAL DE SEINE" distance ="0.005762722368700574"/>
+	</gare>
+	<gare nom="LES MOULINEAUX" coord="431, 2414">
+		<voisin nom ="MEUDON-SUR-SEINE" distance ="0.012951547143515181"/>
+		<voisin nom ="JACQUES-HENRI LARTIGUE" distance ="0.009760554345400487"/>
+	</gare>
+	<gare nom="MEUDON-SUR-SEINE" coord="327, 2441">
+		<voisin nom ="BRIMBORION" distance ="0.00792213512622771"/>
+		<voisin nom ="LES MOULINEAUX" distance ="0.012951547143515181"/>
+	</gare>
+	<gare nom="BRIMBORION" coord="239, 2389">
+		<voisin nom ="MUSEE DE SEVRES" distance ="0.009001190048579568"/>
+		<voisin nom ="MEUDON-SUR-SEINE" distance ="0.00792213512622771"/>
+	</gare>
+	<gare nom="MUSEE DE SEVRES" coord="190, 2339">
+		<voisin nom ="PARC DE SAINT-CLOUD" distance ="0.014532140042763242"/>
+		<voisin nom ="BRIMBORION" distance ="0.009001190048579568"/>
+	</gare>
+	<gare nom="PARC DE SAINT-CLOUD" coord="120, 2104">
+		<voisin nom ="LES MILONS" distance ="0.006754493769801779"/>
+		<voisin nom ="MUSEE DE SEVRES" distance ="0.014532140042763242"/>
+	</gare>
+	<gare nom="LES MILONS" coord="124, 1852">
+		<voisin nom ="LES COTEAUX" distance ="0.007646844739075059"/>
+		<voisin nom ="PARC DE SAINT-CLOUD" distance ="0.006754493769801779"/>
+	</gare>
+	<gare nom="LES COTEAUX" coord="121, 1605">
+		<voisin nom ="SURESNES-LONGCHAMP" distance ="0.010797578703704534"/>
+		<voisin nom ="LES MILONS" distance ="0.007646844739075059"/>
+	</gare>
+	<gare nom="SURESNES-LONGCHAMP" coord="121, 1259">
+		<voisin nom ="BELVEDERE" distance ="0.008996959516841208"/>
+		<voisin nom ="LES COTEAUX" distance ="0.010797578703704534"/>
+	</gare>
+	<gare nom="BELVEDERE" coord="124, 1064">
+		<voisin nom ="PUTEAUX" distance ="0.010788260903928065"/>
+		<voisin nom ="SURESNES-LONGCHAMP" distance ="0.008996959516841208"/>
+	</gare>
+	<gare nom="PUTEAUX" coord="178, 937">
+		<voisin nom ="LA DEFENSE-GRANDE ARCHE" distance ="0.009394821719905935"/>
+		<voisin nom ="BELVEDERE" distance ="0.010788260903928065"/>
+	</gare>
+	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="334, 804">
+		<voisin nom ="FAUBOURG DE L ARCHE" distance ="0.0054237728837492625"/>
+		<voisin nom ="PUTEAUX" distance ="0.009394821719905935"/>
+	</gare>
+	<gare nom="FAUBOURG DE L ARCHE" coord="313, 697">
+		<voisin nom ="LES FAUVELLES" distance ="0.006127225422030676"/>
+		<voisin nom ="LA DEFENSE-GRANDE ARCHE" distance ="0.0054237728837492625"/>
+	</gare>
+	<gare nom="LES FAUVELLES" coord="313, 644">
+		<voisin nom ="CHARLEBOURG" distance ="0.005049348113772594"/>
+		<voisin nom ="FAUBOURG DE L ARCHE" distance ="0.006127225422030676"/>
+	</gare>
+	<gare nom="CHARLEBOURG" coord="295, 590">
+		<voisin nom ="JACQUELINE AURIOL" distance ="0.005339994037676033"/>
+		<voisin nom ="LES FAUVELLES" distance ="0.005049348113772594"/>
+	</gare>
+	<gare nom="JACQUELINE AURIOL" coord="227, 524">
+		<voisin nom ="PONT DE BEZONS" distance ="0.020598871354657503"/>
+		<voisin nom ="CHARLEBOURG" distance ="0.005339994037676033"/>
+	</gare>
+	<gare nom="PONT DE BEZONS" coord="85, 488">
+		<voisin nom ="JACQUELINE AURIOL" distance ="0.020598871354657503"/>
+	</gare>
+</ligne>

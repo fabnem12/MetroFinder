@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="MARENGO-SNCF / Gare Matabiau,Aéroport" couleur="FF8800">
+	<gare nom="Aéroport" coord="115, 296">
+		<voisin nom="Pont du Béarnais" distance="5.988473780228053" />
+	</gare>
+	<gare nom="COMPANS-CAFFARELLI" coord="503, 252">
+		<voisin nom="JEANNE D'ARC" distance="1.10781417804857" />
+		<voisin nom="Pont du Béarnais" distance="1.2290046808908184" />
+	</gare>
+	<gare nom="JEAN JAURES" coord="512, 367">
+		<voisin nom="JEANNE D'ARC" distance="0.5393288674139174" />
+		<voisin nom="MARENGO-SNCF / Gare Matabiau" distance="0.8709690586739682" />
+	</gare>
+	<gare nom="JEANNE D'ARC" coord="503, 311">
+		<voisin nom="COMPANS-CAFFARELLI" distance="1.10781417804857" />
+		<voisin nom="JEAN JAURES" distance="0.5393288674139174" />
+	</gare>
+	<gare nom="MARENGO-SNCF / Gare Matabiau" coord="611, 373">
+		<voisin nom="JEAN JAURES" distance="0.8709690586739682" />
+	</gare>
+	<gare nom="Pont du Béarnais" coord="467, 223">
+		<voisin nom="COMPANS-CAFFARELLI" distance="1.2290046808908184" />
+		<voisin nom="Aéroport" distance="5.988473780228053" />
+	</gare>
+</ligne>

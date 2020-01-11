@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="CHATEAU-THIERRY,CRECY-EN-BRIE-LA-CHAPELLE,COULOMMIERS,GARE DE L'EST,PROVINS,FERTE-MILON" couleur="eaab00">
+	<gare nom="CHAMPBENOIST-POIGNY" coord="3.28731284984, 48.5455953478">
+		<voisin nom="SAINTE-COLOMBE-SEPTVEILLES" distance="2.9826004390037246" />
+		<voisin nom="PROVINS" distance="1.5977101312731503" />
+	</gare>
+	<gare nom="CHANGIS-SAINT-JEAN" coord="3.02611129429, 48.9591640631">
+		<voisin nom="LA FERTE-SOUS-JOUARRE" distance="7.281416548165826" />
+		<voisin nom="TRILPORT" distance="5.559913216611085" />
+	</gare>
+	<gare nom="CHATEAU-THIERRY" coord="3.40959736125, 49.0379489417">
+		<voisin nom="CHEZY-SUR-MARNE" distance="6.07209878541534" />
+	</gare>
+	<gare nom="CHELLES-GOURNAY" coord="2.58333116078, 48.874144083">
+		<voisin nom="VAIRES-TORCY" distance="3.9744195665395714" />
+		<voisin nom="GARE DE L'EST" distance="16.39472804768846" />
+	</gare>
+	<gare nom="CHEZY-SUR-MARNE" coord="3.36492712887, 48.9919382203">
+		<voisin nom="CHATEAU-THIERRY" distance="6.07209878541534" />
+		<voisin nom="NOGENT-L'ARTAUD-CHARLY" distance="4.0312387101054155" />
+	</gare>
+	<gare nom="COUILLY-SAINT-GERMAIN-QUINCY" coord="2.8543159251, 48.8826810476">
+		<voisin nom="VILLIERS-MONTBARBIN" distance="3.022008064660292" />
+		<voisin nom="MONTRY-CONDE" distance="2.236542408397501" />
+	</gare>
+	<gare nom="COULOMMIERS" coord="3.08034301057, 48.8085020653">
+		<voisin nom="MOUROUX" distance="2.8047623172450127" />
+	</gare>
+	<gare nom="CRECY-EN-BRIE-LA-CHAPELLE" coord="2.90573696319, 48.8595573169">
+		<voisin nom="VILLIERS-MONTBARBIN" distance="1.7018822517017769" />
+	</gare>
+	<gare nom="CROUY-SUR-OURCQ" coord="3.06269040835, 49.0918829954">
+		<voisin nom="LIZY-SUR-OURCQ" distance="8.125935144629727" />
+		<voisin nom="MAREUIL-SUR-OURCQ" distance="4.943245664179415" />
+	</gare>
+	<gare nom="ESBLY" coord="2.81024822073, 48.9030729142">
+		<voisin nom="MEAUX" distance="7.6001094083483185" />
+		<voisin nom="MONTRY-CONDE" distance="1.802073935957846" />
+		<voisin nom="LAGNY-THORIGNY" distance="7.975190063854026" />
+	</gare>
+	<gare nom="FAREMOUTIERS-POMMEUSE" coord="2.99310989478, 48.8086539649">
+		<voisin nom="GUERARD-LA-CELLE-SUR-MORIN" distance="2.896584621429235" />
+		<voisin nom="MOUROUX" distance="3.697465731331166" />
+	</gare>
+	<gare nom="FERTE-MILON" coord="3.12061291667, 49.1795049508">
+		<voisin nom="MAREUIL-SUR-OURCQ" distance="5.894957060845861" />
+	</gare>
+	<gare nom="GARE DE L'EST" coord="2.35945661694, 48.8773756199">
+		<voisin nom="CHELLES-GOURNAY" distance="16.39472804768846" />
+		<voisin nom="TOURNAN" distance="33.0583091883147" />
+		<voisin nom="VERNEUIL-L'ETANG" distance="42.90320095054429" />
+	</gare>
+	<gare nom="GUERARD-LA-CELLE-SUR-MORIN" coord="2.9537303831, 48.8107753218">
+		<voisin nom="MORTCERF" distance="4.142214638716829" />
+		<voisin nom="FAREMOUTIERS-POMMEUSE" distance="2.896584621429235" />
+	</gare>
+	<gare nom="ISLES-ARMENTIERES-CONGIS" coord="3.00795305575, 48.9984153932">
+		<voisin nom="LIZY-SUR-OURCQ" distance="3.1261917237055066" />
+		<voisin nom="TRILPORT" distance="5.996956839015673" />
+	</gare>
+	<gare nom="LA FERTE-SOUS-JOUARRE" coord="3.12490901802, 48.9508199876">
+		<voisin nom="NANTEUIL-SAACY" distance="7.366791889731849" />
+		<voisin nom="CHANGIS-SAINT-JEAN" distance="7.281416548165826" />
+	</gare>
+	<gare nom="LAGNY-THORIGNY" coord="2.7060141784, 48.8821891367">
+		<voisin nom="VAIRES-TORCY" distance="5.069191394911744" />
+		<voisin nom="ESBLY" distance="7.975190063854026" />
+	</gare>
+	<gare nom="LIZY-SUR-OURCQ" coord="3.03175844447, 49.0217572686">
+		<voisin nom="ISLES-ARMENTIERES-CONGIS" distance="3.1261917237055066" />
+		<voisin nom="CROUY-SUR-OURCQ" distance="8.125935144629727" />
+	</gare>
+	<gare nom="LONGUEVILLE" coord="3.25003498258, 48.513754591">
+		<voisin nom="SAINTE-COLOMBE-SEPTVEILLES" distance="1.7582292316094084" />
+		<voisin nom="NANGIS" distance="18.368833224987213" />
+	</gare>
+	<gare nom="MAREUIL-SUR-OURCQ" coord="3.07562656432, 49.1354741446">
+		<voisin nom="CROUY-SUR-OURCQ" distance="4.943245664179415" />
+		<voisin nom="FERTE-MILON" distance="5.894957060845861" />
+	</gare>
+	<gare nom="MARLES-EN-BRIE" coord="2.86895583008, 48.7349392965">
+		<voisin nom="TOURNAN" distance="8.10131092290754" />
+		<voisin nom="MORTCERF" distance="6.696116143540154" />
+	</gare>
+	<gare nom="MEAUX" coord="2.87344818875, 48.9572688678">
+		<voisin nom="ESBLY" distance="7.6001094083483185" />
+		<voisin nom="TRILPORT" distance="5.6094567545868514" />
+	</gare>
+	<gare nom="MONTRY-CONDE" coord="2.8264054973, 48.8908567963">
+		<voisin nom="COUILLY-SAINT-GERMAIN-QUINCY" distance="2.236542408397501" />
+		<voisin nom="ESBLY" distance="1.802073935957846" />
+	</gare>
+	<gare nom="MORMANT" coord="2.88825289679, 48.6140152409">
+		<voisin nom="VERNEUIL-L'ETANG" distance="5.741291685189578" />
+		<voisin nom="NANGIS" distance="10.7743556255421" />
+	</gare>
+	<gare nom="MORTCERF" coord="2.90738727037, 48.7894966796">
+		<voisin nom="MARLES-EN-BRIE" distance="6.696116143540154" />
+		<voisin nom="GUERARD-LA-CELLE-SUR-MORIN" distance="4.142214638716829" />
+	</gare>
+	<gare nom="MOUROUX" coord="3.04293826468, 48.8137984821">
+		<voisin nom="COULOMMIERS" distance="2.8047623172450127" />
+		<voisin nom="FAREMOUTIERS-POMMEUSE" distance="3.697465731331166" />
+	</gare>
+	<gare nom="NANGIS" coord="3.01176932905, 48.5621248332">
+		<voisin nom="LONGUEVILLE" distance="18.368833224987213" />
+		<voisin nom="MORMANT" distance="10.7743556255421" />
+	</gare>
+	<gare nom="NANTEUIL-SAACY" coord="3.21930281555, 48.9740265796">
+		<voisin nom="LA FERTE-SOUS-JOUARRE" distance="7.366791889731849" />
+		<voisin nom="NOGENT-L'ARTAUD-CHARLY" distance="7.51480220621058" />
+	</gare>
+	<gare nom="NOGENT-L'ARTAUD-CHARLY" coord="3.32188681725, 48.9692787821">
+		<voisin nom="NANTEUIL-SAACY" distance="7.51480220621058" />
+		<voisin nom="CHEZY-SUR-MARNE" distance="4.0312387101054155" />
+	</gare>
+	<gare nom="PROVINS" coord="3.3028712226, 48.5555915569">
+		<voisin nom="CHAMPBENOIST-POIGNY" distance="1.5977101312731503" />
+	</gare>
+	<gare nom="SAINTE-COLOMBE-SEPTVEILLES" coord="3.25536814867, 48.5291489659">
+		<voisin nom="LONGUEVILLE" distance="1.7582292316094084" />
+		<voisin nom="CHAMPBENOIST-POIGNY" distance="2.9826004390037246" />
+	</gare>
+	<gare nom="TOURNAN" coord="2.75882454867, 48.7394872073">
+		<voisin nom="GARE DE L'EST" distance="33.0583091883147" />
+		<voisin nom="MARLES-EN-BRIE" distance="8.10131092290754" />
+	</gare>
+	<gare nom="TRILPORT" coord="2.95006038139, 48.9602264907">
+		<voisin nom="MEAUX" distance="5.6094567545868514" />
+		<voisin nom="ISLES-ARMENTIERES-CONGIS" distance="5.996956839015673" />
+		<voisin nom="CHANGIS-SAINT-JEAN" distance="5.559913216611085" />
+	</gare>
+	<gare nom="VAIRES-TORCY" coord="2.63759071444, 48.8752082654">
+		<voisin nom="CHELLES-GOURNAY" distance="3.9744195665395714" />
+		<voisin nom="LAGNY-THORIGNY" distance="5.069191394911744" />
+	</gare>
+	<gare nom="VERNEUIL-L'ETANG" coord="2.82516993433, 48.6443736249">
+		<voisin nom="GARE DE L'EST" distance="42.90320095054429" />
+		<voisin nom="MORMANT" distance="5.741291685189578" />
+	</gare>
+	<gare nom="VILLIERS-MONTBARBIN" coord="2.88320173127, 48.8632902382">
+		<voisin nom="COUILLY-SAINT-GERMAIN-QUINCY" distance="3.022008064660292" />
+		<voisin nom="CRECY-EN-BRIE-LA-CHAPELLE" distance="1.7018822517017769" />
+	</gare>
+</ligne>

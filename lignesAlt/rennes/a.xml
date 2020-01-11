@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="J.F. Kennedy,La Poterie" couleur="EE1D23">
+	<gare nom="Anatole France" coord="416, 341">
+		<voisin nom="Sainte Anne" distance="0.8857739913279462" />
+		<voisin nom="Pontchaillou" distance="0.7494734489368091" />
+	</gare>
+	<gare nom="Charles de Gaulle" coord="531, 546">
+		<voisin nom="République" distance="0.5453759634639991" />
+		<voisin nom="Gares" distance="0.5409078178020733" />
+	</gare>
+	<gare nom="Clemenceau" coord="558, 740">
+		<voisin nom="Jacques Cartier" distance="0.46650175918911085" />
+		<voisin nom="Henri Fréville" distance="0.6469618011467188" />
+	</gare>
+	<gare nom="Gares" coord="581, 561">
+		<voisin nom="Charles de Gaulle" distance="0.5409078178020733" />
+		<voisin nom="Jacques Cartier" distance="0.7871026265506852" />
+	</gare>
+	<gare nom="Henri Fréville" coord="553, 835">
+		<voisin nom="Italie" distance="0.779817639540029" />
+		<voisin nom="Clemenceau" distance="0.6469618011467188" />
+	</gare>
+	<gare nom="Italie" coord="628, 852">
+		<voisin nom="Triangle" distance="0.8395182921516134" />
+		<voisin nom="Henri Fréville" distance="0.779817639540029" />
+	</gare>
+	<gare nom="J.F. Kennedy" coord="159, 290">
+		<voisin nom="Villejean-Université" distance="0.8161768267118216" />
+	</gare>
+	<gare nom="Jacques Cartier" coord="547, 675">
+		<voisin nom="Clemenceau" distance="0.46650175918911085" />
+		<voisin nom="Gares" distance="0.7871026265506852" />
+	</gare>
+	<gare nom="La Poterie" coord="881, 837">
+		<voisin nom="Le Blosne" distance="1.0807258723496636" />
+	</gare>
+	<gare nom="Le Blosne" coord="775, 833">
+		<voisin nom="Triangle" distance="0.6921235111618397" />
+		<voisin nom="La Poterie" distance="1.0807258723496636" />
+	</gare>
+	<gare nom="Pontchaillou" coord="352, 286">
+		<voisin nom="Anatole France" distance="0.7494734489368091" />
+		<voisin nom="Villejean-Université" distance="1.172642093969905" />
+	</gare>
+	<gare nom="République" coord="507, 477">
+		<voisin nom="Charles de Gaulle" distance="0.5453759634639991" />
+		<voisin nom="Sainte Anne" distance="0.5504547132218683" />
+	</gare>
+	<gare nom="Sainte Anne" coord="490, 400">
+		<voisin nom="République" distance="0.5504547132218683" />
+		<voisin nom="Anatole France" distance="0.8857739913279462" />
+	</gare>
+	<gare nom="Triangle" coord="710, 854">
+		<voisin nom="Italie" distance="0.8395182921516134" />
+		<voisin nom="Le Blosne" distance="0.6921235111618397" />
+	</gare>
+	<gare nom="Villejean-Université" coord="238, 290">
+		<voisin nom="J.F. Kennedy" distance="0.8161768267118216" />
+		<voisin nom="Pontchaillou" distance="1.172642093969905" />
+	</gare>
+</ligne>

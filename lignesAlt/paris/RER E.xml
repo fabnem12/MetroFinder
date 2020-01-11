@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="TOURNAN,HAUSSMANN-SAINT-LAZARE,CHELLES-GOURNAY" couleur="de81d3">
+	<gare nom="CHELLES-GOURNAY" coord="2666, 751">
+		<voisin nom="NOISY-LE-SEC" distance="14.134763549753796" />
+	</gare>
+	<gare nom="HAUSSMANN-SAINT-LAZARE" coord="1133, 1106">
+		<voisin nom="MAGENTA" distance="3.6344825013985966" />
+	</gare>
+	<gare nom="MAGENTA" coord="1767, 903">
+		<voisin nom="HAUSSMANN-SAINT-LAZARE" distance="3.6344825013985966" />
+		<voisin nom="ROSA PARKS" distance="2.443302127303336" />
+	</gare>
+	<gare nom="NOISY-LE-SEC" coord="2575, 797">
+		<voisin nom="PANTIN" distance="6.458761363668077" />
+	</gare>
+	<gare nom="PANTIN" coord="2216, 608">
+		<voisin nom="NOISY-LE-SEC" distance="6.458761363668077" />
+		<voisin nom="ROSA PARKS" distance="2.9252607011409038" />
+	</gare>
+	<gare nom="ROSA PARKS" coord="1959, 654">
+		<voisin nom="PANTIN" distance="2.9252607011409038" />
+		<voisin nom="MAGENTA" distance="2.443302127303336" />
+	</gare>
+	<gare nom="TOURNAN" coord="2666, 842">
+		<voisin nom="NOISY-LE-SEC" distance="37.73822461155075" />
+	</gare>
+</ligne>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Shoreditch,New Cross Gate,New Cross" couleur="f3ba22">
+	<gare nom="Canada Water" coord="1139, 670">
+		<voisin nom="Rotherhithe" distance="0.40336987516327805" />
+		<voisin nom="Surrey Quays" distance="0.6073800138433438" />
+	</gare>
+	<gare nom="New Cross" coord="1138, 834">
+		<voisin nom="Surrey Quays" distance="2.4980497101888335" />
+	</gare>
+	<gare nom="New Cross Gate" coord="1071, 834">
+		<voisin nom="Surrey Quays" distance="2.1340844038928433" />
+	</gare>
+	<gare nom="Rotherhithe" coord="1139, 654">
+		<voisin nom="Canada Water" distance="0.40336987516327805" />
+		<voisin nom="Wapping" distance="0.519517363047805" />
+	</gare>
+	<gare nom="Shadwell" coord="1138, 580">
+		<voisin nom="Whitechapel" distance="1.034312864205773" />
+		<voisin nom="Wapping" distance="0.8240646440770696" />
+	</gare>
+	<gare nom="Shoreditch" coord="1139, 484">
+		<voisin nom="Whitechapel" distance="1.1300435442447838" />
+	</gare>
+	<gare nom="Surrey Quays" coord="1138, 725">
+		<voisin nom="New Cross Gate" distance="2.1340844038928433" />
+		<voisin nom="Canada Water" distance="0.6073800138433438" />
+		<voisin nom="New Cross" distance="2.4980497101888335" />
+	</gare>
+	<gare nom="Wapping" coord="1139, 624">
+		<voisin nom="Rotherhithe" distance="0.519517363047805" />
+		<voisin nom="Shadwell" distance="0.8240646440770696" />
+	</gare>
+	<gare nom="Whitechapel" coord="1139, 537">
+		<voisin nom="Shoreditch" distance="1.1300435442447838" />
+		<voisin nom="Shadwell" distance="1.034312864205773" />
+	</gare>
+</ligne>

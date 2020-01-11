@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Tower Hill,Bank,Tower Gateway,Monument,Bow Church,Bow Road" couleur="">
+	<gare nom="Bank" coord="966, 568">
+		<voisin nom="Monument" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Bow Church" coord="1239, 502">
+		<voisin nom="Bow Road" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Bow Road" coord="1257, 484">
+		<voisin nom="Bow Church" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Monument" coord="992, 594">
+		<voisin nom="Bank" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Tower Gateway" coord="1077, 611">
+		<voisin nom="Tower Hill" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Tower Hill" coord="1060, 594">
+		<voisin nom="Tower Gateway" distance="4.6096306961911235" />
+	</gare>
+</ligne>

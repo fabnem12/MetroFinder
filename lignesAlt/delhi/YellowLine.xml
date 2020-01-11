@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Samaypur Badli,Huda City Centre" couleur="FFD700">
+	<gare nom="AIIMS" coord="2154, 1871">
+		<voisin nom="INA" distance="17.811570662970254" />
+		<voisin nom="Green Park" distance="19.01945657706103" />
+	</gare>
+	<gare nom="Adarsh Nagar" coord="2090, 386">
+		<voisin nom="Jahangirpuri" distance="1.2810610459418839" />
+		<voisin nom="Azadpur" distance="25.258837846684212" />
+	</gare>
+	<gare nom="Arjan Garh" coord="1946, 2456">
+		<voisin nom="Guru Dronacharya" distance="2.313841377198043" />
+		<voisin nom="Ghitorni" distance="2.7019634399050774" />
+	</gare>
+	<gare nom="Azadpur" coord="2128, 427">
+		<voisin nom="Model Town" distance="24.953098464382723" />
+		<voisin nom="Adarsh Nagar" distance="25.258837846684212" />
+	</gare>
+	<gare nom="Central Secretariat" coord="2193, 1378">
+		<voisin nom="Patel Chowk" distance="14.592210680656141" />
+		<voisin nom="Udyog Bhawan" distance="0.4563037889275818" />
+	</gare>
+	<gare nom="Chandni Chowk" coord="2367, 996">
+		<voisin nom="Kashmere Gate" distance="0.9874374383212671" />
+		<voisin nom="Chawri Bazar" distance="1.2503418411735605" />
+	</gare>
+	<gare nom="Chawri Bazar" coord="2366, 1090">
+		<voisin nom="New Delhi" distance="0.7945131636296204" />
+		<voisin nom="Chandni Chowk" distance="1.2503418411735605" />
+	</gare>
+	<gare nom="Chhattarpur" coord="2076, 2325">
+		<voisin nom="Qutab Minar" distance="1.2969576937102547" />
+		<voisin nom="Sultanpur" distance="1.5825870820437742" />
+	</gare>
+	<gare nom="Civil Lines" coord="2368, 783">
+		<voisin nom="Kashmere Gate" distance="1.0980930590059117" />
+		<voisin nom="Vidhan Sabha" distance="1.2552396919770845" />
+	</gare>
+	<gare nom="G.T.B. Nagar" coord="2261, 559">
+		<voisin nom="Vishwavidyalaya" distance="0.8163391630618549" />
+		<voisin nom="Model Town" distance="1.4075574593619287" />
+	</gare>
+	<gare nom="Ghitorni" coord="1990, 2412">
+		<voisin nom="Arjan Garh" distance="2.7019634399050774" />
+		<voisin nom="Sultanpur" distance="1.340435175041202" />
+	</gare>
+	<gare nom="Green Park" coord="2154, 1930">
+		<voisin nom="Hauz Khas" distance="1.718318713495656" />
+		<voisin nom="AIIMS" distance="19.01945657706103" />
+	</gare>
+	<gare nom="Guru Dronacharya" coord="1902, 2500">
+		<voisin nom="Arjan Garh" distance="2.313841377198043" />
+		<voisin nom="Sikandarpur" distance="0.9050316879668977" />
+	</gare>
+	<gare nom="Haiderpur Badli Mor" coord="1978, 275">
+		<voisin nom="Jahangirpuri" distance="1.394489610756966" />
+		<voisin nom="Rohini Sector 18,19" distance="1.302388945153448" />
+	</gare>
+	<gare nom="Hauz Khas" coord="2154, 2018">
+		<voisin nom="Malviya Nagar" distance="1.8092101377792535" />
+		<voisin nom="Green Park" distance="1.718318713495656" />
+	</gare>
+	<gare nom="Huda City Centre" coord="1233, 2535">
+		<voisin nom="IFFCO Chowk" distance="1.4424780637101204" />
+	</gare>
+	<gare nom="IFFCO Chowk" coord="1332, 2537">
+		<voisin nom="MG Road" distance="1.1021756431595662" />
+		<voisin nom="Huda City Centre" distance="1.4424780637101204" />
+	</gare>
+	<gare nom="INA" coord="2155, 1822">
+		<voisin nom="Jorbagh" distance="1.3098585685605477" />
+		<voisin nom="AIIMS" distance="17.811570662970254" />
+	</gare>
+	<gare nom="Jahangirpuri" coord="2038, 334">
+		<voisin nom="Haiderpur Badli Mor" distance="1.394489610756966" />
+		<voisin nom="Adarsh Nagar" distance="1.2810610459418839" />
+	</gare>
+	<gare nom="Jorbagh" coord="2153, 1601">
+		<voisin nom="INA" distance="1.3098585685605477" />
+		<voisin nom="Lok Kalyan Marg" distance="1.2915144358703463" />
+	</gare>
+	<gare nom="Kashmere Gate" coord="2366, 851">
+		<voisin nom="Civil Lines" distance="1.0980930590059117" />
+		<voisin nom="Chandni Chowk" distance="0.9874374383212671" />
+	</gare>
+	<gare nom="Lok Kalyan Marg" coord="2154, 1534">
+		<voisin nom="Udyog Bhawan" distance="1.493994357545793" />
+		<voisin nom="Jorbagh" distance="1.2915144358703463" />
+	</gare>
+	<gare nom="MG Road" coord="1433, 2535">
+		<voisin nom="IFFCO Chowk" distance="1.1021756431595662" />
+		<voisin nom="Sikandarpur" distance="1.295030440021494" />
+	</gare>
+	<gare nom="Malviya Nagar" coord="2155, 2082">
+		<voisin nom="Saket" distance="0.9446950933264489" />
+		<voisin nom="Hauz Khas" distance="1.8092101377792535" />
+	</gare>
+	<gare nom="Model Town" coord="2200, 497">
+		<voisin nom="G.T.B. Nagar" distance="1.4075574593619287" />
+		<voisin nom="Azadpur" distance="24.953098464382723" />
+	</gare>
+	<gare nom="New Delhi" coord="2367, 1146">
+		<voisin nom="Chawri Bazar" distance="0.7945131636296204" />
+		<voisin nom="Rajiv Chowk" distance="1.054208463607886" />
+	</gare>
+	<gare nom="Patel Chowk" coord="2234, 1333">
+		<voisin nom="Central Secretariat" distance="14.592210680656141" />
+		<voisin nom="Rajiv Chowk" distance="13.889944526486282" />
+	</gare>
+	<gare nom="Qutab Minar" coord="2119, 2282">
+		<voisin nom="Saket" distance="1.7067263553882397" />
+		<voisin nom="Chhattarpur" distance="1.2969576937102547" />
+	</gare>
+	<gare nom="Rajiv Chowk" coord="2297, 1275">
+		<voisin nom="Patel Chowk" distance="13.889944526486282" />
+		<voisin nom="New Delhi" distance="1.054208463607886" />
+	</gare>
+	<gare nom="Rohini Sector 18,19" coord="1929, 226">
+		<voisin nom="Haiderpur Badli Mor" distance="1.302388945153448" />
+		<voisin nom="Samaypur Badli" distance="0.7160583495642636" />
+	</gare>
+	<gare nom="Saket" coord="2154, 2174">
+		<voisin nom="Malviya Nagar" distance="0.9446950933264489" />
+		<voisin nom="Qutab Minar" distance="1.7067263553882397" />
+	</gare>
+	<gare nom="Samaypur Badli" coord="1872, 170">
+		<voisin nom="Rohini Sector 18,19" distance="0.7160583495642636" />
+	</gare>
+	<gare nom="Sikandarpur" coord="1582, 2534">
+		<voisin nom="Guru Dronacharya" distance="0.9050316879668977" />
+		<voisin nom="MG Road" distance="1.295030440021494" />
+	</gare>
+	<gare nom="Sultanpur" coord="2033, 2369">
+		<voisin nom="Chhattarpur" distance="1.5825870820437742" />
+		<voisin nom="Ghitorni" distance="1.340435175041202" />
+	</gare>
+	<gare nom="Udyog Bhawan" coord="2154, 1463">
+		<voisin nom="Lok Kalyan Marg" distance="1.493994357545793" />
+		<voisin nom="Central Secretariat" distance="0.4563037889275818" />
+	</gare>
+	<gare nom="Vidhan Sabha" coord="2368, 716">
+		<voisin nom="Vishwavidyalaya" distance="1.0527129996014466" />
+		<voisin nom="Civil Lines" distance="1.2552396919770845" />
+	</gare>
+	<gare nom="Vishwavidyalaya" coord="2316, 614">
+		<voisin nom="G.T.B. Nagar" distance="0.8163391630618549" />
+		<voisin nom="Vidhan Sabha" distance="1.0527129996014466" />
+	</gare>
+</ligne>

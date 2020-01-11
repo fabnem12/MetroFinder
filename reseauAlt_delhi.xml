@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<gare nom="AIIMS" coord="2154, 1871">
+		<voisin nom="INA" distance="17.811570662970254" lignes="YellowLine" />
+		<voisin nom="Green Park" distance="19.01945657706103" lignes="YellowLine" />
+	</gare>
+	<gare nom="Adarsh Nagar" coord="2090, 386">
+		<voisin nom="Jahangirpuri" distance="1.2810610459418839" lignes="YellowLine" />
+		<voisin nom="Azadpur" distance="25.258837846684212" lignes="YellowLine" />
+	</gare>
+	<gare nom="Akshardham" coord="2933, 1459">
+		<voisin nom="Yamuna Bank" distance="1.8953319520230087" lignes="BlueLine" />
+		<voisin nom="Mayur Vihar Phase-1" distance="1.7943801576686935" lignes="BlueLine" />
+	</gare>
+	<gare nom="Alpha 1  Greater Noida" coord="3511, 2537">
+		<voisin nom="Delta 1 Greater Noida" distance="2.905666007901442" lignes="AquaLine" />
+		<voisin nom="Pari Chowk  Greater Noida" distance="0.8500899638633139" lignes="AquaLine" />
+	</gare>
+	<gare nom="Anand Vihar" coord="3079, 1148|3087, 1162">
+		<voisin nom="Karkar Duma" distance="1.1215920372318566" lignes="BlueLine,PinkLine" />
+		<voisin nom="Kaushambi" distance="0.8362926225260053" lignes="BlueLine" />
+		<voisin nom="IP Extension" distance="1.8216925650303004" lignes="PinkLine" />
+	</gare>
+	<gare nom="Arjan Garh" coord="1946, 2456">
+		<voisin nom="Guru Dronacharya" distance="2.313841377198043" lignes="YellowLine" />
+		<voisin nom="Ghitorni" distance="2.7019634399050774" lignes="YellowLine" />
+	</gare>
+	<gare nom="Ashok Park Main" coord="1616, 882">
+		<voisin nom="Satguru Ram Singh Marg" distance="1.1040236449792682" lignes="GreenLine" />
+		<voisin nom="Punjabi Bagh" distance="0.8952169702749595" lignes="GreenLine" />
+		<voisin nom="Inder Lok" distance="1.4807363941265195" lignes="GreenLine" />
+	</gare>
+	<gare nom="Ashram" coord="2479, 1669">
+		<voisin nom="Vinobapuri" distance="1.2100615246348034" lignes="PinkLine" />
+		<voisin nom="Hazrat Nizamuddin" distance="1.8943778625404732" lignes="PinkLine" />
+	</gare>
+	<gare nom="Azadpur" coord="2128, 427|2128, 459">
+		<voisin nom="Model Town" distance="24.953098464382723" lignes="YellowLine" />
+		<voisin nom="Adarsh Nagar" distance="25.258837846684212" lignes="YellowLine" />
+		<voisin nom="Majlis Park" distance="24.203622453948515" lignes="PinkLine" />
+		<voisin nom="Shalimar Bagh" distance="26.87298647742861" lignes="PinkLine" />
+	</gare>
+	<gare nom="Badarpur" coord="2850, 2284">
+		<voisin nom="Tughlakabad" distance="1.0767350771929236" lignes="VioletLine" />
+		<voisin nom="Sarai" distance="1.738001934990409" lignes="VioletLine" />
+	</gare>
+	<gare nom="Badkal Mor" coord="2850, 2513">
+		<voisin nom="Sector 28 Faridabad" distance="1.734547907170244" lignes="VioletLine" />
+		<voisin nom="Old Faridabad" distance="1.3341529111577872" lignes="VioletLine" />
+	</gare>
+	<gare nom="Bahdurgarh City" coord="110, 880">
+		<voisin nom="Pandit Shree Ram Sharma" distance="1.5472388820874585" lignes="GreenLine" />
+	</gare>
+	<gare nom="Barakhamba" coord="2324, 1328">
+		<voisin nom="Mandi House" distance="1.2163491933152566" lignes="BlueLine" />
+		<voisin nom="Rajiv Chowk" distance="0.48417775008313013" lignes="BlueLine" />
+	</gare>
+	<gare nom="Bata Chowk" coord="2850, 2649">
+		<voisin nom="Escorts Mujesar" distance="1.7840485817158536" lignes="VioletLine" />
+		<voisin nom="Neelam Chowk Ajronda" distance="1.3117487702985908" lignes="VioletLine" />
+	</gare>
+	<gare nom="Bhikaji Cama Place" coord="1935, 1802">
+		<voisin nom="Sarojini Nagar" distance="1.235172420658387" lignes="PinkLine" />
+		<voisin nom="Sir Vishweshwaraiah Moti Bagh" distance="1.4654990785552244" lignes="PinkLine" />
+	</gare>
+	<gare nom="Botanical Garden" coord="3245, 1776|3245, 1808">
+		<voisin nom="Noida Sector 18" distance="1.1220249382912677" lignes="BlueLine" />
+		<voisin nom="Golf Course" distance="1.0881203433927682" lignes="BlueLine" />
+		<voisin nom="Okhla Bird Sanctuary" distance="1.8100354640550071" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Central Secretariat" coord="2193, 1378|2210, 1394">
+		<voisin nom="Patel Chowk" distance="14.592210680656141" lignes="YellowLine" />
+		<voisin nom="Udyog Bhawan" distance="0.4563037889275818" lignes="YellowLine" />
+		<voisin nom="Khan Market" distance="2.079908194602669" lignes="VioletLine" />
+		<voisin nom="Janpath" distance="0.9305281934662611" lignes="VioletLine" />
+	</gare>
+	<gare nom="Chandni Chowk" coord="2367, 996">
+		<voisin nom="Kashmere Gate" distance="0.9874374383212671" lignes="YellowLine" />
+		<voisin nom="Chawri Bazar" distance="1.2503418411735605" lignes="YellowLine" />
+	</gare>
+	<gare nom="Chawri Bazar" coord="2366, 1090">
+		<voisin nom="New Delhi" distance="0.7945131636296204" lignes="YellowLine" />
+		<voisin nom="Chandni Chowk" distance="1.2503418411735605" lignes="YellowLine" />
+	</gare>
+	<gare nom="Chhattarpur" coord="2076, 2325">
+		<voisin nom="Qutab Minar" distance="1.2969576937102547" lignes="YellowLine" />
+		<voisin nom="Sultanpur" distance="1.5825870820437742" lignes="YellowLine" />
+	</gare>
+	<gare nom="Chirag Delhi" coord="2311, 2001">
+		<voisin nom="Panchsheel Park" distance="1.0940187133928196" lignes="MagentaLine" />
+		<voisin nom="Greater Kailash" distance="0.6339738908022136" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Civil Lines" coord="2368, 783">
+		<voisin nom="Kashmere Gate" distance="1.0980930590059117" lignes="YellowLine" />
+		<voisin nom="Vidhan Sabha" distance="1.2552396919770845" lignes="YellowLine" />
+	</gare>
+	<gare nom="DLF Phase 1" coord="1611, 2600">
+		<voisin nom="Sikandarpur (Rapid Metro)" distance="8758.318187744784" lignes="Rapid" />
+		<voisin nom="Sector 42-43" distance="0.0" lignes="Rapid" />
+	</gare>
+	<gare nom="DLF Phase 2" coord="1566, 2436">
+		<voisin nom="Vodaphone Belvedere Towers" distance="0.6489598897177083" lignes="Rapid" />
+		<voisin nom="Sikandarpur (Rapid Metro)" distance="0.6918589230258052" lignes="Rapid" />
+	</gare>
+	<gare nom="DLF Phase 3" coord="1486, 2363">
+		<voisin nom="DLF Phase 2" distance="0.6785428391697029" lignes="Rapid" />
+	</gare>
+	<gare nom="Dabri Mor" coord="1108, 1332">
+		<voisin nom="Dashrath Puri" distance="1.5888325489428998" lignes="MagentaLine" />
+		<voisin nom="Janak Puri West" distance="1.6688077716701912" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Dashrath Puri" coord="1190, 1408">
+		<voisin nom="Palam" distance="1.1232356348516928" lignes="MagentaLine" />
+		<voisin nom="Dabri Mor" distance="1.5888325489428998" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Delhi Aero City" coord="1489, 1812">
+		<voisin nom="IGI Airport" distance="2.3282666883113703" lignes="AirportExpress" />
+		<voisin nom="Dhaula Kuan" distance="6.215381794426411" lignes="AirportExpress" />
+	</gare>
+	<gare nom="Delhi Cantt" coord="1638, 1550">
+		<voisin nom="Durgabai Deshmukh South Campus" distance="3.6341784461731126" lignes="PinkLine" />
+		<voisin nom="Naraina Vihar" distance="1.690127771884586" lignes="PinkLine" />
+	</gare>
+	<gare nom="Delhi Gate" coord="2566, 1153">
+		<voisin nom="ITO" distance="1.2657551121796207" lignes="VioletLine" />
+		<voisin nom="Jama Masjid" distance="1.1872990146915419" lignes="VioletLine" />
+	</gare>
+	<gare nom="Delta 1 Greater Noida" coord="3541, 2537">
+		<voisin nom="Alpha 1  Greater Noida" distance="2.905666007901442" lignes="AquaLine" />
+		<voisin nom="GNIDA Office" distance="1.3226853031712549" lignes="AquaLine" />
+	</gare>
+	<gare nom="Depot Greater Noida" coord="3597, 2537">
+		<voisin nom="GNIDA Office" distance="0.5495993382232608" lignes="AquaLine" />
+	</gare>
+	<gare nom="Dhaula Kuan" coord="1692, 1684">
+		<voisin nom="Shivaji Stadium" distance="6.36483241023227" lignes="AirportExpress" />
+		<voisin nom="Delhi Aero City" distance="6.215381794426411" lignes="AirportExpress" />
+	</gare>
+	<gare nom="Dilshad Garden" coord="3190, 841">
+		<voisin nom="Jhil Mil" distance="0.883275451739879" lignes="RedLine" />
+	</gare>
+	<gare nom="Durgabai Deshmukh South Campus" coord="1786, 1701">
+		<voisin nom="Sir Vishweshwaraiah Moti Bagh" distance="1.3448248609041957" lignes="PinkLine" />
+		<voisin nom="Delhi Cantt" distance="3.6341784461731126" lignes="PinkLine" />
+	</gare>
+	<gare nom="Dwarka" coord="844, 1491">
+		<voisin nom="Dwarka Mor" distance="1.145473646879015" lignes="BlueLine" />
+		<voisin nom="Dwarka Sector 14" distance="1.4473932571860142" lignes="BlueLine" />
+	</gare>
+	<gare nom="Dwarka Mor" coord="844, 1445">
+		<voisin nom="Dwarka" distance="1.145473646879015" lignes="BlueLine" />
+		<voisin nom="Nawada" distance="1.142947453942669" lignes="BlueLine" />
+	</gare>
+	<gare nom="Dwarka Sec-21-Airport" coord="899, 1881|899, 1881">
+		<voisin nom="Dwarka Sector 21" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="IGI Airport" distance="5.608656661961134" lignes="AirportExpress" />
+	</gare>
+	<gare nom="Dwarka Sector 10" coord="909, 1677">
+		<voisin nom="Dwarka Sector 11" distance="0.9531451919483442" lignes="BlueLine" />
+		<voisin nom="Dwarka Sector 9" distance="1.0578255274954296" lignes="BlueLine" />
+	</gare>
+	<gare nom="Dwarka Sector 11" coord="887, 1655">
+		<voisin nom="Dwarka Sector 12" distance="1.1095919960819212" lignes="BlueLine" />
+		<voisin nom="Dwarka Sector 10" distance="0.9531451919483442" lignes="BlueLine" />
+	</gare>
+	<gare nom="Dwarka Sector 12" coord="864, 1632">
+		<voisin nom="Dwarka Sector 13" distance="1.0122763240582997" lignes="BlueLine" />
+		<voisin nom="Dwarka Sector 11" distance="1.1095919960819212" lignes="BlueLine" />
+	</gare>
+	<gare nom="Dwarka Sector 13" coord="844, 1581">
+		<voisin nom="Dwarka Sector 12" distance="1.0122763240582997" lignes="BlueLine" />
+		<voisin nom="Dwarka Sector 14" distance="0.8047510575742104" lignes="BlueLine" />
+	</gare>
+	<gare nom="Dwarka Sector 14" coord="844, 1536">
+		<voisin nom="Dwarka Sector 13" distance="0.8047510575742104" lignes="BlueLine" />
+		<voisin nom="Dwarka" distance="1.4473932571860142" lignes="BlueLine" />
+	</gare>
+	<gare nom="Dwarka Sector 21" coord="888, 1869|888, 1870">
+		<voisin nom="Dwarka Sector 8" distance="1.7192489106830555" lignes="BlueLine" />
+		<voisin nom="Dwarka Sec-21-Airport" distance="4.6096306961911235" lignes="pedestre" />
+	</gare>
+	<gare nom="Dwarka Sector 8" coord="953, 1758">
+		<voisin nom="Dwarka Sector 9" distance="0.9995211751641879" lignes="BlueLine" />
+		<voisin nom="Dwarka Sector 21" distance="1.7192489106830555" lignes="BlueLine" />
+	</gare>
+	<gare nom="Dwarka Sector 9" coord="932, 1700">
+		<voisin nom="Dwarka Sector 10" distance="1.0578255274954296" lignes="BlueLine" />
+		<voisin nom="Dwarka Sector 8" distance="0.9995211751641879" lignes="BlueLine" />
+	</gare>
+	<gare nom="ESI Hospital" coord="1392, 1021">
+		<voisin nom="Punjabi Bagh West" distance="1.991291332917845" lignes="PinkLine" />
+		<voisin nom="Rajouri Garden" distance="1.0624986475579141" lignes="PinkLine" />
+	</gare>
+	<gare nom="East Azad Nagar" coord="2911, 958">
+		<voisin nom="Shahdara" distance="1.111856506596118" lignes="PinkLine" />
+		<voisin nom="Krishna Nagar" distance="0.9239735963129296" lignes="PinkLine" />
+	</gare>
+	<gare nom="Escorts Mujesar" coord="2848, 2690">
+		<voisin nom="Bata Chowk" distance="1.7840485817158536" lignes="VioletLine" />
+	</gare>
+	<gare nom="G.T.B. Nagar" coord="2261, 559">
+		<voisin nom="Vishwavidyalaya" distance="0.8163391630618549" lignes="YellowLine" />
+		<voisin nom="Model Town" distance="1.4075574593619287" lignes="YellowLine" />
+	</gare>
+	<gare nom="GNIDA Office" coord="3573, 2537">
+		<voisin nom="Depot Greater Noida" distance="0.5495993382232608" lignes="AquaLine" />
+		<voisin nom="Delta 1 Greater Noida" distance="1.3226853031712549" lignes="AquaLine" />
+	</gare>
+	<gare nom="Ghevra Metro station" coord="492, 881">
+		<voisin nom="Mundka Industrial Area (MIA)" distance="2.0582787436509924" lignes="GreenLine" />
+		<voisin nom="Tikri Kalan" distance="1.8424635605160526" lignes="GreenLine" />
+	</gare>
+	<gare nom="Ghitorni" coord="1990, 2412">
+		<voisin nom="Arjan Garh" distance="2.7019634399050774" lignes="YellowLine" />
+		<voisin nom="Sultanpur" distance="1.340435175041202" lignes="YellowLine" />
+	</gare>
+	<gare nom="Gokulpuri" coord="2928, 693">
+		<voisin nom="Johri Enclave" distance="1.2436100492518587" lignes="PinkLine" />
+		<voisin nom="Maujpur" distance="1.3024168192354297" lignes="PinkLine" />
+	</gare>
+	<gare nom="Golf Course" coord="3359, 1832">
+		<voisin nom="Botanical Garden" distance="1.0881203433927682" lignes="BlueLine" />
+		<voisin nom="Noida City Center" distance="1.3516005351123512" lignes="BlueLine" />
+	</gare>
+	<gare nom="Govind Puri" coord="2633, 1937">
+		<voisin nom="Kalkaji Mandir" distance="0.7252072940189663" lignes="VioletLine" />
+		<voisin nom="Okhla" distance="1.0397053233336464" lignes="VioletLine" />
+	</gare>
+	<gare nom="Greater Kailash" coord="2383, 1999">
+		<voisin nom="Nehru Enclave" distance="1.3187875715085893" lignes="MagentaLine" />
+		<voisin nom="Chirag Delhi" distance="0.6339738908022136" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Green Park" coord="2154, 1930">
+		<voisin nom="Hauz Khas" distance="1.718318713495656" lignes="YellowLine" />
+		<voisin nom="AIIMS" distance="19.01945657706103" lignes="YellowLine" />
+	</gare>
+	<gare nom="Guru Dronacharya" coord="1902, 2500">
+		<voisin nom="Arjan Garh" distance="2.313841377198043" lignes="YellowLine" />
+		<voisin nom="Sikandarpur" distance="0.9050316879668977" lignes="YellowLine" />
+	</gare>
+	<gare nom="Haiderpur Badli Mor" coord="1978, 275">
+		<voisin nom="Jahangirpuri" distance="1.394489610756966" lignes="YellowLine" />
+		<voisin nom="Rohini Sector 18,19" distance="1.302388945153448" lignes="YellowLine" />
+	</gare>
+	<gare nom="Hauz Khas" coord="2137, 2001|2154, 2018">
+		<voisin nom="Malviya Nagar" distance="1.8092101377792535" lignes="YellowLine" />
+		<voisin nom="Green Park" distance="1.718318713495656" lignes="YellowLine" />
+		<voisin nom="Panchsheel Park" distance="1.396128398034993" lignes="MagentaLine" />
+		<voisin nom="IIT Delhi" distance="1.371081101005387" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Hazrat Nizamuddin" coord="2510, 1635">
+		<voisin nom="Ashram" distance="1.8943778625404732" lignes="PinkLine" />
+		<voisin nom="Mayur Vihar Phase-1" distance="3.65913611592278" lignes="PinkLine" />
+	</gare>
+	<gare nom="Huda City Centre" coord="1233, 2535">
+		<voisin nom="IFFCO Chowk" distance="1.4424780637101204" lignes="YellowLine" />
+	</gare>
+	<gare nom="IFFCO Chowk" coord="1332, 2537">
+		<voisin nom="MG Road" distance="1.1021756431595662" lignes="YellowLine" />
+		<voisin nom="Huda City Centre" distance="1.4424780637101204" lignes="YellowLine" />
+	</gare>
+	<gare nom="IGI Airport" coord="1301, 1812">
+		<voisin nom="Dwarka Sec-21-Airport" distance="5.608656661961134" lignes="AirportExpress" />
+		<voisin nom="Delhi Aero City" distance="2.3282666883113703" lignes="AirportExpress" />
+	</gare>
+	<gare nom="IIT Delhi" coord="1972, 1998">
+		<voisin nom="Hauz Khas" distance="1.371081101005387" lignes="MagentaLine" />
+		<voisin nom="R.K Puram" distance="0.9391085642797651" lignes="MagentaLine" />
+	</gare>
+	<gare nom="INA" coord="2138, 1805|2155, 1822">
+		<voisin nom="Jorbagh" distance="1.3098585685605477" lignes="YellowLine" />
+		<voisin nom="AIIMS" distance="17.811570662970254" lignes="YellowLine" />
+		<voisin nom="Sarojini Nagar" distance="1.1696861416824718" lignes="PinkLine" />
+		<voisin nom="South Extension" distance="1.1816730973561338" lignes="PinkLine" />
+	</gare>
+	<gare nom="IP Extension" coord="3091, 1277">
+		<voisin nom="Mandawali - West Vinod Nagar" distance="0.9456881016021526" lignes="PinkLine" />
+		<voisin nom="Anand Vihar" distance="1.8216925650303004" lignes="PinkLine" />
+	</gare>
+	<gare nom="ITO" coord="2565, 1235">
+		<voisin nom="Mandi House" distance="0.6901481748776146" lignes="VioletLine" />
+		<voisin nom="Delhi Gate" distance="1.2657551121796207" lignes="VioletLine" />
+	</gare>
+	<gare nom="Inder Lok" coord="1688, 776|1699, 787">
+		<voisin nom="Shastri Nagar" distance="1.2084397989091253" lignes="RedLine" />
+		<voisin nom="Kanhaiya Nagar" distance="1.1324162825716588" lignes="RedLine" />
+		<voisin nom="Ashok Park Main" distance="1.4807363941265195" lignes="GreenLine" />
+	</gare>
+	<gare nom="Indraprastha" coord="2653, 1412">
+		<voisin nom="Yamuna Bank" distance="0.9906283623105325" lignes="BlueLine" />
+		<voisin nom="Pragati Maidan" distance="0.8018830358632341" lignes="BlueLine" />
+	</gare>
+	<gare nom="Indus Bank Cyber City" coord="1367, 2316">
+		<voisin nom="DLF Phase 3" distance="0.7972007968273694" lignes="Rapid" />
+	</gare>
+	<gare nom="Jaffrabad" coord="2913, 768">
+		<voisin nom="Shahdara" distance="1.8152168767360506" lignes="PinkLine" />
+		<voisin nom="Maujpur" distance="1.149600190426278" lignes="PinkLine" />
+	</gare>
+	<gare nom="Jahangirpuri" coord="2038, 334">
+		<voisin nom="Haiderpur Badli Mor" distance="1.394489610756966" lignes="YellowLine" />
+		<voisin nom="Adarsh Nagar" distance="1.2810610459418839" lignes="YellowLine" />
+	</gare>
+	<gare nom="Jama Masjid" coord="2565, 1088">
+		<voisin nom="Lal Quila" distance="0.7324512260900735" lignes="VioletLine" />
+		<voisin nom="Delhi Gate" distance="1.1872990146915419" lignes="VioletLine" />
+	</gare>
+	<gare nom="Jamia Millia Islamia" coord="2740, 1769">
+		<voisin nom="Okhla Vihar" distance="0.7280171347082255" lignes="MagentaLine" />
+		<voisin nom="Sukhdev Vihar" distance="0.9639596008259689" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Janak Puri East" coord="1057, 1197">
+		<voisin nom="Tilak Nagar" distance="1.421092051874737" lignes="BlueLine" />
+		<voisin nom="Janak Puri West" distance="0.5548951877995629" lignes="BlueLine" />
+	</gare>
+	<gare nom="Janak Puri West" coord="1017, 1240|1034, 1257">
+		<voisin nom="Janak Puri East" distance="0.5548951877995629" lignes="BlueLine" />
+		<voisin nom="Uttam Nagar East" distance="1.4085903779688702" lignes="BlueLine" />
+		<voisin nom="Dabri Mor" distance="1.6688077716701912" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Jangpura" coord="2265, 1615">
+		<voisin nom="Jawaharlal Nehru Stadium" distance="1.0170077159588218" lignes="VioletLine" />
+		<voisin nom="Lajpat Nagar" distance="1.444335625589932" lignes="VioletLine" />
+	</gare>
+	<gare nom="Janpath" coord="2321, 1372">
+		<voisin nom="Mandi House" distance="1.9983385183279063" lignes="VioletLine" />
+		<voisin nom="Central Secretariat" distance="0.9305281934662611" lignes="VioletLine" />
+	</gare>
+	<gare nom="Jasola" coord="2850, 2064">
+		<voisin nom="Sarita Vihar" distance="1.1082970723454089" lignes="VioletLine" />
+		<voisin nom="Okhla" distance="0.9782148967971788" lignes="VioletLine" />
+	</gare>
+	<gare nom="Jasola Vihar Shaheen Bagh" coord="2944, 1912">
+		<voisin nom="Kalindi Kunj" distance="1.3713562579457246" lignes="MagentaLine" />
+		<voisin nom="Okhla Vihar" distance="1.744701002738643" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Jawaharlal Nehru Stadium" coord="2223, 1572">
+		<voisin nom="Khan Market" distance="1.4363055398801383" lignes="VioletLine" />
+		<voisin nom="Jangpura" distance="1.0170077159588218" lignes="VioletLine" />
+	</gare>
+	<gare nom="Jhandewalan" coord="2165, 1168">
+		<voisin nom="Rajiv Chowk" distance="2.294973305073757" lignes="BlueLine" />
+		<voisin nom="R K Ashram Marg" distance="1.023247700254351" lignes="BlueLine" />
+	</gare>
+	<gare nom="Jhil Mil" coord="3125, 842">
+		<voisin nom="Dilshad Garden" distance="0.883275451739879" lignes="RedLine" />
+		<voisin nom="Mansarovar Park" distance="1.207229383351065" lignes="RedLine" />
+	</gare>
+	<gare nom="Johri Enclave" coord="2969, 659">
+		<voisin nom="Gokulpuri" distance="1.2436100492518587" lignes="PinkLine" />
+		<voisin nom="Shiv Vihar" distance="2893.3629950774257" lignes="PinkLine" />
+	</gare>
+	<gare nom="Jorbagh" coord="2153, 1601">
+		<voisin nom="INA" distance="1.3098585685605477" lignes="YellowLine" />
+		<voisin nom="Lok Kalyan Marg" distance="1.2915144358703463" lignes="YellowLine" />
+	</gare>
+	<gare nom="Kailash Colony" coord="2483, 1835">
+		<voisin nom="Nehru Place" distance="1.0487562972958175" lignes="VioletLine" />
+		<voisin nom="Moolchand" distance="1.237858979232124" lignes="VioletLine" />
+	</gare>
+	<gare nom="Kalindi Kunj" coord="3066, 1983">
+		<voisin nom="Okhla Bird Sanctuary" distance="1.579581309730177" lignes="MagentaLine" />
+		<voisin nom="Jasola Vihar Shaheen Bagh" distance="1.3713562579457246" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Kalkaji Mandir" coord="2557, 1909|2557, 1941">
+		<voisin nom="Nehru Enclave" distance="0.934110904873006" lignes="MagentaLine" />
+		<voisin nom="Sukhdev Vihar" distance="1.9297585306393747" lignes="MagentaLine" />
+		<voisin nom="Govind Puri" distance="0.7252072940189663" lignes="VioletLine" />
+		<voisin nom="Nehru Place" distance="0.7527520251179168" lignes="VioletLine" />
+	</gare>
+	<gare nom="Kanhaiya Nagar" coord="1625, 699">
+		<voisin nom="Inder Lok" distance="1.1324162825716588" lignes="RedLine" />
+		<voisin nom="Keshav Puram" distance="0.6163415819225342" lignes="RedLine" />
+	</gare>
+	<gare nom="Karkar Duma" coord="3008, 1148|3008, 1163">
+		<voisin nom="Anand Vihar" distance="1.1215920372318566" lignes="BlueLine,PinkLine" />
+		<voisin nom="Preet Vihar" distance="1.2292866155377598" lignes="BlueLine" />
+		<voisin nom="Karkarduma Court" distance="1.0406136954760605" lignes="PinkLine" />
+	</gare>
+	<gare nom="Karkarduma Court" coord="2912, 1049">
+		<voisin nom="Karkar Duma" distance="1.0406136954760605" lignes="PinkLine" />
+		<voisin nom="Krishna Nagar" distance="0.7075395994131897" lignes="PinkLine" />
+	</gare>
+	<gare nom="Karol Bagh" coord="1967, 1125">
+		<voisin nom="Rajendra Place" distance="1.020506924528547" lignes="BlueLine" />
+		<voisin nom="R K Ashram Marg" distance="2.016512067330596" lignes="BlueLine" />
+	</gare>
+	<gare nom="Kashmere Gate" coord="2339, 851|2366, 878">
+		<voisin nom="Tis Hazari" distance="1.5248848412429152" lignes="RedLine" />
+		<voisin nom="Shastri Park" distance="1.5248848412429152" lignes="RedLine" />
+		<voisin nom="Civil Lines" distance="1.0980930590059117" lignes="YellowLine" />
+		<voisin nom="Chandni Chowk" distance="0.9874374383212671" lignes="YellowLine" />
+		<voisin nom="Lal Quila" distance="1.4574474892312406" lignes="VioletLine" />
+	</gare>
+	<gare nom="Kaushambi" coord="3190, 1148">
+		<voisin nom="Anand Vihar" distance="0.8362926225260053" lignes="BlueLine" />
+		<voisin nom="Vaishali" distance="1.4510582666918366" lignes="BlueLine" />
+	</gare>
+	<gare nom="Keshav Puram" coord="1586, 661">
+		<voisin nom="Netaji Subhash Place" distance="1.3474566200697347" lignes="RedLine" />
+		<voisin nom="Kanhaiya Nagar" distance="0.6163415819225342" lignes="RedLine" />
+	</gare>
+	<gare nom="Khan Market" coord="2193, 1480">
+		<voisin nom="Jawaharlal Nehru Stadium" distance="1.4363055398801383" lignes="VioletLine" />
+		<voisin nom="Central Secretariat" distance="2.079908194602669" lignes="VioletLine" />
+	</gare>
+	<gare nom="Kirti Nagar" coord="1589, 1113|1589, 1129">
+		<voisin nom="Shadipur" distance="0.6955941384928572" lignes="BlueLine" />
+		<voisin nom="Moti Nagar" distance="0.9334763135982573" lignes="BlueLine" />
+		<voisin nom="Satguru Ram Singh Marg" distance="0.9580344320955195" lignes="GreenLine" />
+	</gare>
+	<gare nom="Knowledge Park II" coord="3447, 2537">
+		<voisin nom="Noida Sector 148" distance="2.686644413783804" lignes="AquaLine" />
+		<voisin nom="Pari Chowk  Greater Noida" distance="0.9876914913316007" lignes="AquaLine" />
+	</gare>
+	<gare nom="Kohat Enclave" coord="1548, 623">
+		<voisin nom="Pitam Pura" distance="0.9653523129027899" lignes="RedLine" />
+		<voisin nom="Netaji Subhash Place" distance="1.2042988201680926" lignes="RedLine" />
+	</gare>
+	<gare nom="Krishna Nagar" coord="2912, 1003">
+		<voisin nom="Karkarduma Court" distance="0.7075395994131897" lignes="PinkLine" />
+		<voisin nom="East Azad Nagar" distance="0.9239735963129296" lignes="PinkLine" />
+	</gare>
+	<gare nom="Lajpat Nagar" coord="2399, 1749|2399, 1781">
+		<voisin nom="South Extension" distance="1.6622659437736518" lignes="PinkLine" />
+		<voisin nom="Vinobapuri" distance="1.2799810642773817" lignes="PinkLine" />
+		<voisin nom="Jangpura" distance="1.444335625589932" lignes="VioletLine" />
+		<voisin nom="Moolchand" distance="0.7713585331266783" lignes="VioletLine" />
+	</gare>
+	<gare nom="Lal Quila" coord="2542, 1034">
+		<voisin nom="Kashmere Gate" distance="1.4574474892312406" lignes="VioletLine" />
+		<voisin nom="Jama Masjid" distance="0.7324512260900735" lignes="VioletLine" />
+	</gare>
+	<gare nom="Laxmi Nagar" coord="2838, 1281">
+		<voisin nom="Yamuna Bank" distance="1.742863947976263" lignes="BlueLine" />
+		<voisin nom="Nirman Vihar" distance="1.6340753984281655" lignes="BlueLine" />
+	</gare>
+	<gare nom="Lok Kalyan Marg" coord="2154, 1534">
+		<voisin nom="Udyog Bhawan" distance="1.493994357545793" lignes="YellowLine" />
+		<voisin nom="Jorbagh" distance="1.2915144358703463" lignes="YellowLine" />
+	</gare>
+	<gare nom="MG Road" coord="1433, 2535">
+		<voisin nom="IFFCO Chowk" distance="1.1021756431595662" lignes="YellowLine" />
+		<voisin nom="Sikandarpur" distance="1.295030440021494" lignes="YellowLine" />
+	</gare>
+	<gare nom="Madi Pur" coord="1329, 878">
+		<voisin nom="Paschim Vihar (East)" distance="0.7194173481797685" lignes="GreenLine" />
+		<voisin nom="Shivaji Park" distance="1.0651717983059856" lignes="GreenLine" />
+	</gare>
+	<gare nom="Majlis Park" coord="2193, 322">
+		<voisin nom="Azadpur" distance="24.203622453948515" lignes="PinkLine" />
+	</gare>
+	<gare nom="Malviya Nagar" coord="2155, 2082">
+		<voisin nom="Saket" distance="0.9446950933264489" lignes="YellowLine" />
+		<voisin nom="Hauz Khas" distance="1.8092101377792535" lignes="YellowLine" />
+	</gare>
+	<gare nom="Mandawali - West Vinod Nagar" coord="3092, 1322">
+		<voisin nom="Vinod Nagar East" distance="0.5462155196982144" lignes="PinkLine" />
+		<voisin nom="IP Extension" distance="0.9456881016021526" lignes="PinkLine" />
+	</gare>
+	<gare nom="Mandi House" coord="2431, 1378|2431, 1410">
+		<voisin nom="Barakhamba" distance="1.2163491933152566" lignes="BlueLine" />
+		<voisin nom="Pragati Maidan" distance="0.8048561679958072" lignes="BlueLine" />
+		<voisin nom="ITO" distance="0.6901481748776146" lignes="VioletLine" />
+		<voisin nom="Janpath" distance="1.9983385183279063" lignes="VioletLine" />
+	</gare>
+	<gare nom="Mansarovar Park" coord="3037, 839">
+		<voisin nom="Jhil Mil" distance="1.207229383351065" lignes="RedLine" />
+		<voisin nom="Shahdara" distance="1.003618639609914" lignes="RedLine" />
+	</gare>
+	<gare nom="Maujpur" coord="2913, 734">
+		<voisin nom="Gokulpuri" distance="1.3024168192354297" lignes="PinkLine" />
+		<voisin nom="Jaffrabad" distance="1.149600190426278" lignes="PinkLine" />
+	</gare>
+	<gare nom="Maya Puri" coord="1413, 1318">
+		<voisin nom="Rajouri Garden" distance="1.4886776224083935" lignes="PinkLine" />
+		<voisin nom="Naraina Vihar" distance="1.5951986404317404" lignes="PinkLine" />
+	</gare>
+	<gare nom="Mayur Vihar Extention" coord="3020, 1548">
+		<voisin nom="New Ashok Nagar" distance="0.9168871778745066" lignes="BlueLine" />
+		<voisin nom="Mayur Vihar Phase-1" distance="1.2779484152475196" lignes="BlueLine" />
+	</gare>
+	<gare nom="Mayur Vihar Phase-1" coord="2968, 1507|2980, 1519">
+		<voisin nom="Mayur Vihar Extention" distance="1.2779484152475196" lignes="BlueLine" />
+		<voisin nom="Akshardham" distance="1.7943801576686935" lignes="BlueLine" />
+		<voisin nom="Mayur Vihar Pocket I" distance="0.9298888015877291" lignes="PinkLine" />
+		<voisin nom="Hazrat Nizamuddin" distance="3.65913611592278" lignes="PinkLine" />
+	</gare>
+	<gare nom="Mayur Vihar Pocket I" coord="3052, 1491">
+		<voisin nom="Mayur Vihar Phase-1" distance="0.9298888015877291" lignes="PinkLine" />
+	</gare>
+	<gare nom="Mewala Maharajpur" coord="2849, 2423">
+		<voisin nom="N.H.P.C. Chowk" distance="0.9892771151732808" lignes="VioletLine" />
+		<voisin nom="Sector 28 Faridabad" distance="1.1693441736305765" lignes="VioletLine" />
+	</gare>
+	<gare nom="Model Town" coord="2200, 497">
+		<voisin nom="G.T.B. Nagar" distance="1.4075574593619287" lignes="YellowLine" />
+		<voisin nom="Azadpur" distance="24.953098464382723" lignes="YellowLine" />
+	</gare>
+	<gare nom="Mohan Estate" coord="2850, 2175">
+		<voisin nom="Tughlakabad" distance="1.969818053231828" lignes="VioletLine" />
+		<voisin nom="Sarita Vihar" distance="1.2074022058225728" lignes="VioletLine" />
+	</gare>
+	<gare nom="Moolchand" coord="2442, 1794">
+		<voisin nom="Kailash Colony" distance="1.237858979232124" lignes="VioletLine" />
+		<voisin nom="Lajpat Nagar" distance="0.7713585331266783" lignes="VioletLine" />
+	</gare>
+	<gare nom="Moti Nagar" coord="1495, 1129">
+		<voisin nom="Ramesh Nagar" distance="1.2232034485269174" lignes="BlueLine" />
+		<voisin nom="Kirti Nagar" distance="0.9334763135982573" lignes="BlueLine" />
+	</gare>
+	<gare nom="Mundka" coord="608, 882">
+		<voisin nom="Mundka Industrial Area (MIA)" distance="1.2817967177662932" lignes="GreenLine" />
+		<voisin nom="Rajdhani Park" distance="1.330889552361588" lignes="GreenLine" />
+	</gare>
+	<gare nom="Mundka Industrial Area (MIA)" coord="551, 879">
+		<voisin nom="Ghevra Metro station" distance="2.0582787436509924" lignes="GreenLine" />
+		<voisin nom="Mundka" distance="1.2817967177662932" lignes="GreenLine" />
+	</gare>
+	<gare nom="Munirka" coord="1766, 1956">
+		<voisin nom="Vasant Vihar" distance="1.2085098288162548" lignes="MagentaLine" />
+		<voisin nom="R.K Puram" distance="1.2883476978307111" lignes="MagentaLine" />
+	</gare>
+	<gare nom="N.H.P.C. Chowk" coord="2850, 2379">
+		<voisin nom="Mewala Maharajpur" distance="0.9892771151732808" lignes="VioletLine" />
+		<voisin nom="Sarai" distance="2.2851688495886386" lignes="VioletLine" />
+	</gare>
+	<gare nom="NSEZ Noida" coord="3434, 2114">
+		<voisin nom="Noida Sector 81" distance="1.9585634628895348" lignes="AquaLine" />
+		<voisin nom="Noida Sector 83" distance="1.1075614094023398" lignes="AquaLine" />
+	</gare>
+	<gare nom="Nangloi" coord="865, 880">
+		<voisin nom="Surajmal Stadium" distance="0.9082637838413042" lignes="GreenLine" />
+		<voisin nom="Nangloi Rly Station" distance="0.8395564342097936" lignes="GreenLine" />
+	</gare>
+	<gare nom="Nangloi Rly Station" coord="770, 882">
+		<voisin nom="Nangloi" distance="0.8395564342097936" lignes="GreenLine" />
+		<voisin nom="Rajdhani Park" distance="1.1953078991692798" lignes="GreenLine" />
+	</gare>
+	<gare nom="Naraina Vihar" coord="1540, 1450">
+		<voisin nom="Maya Puri" distance="1.5951986404317404" lignes="PinkLine" />
+		<voisin nom="Delhi Cantt" distance="1.690127771884586" lignes="PinkLine" />
+	</gare>
+	<gare nom="Nawada" coord="894, 1360">
+		<voisin nom="Uttam Nagar West" distance="1.1066482698263593" lignes="BlueLine" />
+		<voisin nom="Dwarka Mor" distance="1.142947453942669" lignes="BlueLine" />
+	</gare>
+	<gare nom="Neelam Chowk Ajronda" coord="2850, 2603">
+		<voisin nom="Bata Chowk" distance="1.3117487702985908" lignes="VioletLine" />
+		<voisin nom="Old Faridabad" distance="1.4542003965105794" lignes="VioletLine" />
+	</gare>
+	<gare nom="Nehru Enclave" coord="2463, 2001">
+		<voisin nom="Kalkaji Mandir" distance="0.934110904873006" lignes="MagentaLine" />
+		<voisin nom="Greater Kailash" distance="1.3187875715085893" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Nehru Place" coord="2526, 1877">
+		<voisin nom="Kalkaji Mandir" distance="0.7527520251179168" lignes="VioletLine" />
+		<voisin nom="Kailash Colony" distance="1.0487562972958175" lignes="VioletLine" />
+	</gare>
+	<gare nom="Netaji Subhash Place" coord="1496, 572|1497, 603">
+		<voisin nom="Kohat Enclave" distance="1.2042988201680926" lignes="RedLine" />
+		<voisin nom="Keshav Puram" distance="1.3474566200697347" lignes="RedLine" />
+		<voisin nom="Shalimar Bagh" distance="1.2996040747652786" lignes="PinkLine" />
+		<voisin nom="Shakurpur" distance="1.1848188983541013" lignes="PinkLine" />
+	</gare>
+	<gare nom="New Ashok Nagar" coord="3059, 1589">
+		<voisin nom="Mayur Vihar Extention" distance="0.9168871778745066" lignes="BlueLine" />
+		<voisin nom="Noida Sector 15" distance="1.0800247812533836" lignes="BlueLine" />
+	</gare>
+	<gare nom="New Delhi" coord="2367, 1145|2382, 1146">
+		<voisin nom="Chawri Bazar" distance="0.7945131636296204" lignes="YellowLine" />
+		<voisin nom="Rajiv Chowk" distance="1.054208463607886" lignes="YellowLine" />
+		<voisin nom="New Delhi-Airport Express" distance="4.6096306961911235" lignes="pedestre" />
+	</gare>
+	<gare nom="New Delhi-Airport Express" coord="2353, 1145|2353, 1145">
+		<voisin nom="New Delhi" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="Shivaji Stadium" distance="1.7986727678895569" lignes="AirportExpress" />
+	</gare>
+	<gare nom="Nirman Vihar" coord="2886, 1232">
+		<voisin nom="Laxmi Nagar" distance="1.6340753984281655" lignes="BlueLine" />
+		<voisin nom="Preet Vihar" distance="0.736341720189581" lignes="BlueLine" />
+	</gare>
+	<gare nom="Noida City Center" coord="3407, 1833">
+		<voisin nom="Golf Course" distance="1.3516005351123512" lignes="BlueLine" />
+	</gare>
+	<gare nom="Noida Sector 101" coord="3434, 2006">
+		<voisin nom="Noida Sector 81" distance="1.8337051508536555" lignes="AquaLine" />
+		<voisin nom="Noida Sector 76" distance="1.6124910606983762" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 137" coord="3434, 2210">
+		<voisin nom="Noida Sector 142" distance="0.0" lignes="AquaLine" />
+		<voisin nom="Noida Sector 83" distance="3.2146483537702615" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 142" coord="3434, 2253">
+		<voisin nom="Noida Sector 137" distance="0.0" lignes="AquaLine" />
+		<voisin nom="Noida Sector 143" distance="1.2811965013674689" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 143" coord="3434, 2300">
+		<voisin nom="Noida Sector 144" distance="1.3581083460651893" lignes="AquaLine" />
+		<voisin nom="Noida Sector 142" distance="1.2811965013674689" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 144" coord="3434, 2343">
+		<voisin nom="Noida Sector 145" distance="1.939788019920676" lignes="AquaLine" />
+		<voisin nom="Noida Sector 143" distance="1.3581083460651893" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 145" coord="3434, 2391">
+		<voisin nom="Noida Sector 146" distance="1.7207255039015397" lignes="AquaLine" />
+		<voisin nom="Noida Sector 144" distance="1.939788019920676" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 146" coord="3434, 2435">
+		<voisin nom="Noida Sector 145" distance="1.7207255039015397" lignes="AquaLine" />
+		<voisin nom="Noida Sector 147" distance="1.342971501074308" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 147" coord="3434, 2474">
+		<voisin nom="Noida Sector 146" distance="1.342971501074308" lignes="AquaLine" />
+		<voisin nom="Noida Sector 148" distance="1.1208878220483303" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 148" coord="3434, 2512">
+		<voisin nom="Knowledge Park II" distance="2.686644413783804" lignes="AquaLine" />
+		<voisin nom="Noida Sector 147" distance="1.1208878220483303" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 15" coord="3108, 1639">
+		<voisin nom="New Ashok Nagar" distance="1.0800247812533836" lignes="BlueLine" />
+		<voisin nom="Noida Sector 16" distance="0.9031376661427172" lignes="BlueLine" />
+	</gare>
+	<gare nom="Noida Sector 16" coord="3158, 1689">
+		<voisin nom="Noida Sector 18" distance="1.207482978508565" lignes="BlueLine" />
+		<voisin nom="Noida Sector 15" distance="0.9031376661427172" lignes="BlueLine" />
+	</gare>
+	<gare nom="Noida Sector 18" coord="3207, 1738">
+		<voisin nom="Botanical Garden" distance="1.1220249382912677" lignes="BlueLine" />
+		<voisin nom="Noida Sector 16" distance="1.207482978508565" lignes="BlueLine" />
+	</gare>
+	<gare nom="Noida Sector 50" coord="3434, 1924">
+		<voisin nom="Noida Sector 51" distance="4.45338516053163" lignes="AquaLine" />
+		<voisin nom="Noida Sector 76" distance="1.0426632485033842" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 51" coord="3436, 1902">
+		<voisin nom="Noida Sector 50" distance="4.45338516053163" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 76" coord="3434, 1958">
+		<voisin nom="Noida Sector 101" distance="1.6124910606983762" lignes="AquaLine" />
+		<voisin nom="Noida Sector 50" distance="1.0426632485033842" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 81" coord="3434, 2062">
+		<voisin nom="NSEZ Noida" distance="1.9585634628895348" lignes="AquaLine" />
+		<voisin nom="Noida Sector 101" distance="1.8337051508536555" lignes="AquaLine" />
+	</gare>
+	<gare nom="Noida Sector 83" coord="3434, 2164">
+		<voisin nom="NSEZ Noida" distance="1.1075614094023398" lignes="AquaLine" />
+		<voisin nom="Noida Sector 137" distance="3.2146483537702615" lignes="AquaLine" />
+	</gare>
+	<gare nom="Okhla" coord="2739, 1935">
+		<voisin nom="Govind Puri" distance="1.0397053233336464" lignes="VioletLine" />
+		<voisin nom="Jasola" distance="0.9782148967971788" lignes="VioletLine" />
+	</gare>
+	<gare nom="Okhla Bird Sanctuary" coord="3164, 1888">
+		<voisin nom="Kalindi Kunj" distance="1.579581309730177" lignes="MagentaLine" />
+		<voisin nom="Botanical Garden" distance="1.8100354640550071" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Okhla Vihar" coord="2850, 1822">
+		<voisin nom="Jamia Millia Islamia" distance="0.7280171347082255" lignes="MagentaLine" />
+		<voisin nom="Jasola Vihar Shaheen Bagh" distance="1.744701002738643" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Old Faridabad" coord="2850, 2560">
+		<voisin nom="Badkal Mor" distance="1.3341529111577872" lignes="VioletLine" />
+		<voisin nom="Neelam Chowk Ajronda" distance="1.4542003965105794" lignes="VioletLine" />
+	</gare>
+	<gare nom="Palam" coord="1264, 1478">
+		<voisin nom="Dashrath Puri" distance="1.1232356348516928" lignes="MagentaLine" />
+		<voisin nom="Dabri Mor" distance="2.7097159128585666" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Panchsheel Park" coord="2231, 1999">
+		<voisin nom="Hauz Khas" distance="1.396128398034993" lignes="MagentaLine" />
+		<voisin nom="Chirag Delhi" distance="1.0940187133928196" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Pandit Shree Ram Sharma" coord="201, 882">
+		<voisin nom="Bahdurgarh City" distance="1.5472388820874585" lignes="GreenLine" />
+		<voisin nom="Tikri Border" distance="1.291224604942696" lignes="GreenLine" />
+	</gare>
+	<gare nom="Pari Chowk  Greater Noida" coord="3479, 2537">
+		<voisin nom="Knowledge Park II" distance="0.9876914913316007" lignes="AquaLine" />
+		<voisin nom="Alpha 1  Greater Noida" distance="0.8500899638633139" lignes="AquaLine" />
+	</gare>
+	<gare nom="Paschim Vihar (East)" coord="1262, 881">
+		<voisin nom="Paschim Vihar (West)" distance="1.0032636932087096" lignes="GreenLine" />
+		<voisin nom="Madi Pur" distance="0.7194173481797685" lignes="GreenLine" />
+	</gare>
+	<gare nom="Paschim Vihar (West)" coord="1194, 880">
+		<voisin nom="Peera Garhi" distance="0.9414698105394244" lignes="GreenLine" />
+		<voisin nom="Paschim Vihar (East)" distance="1.0032636932087096" lignes="GreenLine" />
+	</gare>
+	<gare nom="Patel Chowk" coord="2234, 1333">
+		<voisin nom="Central Secretariat" distance="14.592210680656141" lignes="YellowLine" />
+		<voisin nom="Rajiv Chowk" distance="13.889944526486282" lignes="YellowLine" />
+	</gare>
+	<gare nom="Patel Nagar" coord="1822, 1126">
+		<voisin nom="Rajendra Place" distance="0.9342791778880998" lignes="BlueLine" />
+		<voisin nom="Shadipur" distance="1.3714015911758537" lignes="BlueLine" />
+	</gare>
+	<gare nom="Peera Garhi" coord="1118, 882">
+		<voisin nom="Paschim Vihar (West)" distance="0.9414698105394244" lignes="GreenLine" />
+		<voisin nom="Udyog Nagar" distance="1.1589128869867409" lignes="GreenLine" />
+	</gare>
+	<gare nom="Pitam Pura" coord="1466, 544">
+		<voisin nom="Rohini East" distance="0.8210848052003423" lignes="RedLine" />
+		<voisin nom="Kohat Enclave" distance="0.9653523129027899" lignes="RedLine" />
+	</gare>
+	<gare nom="Pragati Maidan" coord="2562, 1412">
+		<voisin nom="Mandi House" distance="0.8048561679958072" lignes="BlueLine" />
+		<voisin nom="Indraprastha" distance="0.8018830358632341" lignes="BlueLine" />
+	</gare>
+	<gare nom="Pratap Nagar" coord="2073, 877">
+		<voisin nom="Shastri Nagar" distance="1.709878900225543" lignes="RedLine" />
+		<voisin nom="Pul Bangash" distance="0.8295123116190352" lignes="RedLine" />
+	</gare>
+	<gare nom="Preet Vihar" coord="2935, 1184">
+		<voisin nom="Karkar Duma" distance="1.2292866155377598" lignes="BlueLine" />
+		<voisin nom="Nirman Vihar" distance="0.736341720189581" lignes="BlueLine" />
+	</gare>
+	<gare nom="Pul Bangash" coord="2214, 879">
+		<voisin nom="Tis Hazari" distance="2.5327142278576984" lignes="RedLine" />
+		<voisin nom="Pratap Nagar" distance="0.8295123116190352" lignes="RedLine" />
+	</gare>
+	<gare nom="Punjabi Bagh" coord="1550, 879">
+		<voisin nom="Ashok Park Main" distance="0.8952169702749595" lignes="GreenLine" />
+		<voisin nom="Shivaji Park" distance="1.5423427505835323" lignes="GreenLine" />
+	</gare>
+	<gare nom="Punjabi Bagh West" coord="1452, 931">
+		<voisin nom="Shakurpur" distance="1.8207384901287582" lignes="PinkLine" />
+		<voisin nom="ESI Hospital" distance="1.991291332917845" lignes="PinkLine" />
+	</gare>
+	<gare nom="Qutab Minar" coord="2119, 2282">
+		<voisin nom="Saket" distance="1.7067263553882397" lignes="YellowLine" />
+		<voisin nom="Chhattarpur" distance="1.2969576937102547" lignes="YellowLine" />
+	</gare>
+	<gare nom="R K Ashram Marg" coord="2060, 1129">
+		<voisin nom="Jhandewalan" distance="1.023247700254351" lignes="BlueLine" />
+		<voisin nom="Karol Bagh" distance="2.016512067330596" lignes="BlueLine" />
+	</gare>
+	<gare nom="R.K Puram" coord="1890, 2000">
+		<voisin nom="Munirka" distance="1.2883476978307111" lignes="MagentaLine" />
+		<voisin nom="IIT Delhi" distance="0.9391085642797651" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Rajdhani Park" coord="699, 880">
+		<voisin nom="Nangloi Rly Station" distance="1.1953078991692798" lignes="GreenLine" />
+		<voisin nom="Mundka" distance="1.330889552361588" lignes="GreenLine" />
+	</gare>
+	<gare nom="Rajendra Place" coord="1900, 1129">
+		<voisin nom="Patel Nagar" distance="0.9342791778880998" lignes="BlueLine" />
+		<voisin nom="Karol Bagh" distance="1.020506924528547" lignes="BlueLine" />
+	</gare>
+	<gare nom="Rajiv Chowk" coord="2269, 1274|2297, 1275">
+		<voisin nom="Patel Chowk" distance="13.889944526486282" lignes="YellowLine" />
+		<voisin nom="New Delhi" distance="1.054208463607886" lignes="YellowLine" />
+		<voisin nom="Barakhamba" distance="0.48417775008313013" lignes="BlueLine" />
+		<voisin nom="Jhandewalan" distance="2.294973305073757" lignes="BlueLine" />
+	</gare>
+	<gare nom="Rajouri Garden" coord="1316, 1128|1334, 1146">
+		<voisin nom="Ramesh Nagar" distance="0.972855553153882" lignes="BlueLine" />
+		<voisin nom="Tagore Garden" distance="1.1188835281997769" lignes="BlueLine" />
+		<voisin nom="Maya Puri" distance="1.4886776224083935" lignes="PinkLine" />
+		<voisin nom="ESI Hospital" distance="1.0624986475579141" lignes="PinkLine" />
+	</gare>
+	<gare nom="Ramesh Nagar" coord="1428, 1126">
+		<voisin nom="Rajouri Garden" distance="0.972855553153882" lignes="BlueLine" />
+		<voisin nom="Moti Nagar" distance="1.2232034485269174" lignes="BlueLine" />
+	</gare>
+	<gare nom="Rithala" coord="1350, 426">
+		<voisin nom="Rohini West" distance="1.0392370064997096" lignes="RedLine" />
+	</gare>
+	<gare nom="Rohini East" coord="1427, 505">
+		<voisin nom="Pitam Pura" distance="0.8210848052003423" lignes="RedLine" />
+		<voisin nom="Rohini West" distance="1.2973244758176476" lignes="RedLine" />
+	</gare>
+	<gare nom="Rohini Sector 18,19" coord="1929, 226">
+		<voisin nom="Haiderpur Badli Mor" distance="1.302388945153448" lignes="YellowLine" />
+		<voisin nom="Samaypur Badli" distance="0.7160583495642636" lignes="YellowLine" />
+	</gare>
+	<gare nom="Rohini West" coord="1389, 467">
+		<voisin nom="Rithala" distance="1.0392370064997096" lignes="RedLine" />
+		<voisin nom="Rohini East" distance="1.2973244758176476" lignes="RedLine" />
+	</gare>
+	<gare nom="Sadar Bazaar Cantonment" coord="1405, 1613">
+		<voisin nom="Palam" distance="3.2592301677782247" lignes="MagentaLine" />
+		<voisin nom="Terminal 1 IGI Airport" distance="1.776870007575214" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Saket" coord="2154, 2174">
+		<voisin nom="Malviya Nagar" distance="0.9446950933264489" lignes="YellowLine" />
+		<voisin nom="Qutab Minar" distance="1.7067263553882397" lignes="YellowLine" />
+	</gare>
+	<gare nom="Samaypur Badli" coord="1872, 170">
+		<voisin nom="Rohini Sector 18,19" distance="0.7160583495642636" lignes="YellowLine" />
+	</gare>
+	<gare nom="Sarai" coord="2850, 2334">
+		<voisin nom="Badarpur" distance="1.738001934990409" lignes="VioletLine" />
+		<voisin nom="N.H.P.C. Chowk" distance="2.2851688495886386" lignes="VioletLine" />
+	</gare>
+	<gare nom="Sarita Vihar" coord="2849, 2119">
+		<voisin nom="Mohan Estate" distance="1.2074022058225728" lignes="VioletLine" />
+		<voisin nom="Jasola" distance="1.1082970723454089" lignes="VioletLine" />
+	</gare>
+	<gare nom="Sarojini Nagar" coord="2041, 1803">
+		<voisin nom="INA" distance="1.1696861416824718" lignes="PinkLine" />
+		<voisin nom="Bhikaji Cama Place" distance="1.235172420658387" lignes="PinkLine" />
+	</gare>
+	<gare nom="Satguru Ram Singh Marg" coord="1731, 1040">
+		<voisin nom="Ashok Park Main" distance="1.1040236449792682" lignes="GreenLine" />
+		<voisin nom="Kirti Nagar" distance="0.9580344320955195" lignes="GreenLine" />
+	</gare>
+	<gare nom="Sector 28 Faridabad" coord="2850, 2470">
+		<voisin nom="Badkal Mor" distance="1.734547907170244" lignes="VioletLine" />
+		<voisin nom="Mewala Maharajpur" distance="1.1693441736305765" lignes="VioletLine" />
+	</gare>
+	<gare nom="Sector 42-43" coord="1611, 2637">
+		<voisin nom="Sector 53-54" distance="0.0" lignes="Rapid" />
+		<voisin nom="DLF Phase 1" distance="0.0" lignes="Rapid" />
+	</gare>
+	<gare nom="Sector 53-54" coord="1612, 2673">
+		<voisin nom="Sector 54 Chowk" distance="0.0" lignes="Rapid" />
+		<voisin nom="Sector 42-43" distance="0.0" lignes="Rapid" />
+	</gare>
+	<gare nom="Sector 54 Chowk" coord="1613, 2710">
+		<voisin nom="Sector 53-54" distance="0.0" lignes="Rapid" />
+		<voisin nom="Sector 55-66" distance="0.0" lignes="Rapid" />
+	</gare>
+	<gare nom="Sector 55-66" coord="1612, 2743">
+		<voisin nom="Sector 54 Chowk" distance="0.0" lignes="Rapid" />
+	</gare>
+	<gare nom="Seelampur" coord="2765, 842">
+		<voisin nom="Welcome" distance="1.0898642184360658" lignes="RedLine" />
+		<voisin nom="Shastri Park" distance="4.100118429987912" lignes="RedLine" />
+	</gare>
+	<gare nom="Shadipur" coord="1739, 1129">
+		<voisin nom="Kirti Nagar" distance="0.6955941384928572" lignes="BlueLine" />
+		<voisin nom="Patel Nagar" distance="1.3714015911758537" lignes="BlueLine" />
+	</gare>
+	<gare nom="Shahdara" coord="2910, 827|2922, 840">
+		<voisin nom="Welcome" distance="1.2294477303325901" lignes="RedLine" />
+		<voisin nom="Mansarovar Park" distance="1.003618639609914" lignes="RedLine" />
+		<voisin nom="East Azad Nagar" distance="1.111856506596118" lignes="PinkLine" />
+		<voisin nom="Jaffrabad" distance="1.8152168767360506" lignes="PinkLine" />
+	</gare>
+	<gare nom="Shakurpur" coord="1460, 724">
+		<voisin nom="Punjabi Bagh West" distance="1.8207384901287582" lignes="PinkLine" />
+		<voisin nom="Netaji Subhash Place" distance="1.1848188983541013" lignes="PinkLine" />
+	</gare>
+	<gare nom="Shalimar Bagh" coord="1778, 514">
+		<voisin nom="Netaji Subhash Place" distance="1.2996040747652786" lignes="PinkLine" />
+		<voisin nom="Azadpur" distance="26.87298647742861" lignes="PinkLine" />
+	</gare>
+	<gare nom="Shankar Vihar" coord="1614, 1811">
+		<voisin nom="Terminal 1 IGI Airport" distance="1.779660000380702" lignes="MagentaLine" />
+		<voisin nom="Vasant Vihar" distance="2.1116345650026376" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Shastri Nagar" coord="1879, 876">
+		<voisin nom="Inder Lok" distance="1.2084397989091253" lignes="RedLine" />
+		<voisin nom="Pratap Nagar" distance="1.709878900225543" lignes="RedLine" />
+	</gare>
+	<gare nom="Shastri Park" coord="2691, 840">
+		<voisin nom="Kashmere Gate" distance="1.5248848412429152" lignes="RedLine" />
+		<voisin nom="Seelampur" distance="4.100118429987912" lignes="RedLine" />
+	</gare>
+	<gare nom="Shiv Vihar" coord="3010, 619">
+		<voisin nom="Johri Enclave" distance="2893.3629950774257" lignes="PinkLine" />
+	</gare>
+	<gare nom="Shivaji Park" coord="1397, 882">
+		<voisin nom="Punjabi Bagh" distance="1.5423427505835323" lignes="GreenLine" />
+		<voisin nom="Madi Pur" distance="1.0651717983059856" lignes="GreenLine" />
+	</gare>
+	<gare nom="Shivaji Stadium" coord="2119, 1256">
+		<voisin nom="New Delhi-Airport Express" distance="1.7986727678895569" lignes="AirportExpress" />
+		<voisin nom="Dhaula Kuan" distance="6.36483241023227" lignes="AirportExpress" />
+	</gare>
+	<gare nom="Sikandarpur" coord="1582, 2534|1582, 2534">
+		<voisin nom="Guru Dronacharya" distance="0.9050316879668977" lignes="YellowLine" />
+		<voisin nom="MG Road" distance="1.295030440021494" lignes="YellowLine" />
+		<voisin nom="Sikandarpur (Rapid Metro)" distance="4.6096306961911235" lignes="pedestre" />
+	</gare>
+	<gare nom="Sikandarpur (Rapid Metro)" coord="1611, 2563|1611, 2563">
+		<voisin nom="DLF Phase 2" distance="0.6918589230258052" lignes="Rapid" />
+		<voisin nom="DLF Phase 1" distance="8758.318187744784" lignes="Rapid" />
+		<voisin nom="Sikandarpur" distance="4.6096306961911235" lignes="pedestre" />
+	</gare>
+	<gare nom="Sir Vishweshwaraiah Moti Bagh" coord="1843, 1757">
+		<voisin nom="Durgabai Deshmukh South Campus" distance="1.3448248609041957" lignes="PinkLine" />
+		<voisin nom="Bhikaji Cama Place" distance="1.4654990785552244" lignes="PinkLine" />
+	</gare>
+	<gare nom="South Extension" coord="2277, 1804">
+		<voisin nom="INA" distance="1.1816730973561338" lignes="PinkLine" />
+		<voisin nom="Lajpat Nagar" distance="1.6622659437736518" lignes="PinkLine" />
+	</gare>
+	<gare nom="Subhash Nagar" coord="1176, 1129">
+		<voisin nom="Tagore Garden" distance="0.8623789492863957" lignes="BlueLine" />
+		<voisin nom="Tilak Nagar" distance="0.9348539328823405" lignes="BlueLine" />
+	</gare>
+	<gare nom="Sukhdev Vihar" coord="2682, 1822">
+		<voisin nom="Kalkaji Mandir" distance="1.9297585306393747" lignes="MagentaLine" />
+		<voisin nom="Jamia Millia Islamia" distance="0.9639596008259689" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Sultanpur" coord="2033, 2369">
+		<voisin nom="Chhattarpur" distance="1.5825870820437742" lignes="YellowLine" />
+		<voisin nom="Ghitorni" distance="1.340435175041202" lignes="YellowLine" />
+	</gare>
+	<gare nom="Surajmal Stadium" coord="951, 882">
+		<voisin nom="Nangloi" distance="0.9082637838413042" lignes="GreenLine" />
+		<voisin nom="Udyog Nagar" distance="0.6721382611619122" lignes="GreenLine" />
+	</gare>
+	<gare nom="Tagore Garden" coord="1259, 1126">
+		<voisin nom="Rajouri Garden" distance="1.1188835281997769" lignes="BlueLine" />
+		<voisin nom="Subhash Nagar" distance="0.8623789492863957" lignes="BlueLine" />
+	</gare>
+	<gare nom="Terminal 1 IGI Airport" coord="1514, 1716">
+		<voisin nom="Shankar Vihar" distance="1.779660000380702" lignes="MagentaLine" />
+		<voisin nom="Sadar Bazaar Cantonment" distance="1.776870007575214" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Tikri Border" coord="435, 879">
+		<voisin nom="Tikri Kalan" distance="1.2972268616897646" lignes="GreenLine" />
+		<voisin nom="Pandit Shree Ram Sharma" distance="1.291224604942696" lignes="GreenLine" />
+	</gare>
+	<gare nom="Tikri Kalan" coord="368, 882">
+		<voisin nom="Ghevra Metro station" distance="1.8424635605160526" lignes="GreenLine" />
+		<voisin nom="Tikri Border" distance="1.2972268616897646" lignes="GreenLine" />
+	</gare>
+	<gare nom="Tilak Nagar" coord="1098, 1156">
+		<voisin nom="Janak Puri East" distance="1.421092051874737" lignes="BlueLine" />
+		<voisin nom="Subhash Nagar" distance="0.9348539328823405" lignes="BlueLine" />
+	</gare>
+	<gare nom="Tis Hazari" coord="2271, 876">
+		<voisin nom="Kashmere Gate" distance="1.5248848412429152" lignes="RedLine" />
+		<voisin nom="Pul Bangash" distance="2.5327142278576984" lignes="RedLine" />
+	</gare>
+	<gare nom="Trilokpuri Sanjay Lake" coord="3089, 1434">
+		<voisin nom="Vinod Nagar East" distance="0.7760223219786011" lignes="PinkLine" />
+	</gare>
+	<gare nom="Tughlakabad" coord="2850, 2230">
+		<voisin nom="Badarpur" distance="1.0767350771929236" lignes="VioletLine" />
+		<voisin nom="Mohan Estate" distance="1.969818053231828" lignes="VioletLine" />
+	</gare>
+	<gare nom="Udyog Bhawan" coord="2154, 1463">
+		<voisin nom="Lok Kalyan Marg" distance="1.493994357545793" lignes="YellowLine" />
+		<voisin nom="Central Secretariat" distance="0.4563037889275818" lignes="YellowLine" />
+	</gare>
+	<gare nom="Udyog Nagar" coord="1028, 880">
+		<voisin nom="Surajmal Stadium" distance="0.6721382611619122" lignes="GreenLine" />
+		<voisin nom="Peera Garhi" distance="1.1589128869867409" lignes="GreenLine" />
+	</gare>
+	<gare nom="Uttam Nagar East" coord="976, 1278">
+		<voisin nom="Uttam Nagar West" distance="0.9059802973526978" lignes="BlueLine" />
+		<voisin nom="Janak Puri West" distance="1.4085903779688702" lignes="BlueLine" />
+	</gare>
+	<gare nom="Uttam Nagar West" coord="936, 1319">
+		<voisin nom="Nawada" distance="1.1066482698263593" lignes="BlueLine" />
+		<voisin nom="Uttam Nagar East" distance="0.9059802973526978" lignes="BlueLine" />
+	</gare>
+	<gare nom="Vaishali" coord="3319, 1149">
+		<voisin nom="Kaushambi" distance="1.4510582666918366" lignes="BlueLine" />
+	</gare>
+	<gare nom="Vasant Vihar" coord="1683, 1876">
+		<voisin nom="Munirka" distance="1.2085098288162548" lignes="MagentaLine" />
+		<voisin nom="Shankar Vihar" distance="2.1116345650026376" lignes="MagentaLine" />
+	</gare>
+	<gare nom="Vidhan Sabha" coord="2368, 716">
+		<voisin nom="Vishwavidyalaya" distance="1.0527129996014466" lignes="YellowLine" />
+		<voisin nom="Civil Lines" distance="1.2552396919770845" lignes="YellowLine" />
+	</gare>
+	<gare nom="Vinobapuri" coord="2437, 1721">
+		<voisin nom="Ashram" distance="1.2100615246348034" lignes="PinkLine" />
+		<voisin nom="Lajpat Nagar" distance="1.2799810642773817" lignes="PinkLine" />
+	</gare>
+	<gare nom="Vinod Nagar East" coord="3091, 1369">
+		<voisin nom="Trilokpuri Sanjay Lake" distance="0.7760223219786011" lignes="PinkLine" />
+		<voisin nom="Mandawali - West Vinod Nagar" distance="0.5462155196982144" lignes="PinkLine" />
+	</gare>
+	<gare nom="Vishwavidyalaya" coord="2316, 614">
+		<voisin nom="G.T.B. Nagar" distance="0.8163391630618549" lignes="YellowLine" />
+		<voisin nom="Vidhan Sabha" distance="1.0527129996014466" lignes="YellowLine" />
+	</gare>
+	<gare nom="Vodaphone Belvedere Towers" coord="1351, 2382">
+		<voisin nom="Indus Bank Cyber City" distance="0.7027682447531943" lignes="Rapid" />
+	</gare>
+	<gare nom="Welcome" coord="2833, 839">
+		<voisin nom="Shahdara" distance="1.2294477303325901" lignes="RedLine" />
+		<voisin nom="Seelampur" distance="1.0898642184360658" lignes="RedLine" />
+	</gare>
+	<gare nom="Yamuna Bank" coord="2769, 1349">
+		<voisin nom="Laxmi Nagar" distance="1.742863947976263" lignes="BlueLine" />
+		<voisin nom="Indraprastha" distance="0.9906283623105325" lignes="BlueLine" />
+		<voisin nom="Akshardham" distance="1.8953319520230087" lignes="BlueLine" />
+	</gare>
+</data>

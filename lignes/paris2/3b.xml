@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="GAMBETTA,PORTE DES LILAS">
+	<gare nom="GAMBETTA" coord="2441, 1441">
+		<voisin nom ="PELLEPORT" distance ="0.004365458980863088"/>
+	</gare>
+	<gare nom="PELLEPORT" coord="2464, 1344">
+		<voisin nom ="SAINT-FARGEAU" distance ="0.0047038843265885"/>
+		<voisin nom ="GAMBETTA" distance ="0.004365458980863088"/>
+	</gare>
+	<gare nom="SAINT-FARGEAU" coord="2510, 1266">
+		<voisin nom ="PORTE DES LILAS" distance ="0.005129070383940379"/>
+		<voisin nom ="PELLEPORT" distance ="0.0047038843265885"/>
+	</gare>
+	<gare nom="PORTE DES LILAS" coord="2534, 1138">
+		<voisin nom ="SAINT-FARGEAU" distance ="0.005129070383940379"/>
+	</gare>
+</ligne>

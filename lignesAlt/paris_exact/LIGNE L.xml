@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="SAINT-GERMAIN-GRANDE-CEINTURE,SAINT-LAZARE,NOISY-LE-ROI,VERSAILLES RIVE DROITE,CERGY LE HAUT" couleur="7577c0">
+	<gare nom="ACHERES-VILLE" coord="2.07773176593, 48.9706650483">
+		<voisin nom="CONFLANS-FIN-D'OISE" distance="2.2834934076671076" />
+		<voisin nom="MAISONS-LAFFITTE" distance="5.614584056923015" />
+	</gare>
+	<gare nom="ASNIERES" coord="2.28351732969, 48.9056221191">
+		<voisin nom="BECON-LES-BRUYERES" distance="0.9917681683342724" />
+		<voisin nom="CLICHY-LEVALLOIS" distance="1.3509398002055117" />
+	</gare>
+	<gare nom="BECON-LES-BRUYERES" coord="2.26996477919, 48.9057626571">
+		<voisin nom="LES VALLEES" distance="1.2741389492256527" />
+		<voisin nom="COURBEVOIE" distance="1.8223279516586754" />
+		<voisin nom="ASNIERES" distance="0.9917681683342724" />
+	</gare>
+	<gare nom="BOUGIVAL" coord="2.13213244525, 48.8542517035">
+		<voisin nom="LOUVECIENNES" distance="1.0147073519003902" />
+		<voisin nom="LA CELLE-SAINT-CLOUD" distance="1.3566921937213552" />
+	</gare>
+	<gare nom="CERGY LE HAUT" coord="2.01099976, 49.0478762034">
+		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="1.7109894290867866" />
+	</gare>
+	<gare nom="CERGY-PREFECTURE" coord="2.07953494, 49.0364639807">
+		<voisin nom="NEUVILLE UNIVERSITE" distance="2.487413714013014" />
+		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="3.6126507955015557" />
+	</gare>
+	<gare nom="CERGY-SAINT-CHRISTOPHE" coord="2.03429446048, 49.0496470052">
+		<voisin nom="CERGY-PREFECTURE" distance="3.6126507955015557" />
+		<voisin nom="CERGY LE HAUT" distance="1.7109894290867866" />
+	</gare>
+	<gare nom="CHAVILLE RIVE DROITE" coord="2.18825986001, 48.8125717163">
+		<voisin nom="VIROFLAY RIVE DROITE" distance="1.6477673223513212" />
+		<voisin nom="SEVRES-VILLE-D'AVRAY" distance="1.8708416731385704" />
+	</gare>
+	<gare nom="CLICHY-LEVALLOIS" coord="2.29741994815, 48.8976374479">
+		<voisin nom="PONT-CARDINET" distance="1.5888293310864974" />
+		<voisin nom="ASNIERES" distance="1.3509398002055117" />
+	</gare>
+	<gare nom="CONFLANS-FIN-D'OISE" coord="2.07376988648, 48.9910125487">
+		<voisin nom="NEUVILLE UNIVERSITE" distance="2.595068797396259" />
+		<voisin nom="ACHERES-VILLE" distance="2.2834934076671076" />
+	</gare>
+	<gare nom="COURBEVOIE" coord="2.24794284966, 48.8981188775">
+		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="1.0369631328475104" />
+		<voisin nom="BECON-LES-BRUYERES" distance="1.8223279516586754" />
+	</gare>
+	<gare nom="GARCHES-MARNES-LA-COQUETTE" coord="2.18711070973, 48.838282546">
+		<voisin nom="VAUCRESSON" distance="2.528064161238076" />
+		<voisin nom="SAINT-CLOUD" distance="2.3988330974791334" />
+	</gare>
+	<gare nom="HOUILLES-CARRIERES-SUR-SEINE" coord="2.18535337629, 48.9203793748">
+		<voisin nom="SARTROUVILLE" distance="2.8296658421400394" />
+		<voisin nom="NANTERRE-UNIVERSITE" distance="3.0070561814991907" />
+	</gare>
+	<gare nom="L'ETANG-LA-VILLE" coord="2.07671910268, 48.8680644232">
+		<voisin nom="MARLY-LE-ROI" distance="1.5015601327083286" />
+		<voisin nom="SAINT-NOM-LA-BRETECHE-FORET-DE-MARLY" distance="1.9005387434147047" />
+	</gare>
+	<gare nom="LA CELLE-SAINT-CLOUD" coord="2.13812505878, 48.8427199544">
+		<voisin nom="VAUCRESSON" distance="1.2639238436993618" />
+		<voisin nom="BOUGIVAL" distance="1.3566921937213552" />
+	</gare>
+	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="2.2370180564, 48.8921870764">
+		<voisin nom="COURBEVOIE" distance="1.0369631328475104" />
+		<voisin nom="PUTEAUX" distance="1.0097644739142704" />
+	</gare>
+	<gare nom="LA GARENNE-COLOMBES" coord="2.23968411711, 48.909632934">
+		<voisin nom="LES VALLEES" distance="1.3655020022019553" />
+		<voisin nom="NANTERRE-UNIVERSITE" distance="2.000967256974802" />
+	</gare>
+	<gare nom="LE VAL-D'OR" coord="2.21657223779, 48.8564199914">
+		<voisin nom="SAINT-CLOUD" distance="1.1510548648093872" />
+		<voisin nom="SURESNES-MONT VALERIEN" distance="1.733550579792799" />
+	</gare>
+	<gare nom="LES VALLEES" coord="2.25732601832, 48.9136368639">
+		<voisin nom="BECON-LES-BRUYERES" distance="1.2741389492256527" />
+		<voisin nom="LA GARENNE-COLOMBES" distance="1.3655020022019553" />
+	</gare>
+	<gare nom="LOUVECIENNES" coord="2.12319109459, 48.8612145286">
+		<voisin nom="MARLY-LE-ROI" distance="2.26233415622006" />
+		<voisin nom="BOUGIVAL" distance="1.0147073519003902" />
+	</gare>
+	<gare nom="MAISONS-LAFFITTE" coord="2.1445587568, 48.9457959345">
+		<voisin nom="SARTROUVILLE" distance="1.2822075279929968" />
+		<voisin nom="ACHERES-VILLE" distance="5.614584056923015" />
+	</gare>
+	<gare nom="MAREIL-MARLY" coord="2.07917759196, 48.8809920835">
+		<voisin nom="SAINT-GERMAIN-BEL-AIR-FOURQUEUX" distance="1.6597185628873639" />
+		<voisin nom="SAINT-NOM-LA-BRETECHE-FORET-DE-MARLY" distance="2.5467235818542355" />
+	</gare>
+	<gare nom="MARLY-LE-ROI" coord="2.09654825276, 48.8715031037">
+		<voisin nom="LOUVECIENNES" distance="2.26233415622006" />
+		<voisin nom="L'ETANG-LA-VILLE" distance="1.5015601327083286" />
+	</gare>
+	<gare nom="MONTREUIL" coord="2.15150011876, 48.8063774473">
+		<voisin nom="VIROFLAY RIVE DROITE" distance="1.251741257474025" />
+		<voisin nom="VERSAILLES RIVE DROITE" distance="1.2519229213454222" />
+	</gare>
+	<gare nom="NANTERRE-UNIVERSITE" coord="2.21511051038, 48.9017458864">
+		<voisin nom="LA GARENNE-COLOMBES" distance="2.000967256974802" />
+		<voisin nom="HOUILLES-CARRIERES-SUR-SEINE" distance="3.0070561814991907" />
+	</gare>
+	<gare nom="NEUVILLE UNIVERSITE" coord="2.07830659141, 49.014133685">
+		<voisin nom="CONFLANS-FIN-D'OISE" distance="2.595068797396259" />
+		<voisin nom="CERGY-PREFECTURE" distance="2.487413714013014" />
+	</gare>
+	<gare nom="NOISY-LE-ROI" coord="2.06132681294, 48.8413596382">
+		<voisin nom="SAINT-NOM-LA-BRETECHE-FORET-DE-MARLY" distance="3.042390098137581" />
+	</gare>
+	<gare nom="PONT-CARDINET" coord="2.31373245152, 48.8882201628">
+		<voisin nom="SAINT-LAZARE" distance="1.5016022720001942" />
+		<voisin nom="CLICHY-LEVALLOIS" distance="1.5888293310864974" />
+	</gare>
+	<gare nom="PUTEAUX" coord="2.2336919188, 48.8833838129">
+		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="1.0097644739142704" />
+		<voisin nom="SURESNES-MONT VALERIEN" distance="1.5959119046143366" />
+	</gare>
+	<gare nom="SAINT-CLOUD" coord="2.2176210809, 48.8461029477">
+		<voisin nom="GARCHES-MARNES-LA-COQUETTE" distance="2.3988330974791334" />
+		<voisin nom="SEVRES-VILLE-D'AVRAY" distance="2.4378494917688074" />
+		<voisin nom="LE VAL-D'OR" distance="1.1510548648093872" />
+		<voisin nom="SURESNES-MONT VALERIEN" distance="2.861938444628701" />
+	</gare>
+	<gare nom="SAINT-GERMAIN-BEL-AIR-FOURQUEUX" coord="2.06993796545, 48.8946076284">
+		<voisin nom="SAINT-GERMAIN-GRANDE-CEINTURE" distance="0.9824218682622626" />
+		<voisin nom="MAREIL-MARLY" distance="1.6597185628873639" />
+	</gare>
+	<gare nom="SAINT-GERMAIN-GRANDE-CEINTURE" coord="2.07297145657, 48.9032046155">
+		<voisin nom="SAINT-GERMAIN-BEL-AIR-FOURQUEUX" distance="0.9824218682622626" />
+	</gare>
+	<gare nom="SAINT-LAZARE" coord="2.32473804682, 48.8768369549">
+		<voisin nom="PONT-CARDINET" distance="1.5016022720001942" />
+	</gare>
+	<gare nom="SAINT-NOM-LA-BRETECHE-FORET-DE-MARLY" coord="2.05076784532, 48.8677920986">
+		<voisin nom="NOISY-LE-ROI" distance="3.042390098137581" />
+		<voisin nom="MAREIL-MARLY" distance="2.5467235818542355" />
+		<voisin nom="L'ETANG-LA-VILLE" distance="1.9005387434147047" />
+	</gare>
+	<gare nom="SARTROUVILLE" coord="2.15708649785, 48.9377360625">
+		<voisin nom="MAISONS-LAFFITTE" distance="1.2822075279929968" />
+		<voisin nom="HOUILLES-CARRIERES-SUR-SEINE" distance="2.8296658421400394" />
+	</gare>
+	<gare nom="SEVRES-VILLE-D'AVRAY" coord="2.20072125659, 48.8272387754">
+		<voisin nom="SAINT-CLOUD" distance="2.4378494917688074" />
+		<voisin nom="CHAVILLE RIVE DROITE" distance="1.8708416731385704" />
+	</gare>
+	<gare nom="SURESNES-MONT VALERIEN" coord="2.22102955043, 48.8717141912">
+		<voisin nom="SAINT-CLOUD" distance="2.861938444628701" />
+		<voisin nom="LE VAL-D'OR" distance="1.733550579792799" />
+		<voisin nom="PUTEAUX" distance="1.5959119046143366" />
+	</gare>
+	<gare nom="VAUCRESSON" coord="2.15269740029, 48.8366433171">
+		<voisin nom="GARCHES-MARNES-LA-COQUETTE" distance="2.528064161238076" />
+		<voisin nom="LA CELLE-SAINT-CLOUD" distance="1.2639238436993618" />
+	</gare>
+	<gare nom="VERSAILLES RIVE DROITE" coord="2.13508745661, 48.809482263">
+		<voisin nom="MONTREUIL" distance="1.2519229213454222" />
+	</gare>
+	<gare nom="VIROFLAY RIVE DROITE" coord="2.16852039287, 48.8054930337">
+		<voisin nom="MONTREUIL" distance="1.251741257474025" />
+		<voisin nom="CHAVILLE RIVE DROITE" distance="1.6477673223513212" />
+	</gare>
+</ligne>

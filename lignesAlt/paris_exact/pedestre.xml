@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="LES HALLES,ANVERS,AEROPORT D ORLY,AEROPORT D ORLY - TERMINAL SUD,VILLETANEUSE-UNIVERSITE,ABBESSES,SAINT-MICHEL,MAGENTA,ELLA FITZGERALD,GUYNEMER,CHATELET,GARE DE PIERREFITTE STAINS,EPINAY-VILLETANEUSE,GARE DE VILLETANEUSE - UNIVERSITE,LA CHAPELLE,GARE DE L'EST,BIBLIOTHEQUE FRANCOIS MITTERRAND,PANTIN,LES COURTILLES,BOULOGNE-PONT DE SAINT CLOUD,PONT DE SEVRES,SAINT-DENIS-UNIVERSITE,CHATILLON MONTROUGE,HOPITAL ROBERT DEBRE,PIERREFITTE-STAINS,CLUNY-LA-SORBONNE,AUSTERLITZ,MARCHE DE SAINT-DENIS,PARC DE SAINT-CLOUD,GENNEVILLIERS,GARE DE SAINT-DENIS,EPINAY-SUR-SEINE,OPERA,GARE DU BOURGET,BASILIQUE DE SAINT-DENIS,GARE DE GENNEVILLIERS,SAINT-AUGUSTIN,CHATEAU-LANDON,GARE DE LYON,CHATILLON-MONTROUGE,MUSEE DE SEVRES,PRE SAINT-GERVAIS,AVENUE DE FRANCE,GARE D'EPINAY SUR SEINE,SAINT-DENIS,GARE D'EPINAY VILLETANEUSE,LES COURTILLES-ASNIERES-GENNEVILLIERS" couleur="c0c0c0">
+	<gare nom="ABBESSES" coord="2.33794977706, 48.884594208">
+		<voisin nom="ANVERS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="ABLON" coord="2.41956502438, 48.7255353058">
+	</gare>
+	<gare nom="ACHERES-GRAND-CORMIER" coord="2.09352190295, 48.9554022445">
+	</gare>
+	<gare nom="ACHERES-VILLE" coord="2.07773176593, 48.9706650483">
+	</gare>
+	<gare nom="ADRIENNE BOLLAND" coord="2.40857757742, 48.8724040944">
+	</gare>
+	<gare nom="AEROPORT CHARLES DE GAULLE 1" coord="2.56123269523, 49.0097564521">
+	</gare>
+	<gare nom="AEROPORT CHARLES DE GAULLE 2-TGV" coord="2.57058948552, 49.0046874618">
+	</gare>
+	<gare nom="AEROPORT D ORLY" coord="2.36837860173, 48.7295686789">
+		<voisin nom="AEROPORT D ORLY - TERMINAL SUD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="AEROPORT D ORLY - TERMINAL OUEST" coord="2.36001341286, 48.7296473558">
+	</gare>
+	<gare nom="AEROPORT D ORLY - TERMINAL SUD" coord="2.36991322479, 48.7290239851">
+		<voisin nom="AEROPORT D ORLY" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="ALCIDE D'ORBIGNY" coord="2.36357222397, 48.9658555744">
+	</gare>
+	<gare nom="ALESIA" coord="2.32716464961, 48.8281884763">
+	</gare>
+	<gare nom="ALEXANDRA DAVID-NEEL" coord="2.41013203808, 48.8437717867">
+	</gare>
+	<gare nom="ALEXANDRE DUMAS" coord="2.39456194456, 48.8563773572">
+	</gare>
+	<gare nom="ALLEE DE LA TOUR RENDEZ-VOUS" coord="2.50640824702, 48.8971438185">
+	</gare>
+	<gare nom="ALMA-MARCEAU" coord="2.3009910035, 48.864766845">
+	</gare>
+	<gare nom="ANATOLE FRANCE" coord="2.28500950275, 48.892082786">
+	</gare>
+	<gare nom="ANDRESY" coord="2.04908312149, 48.9748208646">
+	</gare>
+	<gare nom="ANTONY" coord="2.30098685572, 48.7549465264">
+	</gare>
+	<gare nom="ANVERS" coord="2.34413063372, 48.8828686476">
+		<voisin nom="ABBESSES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="ARCUEIL-CACHAN" coord="2.32813692306, 48.7988925001">
+	</gare>
+	<gare nom="ARGENTEUIL" coord="2.25789748266, 48.9467969421">
+	</gare>
+	<gare nom="ARGENTINE" coord="2.28932258961, 48.8755940499">
+	</gare>
+	<gare nom="ARPAJON" coord="2.24107008227, 48.5860078899">
+	</gare>
+	<gare nom="ARTS ET METIERS" coord="2.35673675681, 48.8655864776">
+	</gare>
+	<gare nom="ASNIERES" coord="2.28351732969, 48.9056221191">
+	</gare>
+	<gare nom="ASSEMBLEE NATIONALE" coord="2.32099819195, 48.8607869635">
+	</gare>
+	<gare nom="ATHIS-MONS" coord="2.40363310491, 48.7126289875">
+	</gare>
+	<gare nom="AUBER" coord="2.32992717061, 48.8721574949">
+		<voisin nom="HAVRE-CAUMARTIN" distance="4.6096306961911235" />
+		<voisin nom="OPERA" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="AUBERGENVILLE-ELISABETHVILLE" coord="1.84834880828, 48.9721416769">
+	</gare>
+	<gare nom="AUBERVILLIERS-PANTIN (QUATRE CHEMINS)" coord="2.39228705964, 48.9037599302">
+	</gare>
+	<gare nom="AUGUSTE DELAUNE" coord="2.46052340367, 48.9067006317">
+	</gare>
+	<gare nom="AUGUSTE PERRET" coord="2.36699185892, 48.7626477685">
+	</gare>
+	<gare nom="AULNAY-SOUS-BOIS" coord="2.49551314123, 48.9321960051">
+	</gare>
+	<gare nom="AUSTERLITZ" coord="2.36543338473, 48.8425280268">
+		<voisin nom="GARE DE LYON" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="AUVERS-SUR-OISE" coord="2.17530420995, 49.0704623634">
+	</gare>
+	<gare nom="AVENUE DE FRANCE" coord="2.38116559196, 48.8255702286">
+		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="AVENUE DU PRESIDENT KENNEDY" coord="2.27948706498, 48.8536480563">
+	</gare>
+	<gare nom="AVENUE EMILE ZOLA" coord="2.29542047803, 48.8470195819">
+	</gare>
+	<gare nom="AVENUE FOCH" coord="2.27557452685, 48.8709741382">
+	</gare>
+	<gare nom="AVENUE HENRI MARTIN" coord="2.27212062164, 48.8644617484">
+	</gare>
+	<gare nom="AVRON" coord="2.39830234427, 48.8515102782">
+	</gare>
+	<gare nom="BAGNEAUX-SUR-LOING" coord="2.70393605431, 48.2295499366">
+	</gare>
+	<gare nom="BAGNEUX" coord="2.32220163367, 48.7933362962">
+	</gare>
+	<gare nom="BALARD" coord="2.27811917696, 48.8361229793">
+	</gare>
+	<gare nom="BALLANCOURT" coord="2.37051849774, 48.5315019865">
+	</gare>
+	<gare nom="BARBES-ROCHECHOUART" coord="2.35061300069, 48.8838039424">
+	</gare>
+	<gare nom="BARON LE ROY" coord="2.39344969832, 48.8303885897">
+	</gare>
+	<gare nom="BASILIQUE DE SAINT-DENIS" coord="2.36074604376, 48.938082615">
+		<voisin nom="MARCHE DE SAINT-DENIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="BASTILLE" coord="2.36951356952, 48.8534394276">
+	</gare>
+	<gare nom="BAUDELAIRE" coord="2.35672974153, 48.9421254551">
+	</gare>
+	<gare nom="BECON-LES-BRUYERES" coord="2.26996477919, 48.9057626571">
+	</gare>
+	<gare nom="BEL-AIR" coord="2.40091853812, 48.8413382509">
+	</gare>
+	<gare nom="BELLEVILLE" coord="2.37659368274, 48.8718487938">
+	</gare>
+	<gare nom="BELLEVUE" coord="2.22980800373, 48.8189478009">
+	</gare>
+	<gare nom="BELLOY-SAINT-MARTIN" coord="2.36127055524, 49.0984002625">
+	</gare>
+	<gare nom="BELVEDERE" coord="2.22595909514, 48.8760012915">
+	</gare>
+	<gare nom="BERAULT" coord="2.42920516635, 48.8454707076">
+	</gare>
+	<gare nom="BERCY" coord="2.37991127145, 48.8403887481">
+	</gare>
+	<gare nom="BESSANCOURT" coord="2.21024652104, 49.0353113094">
+	</gare>
+	<gare nom="BEYNES" coord="1.8755955903, 48.8599987304">
+	</gare>
+	<gare nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" coord="2.37669589214, 48.8298750437">
+		<voisin nom="AVENUE DE FRANCE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="BIEVRES" coord="2.2158608601, 48.7510232733">
+	</gare>
+	<gare nom="BILLANCOURT" coord="2.23863934858, 48.8321105601">
+	</gare>
+	<gare nom="BIR-HAKEIM (GRENELLE)" coord="2.28933453277, 48.8539426071">
+	</gare>
+	<gare nom="BLANC-MESNIL" coord="2.47567437083, 48.9323054161">
+	</gare>
+	<gare nom="BLANCHE" coord="2.33192659089, 48.8839585735">
+	</gare>
+	<gare nom="BLUMENTHAL" coord="2.33918092342, 48.9478076496">
+	</gare>
+	<gare nom="BOBIGNY-PABLO PICASSO" coord="2.45000466303, 48.9065332885">
+	</gare>
+	<gare nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" coord="2.4253268888, 48.895454673">
+	</gare>
+	<gare nom="BOIGNEVILLE" coord="2.37881544334, 48.3416635419">
+	</gare>
+	<gare nom="BOIS-COLOMBES" coord="2.27159875039, 48.9142464743">
+	</gare>
+	<gare nom="BOIS-LE-ROI" coord="2.69203325987, 48.4755230724">
+	</gare>
+	<gare nom="BOISSIERE" coord="2.29005883493, 48.8669831104">
+	</gare>
+	<gare nom="BOISSISE-LE-ROI" coord="2.57207366138, 48.5297469186">
+	</gare>
+	<gare nom="BOISSY-L'AILLERIE" coord="2.02495293138, 49.0758428848">
+	</gare>
+	<gare nom="BOISSY-SAINT-LEGER" coord="2.50455983832, 48.7521857235">
+	</gare>
+	<gare nom="BOLIVAR" coord="2.37414715384, 48.8808212614">
+	</gare>
+	<gare nom="BONDY" coord="2.47979332996, 48.894012515">
+	</gare>
+	<gare nom="BONNE NOUVELLE" coord="2.35049797186, 48.8701642009">
+	</gare>
+	<gare nom="BORAN-SUR-OISE" coord="2.36230352857, 49.1667750398">
+	</gare>
+	<gare nom="BOTZARIS" coord="2.38911580738, 48.8794817719">
+	</gare>
+	<gare nom="BOUCICAUT" coord="2.2879457665, 48.8410940563">
+	</gare>
+	<gare nom="BOUFFEMONT-MOISSELLES" coord="2.32291784485, 49.0451694612">
+	</gare>
+	<gare nom="BOUGIVAL" coord="2.13213244525, 48.8542517035">
+	</gare>
+	<gare nom="BOULAINVILLIERS" coord="2.27516715469, 48.8565315515">
+	</gare>
+	<gare nom="BOULOGNE-JEAN JAURES" coord="2.23888732579, 48.8420053473">
+	</gare>
+	<gare nom="BOULOGNE-PONT DE SAINT CLOUD" coord="2.2285369815, 48.8407450152">
+		<voisin nom="PARC DE SAINT-CLOUD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="BOURAY" coord="2.29008251383, 48.5328901041">
+	</gare>
+	<gare nom="BOURG-LA-REINE" coord="2.31230771689, 48.7803137964">
+	</gare>
+	<gare nom="BOURRON-MARLOTTE-GREZ" coord="2.69248019059, 48.3326836438">
+	</gare>
+	<gare nom="BOURSE" coord="2.34072072367, 48.8686959778">
+	</gare>
+	<gare nom="BOUSSY-SAINT-ANTOINE" coord="2.53313065657, 48.6810166163">
+	</gare>
+	<gare nom="BOUTIGNY-SUR-ESSONNE" coord="2.37667281716, 48.4344906129">
+	</gare>
+	<gare nom="BREGUET-SABIN" coord="2.37020933841, 48.8561407093">
+	</gare>
+	<gare nom="BRETAGNE" coord="2.36804946889, 48.7680683121">
+	</gare>
+	<gare nom="BRETIGNY" coord="2.30205969425, 48.6067449526">
+	</gare>
+	<gare nom="BREUILLET-BRUYERES-LE-CHATEL" coord="2.19206306877, 48.5775084894">
+	</gare>
+	<gare nom="BREUILLET-VILLAGE" coord="2.17097626506, 48.5645970265">
+	</gare>
+	<gare nom="BRIMBORION" coord="2.23132315987, 48.8223099329">
+	</gare>
+	<gare nom="BROCHANT" coord="2.32017475579, 48.8905871866">
+	</gare>
+	<gare nom="BRUNOY" coord="2.50607815457, 48.699732433">
+	</gare>
+	<gare nom="BRUYERES-SUR-OISE" coord="2.32575400036, 49.155189859">
+	</gare>
+	<gare nom="BRY-SUR-MARNE" coord="2.52592254657, 48.8449011387">
+	</gare>
+	<gare nom="BUNO-GIRONVILLE" coord="2.38720979587, 48.3713832905">
+	</gare>
+	<gare nom="BURES-SUR-YVETTE" coord="2.16437824279, 48.6962527469">
+	</gare>
+	<gare nom="BUSSY-SAINT-GEORGES" coord="2.70898174226, 48.8365364329">
+	</gare>
+	<gare nom="BUTTE DU CHAPEAU ROUGE" coord="2.3967512888, 48.8850167892">
+	</gare>
+	<gare nom="BUTTE PINSON" coord="2.36605171568, 48.973659013">
+	</gare>
+	<gare nom="BUTTES-CHAUMONT" coord="2.38161451194, 48.8785141131">
+	</gare>
+	<gare nom="BUZENVAL" coord="2.40102227052, 48.851812133">
+	</gare>
+	<gare nom="CADET" coord="2.34412603046, 48.8758906819">
+	</gare>
+	<gare nom="CAMBRONNE" coord="2.30296829919, 48.8475070811">
+	</gare>
+	<gare nom="CAMPO-FORMIO" coord="2.3588234891, 48.8354953554">
+	</gare>
+	<gare nom="CANAL SAINT-DENIS" coord="2.38053703549, 48.8987339907">
+	</gare>
+	<gare nom="CARDINAL-LEMOINE" coord="2.35162325638, 48.8466568513">
+	</gare>
+	<gare nom="CAROLINE AIGLE" coord="2.36991014668, 48.7385627773">
+	</gare>
+	<gare nom="CARREFOUR PLEYEL" coord="2.34330593051, 48.9195730741">
+	</gare>
+	<gare nom="CENSIER-DAUBENTON" coord="2.35173948717, 48.8404866526">
+	</gare>
+	<gare nom="CENTRE DE CHATILLON" coord="2.2890572536, 48.8042049383">
+	</gare>
+	<gare nom="CERGY LE HAUT" coord="2.01099976, 49.0478762034">
+	</gare>
+	<gare nom="CERGY-PREFECTURE" coord="2.07953494, 49.0364639807">
+	</gare>
+	<gare nom="CERGY-SAINT-CHRISTOPHE" coord="2.03429446048, 49.0496470052">
+	</gare>
+	<gare nom="CERNAY" coord="2.25747415863, 48.9850047004">
+	</gare>
+	<gare nom="CESAR" coord="2.34252182604, 48.9495813451">
+	</gare>
+	<gare nom="CESSON" coord="2.59455181601, 48.5649494957">
+	</gare>
+	<gare nom="CHAMARANDE" coord="2.21551781058, 48.5142458762">
+	</gare>
+	<gare nom="CHAMP DE COURSES D'ENGHIEN" coord="2.29247712881, 48.9794479839">
+	</gare>
+	<gare nom="CHAMP DE MARS-TOUR EIFFEL" coord="2.29039155346, 48.8572934139">
+	</gare>
+	<gare nom="CHAMPAGNE-SUR-OISE" coord="2.24267777678, 49.1360005646">
+	</gare>
+	<gare nom="CHAMPAGNE-SUR-SEINE" coord="2.79923356025, 48.4068056249">
+	</gare>
+	<gare nom="CHAMPBENOIST-POIGNY" coord="3.28731284984, 48.5455953478">
+	</gare>
+	<gare nom="CHAMPIGNY" coord="2.51030723712, 48.8069850716">
+	</gare>
+	<gare nom="CHAMPS-ELYSEES-CLEMENCEAU" coord="2.31389412912, 48.8676021452">
+	</gare>
+	<gare nom="CHANGIS-SAINT-JEAN" coord="3.02611129429, 48.9591640631">
+	</gare>
+	<gare nom="CHANTELOUP-LES-VIGNES" coord="2.02751877569, 48.9703669331">
+	</gare>
+	<gare nom="CHANTILLY-GOUVIEUX" coord="2.45952008111, 49.1873335365">
+	</gare>
+	<gare nom="CHAPONVAL" coord="2.14169693141, 49.0693141355">
+	</gare>
+	<gare nom="CHARDON-LAGACHE" coord="2.26644154308, 48.8452047036">
+	</gare>
+	<gare nom="CHARENTON-ECOLES" coord="2.41373751752, 48.8215957673">
+	</gare>
+	<gare nom="CHARLEBOURG" coord="2.23830930229, 48.9076645839">
+	</gare>
+	<gare nom="CHARLES DE GAULLE ETOILE" coord="2.29449059283, 48.8742384767">
+	</gare>
+	<gare nom="CHARLES MICHELS" coord="2.28599922342, 48.8465346367">
+	</gare>
+	<gare nom="CHARONNE" coord="2.38556348082, 48.8545804991">
+	</gare>
+	<gare nom="CHARS" coord="1.93692863442, 49.1626705808">
+	</gare>
+	<gare nom="CHARTRETTES" coord="2.69503731923, 48.4870763944">
+	</gare>
+	<gare nom="CHATEAU D'EAU" coord="2.35604490767, 48.8724249145">
+	</gare>
+	<gare nom="CHATEAU DE VINCENNES" coord="2.44043997806, 48.8444563946">
+	</gare>
+	<gare nom="CHATEAU ROUGE" coord="2.3496940822, 48.8873749106">
+	</gare>
+	<gare nom="CHATEAU-LANDON" coord="2.36216007192, 48.8785656258">
+		<voisin nom="GARE DE L'EST" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATEAU-THIERRY" coord="3.40959736125, 49.0379489417">
+	</gare>
+	<gare nom="CHATELET" coord="2.34756482975, 48.8583823703">
+		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATELET-LES HALLES" coord="2.34701268722, 48.8618222746">
+		<voisin nom="LES HALLES" distance="4.6096306961911235" />
+		<voisin nom="CHATELET" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATILLON MONTROUGE" coord="2.30035747443, 48.8106010945">
+		<voisin nom="CHATILLON-MONTROUGE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATILLON-MONTROUGE" coord="2.30167855546, 48.8107464886">
+		<voisin nom="CHATILLON MONTROUGE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATOU-CROISSY" coord="2.1559034719, 48.8852112182">
+	</gare>
+	<gare nom="CHAUMONT-EN-VEXIN" coord="1.87258946785, 49.2613222981">
+	</gare>
+	<gare nom="CHAUSSEE D'ANTIN (LA FAYETTE)" coord="2.33347913185, 48.8729376577">
+	</gare>
+	<gare nom="CHAVILLE RIVE DROITE" coord="2.18825986001, 48.8125717163">
+	</gare>
+	<gare nom="CHAVILLE RIVE GAUCHE" coord="2.18863027784, 48.8046833562">
+	</gare>
+	<gare nom="CHAVILLE-VELIZY" coord="2.18368410985, 48.7997288253">
+	</gare>
+	<gare nom="CHELLES-GOURNAY" coord="2.58333116078, 48.874144083">
+	</gare>
+	<gare nom="CHEMIN D'ANTONY" coord="2.31271101352, 48.7479419019">
+	</gare>
+	<gare nom="CHEMIN DES RENIERS" coord="2.32149519817, 48.9346085677">
+	</gare>
+	<gare nom="CHEMIN VERT" coord="2.3681082907, 48.8574200375">
+	</gare>
+	<gare nom="CHESSY - MARNE-LA-VALLEE" coord="2.78222672345, 48.8699501349">
+	</gare>
+	<gare nom="CHEVALERET" coord="2.36812632906, 48.8349477223">
+	</gare>
+	<gare nom="CHEZY-SUR-MARNE" coord="3.36492712887, 48.9919382203">
+	</gare>
+	<gare nom="CHILLY-MAZARIN" coord="2.30784118734, 48.7006808037">
+	</gare>
+	<gare nom="CHOISY-LE-ROI" coord="2.41138672494, 48.7637868096">
+	</gare>
+	<gare nom="CIMETIERE DE SAINT-DENIS" coord="2.3636407022, 48.9363891471">
+	</gare>
+	<gare nom="CITE" coord="2.34732131573, 48.8549363766">
+	</gare>
+	<gare nom="CITE UNIVERSITAIRE" coord="2.33897847201, 48.8210896506">
+	</gare>
+	<gare nom="CLAMART" coord="2.27448967218, 48.8142394455">
+	</gare>
+	<gare nom="CLICHY-LEVALLOIS" coord="2.29741994815, 48.8976374479">
+	</gare>
+	<gare nom="CLUNY-LA-SORBONNE" coord="2.34427334542, 48.8510502823">
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="COEUR D'ORLY" coord="2.37125037622, 48.7340881621">
+	</gare>
+	<gare nom="COIGNIERES" coord="1.92103660004, 48.7434839859">
+	</gare>
+	<gare nom="COLETTE BESSON" coord="2.36365138218, 48.8984911016">
+	</gare>
+	<gare nom="COLOMBES" coord="2.25934570305, 48.9239186266">
+	</gare>
+	<gare nom="COLONEL FABIEN" coord="2.37081139531, 48.8776101874">
+	</gare>
+	<gare nom="COMBS-LA-VILLE-QUINCY" coord="2.54754804581, 48.667901961">
+	</gare>
+	<gare nom="COMMERCE" coord="2.29395196364, 48.8447947646">
+	</gare>
+	<gare nom="COMPANS" coord="2.66505986931, 48.991391402">
+	</gare>
+	<gare nom="CONCORDE" coord="2.32317568086, 48.8661671149">
+	</gare>
+	<gare nom="CONFLANS-FIN-D'OISE" coord="2.07376988648, 48.9910125487">
+	</gare>
+	<gare nom="CONFLANS-SAINTE-HONORINE" coord="2.09777398846, 48.9966300907">
+	</gare>
+	<gare nom="CONVENTION" coord="2.29663034323, 48.8373074946">
+	</gare>
+	<gare nom="CORBEIL-ESSONNES" coord="2.4729336491, 48.6134279136">
+	</gare>
+	<gare nom="CORENTIN CARIOU" coord="2.38252234342, 48.8948364684">
+	</gare>
+	<gare nom="CORENTIN-CELTON" coord="2.27941168205, 48.8270854489">
+	</gare>
+	<gare nom="CORMEILLES-EN-PARISIS" coord="2.19344286781, 48.9684962675">
+	</gare>
+	<gare nom="CORVISART" coord="2.35041487201, 48.8297905137">
+	</gare>
+	<gare nom="COSMONAUTES" coord="2.3782254904, 48.9317348255">
+	</gare>
+	<gare nom="COUILLY-SAINT-GERMAIN-QUINCY" coord="2.8543159251, 48.8826810476">
+	</gare>
+	<gare nom="COULOMMIERS" coord="3.08034301057, 48.8085020653">
+	</gare>
+	<gare nom="COUR SAINT-EMILION" coord="2.38663240207, 48.8333385593">
+	</gare>
+	<gare nom="COURBEVOIE" coord="2.24794284966, 48.8981188775">
+	</gare>
+	<gare nom="COURCELLE-SUR-YVETTE" coord="2.09797585569, 48.7012177212">
+	</gare>
+	<gare nom="COURCELLES" coord="2.30352872537, 48.8792141342">
+	</gare>
+	<gare nom="COURONNES" coord="2.38054258599, 48.8690911629">
+	</gare>
+	<gare nom="CRECY-EN-BRIE-LA-CHAPELLE" coord="2.90573696319, 48.8595573169">
+	</gare>
+	<gare nom="CREIL" coord="2.46891411535, 49.2639441445">
+	</gare>
+	<gare nom="CREPY-EN-VALOIS" coord="2.88736670498, 49.2310180602">
+	</gare>
+	<gare nom="CRETEIL POMPADOUR" coord="2.43530633971, 48.7712660381">
+	</gare>
+	<gare nom="CRETEIL-L'ECHAT (HOPITAL MONDOR)" coord="2.44943317569, 48.7967407666">
+	</gare>
+	<gare nom="CRETEIL-POINTE DU LAC" coord="2.46456499321, 48.7687151253">
+	</gare>
+	<gare nom="CRETEIL-PREFECTURE (HOTEL DE VILLE)" coord="2.45936839626, 48.779905317">
+	</gare>
+	<gare nom="CRETEIL-UNIVERSITE" coord="2.45045317792, 48.7899783103">
+	</gare>
+	<gare nom="CRIMEE" coord="2.3773157556, 48.8907889695">
+	</gare>
+	<gare nom="CROIX DE CHAVAUX (JACQUES DUCLOS)" coord="2.43555571569, 48.8579655912">
+	</gare>
+	<gare nom="CROUY-SUR-OURCQ" coord="3.06269040835, 49.0918829954">
+	</gare>
+	<gare nom="DAMMARTIN-JUILLY-SAINT-MARD" coord="2.69945308646, 49.0325740896">
+	</gare>
+	<gare nom="DANTON" coord="2.40662275371, 48.9227111893">
+	</gare>
+	<gare nom="DANUBE" coord="2.39344545649, 48.8819319987">
+	</gare>
+	<gare nom="DAUMESNIL" coord="2.39618288645, 48.8394454284">
+	</gare>
+	<gare nom="DELAUNAY-BELLEVILLE" coord="2.34731292517, 48.9455555392">
+	</gare>
+	<gare nom="DELPHINE SEYRIG" coord="2.39773885065, 48.8938802825">
+	</gare>
+	<gare nom="DENFERT-ROCHEREAU" coord="2.33285230996, 48.8342929805">
+	</gare>
+	<gare nom="DESNOUETTES" coord="2.2840072433, 48.8343581655">
+	</gare>
+	<gare nom="DEUIL-MONTMAGNY" coord="2.33852407065, 48.9760542531">
+	</gare>
+	<gare nom="DEWOITINE" coord="2.21443350205, 48.7836246222">
+	</gare>
+	<gare nom="DIDOT" coord="2.31338008738, 48.8259205461">
+	</gare>
+	<gare nom="DIVISION LECLERC" coord="2.27265034466, 48.7944688845">
+	</gare>
+	<gare nom="DOMAINE CHERIOUX" coord="2.3674058645, 48.7789363931">
+	</gare>
+	<gare nom="DOMONT" coord="2.33682968984, 49.0329720468">
+	</gare>
+	<gare nom="DORDIVES" coord="2.7627283872, 48.1472180399">
+	</gare>
+	<gare nom="DOURDAN" coord="2.00877181387, 48.533732834">
+	</gare>
+	<gare nom="DOURDAN-LA-FORET" coord="1.99590198765, 48.5356206226">
+	</gare>
+	<gare nom="DRANCY" coord="2.45476638277, 48.9327062187">
+	</gare>
+	<gare nom="DRANCY-AVENIR" coord="2.41769109334, 48.9177837253">
+	</gare>
+	<gare nom="DREUX" coord="1.36997423412, 48.73095467">
+	</gare>
+	<gare nom="DUGOMMIER" coord="2.38962001134, 48.8390411437">
+	</gare>
+	<gare nom="DUPLEIX" coord="2.29361243991, 48.850434549">
+	</gare>
+	<gare nom="DUROC" coord="2.31642435206, 48.8470525545">
+	</gare>
+	<gare nom="ECOLE MILITAIRE" coord="2.3060974037, 48.8546821569">
+	</gare>
+	<gare nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" coord="2.42237614285, 48.814803007">
+	</gare>
+	<gare nom="ECOUEN-EZANVILLE" coord="2.36222298238, 49.0232063781">
+	</gare>
+	<gare nom="EDGAR QUINET" coord="2.32638461079, 48.8406632293">
+	</gare>
+	<gare nom="EGLISE D'AUTEUIL" coord="2.26913587273, 48.8471500557">
+	</gare>
+	<gare nom="EGLISE DE PANTIN" coord="2.41331313951, 48.89325759">
+	</gare>
+	<gare nom="EGLY" coord="2.22243331383, 48.5824855969">
+	</gare>
+	<gare nom="ELLA FITZGERALD" coord="2.39504174968, 48.8974328495">
+		<voisin nom="PANTIN" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="EMERAINVILLE-PONTAULT-COMBAULT" coord="2.61939577899, 48.805770376">
+	</gare>
+	<gare nom="ENGHIEN-LES-BAINS" coord="2.30713703071, 48.9727491198">
+	</gare>
+	<gare nom="EPINAY-ORGEMONT" coord="2.2955916949, 48.9555044771">
+	</gare>
+	<gare nom="EPINAY-SUR-ORGE" coord="2.3326229292, 48.6694837261">
+	</gare>
+	<gare nom="EPINAY-SUR-SEINE" coord="2.3023404202, 48.9533964617">
+		<voisin nom="GARE D'EPINAY SUR SEINE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="EPINAY-VILLETANEUSE" coord="2.32824501027, 48.9582696037">
+		<voisin nom="GARE D'EPINAY VILLETANEUSE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="EPLUCHES" coord="2.12273590827, 49.0551017605">
+	</gare>
+	<gare nom="EPONE-MEZIERES" coord="1.80909450877, 48.9633441128">
+	</gare>
+	<gare nom="ERAGNY-NEUVILLE" coord="2.09090606335, 49.0183491636">
+	</gare>
+	<gare nom="ERMONT-EAUBONNE" coord="2.27003542627, 48.9803775554">
+	</gare>
+	<gare nom="ERMONT-HALTE" coord="2.26318262286, 48.9906512497">
+	</gare>
+	<gare nom="ESBLY" coord="2.81024822073, 48.9030729142">
+	</gare>
+	<gare nom="ESCADRILLE NORMANDIE-NIEMEN" coord="2.43542099299, 48.9127049753">
+	</gare>
+	<gare nom="ESPLANADE DE LA DEFENSE" coord="2.24793243532, 48.8886312178">
+	</gare>
+	<gare nom="ESSONNES-ROBINSON" coord="2.46245649278, 48.6055558264">
+	</gare>
+	<gare nom="ETAMPES" coord="2.15953058757, 48.4369239376">
+	</gare>
+	<gare nom="ETIENNE-MARCEL" coord="2.34888065259, 48.8638074378">
+	</gare>
+	<gare nom="ETRECHY" coord="2.19458169917, 48.4936445785">
+	</gare>
+	<gare nom="EUROPE" coord="2.32226521312, 48.8787703685">
+	</gare>
+	<gare nom="EVRY" coord="2.45228989254, 48.6344790233">
+	</gare>
+	<gare nom="EVRY-COURCOURONNES" coord="2.42873898735, 48.6260224281">
+	</gare>
+	<gare nom="EXELMANS" coord="2.26003290221, 48.8429386959">
+	</gare>
+	<gare nom="FAIDHERBE-CHALIGNY" coord="2.38409221007, 48.8501778619">
+	</gare>
+	<gare nom="FALGUIERE" coord="2.31785278304, 48.8444701413">
+	</gare>
+	<gare nom="FAREMOUTIERS-POMMEUSE" coord="2.99310989478, 48.8086539649">
+	</gare>
+	<gare nom="FAUBOURG DE L ARCHE" coord="2.24007925205, 48.8966643963">
+	</gare>
+	<gare nom="FELIX FAURE" coord="2.29191241332, 48.8427467798">
+	</gare>
+	<gare nom="FERRIERES FONTENAY" coord="2.77230261766, 48.0965027788">
+	</gare>
+	<gare nom="FERTE-MILON" coord="3.12061291667, 49.1795049508">
+	</gare>
+	<gare nom="FILLES DU CALVAIRE" coord="2.36666109472, 48.863257945">
+	</gare>
+	<gare nom="FONTAINE-LE-PORT" coord="2.75115365838, 48.4872228755">
+	</gare>
+	<gare nom="FONTAINE-MICHALON" coord="2.29639315754, 48.743373402">
+	</gare>
+	<gare nom="FONTAINEBLEAU-AVON" coord="2.72666153173, 48.416377033">
+	</gare>
+	<gare nom="FONTENAY-AUX-ROSES" coord="2.29249298056, 48.78761468">
+	</gare>
+	<gare nom="FONTENAY-LE-FLEURY" coord="2.0405192047, 48.8072466121">
+	</gare>
+	<gare nom="FONTENAY-SOUS-BOIS" coord="2.46370803804, 48.8437202616">
+	</gare>
+	<gare nom="FORT D'AUBERVILLIERS" coord="2.40440908743, 48.9149497564">
+	</gare>
+	<gare nom="FRANCONVILLE-LE-PLESSIS-BOUCHARD" coord="2.23427639398, 48.9937134813">
+	</gare>
+	<gare nom="FRANKLIN-D.ROOSEVELT" coord="2.30747079345, 48.8698082202">
+	</gare>
+	<gare nom="FRATERNELLE" coord="2.35286156504, 48.7416678183">
+	</gare>
+	<gare nom="FREINVILLE-SEVRAN" coord="2.51910376383, 48.926640202">
+	</gare>
+	<gare nom="FREPILLON" coord="2.19708767832, 49.0454302542">
+	</gare>
+	<gare nom="FRONT POPULAIRE" coord="2.3659203194, 48.906567146">
+	</gare>
+	<gare nom="GABRIEL PERI-ASNIERES-GENNEVILLIERS" coord="2.2946851117, 48.9163823099">
+	</gare>
+	<gare nom="GAGNY" coord="2.52543425077, 48.883734281">
+	</gare>
+	<gare nom="GAITE" coord="2.32249174982, 48.8386316462">
+	</gare>
+	<gare nom="GALLIENI (PARC DE BAGNOLET)" coord="2.41669727286, 48.8653353173">
+	</gare>
+	<gare nom="GAMBETTA" coord="2.39898444025, 48.8649166851">
+	</gare>
+	<gare nom="GARANCIERES-LA QUEUE" coord="1.76505675656, 48.8104024644">
+	</gare>
+	<gare nom="GARCHES-MARNES-LA-COQUETTE" coord="2.18711070973, 48.838282546">
+	</gare>
+	<gare nom="GARE D'EPINAY SUR SEINE" coord="2.30230508203, 48.9545625628">
+		<voisin nom="EPINAY-SUR-SEINE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE D'EPINAY VILLETANEUSE" coord="2.32927569976, 48.959128021">
+		<voisin nom="EPINAY-VILLETANEUSE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE DUGNY - LA COURNEUVE" coord="2.41147348701, 48.9436300067">
+	</gare>
+	<gare nom="GARE DE GENNEVILLIERS" coord="2.30708965353, 48.9334498408">
+		<voisin nom="GENNEVILLIERS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE L'EST" coord="2.35945661694, 48.8773756199">
+		<voisin nom="CHATEAU-LANDON" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE LYON" coord="2.37359365326, 48.8447601713">
+		<voisin nom="AUSTERLITZ" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE PIERREFITTE STAINS" coord="2.36584210766, 48.9601628869">
+		<voisin nom="PIERREFITTE-STAINS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE SAINT-DENIS" coord="2.34786240776, 48.9352661458">
+		<voisin nom="SAINT-DENIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE STAINS LA CERISAIE" coord="2.39095508616, 48.9549290045">
+	</gare>
+	<gare nom="GARE DE VILLETANEUSE - UNIVERSITE" coord="2.34341454388, 48.9600337639">
+		<voisin nom="VILLETANEUSE-UNIVERSITE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DU BOURGET" coord="2.42346455238, 48.9302061789">
+		<voisin nom="LE BOURGET" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DU NORD" coord="2.35632854366, 48.8809220076">
+		<voisin nom="MAGENTA" distance="4.6096306961911235" />
+		<voisin nom="LA CHAPELLE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARGAN" coord="2.5170254953, 48.9081654152">
+	</gare>
+	<gare nom="GARGENVILLE" coord="1.80890782598, 48.9829797632">
+	</gare>
+	<gare nom="GARGES-SARCELLES" coord="2.39059365128, 48.9767478483">
+	</gare>
+	<gare nom="GARIBALDI" coord="2.33183083796, 48.9060940502">
+	</gare>
+	<gare nom="GASTON ROULAUD" coord="2.43127800347, 48.9140932644">
+	</gare>
+	<gare nom="GENNEVILLIERS" coord="2.30794323409, 48.9328961655">
+		<voisin nom="GARE DE GENNEVILLIERS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GENTILLY" coord="2.34089113242, 48.8152299365">
+	</gare>
+	<gare nom="GEORGE V" coord="2.30056045125, 48.8720238095">
+	</gare>
+	<gare nom="GEORGES BRASSENS" coord="2.29566198282, 48.829826379">
+	</gare>
+	<gare nom="GEORGES MILLANDY" coord="2.23098355894, 48.7835009757">
+	</gare>
+	<gare nom="GEORGES POMPIDOU" coord="2.23713270497, 48.7849021663">
+	</gare>
+	<gare nom="GIF-SUR-YVETTE" coord="2.13656671706, 48.6981969763">
+	</gare>
+	<gare nom="GILBERT BONNEMAISON" coord="2.30787256835, 48.9554374261">
+	</gare>
+	<gare nom="GISORS" coord="1.78506622348, 49.2852635241">
+	</gare>
+	<gare nom="GLACIERE" coord="2.34351165775, 48.831129548">
+	</gare>
+	<gare nom="GONCOURT (HOPITAL SAINT-LOUIS)" coord="2.37109483973, 48.8699575127">
+	</gare>
+	<gare nom="GOUSSAINVILLE" coord="2.46216896477, 49.023161999">
+	</gare>
+	<gare nom="GRAND-BOURG" coord="2.43533053155, 48.6484891117">
+	</gare>
+	<gare nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" coord="2.34315477308, 48.8714977394">
+	</gare>
+	<gare nom="GRAVIGNY-BALIZY" coord="2.31762640497, 48.6857136264">
+	</gare>
+	<gare nom="GRETZ-ARMAINVILLIERS" coord="2.72722937143, 48.7464523207">
+	</gare>
+	<gare nom="GRIGNY-CENTRE" coord="2.39617681244, 48.6539697593">
+	</gare>
+	<gare nom="GROS-NOYER-SAINT-PRIX" coord="2.25965561906, 48.9960988426">
+	</gare>
+	<gare nom="GROSLAY" coord="2.35340724587, 48.9843159621">
+	</gare>
+	<gare nom="GUERARD-LA-CELLE-SUR-MORIN" coord="2.9537303831, 48.8107753218">
+	</gare>
+	<gare nom="GUY MOQUET" coord="2.3274284585, 48.8928288534">
+	</gare>
+	<gare nom="GUYNEMER" coord="2.35746152626, 48.9482081285">
+		<voisin nom="SAINT-DENIS-UNIVERSITE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HAUSSMANN-SAINT-LAZARE" coord="2.32671784022, 48.8750293419">
+		<voisin nom="SAINT-LAZARE" distance="4.6096306961911235" />
+		<voisin nom="HAVRE-CAUMARTIN" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HAVRE-CAUMARTIN" coord="2.32754308036, 48.8735133896">
+		<voisin nom="AUBER" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HELENE BOUCHER" coord="2.3594678211, 48.7399874304">
+	</gare>
+	<gare nom="HENRI FARMANN" coord="2.27124150094, 48.8347500104">
+	</gare>
+	<gare nom="HERBLAY" coord="2.16190660559, 48.9902899964">
+	</gare>
+	<gare nom="HERICY" coord="2.76092673374, 48.4428820633">
+	</gare>
+	<gare nom="HOCHE" coord="2.40235214254, 48.8912285932">
+	</gare>
+	<gare nom="HOPITAL AVICENNE" coord="2.42500989427, 48.9158378929">
+	</gare>
+	<gare nom="HOPITAL BECLERE" coord="2.25450215204, 48.7867161822">
+	</gare>
+	<gare nom="HOPITAL DELAFONTAINE" coord="2.37108317162, 48.9335864037">
+	</gare>
+	<gare nom="HOPITAL ROBERT DEBRE" coord="2.40122176128, 48.8794703691">
+		<voisin nom="PRE SAINT-GERVAIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HOTEL DE VILLE" coord="2.35100846139, 48.8574518326">
+	</gare>
+	<gare nom="HOTEL DE VILLE - MAISON DE LA CULTURE" coord="2.44399233455, 48.9065365591">
+	</gare>
+	<gare nom="HOTEL DE VILLE DE LA COURNEUVE" coord="2.39247111933, 48.9274028908">
+	</gare>
+	<gare nom="HOUDAN" coord="1.60270169299, 48.7960253678">
+	</gare>
+	<gare nom="HOUILLES-CARRIERES-SUR-SEINE" coord="2.18535337629, 48.9203793748">
+	</gare>
+	<gare nom="IENA" coord="2.29416201811, 48.8647940658">
+	</gare>
+	<gare nom="IGNY" coord="2.23096112506, 48.7401815211">
+	</gare>
+	<gare nom="INOVEL PARC NORD" coord="2.20912922729, 48.7814043209">
+	</gare>
+	<gare nom="INVALIDES" coord="2.31391107854, 48.8629018918">
+	</gare>
+	<gare nom="ISLES-ARMENTIERES-CONGIS" coord="3.00795305575, 48.9984153932">
+	</gare>
+	<gare nom="ISSOU-PORCHEVILLE" coord="1.78397340775, 48.9792922476">
+	</gare>
+	<gare nom="ISSY" coord="2.25875976703, 48.8196744882">
+	</gare>
+	<gare nom="ISSY-VAL DE SEINE" coord="2.26368964874, 48.8301196393">
+	</gare>
+	<gare nom="IVRY-SUR-SEINE" coord="2.39168697166, 48.813989052">
+	</gare>
+	<gare nom="JACQUELINE AURIOL" coord="2.23398860143, 48.9108025897">
+	</gare>
+	<gare nom="JACQUES BONSERGENT" coord="2.36102746692, 48.87080998">
+	</gare>
+	<gare nom="JACQUES PREVERT" coord="2.36600388911, 48.9708834042">
+	</gare>
+	<gare nom="JACQUES-HENRI LARTIGUE" coord="2.26053991367, 48.8247670255">
+	</gare>
+	<gare nom="JASMIN" coord="2.26817674944, 48.8525040906">
+	</gare>
+	<gare nom="JAURES" coord="2.37015796174, 48.8824652456">
+	</gare>
+	<gare nom="JAVEL" coord="2.27676096738, 48.8461921405">
+	</gare>
+	<gare nom="JEAN MOULIN" coord="2.31882969127, 48.8247110179">
+	</gare>
+	<gare nom="JEAN ROSTAND" coord="2.45435282652, 48.9078125468">
+	</gare>
+	<gare nom="JEAN VILAR" coord="2.34346127953, 48.9527263299">
+	</gare>
+	<gare nom="JOINVILLE-LE-PONT" coord="2.46385679536, 48.8210388151">
+	</gare>
+	<gare nom="JONCHEROLLES" coord="2.35832285615, 48.955576348">
+	</gare>
+	<gare nom="JOURDAIN" coord="2.38941503204, 48.875111817">
+	</gare>
+	<gare nom="JOUY-EN-JOSAS" coord="2.16394708588, 48.764776013">
+	</gare>
+	<gare nom="JULES JOFFRIN" coord="2.34465700413, 48.8924395905">
+	</gare>
+	<gare nom="JUSSIEU" coord="2.3549179837, 48.8461511231">
+	</gare>
+	<gare nom="JUVISY" coord="2.38275720308, 48.6896979337">
+	</gare>
+	<gare nom="JUZIERS" coord="1.84513444487, 48.9922412813">
+	</gare>
+	<gare nom="KLEBER" coord="2.29352429034, 48.8716497691">
+	</gare>
+	<gare nom="L ILE-SAINT-DENIS" coord="2.33910838701, 48.9357480421">
+	</gare>
+	<gare nom="L ONDE" coord="2.18049375093, 48.7819866725">
+	</gare>
+	<gare nom="L'ABBAYE" coord="2.51644353517, 48.9219261433">
+	</gare>
+	<gare nom="L'ETANG-LA-VILLE" coord="2.07671910268, 48.8680644232">
+	</gare>
+	<gare nom="L'ISLE-ADAM-PARMAIN" coord="2.21001986929, 49.1147839701">
+	</gare>
+	<gare nom="LA BARRE-ORMESSON" coord="2.31658207116, 48.9663265448">
+	</gare>
+	<gare nom="LA BELLE EPINE" coord="2.36836469863, 48.7567394335">
+	</gare>
+	<gare nom="LA BORNE BLANCHE" coord="2.50614368925, 49.126780942">
+	</gare>
+	<gare nom="LA CELLE-SAINT-CLOUD" coord="2.13812505878, 48.8427199544">
+	</gare>
+	<gare nom="LA CHAPELLE" coord="2.36049131853, 48.8843987952">
+		<voisin nom="GARE DU NORD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LA COURNEUVE 8 MAI 1945" coord="2.41059861509, 48.92078597">
+	</gare>
+	<gare nom="LA COURNEUVE-AUBERVILLIERS" coord="2.38638829106, 48.9243538797">
+	</gare>
+	<gare nom="LA CROIX-DE-BERNY-FRESNES" coord="2.30422734619, 48.7616936904">
+	</gare>
+	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="2.2370180564, 48.8921870764">
+	</gare>
+	<gare nom="LA FERME" coord="2.43748780358, 48.9096663654">
+	</gare>
+	<gare nom="LA FERTE-ALAIS" coord="2.35185842142, 48.4849573772">
+	</gare>
+	<gare nom="LA FERTE-SOUS-JOUARRE" coord="3.12490901802, 48.9508199876">
+	</gare>
+	<gare nom="LA FOURCHE" coord="2.32577967481, 48.8871839469">
+	</gare>
+	<gare nom="LA FRETTE-MONTIGNY" coord="2.18001238078, 48.9802635207">
+	</gare>
+	<gare nom="LA GARENNE-COLOMBES" coord="2.23968411711, 48.909632934">
+	</gare>
+	<gare nom="LA GRANDE PAROISSE" coord="2.89720177648, 48.3787957608">
+	</gare>
+	<gare nom="LA HACQUINIERE" coord="2.15164203862, 48.6952641221">
+	</gare>
+	<gare nom="LA MOTTE-PICQUET-GRENELLE" coord="2.29830140173, 48.8493505536">
+	</gare>
+	<gare nom="LA MUETTE" coord="2.27415463109, 48.8580460563">
+	</gare>
+	<gare nom="LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON" coord="2.26693797261, 48.5914608202">
+	</gare>
+	<gare nom="LA NOUE" coord="2.32679331227, 48.9349758267">
+	</gare>
+	<gare nom="LA PLAINE-STADE DE FRANCE" coord="2.36266560018, 48.918113804">
+	</gare>
+	<gare nom="LA REMISE A JORELLE" coord="2.48791098763, 48.8930946286">
+	</gare>
+	<gare nom="LA TOUR MAUBOURG" coord="2.31056596095, 48.8577254129">
+	</gare>
+	<gare nom="LA VARENNE-CHENNEVIERES" coord="2.51342329955, 48.7953838356">
+	</gare>
+	<gare nom="LA VERRIERE" coord="1.94383520242, 48.7553892687">
+	</gare>
+	<gare nom="LA VILLETERTRE" coord="1.92054770607, 49.202693603">
+	</gare>
+	<gare nom="LACEPEDE" coord="2.31152630869, 48.9558768749">
+	</gare>
+	<gare nom="LAGNY-THORIGNY" coord="2.7060141784, 48.8821891367">
+	</gare>
+	<gare nom="LAMARCK-CAULAINCOURT" coord="2.3387606492, 48.8896740712">
+	</gare>
+	<gare nom="LAMARTINE" coord="2.36698227804, 48.7832704514">
+	</gare>
+	<gare nom="LAPLACE" coord="2.33435430694, 48.8082965868">
+	</gare>
+	<gare nom="LARDY" coord="2.25473970107, 48.5204035911">
+	</gare>
+	<gare nom="LAUMIERE" coord="2.37966307748, 48.8852161821">
+	</gare>
+	<gare nom="LE BOURGET" coord="2.42579142691, 48.9307395712">
+		<voisin nom="GARE DU BOURGET" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LE BRAS-DE-FER" coord="2.45140909559, 48.6233322411">
+	</gare>
+	<gare nom="LE CHENAY-GAGNY" coord="2.55288164979, 48.8771578388">
+	</gare>
+	<gare nom="LE COUDRAY-MONTCEAUX" coord="2.49271300424, 48.5661178207">
+	</gare>
+	<gare nom="LE GUICHET" coord="2.19273488481, 48.7054039248">
+	</gare>
+	<gare nom="LE KREMLIN-BICETRE" coord="2.36226338713, 48.8101299573">
+	</gare>
+	<gare nom="LE LUTH" coord="2.28865600596, 48.9318139969">
+	</gare>
+	<gare nom="LE MEE" coord="2.62552215507, 48.5387752566">
+	</gare>
+	<gare nom="LE PARC-DE-SAINT-MAUR" coord="2.48634974878, 48.8053776622">
+	</gare>
+	<gare nom="LE PELETIER" coord="2.34019988439, 48.8748743434">
+	</gare>
+	<gare nom="LE PERRAY" coord="1.85659206527, 48.6930965921">
+	</gare>
+	<gare nom="LE PLESSIS-BELLEVILLE" coord="2.74468620744, 49.0961208107">
+	</gare>
+	<gare nom="LE PLESSIS-CHENET" coord="2.47946916961, 48.5738077927">
+	</gare>
+	<gare nom="LE RAINCY-VILLEMOMBLE-MONTFERMEIL" coord="2.51256682693, 48.8890765929">
+	</gare>
+	<gare nom="LE STADE" coord="2.26060231561, 48.9310542278">
+	</gare>
+	<gare nom="LE VAL-D'OR" coord="2.21657223779, 48.8564199914">
+	</gare>
+	<gare nom="LE VERT-DE-MAISONS" coord="2.43207011795, 48.7889148967">
+	</gare>
+	<gare nom="LE VESINET-CENTRE" coord="2.13460087523, 48.8900862356">
+	</gare>
+	<gare nom="LE VESINET-LE PECQ" coord="2.12211744747, 48.8979734463">
+	</gare>
+	<gare nom="LE VILLAGE" coord="2.29460298939, 48.9333553822">
+	</gare>
+	<gare nom="LEDRU-ROLLIN" coord="2.37611877334, 48.8512711264">
+	</gare>
+	<gare nom="LES AGNETTES-ASNIERES-GENNEVILLIERS" coord="2.28627957753, 48.9231037797">
+	</gare>
+	<gare nom="LES ARDOINES" coord="2.4095416551, 48.7825054355">
+	</gare>
+	<gare nom="LES BACONNETS" coord="2.28766749545, 48.7396810434">
+	</gare>
+	<gare nom="LES BEATUS" coord="2.32021652167, 48.9517087836">
+	</gare>
+	<gare nom="LES BOULLEREAUX-CHAMPIGNY" coord="2.51185555209, 48.8248485695">
+	</gare>
+	<gare nom="LES CHOLETTES" coord="2.37224292371, 48.97749309">
+	</gare>
+	<gare nom="LES CLAIRIERES-DE-VERNEUIL" coord="1.95547924753, 48.9926138816">
+	</gare>
+	<gare nom="LES COQUETIERS" coord="2.49938845729, 48.8925047614">
+	</gare>
+	<gare nom="LES COTEAUX" coord="2.22060356003, 48.8574714089">
+	</gare>
+	<gare nom="LES COURTILLES" coord="2.28372255733, 48.9302142123">
+		<voisin nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" coord="2.28417444828, 48.9307570033">
+		<voisin nom="LES COURTILLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES FAUVELLES" coord="2.23954203632, 48.9027680256">
+	</gare>
+	<gare nom="LES FLANADES" coord="2.37741967331, 48.9766656914">
+	</gare>
+	<gare nom="LES GOBELINS" coord="2.35258892564, 48.8358634842">
+	</gare>
+	<gare nom="LES GRESILLONS" coord="2.31383538247, 48.9208728035">
+	</gare>
+	<gare nom="LES HALLES" coord="2.34567382822, 48.8623162787">
+		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES LOCHERES" coord="2.38504919201, 48.9785246243">
+	</gare>
+	<gare nom="LES MILONS" coord="2.22123268327, 48.8498504878">
+	</gare>
+	<gare nom="LES MOBILES" coord="2.32883217135, 48.9499377357">
+	</gare>
+	<gare nom="LES MOULINEAUX" coord="2.25133615621, 48.8215175225">
+	</gare>
+	<gare nom="LES MUREAUX" coord="1.91353050671, 48.9925919556">
+	</gare>
+	<gare nom="LES NOUES" coord="2.47803336649, 49.0331827681">
+	</gare>
+	<gare nom="LES PAVILLONS-SOUS-BOIS" coord="2.51169930327, 48.9024441906">
+	</gare>
+	<gare nom="LES SABLONS (JARDIN D'ACCLIMATATION)" coord="2.27168672105, 48.8811915206">
+	</gare>
+	<gare nom="LES SAULES" coord="2.4175209779, 48.7450721669">
+	</gare>
+	<gare nom="LES VALLEES" coord="2.25732601832, 48.9136368639">
+	</gare>
+	<gare nom="LES YVRIS-NOISY-LE-GRAND" coord="2.57983725527, 48.8231518558">
+	</gare>
+	<gare nom="LES-ESSARTS-LE-ROI" coord="1.8900045637, 48.7219159611">
+	</gare>
+	<gare nom="LIANCOURT-SAINT-PIERRE" coord="1.90529906189, 49.2208070506">
+	</gare>
+	<gare nom="LIBERATION" coord="2.43862449586, 48.9069318321">
+	</gare>
+	<gare nom="LIBERTE" coord="2.40674222593, 48.8260549965">
+	</gare>
+	<gare nom="LIEGE" coord="2.32702220089, 48.8796347607">
+	</gare>
+	<gare nom="LIEUSAINT-MOISSY" coord="2.56958354824, 48.6283755508">
+	</gare>
+	<gare nom="LIMAY" coord="1.74778618291, 48.9841727553">
+	</gare>
+	<gare nom="LIVRY-SUR-SEINE" coord="2.67897398269, 48.5102651762">
+	</gare>
+	<gare nom="LIZY-SUR-OURCQ" coord="3.03175844447, 49.0217572686">
+	</gare>
+	<gare nom="LOGNES" coord="2.63321091342, 48.8392193">
+	</gare>
+	<gare nom="LONGJUMEAU" coord="2.29455774921, 48.7022393869">
+	</gare>
+	<gare nom="LONGUEVILLE" coord="3.25003498258, 48.513754591">
+	</gare>
+	<gare nom="LOUIS BLANC" coord="2.36521878185, 48.8814047322">
+	</gare>
+	<gare nom="LOUISE MICHEL" coord="2.28808363305, 48.8887060198">
+	</gare>
+	<gare nom="LOURMEL" coord="2.28270002724, 48.8389609394">
+	</gare>
+	<gare nom="LOUVECIENNES" coord="2.12319109459, 48.8612145286">
+	</gare>
+	<gare nom="LOUVOIS" coord="2.19650581249, 48.780087152">
+	</gare>
+	<gare nom="LOUVRE-RIVOLI" coord="2.34110859163, 48.8608062913">
+	</gare>
+	<gare nom="LOUVRES" coord="2.50175806584, 49.0493256018">
+	</gare>
+	<gare nom="LOZERE" coord="2.21226237802, 48.7059689848">
+	</gare>
+	<gare nom="LUXEMBOURG" coord="2.33992799972, 48.8457430732">
+	</gare>
+	<gare nom="LUZARCHES" coord="2.42010703417, 49.1171321315">
+	</gare>
+	<gare nom="LYCEE HENRI SELLIER" coord="2.51506144619, 48.9160965041">
+	</gare>
+	<gare nom="MABILLON" coord="2.33550205309, 48.8530167679">
+	</gare>
+	<gare nom="MADELEINE" coord="2.32575263529, 48.8706670209">
+	</gare>
+	<gare nom="MAGENTA" coord="2.35883323697, 48.8809135284">
+		<voisin nom="GARE DU NORD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="MAIL DE LA PLAINE" coord="2.24697764916, 48.7836872152">
+	</gare>
+	<gare nom="MAIRIE D'ISSY" coord="2.27304152514, 48.8241050307">
+	</gare>
+	<gare nom="MAIRIE D'IVRY" coord="2.38355147965, 48.8110991977">
+	</gare>
+	<gare nom="MAIRIE DE CLICHY" coord="2.30592414987, 48.9033300946">
+	</gare>
+	<gare nom="MAIRIE DE MONTREUIL" coord="2.44131094125, 48.8619369141">
+	</gare>
+	<gare nom="MAIRIE DE MONTROUGE" coord="2.3197403133, 48.8186764099">
+	</gare>
+	<gare nom="MAIRIE DE PIERREFITTE" coord="2.36025075865, 48.9635179464">
+	</gare>
+	<gare nom="MAIRIE DE SAINT-OUEN" coord="2.33392489048, 48.9119648979">
+	</gare>
+	<gare nom="MAIRIE DE VELIZY" coord="2.19140991927, 48.7804547115">
+	</gare>
+	<gare nom="MAIRIE DE VILLENEUVE-LA-GARENNE" coord="2.33433291316, 48.9356057093">
+	</gare>
+	<gare nom="MAIRIE DES LILAS" coord="2.41647964367, 48.879761254">
+	</gare>
+	<gare nom="MAISON BLANCHE" coord="2.35847388385, 48.8224378346">
+	</gare>
+	<gare nom="MAISONS-ALFORT-ALFORTVILLE" coord="2.42648240848, 48.8020493803">
+	</gare>
+	<gare nom="MAISONS-ALFORT-LES JUILLIOTTES" coord="2.44692748424, 48.8026376907">
+	</gare>
+	<gare nom="MAISONS-ALFORT-STADE" coord="2.43450989593, 48.8091443609">
+	</gare>
+	<gare nom="MAISONS-LAFFITTE" coord="2.1445587568, 48.9457959345">
+	</gare>
+	<gare nom="MAISSE" coord="2.39341072405, 48.3936415495">
+	</gare>
+	<gare nom="MALAKOFF-PLATEAU DE VANVES" coord="2.29846419197, 48.8225837068">
+	</gare>
+	<gare nom="MALAKOFF-RUE ÉTIENNE DOLET" coord="2.29707779833, 48.8153075312">
+	</gare>
+	<gare nom="MALESHERBES METRO" coord="2.30905226455, 48.8828919175">
+	</gare>
+	<gare nom="MALESHERBES RER" coord="2.40113389443, 48.2935917687">
+	</gare>
+	<gare nom="MANTES-LA-JOLIE" coord="1.70301613419, 48.9895025071">
+	</gare>
+	<gare nom="MANTES-STATION" coord="1.71521098645, 48.9836545075">
+	</gare>
+	<gare nom="MARAICHERS" coord="2.40608916188, 48.8527251193">
+	</gare>
+	<gare nom="MARCADET-POISSONNIERS" coord="2.34981545185, 48.8914650003">
+	</gare>
+	<gare nom="MARCEL SEMBAT" coord="2.24384059238, 48.8337088491">
+	</gare>
+	<gare nom="MARCHE DE SAINT-DENIS" coord="2.35632186742, 48.9389501578">
+		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="MARCHEZAIS BROUE" coord="1.51333305235, 48.7684217766">
+	</gare>
+	<gare nom="MAREIL-MARLY" coord="2.07917759196, 48.8809920835">
+	</gare>
+	<gare nom="MAREIL-SUR-MAULDRE" coord="1.87173847573, 48.8932385948">
+	</gare>
+	<gare nom="MAREUIL-SUR-OURCQ" coord="3.07562656432, 49.1354741446">
+	</gare>
+	<gare nom="MARIE DE MIRIBEL" coord="2.40968568697, 48.8587040102">
+	</gare>
+	<gare nom="MARLES-EN-BRIE" coord="2.86895583008, 48.7349392965">
+	</gare>
+	<gare nom="MARLY-LE-ROI" coord="2.09654825276, 48.8715031037">
+	</gare>
+	<gare nom="MAROLLES-EN-HUREPOIX" coord="2.29092446985, 48.5655938628">
+	</gare>
+	<gare nom="MARX DORMOY" coord="2.35999576641, 48.8904854538">
+	</gare>
+	<gare nom="MARYSE BASTIE" coord="2.37758429146, 48.8243285035">
+	</gare>
+	<gare nom="MASSY-PALAISEAU" coord="2.25896643431, 48.7243094192">
+	</gare>
+	<gare nom="MASSY-VERRIERES" coord="2.2734834644, 48.7347165868">
+	</gare>
+	<gare nom="MAUBERT-MUTUALITE" coord="2.34805429048, 48.8501273238">
+	</gare>
+	<gare nom="MAULE" coord="1.85722753849, 48.909305376">
+	</gare>
+	<gare nom="MAURECOURT" coord="2.05978782668, 48.9870565461">
+	</gare>
+	<gare nom="MAURICE LACHATRE" coord="2.41383718232, 48.9191790277">
+	</gare>
+	<gare nom="MEAUX" coord="2.87344818875, 48.9572688678">
+	</gare>
+	<gare nom="MELUN" coord="2.65499028486, 48.5272433206">
+	</gare>
+	<gare nom="MENILMONTANT" coord="2.38338325046, 48.8668000351">
+	</gare>
+	<gare nom="MENNECY" coord="2.43209853366, 48.5705968587">
+	</gare>
+	<gare nom="MERIEL" coord="2.20544672552, 49.0776990428">
+	</gare>
+	<gare nom="MERY-VAL D'OISE" coord="2.19124475918, 49.0580478127">
+	</gare>
+	<gare nom="MEUDON" coord="2.24091929487, 48.8148843142">
+	</gare>
+	<gare nom="MEUDON-LA-FORET" coord="2.22528029528, 48.7835393328">
+	</gare>
+	<gare nom="MEUDON-SUR-SEINE" coord="2.23859833779, 48.8191743291">
+	</gare>
+	<gare nom="MEUDON-VAL-FLEURY" coord="2.24088306797, 48.8074926258">
+	</gare>
+	<gare nom="MEULAN-HARDRICOURT" coord="1.90178197858, 49.0057625368">
+	</gare>
+	<gare nom="MICHEL BIZOT" coord="2.40233316592, 48.837117007">
+	</gare>
+	<gare nom="MICHEL-ANGE-AUTEUIL" coord="2.26421877705, 48.8479348079">
+	</gare>
+	<gare nom="MICHEL-ANGE-MOLITOR" coord="2.2616234924, 48.8452475655">
+	</gare>
+	<gare nom="MIRABEAU" coord="2.27276375332, 48.8471310082">
+	</gare>
+	<gare nom="MIROMESNIL" coord="2.31445603619, 48.8737699887">
+	</gare>
+	<gare nom="MITRY-CLAYE" coord="2.64240630503, 48.9758587558">
+	</gare>
+	<gare nom="MONCEAU" coord="2.30945116799, 48.8804494561">
+	</gare>
+	<gare nom="MONTARGIS" coord="2.74303831268, 48.0070317015">
+	</gare>
+	<gare nom="MONTEMPOIVRE" coord="2.4088668504, 48.8398410732">
+	</gare>
+	<gare nom="MONTEREAU" coord="2.9425234154, 48.3795261033">
+	</gare>
+	<gare nom="MONTFORT-L'AMAURY-MERE" coord="1.81646679422, 48.80260198">
+	</gare>
+	<gare nom="MONTGALLET" coord="2.39007511282, 48.8444086721">
+	</gare>
+	<gare nom="MONTGERON-CROSNE" coord="2.46228224605, 48.7082378286">
+	</gare>
+	<gare nom="MONTGEROULT-COURCELLES" coord="2.00371537163, 49.0804937079">
+	</gare>
+	<gare nom="MONTIGNY-BEAUCHAMP" coord="2.19761981397, 49.0074232971">
+	</gare>
+	<gare nom="MONTIGNY-SUR-LOING" coord="2.73800161988, 48.3364817806">
+	</gare>
+	<gare nom="MONTPARNASSE" coord="2.32050922753, 48.8411869211">
+	</gare>
+	<gare nom="MONTREUIL" coord="2.15150011876, 48.8063774473">
+	</gare>
+	<gare nom="MONTRY-CONDE" coord="2.8264054973, 48.8908567963">
+	</gare>
+	<gare nom="MONTSOULT-MAFFLIERS" coord="2.32292045583, 49.0662886977">
+	</gare>
+	<gare nom="MONTSOURIS" coord="2.33333983286, 48.8215089174">
+	</gare>
+	<gare nom="MORET-VENEUX-LES-SABLONS" coord="2.79930742793, 48.3785977679">
+	</gare>
+	<gare nom="MORMANT" coord="2.88825289679, 48.6140152409">
+	</gare>
+	<gare nom="MORTCERF" coord="2.90738727037, 48.7894966796">
+	</gare>
+	<gare nom="MOULIN VERT" coord="2.36782513844, 48.7718553125">
+	</gare>
+	<gare nom="MOULIN-GALANT" coord="2.47349036636, 48.5871539054">
+	</gare>
+	<gare nom="MOUROUX" coord="3.04293826468, 48.8137984821">
+	</gare>
+	<gare nom="MOUTON-DUVERNET" coord="2.32970501262, 48.8311126604">
+	</gare>
+	<gare nom="MUSEE D'ORSAY" coord="2.32562029875, 48.8607082299">
+	</gare>
+	<gare nom="MUSEE DE SEVRES" coord="2.22531285328, 48.8290105028">
+		<voisin nom="PONT DE SEVRES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="NANGIS" coord="3.01176932905, 48.5621248332">
+	</gare>
+	<gare nom="NANTERRE-PREFECTURE" coord="2.22321296703, 48.8957453121">
+	</gare>
+	<gare nom="NANTERRE-UNIVERSITE" coord="2.21511051038, 48.9017458864">
+	</gare>
+	<gare nom="NANTERRE-VILLE" coord="2.19536398691, 48.8951258913">
+	</gare>
+	<gare nom="NANTEUIL-LE-HAUDOUIN" coord="2.79445455011, 49.1428841983">
+	</gare>
+	<gare nom="NANTEUIL-SAACY" coord="3.21930281555, 48.9740265796">
+	</gare>
+	<gare nom="NATION" coord="2.39582358883, 48.8482371104">
+	</gare>
+	<gare nom="NATIONALE" coord="2.36285639952, 48.8332167197">
+	</gare>
+	<gare nom="NEMOURS-SAINT-PIERRE" coord="2.68564708994, 48.2677581099">
+	</gare>
+	<gare nom="NEUILLY-PLAISANCE" coord="2.51382529103, 48.853485713">
+	</gare>
+	<gare nom="NEUVILLE UNIVERSITE" coord="2.07830659141, 49.014133685">
+	</gare>
+	<gare nom="NEZEL-AULNAY" coord="1.84051702968, 48.938719239">
+	</gare>
+	<gare nom="NOGENT-L'ARTAUD-CHARLY" coord="3.32188681725, 48.9692787821">
+	</gare>
+	<gare nom="NOGENT-LE-PERREUX" coord="2.49418805536, 48.8393419374">
+	</gare>
+	<gare nom="NOGENT-SUR-MARNE" coord="2.47168124121, 48.8342888989">
+	</gare>
+	<gare nom="NOINTEL-MOURS" coord="2.28051536983, 49.1325777015">
+	</gare>
+	<gare nom="NOISIEL" coord="2.6159524885, 48.8434916487">
+	</gare>
+	<gare nom="NOISY-CHAMPS" coord="2.58008591197, 48.8428848408">
+	</gare>
+	<gare nom="NOISY-LE-GRAND-MONT D'EST" coord="2.5477751893, 48.8408434319">
+	</gare>
+	<gare nom="NOISY-LE-ROI" coord="2.06132681294, 48.8413596382">
+	</gare>
+	<gare nom="NOISY-LE-SEC" coord="2.45836341065, 48.8966524511">
+	</gare>
+	<gare nom="NOTRE-DAME-DE-LORETTE" coord="2.33788648907, 48.8760262116">
+	</gare>
+	<gare nom="NOTRE-DAME-DES-CHAMPS" coord="2.3287780269, 48.8449426325">
+	</gare>
+	<gare nom="OBERKAMPF" coord="2.36849638711, 48.8647276207">
+	</gare>
+	<gare nom="ODEON" coord="2.33964633593, 48.8521672611">
+	</gare>
+	<gare nom="OLYMPIADES" coord="2.36803264776, 48.827270836">
+	</gare>
+	<gare nom="OPERA" coord="2.33240740643, 48.8704867033">
+		<voisin nom="AUBER" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="ORANGIS-BOIS DE L'EPINE" coord="2.40779628752, 48.636351368">
+	</gare>
+	<gare nom="ORGERUS-BEHOUST" coord="1.70321842548, 48.8265784281">
+	</gare>
+	<gare nom="ORLY VILLE" coord="2.40290860737, 48.7418787057">
+	</gare>
+	<gare nom="ORMOY-VILLERS" coord="2.83810847804, 49.2008770791">
+	</gare>
+	<gare nom="ORRY-LA-VILLE-COYE" coord="2.49017898542, 49.1382863753">
+	</gare>
+	<gare nom="ORSAY-VILLE" coord="2.1810544377, 48.6975056699">
+	</gare>
+	<gare nom="OSNY" coord="2.05790299051, 49.0629696795">
+	</gare>
+	<gare nom="OURCQ" coord="2.38696001714, 48.8871348691">
+	</gare>
+	<gare nom="OZOIR-LA-FERRIERE" coord="2.69025278082, 48.7707789189">
+	</gare>
+	<gare nom="PABLO NERUDA" coord="2.34310923573, 48.956671846">
+	</gare>
+	<gare nom="PALAIS ROYAL-MUSEE DU LOUVRE" coord="2.3368783976, 48.8628296728">
+	</gare>
+	<gare nom="PALAISEAU" coord="2.24567251458, 48.7169462876">
+	</gare>
+	<gare nom="PALAISEAU-VILLEBON" coord="2.23731436464, 48.7081405836">
+	</gare>
+	<gare nom="PANTIN" coord="2.4003617059, 48.8981123054">
+		<voisin nom="ELLA FITZGERALD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PARC ANDRE MALRAUX" coord="2.28195132017, 48.7998873832">
+	</gare>
+	<gare nom="PARC DE SAINT-CLOUD" coord="2.22185149475, 48.8431243999">
+		<voisin nom="BOULOGNE-PONT DE SAINT CLOUD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PARC DES CHANTERAINES" coord="2.3131326405, 48.9339320289">
+	</gare>
+	<gare nom="PARC DES EXPOSITIONS" coord="2.51436028418, 48.9734249063">
+	</gare>
+	<gare nom="PARC PIERRE LAGRAVERE" coord="2.22481218888, 48.9175149076">
+	</gare>
+	<gare nom="PARC-DE-SCEAUX" coord="2.31020545188, 48.7707219935">
+	</gare>
+	<gare nom="PARMENTIER" coord="2.37458197, 48.8652537861">
+	</gare>
+	<gare nom="PASSY" coord="2.28581244413, 48.857448691">
+	</gare>
+	<gare nom="PASTEUR" coord="2.31281277347, 48.84267682">
+	</gare>
+	<gare nom="PAUL ELUARD" coord="2.34520750593, 48.9396887087">
+	</gare>
+	<gare nom="PAUL VALERY" coord="2.38020425433, 48.9792761263">
+	</gare>
+	<gare nom="PAVE BLANC" coord="2.23983201762, 48.7807309692">
+	</gare>
+	<gare nom="PELLEPORT" coord="2.40156171274, 48.8684401633">
+	</gare>
+	<gare nom="PERE LACHAISE" coord="2.38588244933, 48.8631232146">
+	</gare>
+	<gare nom="PEREIRE-LEVALLOIS" coord="2.29803330321, 48.8854042809">
+	</gare>
+	<gare nom="PERNETY" coord="2.31807828549, 48.8339363927">
+	</gare>
+	<gare nom="PERSAN-BEAUMONT" coord="2.27782319062, 49.1477195065">
+	</gare>
+	<gare nom="PETIT NOISY" coord="2.46546048136, 48.9004173041">
+	</gare>
+	<gare nom="PETIT PIERREFITTE" coord="2.35797833108, 48.9526378826">
+	</gare>
+	<gare nom="PETIT-JOUY-LES-LOGES" coord="2.14683164477, 48.7704252021">
+	</gare>
+	<gare nom="PETIT-VAUX" coord="2.3332494585, 48.6763813253">
+	</gare>
+	<gare nom="PHILIPPE AUGUSTE" coord="2.38972985235, 48.8584665494">
+	</gare>
+	<gare nom="PICPUS" coord="2.40128901983, 48.8450615799">
+	</gare>
+	<gare nom="PIERRE CURIE" coord="2.37726720015, 48.815930763">
+	</gare>
+	<gare nom="PIERRE DE GEYTER" coord="2.35270198439, 48.9320518227">
+	</gare>
+	<gare nom="PIERREFITTE-STAINS" coord="2.3721031384, 48.9637554296">
+		<voisin nom="GARE DE PIERREFITTE STAINS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PIERRELAYE" coord="2.15466348564, 49.0191367398">
+	</gare>
+	<gare nom="PIGALLE" coord="2.33729479057, 48.8823901507">
+	</gare>
+	<gare nom="PLACE D'ITALIE" coord="2.35564364302, 48.831433631">
+	</gare>
+	<gare nom="PLACE DE CLAEROPORT D ORLY - TERMINAL OUESTICHY" coord="2.32724341195, 48.883804528">
+	</gare>
+	<gare nom="PLACE DE CLICHY" coord="2.32783955611, 48.8836149922">
+	</gare>
+	<gare nom="PLACE DE LA LOGISTIQUE" coord="2.36195215258, 48.7528113597">
+	</gare>
+	<gare nom="PLACE DES FETES" coord="2.39305609332, 48.8768063892">
+	</gare>
+	<gare nom="PLACE MONGE (JARDIN DES PLANTES)" coord="2.35222472818, 48.8428668307">
+	</gare>
+	<gare nom="PLAISANCE" coord="2.31412232347, 48.8318256496">
+	</gare>
+	<gare nom="PLAISIR-GRIGNON" coord="1.94440175807, 48.8319161843">
+	</gare>
+	<gare nom="PLAISIR-LES-CLAYES" coord="1.96002656025, 48.8309595286">
+	</gare>
+	<gare nom="POISSONNIERE" coord="2.34929390248, 48.8772363191">
+	</gare>
+	<gare nom="POISSY" coord="2.04107228968, 48.9332654061">
+	</gare>
+	<gare nom="PONT DE BEZONS" coord="2.21758979935, 48.9232682542">
+	</gare>
+	<gare nom="PONT DE BONDY" coord="2.46997154361, 48.9047032038">
+	</gare>
+	<gare nom="PONT DE L'ALMA" coord="2.30098996939, 48.8626624517">
+	</gare>
+	<gare nom="PONT DE LEVALLOIS-BECON" coord="2.27980958669, 48.8978210671">
+	</gare>
+	<gare nom="PONT DE NEUILLY (AVENUE DE MADRID)" coord="2.26051507789, 48.8847082013">
+	</gare>
+	<gare nom="PONT DE RUNGIS" coord="2.3731119407, 48.7483496824">
+	</gare>
+	<gare nom="PONT DE SEVRES" coord="2.23079959132, 48.8296748438">
+		<voisin nom="MUSEE DE SEVRES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" coord="2.27045824379, 48.8390897554">
+	</gare>
+	<gare nom="PONT-CARDINET" coord="2.31373245152, 48.8882201628">
+	</gare>
+	<gare nom="PONT-MARIE (CITE DES ARTS)" coord="2.35716257162, 48.8535754725">
+	</gare>
+	<gare nom="PONT-NEUF (LA MONNAIE)" coord="2.34223275937, 48.8585538264">
+	</gare>
+	<gare nom="PONT-PETIT" coord="2.13087413699, 49.0605916831">
+	</gare>
+	<gare nom="PONTHIERRY-PRINGY" coord="2.54434895173, 48.5351397661">
+	</gare>
+	<gare nom="PONTOISE" coord="2.09519506723, 49.0466457626">
+	</gare>
+	<gare nom="PORCHEFONTAINE" coord="2.15237866024, 48.7965281821">
+	</gare>
+	<gare nom="PORT ROYAL" coord="2.33709643089, 48.8400337865">
+	</gare>
+	<gare nom="PORTE D AUBERVILLIERS" coord="2.36903694932, 48.8986011722">
+	</gare>
+	<gare nom="PORTE D'AUTEUIL" coord="2.25774468038, 48.8479715406">
+	</gare>
+	<gare nom="PORTE D'ISSY" coord="2.28147044408, 48.8316965931">
+	</gare>
+	<gare nom="PORTE D'ITALIE" coord="2.36012974202, 48.8190515147">
+	</gare>
+	<gare nom="PORTE D'IVRY" coord="2.36929058735, 48.8213557838">
+	</gare>
+	<gare nom="PORTE D'ORLEANS" coord="2.32557563621, 48.823411629">
+	</gare>
+	<gare nom="PORTE DAUPHINE" coord="2.27708301705, 48.8714665781">
+	</gare>
+	<gare nom="PORTE DE BAGNOLET" coord="2.40883246514, 48.863433742">
+	</gare>
+	<gare nom="PORTE DE BRANCION" coord="2.30085182613, 48.8286719395">
+	</gare>
+	<gare nom="PORTE DE CHAMPERRET" coord="2.2925823141, 48.8857931052">
+	</gare>
+	<gare nom="PORTE DE CHARENTON" coord="2.39835010387, 48.8319930862">
+	</gare>
+	<gare nom="PORTE DE CHOISY" coord="2.36401546218, 48.8197612676">
+	</gare>
+	<gare nom="PORTE DE CLICHY" coord="2.31377215877, 48.8942522622">
+	</gare>
+	<gare nom="PORTE DE CLIGNANCOURT" coord="2.34484774875, 48.8974022229">
+	</gare>
+	<gare nom="PORTE DE L'ESSONNE" coord="2.37197353852, 48.7147133187">
+	</gare>
+	<gare nom="PORTE DE LA CHAPELLE" coord="2.35950786882, 48.8972452881">
+	</gare>
+	<gare nom="PORTE DE LA VILLETTE" coord="2.38658143311, 48.8974287356">
+	</gare>
+	<gare nom="PORTE DE MONTREUIL" coord="2.41074113613, 48.8529872779">
+	</gare>
+	<gare nom="PORTE DE PANTIN" coord="2.39568107471, 48.8890076495">
+	</gare>
+	<gare nom="PORTE DE RUNGIS" coord="2.35536098908, 48.7526743518">
+	</gare>
+	<gare nom="PORTE DE SAINT-CLOUD" coord="2.25712222985, 48.8379612135">
+	</gare>
+	<gare nom="PORTE DE SAINT-OUEN" coord="2.32894281278, 48.8973747955">
+	</gare>
+	<gare nom="PORTE DE THIAIS" coord="2.36624748438, 48.7595882221">
+	</gare>
+	<gare nom="PORTE DE VANVES" coord="2.30553466965, 48.8277955435">
+	</gare>
+	<gare nom="PORTE DE VERSAILLES" coord="2.2880694576, 48.8326768719">
+	</gare>
+	<gare nom="PORTE DE VINCENNES" coord="2.4096560564, 48.8473938905">
+	</gare>
+	<gare nom="PORTE DES LILAS" coord="2.40703492196, 48.8765687753">
+	</gare>
+	<gare nom="PORTE DOREE" coord="2.40538321063, 48.8347851581">
+	</gare>
+	<gare nom="PORTE MAILLOT" coord="2.28443121992, 48.8779084382">
+	</gare>
+	<gare nom="PORTE-DE-CLICHY" coord="2.31559922055, 48.8941683862">
+	</gare>
+	<gare nom="POTERNE DES PEUPLIERS" coord="2.35093287806, 48.8208733552">
+	</gare>
+	<gare nom="PRE SAINT-GERVAIS" coord="2.39894666246, 48.8799957944">
+		<voisin nom="HOPITAL ROBERT DEBRE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PRECY-SUR-OISE" coord="2.37660117732, 49.2032657335">
+	</gare>
+	<gare nom="PRESLES-COURCELLES" coord="2.28791534353, 49.1140619515">
+	</gare>
+	<gare nom="PROVINS" coord="3.3028712226, 48.5555915569">
+	</gare>
+	<gare nom="PUTEAUX" coord="2.2336919188, 48.8833838129">
+	</gare>
+	<gare nom="PYRAMIDES" coord="2.33433072438, 48.8659809205">
+	</gare>
+	<gare nom="PYRENEES" coord="2.3853162151, 48.8738818542">
+	</gare>
+	<gare nom="QUAI DE LA GARE" coord="2.37282572183, 48.8370451192">
+	</gare>
+	<gare nom="QUAI DE LA RAPEE" coord="2.36587346941, 48.8465154042">
+	</gare>
+	<gare nom="QUATRE SEPTEMBRE" coord="2.33621884752, 48.8695852435">
+	</gare>
+	<gare nom="RAMBOUILLET" coord="1.83293547306, 48.6442219535">
+	</gare>
+	<gare nom="RAMBUTEAU" coord="2.35349574013, 48.8612049903">
+	</gare>
+	<gare nom="RANELAGH" coord="2.27010913894, 48.8554850504">
+	</gare>
+	<gare nom="RASPAIL" coord="2.33075419209, 48.8389642807">
+	</gare>
+	<gare nom="REAUMUR-SEBASTOPOL" coord="2.35245974411, 48.8660696891">
+	</gare>
+	<gare nom="RENNES" coord="2.32778212715, 48.8484578485">
+	</gare>
+	<gare nom="REPUBLIQUE" coord="2.36424799375, 48.8670267876">
+	</gare>
+	<gare nom="REUILLY-DIDEROT" coord="2.38702524211, 48.8471287213">
+	</gare>
+	<gare nom="RICHARD LENOIR" coord="2.37191398009, 48.8598736244">
+	</gare>
+	<gare nom="RICHELIEU-DROUOT" coord="2.33903054672, 48.8717866021">
+	</gare>
+	<gare nom="RIQUET" coord="2.37420401204, 48.888267617">
+	</gare>
+	<gare nom="RIS-ORANGIS" coord="2.41520683997, 48.6589754238">
+	</gare>
+	<gare nom="ROBERT SCHUMAN" coord="2.35273778641, 48.74671923">
+	</gare>
+	<gare nom="ROBERT WAGNER" coord="2.17879859027, 48.7851214133">
+	</gare>
+	<gare nom="ROBESPIERRE" coord="2.42298321615, 48.8557264286">
+	</gare>
+	<gare nom="ROBINSON" coord="2.28143059543, 48.780237298">
+	</gare>
+	<gare nom="ROGER SEMAT" coord="2.35700635511, 48.9448189327">
+	</gare>
+	<gare nom="ROISSY-EN-BRIE" coord="2.65038766708, 48.7956548214">
+	</gare>
+	<gare nom="ROME" coord="2.32127492677, 48.8822269008">
+	</gare>
+	<gare nom="ROSA PARKS" coord="2.37412297553, 48.8966738112">
+	</gare>
+	<gare nom="ROSE BERTIN" coord="2.31540361211, 48.9531682468">
+	</gare>
+	<gare nom="ROSNY-BOIS-PERRIER" coord="2.48142125871, 48.8823040049">
+	</gare>
+	<gare nom="ROSNY-SOUS-BOIS" coord="2.48576114197, 48.8699124201">
+	</gare>
+	<gare nom="ROUGEMONT-CHANTELOUP" coord="2.51504966242, 48.930934183">
+	</gare>
+	<gare nom="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" coord="2.27811255845, 48.8639744458">
+	</gare>
+	<gare nom="RUE DES BOULETS" coord="2.38937812792, 48.8523154274">
+	</gare>
+	<gare nom="RUE DU BAC" coord="2.32571242217, 48.8555509402">
+	</gare>
+	<gare nom="RUEIL-MALMAISON" coord="2.17257944908, 48.8875736186">
+	</gare>
+	<gare nom="RUNGIS-LA FRATERNELLE" coord="2.35163319953, 48.7401954482">
+	</gare>
+	<gare nom="SAARINEN" coord="2.35436727915, 48.7501740371">
+	</gare>
+	<gare nom="SAINT-AMBROISE" coord="2.37473343128, 48.8610192599">
+	</gare>
+	<gare nom="SAINT-AUGUSTIN" coord="2.3213619281, 48.8745583847">
+		<voisin nom="SAINT-LAZARE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-CHERON" coord="2.12570727041, 48.5510919756">
+	</gare>
+	<gare nom="SAINT-CLOUD" coord="2.2176210809, 48.8461029477">
+	</gare>
+	<gare nom="SAINT-CYR" coord="2.07184700593, 48.7987076353">
+	</gare>
+	<gare nom="SAINT-DENIS" coord="2.3456043782, 48.9344555451">
+		<voisin nom="GARE DE SAINT-DENIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-DENIS-PORTE DE PARIS" coord="2.35729207088, 48.9298164274">
+	</gare>
+	<gare nom="SAINT-DENIS-UNIVERSITE" coord="2.36454176349, 48.9458456578">
+		<voisin nom="GUYNEMER" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-FARGEAU METRO" coord="2.40451494238, 48.8721014421">
+	</gare>
+	<gare nom="SAINT-FARGEAU RER" coord="2.54265182272, 48.5644858692">
+	</gare>
+	<gare nom="SAINT-FRANCOIS-XAVIER" coord="2.3144081215, 48.8514417056">
+	</gare>
+	<gare nom="SAINT-GEORGES" coord="2.33759508282, 48.8784252576">
+	</gare>
+	<gare nom="SAINT-GERMAIN-BEL-AIR-FOURQUEUX" coord="2.06993796545, 48.8946076284">
+	</gare>
+	<gare nom="SAINT-GERMAIN-DES-PRES" coord="2.33377613686, 48.853718934">
+	</gare>
+	<gare nom="SAINT-GERMAIN-EN-LAYE" coord="2.0948366283, 48.8980764111">
+	</gare>
+	<gare nom="SAINT-GERMAIN-GRANDE-CEINTURE" coord="2.07297145657, 48.9032046155">
+	</gare>
+	<gare nom="SAINT-GRATIEN" coord="2.28593071821, 48.9635896849">
+	</gare>
+	<gare nom="SAINT-JACQUES" coord="2.33713519061, 48.8329008165">
+	</gare>
+	<gare nom="SAINT-LAZARE" coord="2.32473804682, 48.8768369549">
+		<voisin nom="SAINT-AUGUSTIN" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-LEU DESSERENT" coord="2.41736939105, 49.2138563248">
+	</gare>
+	<gare nom="SAINT-LEU-LA-FORET" coord="2.2424791085, 49.0155849755">
+	</gare>
+	<gare nom="SAINT-MAMMES" coord="2.81595676708, 48.3823580058">
+	</gare>
+	<gare nom="SAINT-MANDE" coord="2.41947990037, 48.8463569889">
+	</gare>
+	<gare nom="SAINT-MARCEL" coord="2.3609671677, 48.838427297">
+	</gare>
+	<gare nom="SAINT-MARTIN-D'ETAMPES" coord="2.1452465929, 48.4273625842">
+	</gare>
+	<gare nom="SAINT-MAUR" coord="2.38079798618, 48.8640865748">
+	</gare>
+	<gare nom="SAINT-MAUR-CRETEIL" coord="2.4727204038, 48.8062000248">
+	</gare>
+	<gare nom="SAINT-MICHEL" coord="2.34328597892, 48.8531679849">
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-MICHEL NOTRE DAME" coord="2.34603498444, 48.8533357965">
+		<voisin nom="SAINT-MICHEL" distance="4.6096306961911235" />
+		<voisin nom="CLUNY-LA-SORBONNE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-MICHEL-SUR-ORGE" coord="2.306833164, 48.6358758622">
+	</gare>
+	<gare nom="SAINT-NOM-LA-BRETECHE-FORET-DE-MARLY" coord="2.05076784532, 48.8677920986">
+	</gare>
+	<gare nom="SAINT-OUEN" coord="2.32240040315, 48.9056549549">
+	</gare>
+	<gare nom="SAINT-OUEN-L'AUMONE" coord="2.10511070344, 49.0453116484">
+	</gare>
+	<gare nom="SAINT-OUEN-L'AUMONE-LIESSE" coord="2.12826387392, 49.0339876363">
+	</gare>
+	<gare nom="SAINT-OUEN-L'AUMONE-QUARTIER DE L'EGLISE" coord="2.10385269645, 49.0399813093">
+	</gare>
+	<gare nom="SAINT-PAUL (LE MARAIS)" coord="2.36095648866, 48.8552362528">
+	</gare>
+	<gare nom="SAINT-PHILIPPE-DU-ROULE" coord="2.31003834462, 48.8724223837">
+	</gare>
+	<gare nom="SAINT-PLACIDE" coord="2.32679278504, 48.846878238">
+	</gare>
+	<gare nom="SAINT-QUENTIN-EN-YVELINES" coord="2.04462198717, 48.7873902383">
+	</gare>
+	<gare nom="SAINT-REMY-LES-CHEVREUSE" coord="2.07124284902, 48.702751043">
+	</gare>
+	<gare nom="SAINT-SEBASTIEN FROISSART" coord="2.36721086641, 48.8611688655">
+	</gare>
+	<gare nom="SAINT-SULPICE" coord="2.33125629137, 48.8516722456">
+	</gare>
+	<gare nom="SAINTE-COLOMBE-SEPTVEILLES" coord="3.25536814867, 48.5291489659">
+	</gare>
+	<gare nom="SAINTE-GENEVIEVE-DES-BOIS" coord="2.31273625106, 48.6528114014">
+	</gare>
+	<gare nom="SANNOIS" coord="2.26392495979, 48.9705199221">
+	</gare>
+	<gare nom="SANTEUIL-LE-PERCHAY" coord="1.94933268165, 49.1234518541">
+	</gare>
+	<gare nom="SARCELLES-SAINT-BRICE" coord="2.36868456416, 48.9960068305">
+	</gare>
+	<gare nom="SARTROUVILLE" coord="2.15708649785, 48.9377360625">
+	</gare>
+	<gare nom="SAVIGNY-LE-TEMPLE-NANDY" coord="2.58394771106, 48.595563838">
+	</gare>
+	<gare nom="SAVIGNY-SUR-ORGE" coord="2.35248140105, 48.676446657">
+	</gare>
+	<gare nom="SCEAUX" coord="2.29764767917, 48.7813567204">
+	</gare>
+	<gare nom="SEGUR" coord="2.30740224062, 48.8470661332">
+	</gare>
+	<gare nom="SENTIER" coord="2.34751621328, 48.867309475">
+	</gare>
+	<gare nom="SERMAISE" coord="2.06938152489, 48.5358065092">
+	</gare>
+	<gare nom="SEUGY" coord="2.39972485252, 49.1190226463">
+	</gare>
+	<gare nom="SEVERINE" coord="2.40897893974, 48.8675213572">
+	</gare>
+	<gare nom="SEVRAN-BEAUDOTTES" coord="2.52471638941, 48.9476075559">
+	</gare>
+	<gare nom="SEVRAN-LIVRY" coord="2.53471497747, 48.9362801857">
+	</gare>
+	<gare nom="SEVRES RIVE GAUCHE" coord="2.21485979544, 48.8212170379">
+	</gare>
+	<gare nom="SEVRES-BABYLONE" coord="2.3268225689, 48.8517620525">
+	</gare>
+	<gare nom="SEVRES-LECOURBE" coord="2.3095314901, 48.8456269667">
+	</gare>
+	<gare nom="SEVRES-VILLE-D'AVRAY" coord="2.20072125659, 48.8272387754">
+	</gare>
+	<gare nom="SIMPLON" coord="2.34776550172, 48.893941388">
+	</gare>
+	<gare nom="SIX ROUTES" coord="2.38475886144, 48.9299710262">
+	</gare>
+	<gare nom="SOLEIL LEVANT" coord="2.26338916602, 48.7903330019">
+	</gare>
+	<gare nom="SOLFERINO" coord="2.32315485584, 48.8585111299">
+	</gare>
+	<gare nom="SOUPPES" coord="2.73624984291, 48.1809368558">
+	</gare>
+	<gare nom="STADE CHARLETY (PORTE DE GENTILLY)" coord="2.34580357984, 48.8195005099">
+	</gare>
+	<gare nom="STADE DE FRANCE-SAINT-DENIS" coord="2.3503895379, 48.9175671757">
+	</gare>
+	<gare nom="STADE GEO ANDRE" coord="2.40207341436, 48.9243751434">
+	</gare>
+	<gare nom="STALINGRAD" coord="2.36588135817, 48.8842789443">
+	</gare>
+	<gare nom="STRASBOURG-SAINT-DENIS" coord="2.35439176839, 48.8694907745">
+	</gare>
+	<gare nom="SUCY-BONNEUIL" coord="2.50748264572, 48.7717079061">
+	</gare>
+	<gare nom="SULLY-MORLAND" coord="2.361985141, 48.8512376804">
+	</gare>
+	<gare nom="SURESNES-LONGCHAMP" coord="2.22141060398, 48.8682387849">
+	</gare>
+	<gare nom="SURESNES-MONT VALERIEN" coord="2.22102955043, 48.8717141912">
+	</gare>
+	<gare nom="SURVILLIERS-FOSSES" coord="2.52553171398, 49.0995869401">
+	</gare>
+	<gare nom="SUZANNE LENGLEN" coord="2.27671209053, 48.8333653438">
+	</gare>
+	<gare nom="SUZANNE VALADON" coord="2.35874250448, 48.9591210983">
+	</gare>
+	<gare nom="TACOIGNIERES-RICHEBOURG" coord="1.66901016137, 48.8294290153">
+	</gare>
+	<gare nom="TAVERNY" coord="2.22272732081, 49.0247785479">
+	</gare>
+	<gare nom="TELEGRAPHE" coord="2.3988675939, 48.8754744567">
+	</gare>
+	<gare nom="TEMPLE" coord="2.36154153207, 48.8666826802">
+	</gare>
+	<gare nom="TERNES" coord="2.29831037512, 48.8779727014">
+	</gare>
+	<gare nom="THEATRE GERARD PHILIPE" coord="2.35040001854, 48.9375098964">
+	</gare>
+	<gare nom="THIEUX-NANTOUILLET" coord="2.68025245597, 49.0081140177">
+	</gare>
+	<gare nom="THOMERY" coord="2.76402819014, 48.3943084388">
+	</gare>
+	<gare nom="THUN-LE-PARADIS" coord="1.91923711175, 49.0067002768">
+	</gare>
+	<gare nom="TIMBAUD" coord="2.30129129249, 48.932790208">
+	</gare>
+	<gare nom="TOLBIAC" coord="2.35724565076, 48.8264260109">
+	</gare>
+	<gare nom="TORCY" coord="2.65513008664, 48.8396455173">
+	</gare>
+	<gare nom="TOURNAN" coord="2.75882454867, 48.7394872073">
+	</gare>
+	<gare nom="TRAPPES" coord="2.00656686906, 48.7748028098">
+	</gare>
+	<gare nom="TRIE-CHATEAU" coord="1.81808238251, 49.2825897349">
+	</gare>
+	<gare nom="TRIEL-SUR-SEINE" coord="2.00593089169, 48.981071911">
+	</gare>
+	<gare nom="TRILPORT" coord="2.95006038139, 48.9602264907">
+	</gare>
+	<gare nom="TRINITE-D'ESTIENNE D'ORVES" coord="2.3325430273, 48.8763179623">
+	</gare>
+	<gare nom="TROCADERO" coord="2.28758016253, 48.8636109376">
+	</gare>
+	<gare nom="TUILERIES" coord="2.33012987711, 48.8643437787">
+	</gare>
+	<gare nom="US" coord="1.97053572369, 49.0996501217">
+	</gare>
+	<gare nom="VAIRES-TORCY" coord="2.63759071444, 48.8752082654">
+	</gare>
+	<gare nom="VAL D'ARGENTEUIL" coord="2.23111003501, 48.9503043535">
+	</gare>
+	<gare nom="VAL-D'EUROPE" coord="2.77343391788, 48.855394809">
+	</gare>
+	<gare nom="VAL-DE-FONTENAY" coord="2.48916746095, 48.8542689936">
+	</gare>
+	<gare nom="VALMONDOIS" coord="2.20182348425, 49.0910734513">
+	</gare>
+	<gare nom="VANEAU" coord="2.32125786291, 48.8488163725">
+	</gare>
+	<gare nom="VANVES-MALAKOFF" coord="2.29206181457, 48.8183876387">
+	</gare>
+	<gare nom="VARENNE" coord="2.31505663732, 48.8568713792">
+	</gare>
+	<gare nom="VAUBAN" coord="2.29409124432, 48.8071698468">
+	</gare>
+	<gare nom="VAUBOYEN" coord="2.19213581266, 48.7591889832">
+	</gare>
+	<gare nom="VAUCELLES" coord="2.22937648839, 49.0217739562">
+	</gare>
+	<gare nom="VAUCRESSON" coord="2.15269740029, 48.8366433171">
+	</gare>
+	<gare nom="VAUGIRARD (ADOLPHE CHERIOU)" coord="2.30110751488, 48.8395165854">
+	</gare>
+	<gare nom="VAUX-SUR-SEINE" coord="1.96355177166, 49.0071272463">
+	</gare>
+	<gare nom="VAVIN" coord="2.32900892624, 48.8422184136">
+	</gare>
+	<gare nom="VELIZY 2" coord="2.22000951686, 48.7849697633">
+	</gare>
+	<gare nom="VERNEUIL-L'ETANG" coord="2.82516993433, 48.6443736249">
+	</gare>
+	<gare nom="VERNOU-SUR-SEINE" coord="2.84203738882, 48.3867709874">
+	</gare>
+	<gare nom="VERNOUILLET-VERNEUIL" coord="1.98314335209, 48.9814459694">
+	</gare>
+	<gare nom="VERSAILLES CHATEAU" coord="2.12904386873, 48.8002155781">
+	</gare>
+	<gare nom="VERSAILLES RIVE DROITE" coord="2.13508745661, 48.809482263">
+	</gare>
+	<gare nom="VERSAILLES-CHANTIERS" coord="2.1360504883, 48.7952802463">
+	</gare>
+	<gare nom="VERT-GALANT" coord="2.56644801697, 48.9441810651">
+	</gare>
+	<gare nom="VIARMES" coord="2.36825354761, 49.1166278825">
+	</gare>
+	<gare nom="VICTOR BASCH" coord="2.22957161329, 48.9140476807">
+	</gare>
+	<gare nom="VICTOR HUGO" coord="2.28533509469, 48.8697985565">
+	</gare>
+	<gare nom="VIGNEUX-SUR-SEINE" coord="2.4143588798, 48.7083664326">
+	</gare>
+	<gare nom="VILLABE" coord="2.46180638884, 48.5926277413">
+	</gare>
+	<gare nom="VILLAINES" coord="2.35083083357, 49.0794702331">
+	</gare>
+	<gare nom="VILLEJUIF-LEO LAGRANGE" coord="2.3639531966, 48.8046881209">
+	</gare>
+	<gare nom="VILLEJUIF-LOUIS ARAGON" coord="2.36694396619, 48.7872546711">
+	</gare>
+	<gare nom="VILLEJUIF-PAUL VAILLANT-COUTURIER" coord="2.36826954143, 48.7964830828">
+	</gare>
+	<gare nom="VILLENEUVE-LE-ROI" coord="2.42639982047, 48.7398306994">
+	</gare>
+	<gare nom="VILLENEUVE-SAINT-GEORGES" coord="2.44613583093, 48.7301168314">
+	</gare>
+	<gare nom="VILLENEUVE-TRIAGE" coord="2.43834423916, 48.7452308194">
+	</gare>
+	<gare nom="VILLENNES-SUR-SEINE" coord="1.99960360966, 48.9394868108">
+	</gare>
+	<gare nom="VILLEPARISIS-MITRY-LE-NEUF" coord="2.60313530512, 48.9531483876">
+	</gare>
+	<gare nom="VILLEPINTE" coord="2.51264462782, 48.9627095133">
+	</gare>
+	<gare nom="VILLEPREUX-LES-CLAYES" coord="1.99286453652, 48.8236532688">
+	</gare>
+	<gare nom="VILLETANEUSE-UNIVERSITE" coord="2.34205380139, 48.9593181442">
+		<voisin nom="GARE DE VILLETANEUSE - UNIVERSITE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="VILLIERS" coord="2.31517662622, 48.8811500285">
+	</gare>
+	<gare nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" coord="2.41618748893, 48.9937771469">
+	</gare>
+	<gare nom="VILLIERS-MONTBARBIN" coord="2.88320173127, 48.8632902382">
+	</gare>
+	<gare nom="VILLIERS-NEAUPHLE PONTCHARTRAIN" coord="1.87750420433, 48.8153286196">
+	</gare>
+	<gare nom="VILLIERS-SUR-MARNE-PLESSIS-TREVISE" coord="2.54267979538, 48.8232666341">
+	</gare>
+	<gare nom="VINCENNES" coord="2.43329971764, 48.8473083595">
+	</gare>
+	<gare nom="VIROFLAY RIVE DROITE" coord="2.16852039287, 48.8054930337">
+	</gare>
+	<gare nom="VIROFLAY RIVE GAUCHE" coord="2.17138981276, 48.8007184639">
+	</gare>
+	<gare nom="VIRY-CHATILLON" coord="2.38678379703, 48.676092434">
+	</gare>
+	<gare nom="VITRY-SUR-SEINE" coord="2.40271281854, 48.8002093984">
+	</gare>
+	<gare nom="VOLONTAIRES" coord="2.30794867934, 48.8415055224">
+	</gare>
+	<gare nom="VOLTAIRE (LEON BLUM)" coord="2.38071878586, 48.8574537227">
+	</gare>
+	<gare nom="VOSVES" coord="2.59930426593, 48.5151514532">
+	</gare>
+	<gare nom="VULAINES-SUR-SEINE-SAMOREAU" coord="2.75317756884, 48.4309707241">
+	</gare>
+	<gare nom="WAGRAM" coord="2.30467444053, 48.8838092012">
+	</gare>
+	<gare nom="YERRES" coord="2.48424514658, 48.7066109469">
+	</gare>
+</ligne>

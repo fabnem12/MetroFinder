@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Vaishali,Dwarka Sector 21,Noida City Center" couleur="4169E1">
+	<gare nom="Akshardham" coord="2933, 1459">
+		<voisin nom="Yamuna Bank" distance="1.8953319520230087" />
+		<voisin nom="Mayur Vihar Phase-1" distance="1.7943801576686935" />
+	</gare>
+	<gare nom="Anand Vihar" coord="3079, 1148">
+		<voisin nom="Karkar Duma" distance="1.1215920372318566" />
+		<voisin nom="Kaushambi" distance="0.8362926225260053" />
+	</gare>
+	<gare nom="Barakhamba" coord="2324, 1328">
+		<voisin nom="Mandi House" distance="1.2163491933152566" />
+		<voisin nom="Rajiv Chowk" distance="0.48417775008313013" />
+	</gare>
+	<gare nom="Botanical Garden" coord="3245, 1776">
+		<voisin nom="Noida Sector 18" distance="1.1220249382912677" />
+		<voisin nom="Golf Course" distance="1.0881203433927682" />
+	</gare>
+	<gare nom="Dwarka" coord="844, 1491">
+		<voisin nom="Dwarka Mor" distance="1.145473646879015" />
+		<voisin nom="Dwarka Sector 14" distance="1.4473932571860142" />
+	</gare>
+	<gare nom="Dwarka Mor" coord="844, 1445">
+		<voisin nom="Dwarka" distance="1.145473646879015" />
+		<voisin nom="Nawada" distance="1.142947453942669" />
+	</gare>
+	<gare nom="Dwarka Sector 10" coord="909, 1677">
+		<voisin nom="Dwarka Sector 11" distance="0.9531451919483442" />
+		<voisin nom="Dwarka Sector 9" distance="1.0578255274954296" />
+	</gare>
+	<gare nom="Dwarka Sector 11" coord="887, 1655">
+		<voisin nom="Dwarka Sector 12" distance="1.1095919960819212" />
+		<voisin nom="Dwarka Sector 10" distance="0.9531451919483442" />
+	</gare>
+	<gare nom="Dwarka Sector 12" coord="864, 1632">
+		<voisin nom="Dwarka Sector 13" distance="1.0122763240582997" />
+		<voisin nom="Dwarka Sector 11" distance="1.1095919960819212" />
+	</gare>
+	<gare nom="Dwarka Sector 13" coord="844, 1581">
+		<voisin nom="Dwarka Sector 12" distance="1.0122763240582997" />
+		<voisin nom="Dwarka Sector 14" distance="0.8047510575742104" />
+	</gare>
+	<gare nom="Dwarka Sector 14" coord="844, 1536">
+		<voisin nom="Dwarka Sector 13" distance="0.8047510575742104" />
+		<voisin nom="Dwarka" distance="1.4473932571860142" />
+	</gare>
+	<gare nom="Dwarka Sector 21" coord="888, 1869">
+		<voisin nom="Dwarka Sector 8" distance="1.7192489106830555" />
+	</gare>
+	<gare nom="Dwarka Sector 8" coord="953, 1758">
+		<voisin nom="Dwarka Sector 9" distance="0.9995211751641879" />
+		<voisin nom="Dwarka Sector 21" distance="1.7192489106830555" />
+	</gare>
+	<gare nom="Dwarka Sector 9" coord="932, 1700">
+		<voisin nom="Dwarka Sector 10" distance="1.0578255274954296" />
+		<voisin nom="Dwarka Sector 8" distance="0.9995211751641879" />
+	</gare>
+	<gare nom="Golf Course" coord="3359, 1832">
+		<voisin nom="Botanical Garden" distance="1.0881203433927682" />
+		<voisin nom="Noida City Center" distance="1.3516005351123512" />
+	</gare>
+	<gare nom="Indraprastha" coord="2653, 1412">
+		<voisin nom="Yamuna Bank" distance="0.9906283623105325" />
+		<voisin nom="Pragati Maidan" distance="0.8018830358632341" />
+	</gare>
+	<gare nom="Janak Puri East" coord="1057, 1197">
+		<voisin nom="Tilak Nagar" distance="1.421092051874737" />
+		<voisin nom="Janak Puri West" distance="0.5548951877995629" />
+	</gare>
+	<gare nom="Janak Puri West" coord="1017, 1240">
+		<voisin nom="Janak Puri East" distance="0.5548951877995629" />
+		<voisin nom="Uttam Nagar East" distance="1.4085903779688702" />
+	</gare>
+	<gare nom="Jhandewalan" coord="2165, 1168">
+		<voisin nom="Rajiv Chowk" distance="2.294973305073757" />
+		<voisin nom="R K Ashram Marg" distance="1.023247700254351" />
+	</gare>
+	<gare nom="Karkar Duma" coord="3008, 1148">
+		<voisin nom="Anand Vihar" distance="1.1215920372318566" />
+		<voisin nom="Preet Vihar" distance="1.2292866155377598" />
+	</gare>
+	<gare nom="Karol Bagh" coord="1967, 1125">
+		<voisin nom="Rajendra Place" distance="1.020506924528547" />
+		<voisin nom="R K Ashram Marg" distance="2.016512067330596" />
+	</gare>
+	<gare nom="Kaushambi" coord="3190, 1148">
+		<voisin nom="Anand Vihar" distance="0.8362926225260053" />
+		<voisin nom="Vaishali" distance="1.4510582666918366" />
+	</gare>
+	<gare nom="Kirti Nagar" coord="1589, 1129">
+		<voisin nom="Shadipur" distance="0.6955941384928572" />
+		<voisin nom="Moti Nagar" distance="0.9334763135982573" />
+	</gare>
+	<gare nom="Laxmi Nagar" coord="2838, 1281">
+		<voisin nom="Yamuna Bank" distance="1.742863947976263" />
+		<voisin nom="Nirman Vihar" distance="1.6340753984281655" />
+	</gare>
+	<gare nom="Mandi House" coord="2431, 1410">
+		<voisin nom="Barakhamba" distance="1.2163491933152566" />
+		<voisin nom="Pragati Maidan" distance="0.8048561679958072" />
+	</gare>
+	<gare nom="Mayur Vihar Extention" coord="3020, 1548">
+		<voisin nom="New Ashok Nagar" distance="0.9168871778745066" />
+		<voisin nom="Mayur Vihar Phase-1" distance="1.2779484152475196" />
+	</gare>
+	<gare nom="Mayur Vihar Phase-1" coord="2980, 1507">
+		<voisin nom="Mayur Vihar Extention" distance="1.2779484152475196" />
+		<voisin nom="Akshardham" distance="1.7943801576686935" />
+	</gare>
+	<gare nom="Moti Nagar" coord="1495, 1129">
+		<voisin nom="Ramesh Nagar" distance="1.2232034485269174" />
+		<voisin nom="Kirti Nagar" distance="0.9334763135982573" />
+	</gare>
+	<gare nom="Nawada" coord="894, 1360">
+		<voisin nom="Uttam Nagar West" distance="1.1066482698263593" />
+		<voisin nom="Dwarka Mor" distance="1.142947453942669" />
+	</gare>
+	<gare nom="New Ashok Nagar" coord="3059, 1589">
+		<voisin nom="Mayur Vihar Extention" distance="0.9168871778745066" />
+		<voisin nom="Noida Sector 15" distance="1.0800247812533836" />
+	</gare>
+	<gare nom="Nirman Vihar" coord="2886, 1232">
+		<voisin nom="Laxmi Nagar" distance="1.6340753984281655" />
+		<voisin nom="Preet Vihar" distance="0.736341720189581" />
+	</gare>
+	<gare nom="Noida City Center" coord="3407, 1833">
+		<voisin nom="Golf Course" distance="1.3516005351123512" />
+	</gare>
+	<gare nom="Noida Sector 15" coord="3108, 1639">
+		<voisin nom="New Ashok Nagar" distance="1.0800247812533836" />
+		<voisin nom="Noida Sector 16" distance="0.9031376661427172" />
+	</gare>
+	<gare nom="Noida Sector 16" coord="3158, 1689">
+		<voisin nom="Noida Sector 18" distance="1.207482978508565" />
+		<voisin nom="Noida Sector 15" distance="0.9031376661427172" />
+	</gare>
+	<gare nom="Noida Sector 18" coord="3207, 1738">
+		<voisin nom="Botanical Garden" distance="1.1220249382912677" />
+		<voisin nom="Noida Sector 16" distance="1.207482978508565" />
+	</gare>
+	<gare nom="Patel Nagar" coord="1822, 1126">
+		<voisin nom="Rajendra Place" distance="0.9342791778880998" />
+		<voisin nom="Shadipur" distance="1.3714015911758537" />
+	</gare>
+	<gare nom="Pragati Maidan" coord="2562, 1412">
+		<voisin nom="Mandi House" distance="0.8048561679958072" />
+		<voisin nom="Indraprastha" distance="0.8018830358632341" />
+	</gare>
+	<gare nom="Preet Vihar" coord="2935, 1184">
+		<voisin nom="Karkar Duma" distance="1.2292866155377598" />
+		<voisin nom="Nirman Vihar" distance="0.736341720189581" />
+	</gare>
+	<gare nom="R K Ashram Marg" coord="2060, 1129">
+		<voisin nom="Jhandewalan" distance="1.023247700254351" />
+		<voisin nom="Karol Bagh" distance="2.016512067330596" />
+	</gare>
+	<gare nom="Rajendra Place" coord="1900, 1129">
+		<voisin nom="Patel Nagar" distance="0.9342791778880998" />
+		<voisin nom="Karol Bagh" distance="1.020506924528547" />
+	</gare>
+	<gare nom="Rajiv Chowk" coord="2269, 1274">
+		<voisin nom="Barakhamba" distance="0.48417775008313013" />
+		<voisin nom="Jhandewalan" distance="2.294973305073757" />
+	</gare>
+	<gare nom="Rajouri Garden" coord="1316, 1128">
+		<voisin nom="Ramesh Nagar" distance="0.972855553153882" />
+		<voisin nom="Tagore Garden" distance="1.1188835281997769" />
+	</gare>
+	<gare nom="Ramesh Nagar" coord="1428, 1126">
+		<voisin nom="Rajouri Garden" distance="0.972855553153882" />
+		<voisin nom="Moti Nagar" distance="1.2232034485269174" />
+	</gare>
+	<gare nom="Shadipur" coord="1739, 1129">
+		<voisin nom="Kirti Nagar" distance="0.6955941384928572" />
+		<voisin nom="Patel Nagar" distance="1.3714015911758537" />
+	</gare>
+	<gare nom="Subhash Nagar" coord="1176, 1129">
+		<voisin nom="Tagore Garden" distance="0.8623789492863957" />
+		<voisin nom="Tilak Nagar" distance="0.9348539328823405" />
+	</gare>
+	<gare nom="Tagore Garden" coord="1259, 1126">
+		<voisin nom="Rajouri Garden" distance="1.1188835281997769" />
+		<voisin nom="Subhash Nagar" distance="0.8623789492863957" />
+	</gare>
+	<gare nom="Tilak Nagar" coord="1098, 1156">
+		<voisin nom="Janak Puri East" distance="1.421092051874737" />
+		<voisin nom="Subhash Nagar" distance="0.9348539328823405" />
+	</gare>
+	<gare nom="Uttam Nagar East" coord="976, 1278">
+		<voisin nom="Uttam Nagar West" distance="0.9059802973526978" />
+		<voisin nom="Janak Puri West" distance="1.4085903779688702" />
+	</gare>
+	<gare nom="Uttam Nagar West" coord="936, 1319">
+		<voisin nom="Nawada" distance="1.1066482698263593" />
+		<voisin nom="Uttam Nagar East" distance="0.9059802973526978" />
+	</gare>
+	<gare nom="Vaishali" coord="3319, 1149">
+		<voisin nom="Kaushambi" distance="1.4510582666918366" />
+	</gare>
+	<gare nom="Yamuna Bank" coord="2769, 1349">
+		<voisin nom="Laxmi Nagar" distance="1.742863947976263" />
+		<voisin nom="Indraprastha" distance="0.9906283623105325" />
+		<voisin nom="Akshardham" distance="1.8953319520230087" />
+	</gare>
+</ligne>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="AULNAY-SOUS-BOIS,BONDY" couleur="fed100">
+	<gare nom="ALLEE DE LA TOUR RENDEZ-VOUS" coord="2.50640824702, 48.8971438185">
+		<voisin nom="LES PAVILLONS-SOUS-BOIS" distance="0.7057338389607936" />
+		<voisin nom="LES COQUETIERS" distance="0.7284423416213043" />
+	</gare>
+	<gare nom="AULNAY-SOUS-BOIS" coord="2.49551314123, 48.9321960051">
+		<voisin nom="ROUGEMONT-CHANTELOUP" distance="1.4356419009943908" />
+	</gare>
+	<gare nom="BONDY" coord="2.47979332996, 48.894012515">
+		<voisin nom="LA REMISE A JORELLE" distance="0.6028385995585748" />
+	</gare>
+	<gare nom="FREINVILLE-SEVRAN" coord="2.51910376383, 48.926640202">
+		<voisin nom="L'ABBAYE" distance="0.5596788056184775" />
+		<voisin nom="ROUGEMONT-CHANTELOUP" distance="0.562495847551683" />
+	</gare>
+	<gare nom="GARGAN" coord="2.5170254953, 48.9081654152">
+		<voisin nom="LES PAVILLONS-SOUS-BOIS" distance="0.7466622212307379" />
+		<voisin nom="LYCEE HENRI SELLIER" distance="0.894501440768644" />
+	</gare>
+	<gare nom="L'ABBAYE" coord="2.51644353517, 48.9219261433">
+		<voisin nom="FREINVILLE-SEVRAN" distance="0.5596788056184775" />
+		<voisin nom="LYCEE HENRI SELLIER" distance="0.6567805659866712" />
+	</gare>
+	<gare nom="LA REMISE A JORELLE" coord="2.48791098763, 48.8930946286">
+		<voisin nom="BONDY" distance="0.6028385995585748" />
+		<voisin nom="LES COQUETIERS" distance="0.8425895494150387" />
+	</gare>
+	<gare nom="LES COQUETIERS" coord="2.49938845729, 48.8925047614">
+		<voisin nom="ALLEE DE LA TOUR RENDEZ-VOUS" distance="0.7284423416213043" />
+		<voisin nom="LA REMISE A JORELLE" distance="0.8425895494150387" />
+	</gare>
+	<gare nom="LES PAVILLONS-SOUS-BOIS" coord="2.51169930327, 48.9024441906">
+		<voisin nom="ALLEE DE LA TOUR RENDEZ-VOUS" distance="0.7057338389607936" />
+		<voisin nom="GARGAN" distance="0.7466622212307379" />
+	</gare>
+	<gare nom="LYCEE HENRI SELLIER" coord="2.51506144619, 48.9160965041">
+		<voisin nom="L'ABBAYE" distance="0.6567805659866712" />
+		<voisin nom="GARGAN" distance="0.894501440768644" />
+	</gare>
+	<gare nom="ROUGEMONT-CHANTELOUP" coord="2.51504966242, 48.930934183">
+		<voisin nom="FREINVILLE-SEVRAN" distance="0.562495847551683" />
+		<voisin nom="AULNAY-SOUS-BOIS" distance="1.4356419009943908" />
+	</gare>
+</ligne>

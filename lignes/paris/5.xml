@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="BOBIGNY-PABLO PICASSO,PLACE D'ITALIE">
+	<gare nom="PLACE D'ITALIE" coord="1698, 2149">
+			<voisin nom ="CAMPO-FORMIO" distance ="0.005158393761047673"/>
+		</gare>
+	<gare nom="CAMPO-FORMIO" coord="1764, 2049">
+			<voisin nom ="SAINT-MARCEL" distance ="0.0036320296647920124"/>
+			<voisin nom ="PLACE D'ITALIE" distance ="0.005158393761047673"/>
+		</gare>
+	<gare nom="SAINT-MARCEL" coord="1807, 1992">
+			<voisin nom ="AUSTERLITZ" distance ="0.005817285834118558"/>
+			<voisin nom ="CAMPO-FORMIO" distance ="0.0036320296647920124"/>
+		</gare>
+	<gare nom="AUSTERLITZ" coord="1803, 1920">
+			<voisin nom ="QUAI DE LA RAPEE" distance ="0.004283535814577265"/>
+			<voisin nom ="SAINT-MARCEL" distance ="0.005817285834118558"/>
+		</gare>
+	<gare nom="QUAI DE LA RAPEE" coord="1808, 1787">
+			<voisin nom ="BASTILLE" distance ="0.007822558970990124"/>
+			<voisin nom ="AUSTERLITZ" distance ="0.004283535814577265"/>
+		</gare>
+	<gare nom="BASTILLE" coord="1808, 1594">
+			<voisin nom ="BREGUET-SABIN" distance ="0.0027894474669795523"/>
+			<voisin nom ="QUAI DE LA RAPEE" distance ="0.007822558970990124"/>
+		</gare>
+	<gare nom="BREGUET-SABIN" coord="1867, 1504">
+			<voisin nom ="RICHARD LENOIR" distance ="0.004103712758103099"/>
+			<voisin nom ="BASTILLE" distance ="0.0027894474669795523"/>
+		</gare>
+	<gare nom="RICHARD LENOIR" coord="1927, 1446">
+			<voisin nom ="OBERKAMPF" distance ="0.005936431744520873"/>
+			<voisin nom ="BREGUET-SABIN" distance ="0.004103712758103099"/>
+		</gare>
+	<gare nom="OBERKAMPF" coord="1881, 1292">
+			<voisin nom ="REPUBLIQUE" distance ="0.004830632937341233"/>
+			<voisin nom ="RICHARD LENOIR" distance ="0.005936431744520873"/>
+		</gare>
+	<gare nom="REPUBLIQUE" coord="1831, 1237">
+			<voisin nom ="JACQUES BONSERGENT" distance ="0.004968333503114348"/>
+			<voisin nom ="OBERKAMPF" distance ="0.004830632937341233"/>
+		</gare>
+	<gare nom="JACQUES BONSERGENT" coord="1780, 1127">
+			<voisin nom ="GARE DE L'EST" distance ="0.0060617925620136265"/>
+			<voisin nom ="REPUBLIQUE" distance ="0.004968333503114348"/>
+		</gare>
+	<gare nom="GARE DE L'EST" coord="1744, 999">
+			<voisin nom ="GARE DU NORD" distance ="0.0036687143508619706"/>
+			<voisin nom ="JACQUES BONSERGENT" distance ="0.0060617925620136265"/>
+		</gare>
+	<gare nom="GARE DU NORD" coord="1724, 892">
+			<voisin nom ="STALINGRAD" distance ="0.01006554592554548"/>
+			<voisin nom ="GARE DE L'EST" distance ="0.0036687143508619706"/>
+		</gare>
+	<gare nom="STALINGRAD" coord="1905, 853">
+			<voisin nom ="JAURES" distance ="0.004645303119206686"/>
+			<voisin nom ="GARE DU NORD" distance ="0.01006554592554548"/>
+		</gare>
+	<gare nom="JAURES" coord="1971, 894">
+			<voisin nom ="LAUMIERE" distance ="0.009895194634661337"/>
+			<voisin nom ="STALINGRAD" distance ="0.004645303119206686"/>
+		</gare>
+	<gare nom="LAUMIERE" coord="2026, 838">
+			<voisin nom ="OURCQ" distance ="0.007544977680924323"/>
+			<voisin nom ="JAURES" distance ="0.009895194634661337"/>
+		</gare>
+	<gare nom="OURCQ" coord="2101, 792">
+			<voisin nom ="PORTE DE PANTIN" distance ="0.005332362407056517"/>
+			<voisin nom ="LAUMIERE" distance ="0.007544977680924323"/>
+		</gare>
+	<gare nom="PORTE DE PANTIN" coord="2202, 793">
+			<voisin nom ="HOCHE" distance ="0.010594850655250704"/>
+			<voisin nom ="OURCQ" distance ="0.005332362407056517"/>
+		</gare>
+	<gare nom="HOCHE" coord="2300, 791">
+			<voisin nom ="EGLISE DE PANTIN" distance ="0.01114720963249385"/>
+			<voisin nom ="PORTE DE PANTIN" distance ="0.010594850655250704"/>
+		</gare>
+	<gare nom="EGLISE DE PANTIN" coord="2370, 752">
+			<voisin nom ="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance ="0.012212999046585028"/>
+			<voisin nom ="HOCHE" distance ="0.01114720963249385"/>
+		</gare>
+	<gare nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" coord="2418, 703">
+			<voisin nom ="BOBIGNY-PABLO PICASSO" distance ="0.026242942724902754"/>
+			<voisin nom ="EGLISE DE PANTIN" distance ="0.012212999046585028"/>
+		</gare>
+	<gare nom="BOBIGNY-PABLO PICASSO" coord="2491, 625">
+			<voisin nom ="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance ="0.026242942724902754"/>
+		</gare>
+</ligne>

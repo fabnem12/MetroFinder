@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ligne terminus="" couleur="E65100">
+	<gare nom="Amsterdam" coord="4.7674241, 52.3076865">
+		<voisin nom="Edimbourg" distance="991.4720049930223" />
+	</gare>
+	<gare nom="Brest" coord="-4.4178324, 48.4476378">
+		<voisin nom="Edimbourg" distance="841.5644520165151" />
+	</gare>
+	<gare nom="Edimbourg" coord="-3.3614532, 55.950785">
+		<voisin nom="Amsterdam" distance="991.4720049930223" />
+		<voisin nom="Brest" distance="841.5644520165151" />
+		<voisin nom="Francfort" distance="1480.738954071664" />
+		<voisin nom="Hambourg" distance="1509.1328722396488" />
+		<voisin nom="Jersey" distance="760.9233998670101" />
+	</gare>
+	<gare nom="Francfort" coord="8.5621518, 50.0379326">
+		<voisin nom="Edimbourg" distance="1480.738954071664" />
+	</gare>
+	<gare nom="Hambourg" coord="9.9974128, 53.633622">
+		<voisin nom="Edimbourg" distance="1509.1328722396488" />
+	</gare>
+	<gare nom="Buenos Aires" coord="-58.5348284, -34.8150044">
+		<voisin nom="El Calafate" distance="1656.4050398855877" />
+	</gare>
+	<gare nom="El Calafate" coord="-72.0536406, -50.283977">
+		<voisin nom="Buenos Aires" distance="1656.4050398855877" />
+		<voisin nom="Santiago Chili" distance="613.0630975420283" />
+		<voisin nom="Ushuaia" distance="450.587372872833" />
+	</gare>
+	<gare nom="Hong Kong" coord="113.9184808, 22.308047">
+		<voisin nom="Brunei" distance="804.5012493623979" />
+		<voisin nom="Busan" distance="1823.6584150769486" />
+		<voisin nom="Dalian" distance="1202.8321141481024" />
+		<voisin nom="Sendai" distance="3169.079195786025" />
+		<voisin nom="Taipei" distance="826.6108825041293" />
+	</gare>
+	<gare nom="Le Cap" coord="18.6020851, -33.971463">
+		<voisin nom="George" distance="420.6779375694851" />
+		<voisin nom="Maseru" distance="1098.806471934984" />
+		<voisin nom="Polokwane" distance="1584.4948435540728" />
+		<voisin nom="Pretoria" distance="1322.8486231704558" />
+		<voisin nom="Upington" distance="652.7465361261694" />
+	</gare>
+	<gare nom="Brunei" coord="114.9330596, 4.9455663">
+		<voisin nom="Hong Kong" distance="804.5012493623979" />
+	</gare>
+	<gare nom="Busan" coord="128.9464591, 35.17322">
+		<voisin nom="Hong Kong" distance="1823.6584150769486" />
+	</gare>
+	<gare nom="Dalian" coord="121.5383333, 38.9655556">
+		<voisin nom="Hong Kong" distance="1202.8321141481024" />
+	</gare>
+	<gare nom="George" coord="22.3809737, -34.0043643">
+		<voisin nom="Le Cap" distance="420.6779375694851" />
+	</gare>
+	<gare nom="Jersey" coord="-2.1952207, 49.2074637">
+		<voisin nom="Edimbourg" distance="760.9233998670101" />
+	</gare>
+	<gare nom="Maseru" coord="27.559059, -29.4554631">
+		<voisin nom="Le Cap" distance="1098.806471934984" />
+	</gare>
+	<gare nom="Polokwane" coord="29.4532849, -23.859682">
+		<voisin nom="Le Cap" distance="1584.4948435540728" />
+	</gare>
+	<gare nom="Pretoria" coord="27.926416, -25.937751">
+		<voisin nom="Le Cap" distance="1322.8486231704558" />
+	</gare>
+	<gare nom="Santiago Chili" coord="-70.7938043, -33.3905115">
+		<voisin nom="El Calafate" distance="613.0630975420283" />
+	</gare>
+	<gare nom="Sendai" coord="140.9169444, 38.1397222">
+		<voisin nom="Hong Kong" distance="3169.079195786025" />
+	</gare>
+	<gare nom="Taipei" coord="121.234217, 25.0796514">
+		<voisin nom="Hong Kong" distance="826.6108825041293" />
+	</gare>
+	<gare nom="Upington" coord="21.2559067, -28.4086352">
+		<voisin nom="Le Cap" distance="652.7465361261694" />
+	</gare>
+	<gare nom="Ushuaia" coord="-68.309701, -54.8422373">
+		<voisin nom="El Calafate" distance="450.587372872833" />
+	</gare>
+</ligne>

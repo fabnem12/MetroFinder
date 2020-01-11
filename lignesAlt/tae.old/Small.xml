@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ligne terminus="" couleur="FF8800">
+	<gare nom="Berlin" coord="13.5216148, 52.3854411">
+		<voisin nom="Ajaccio" distance="1257.8907305893151" />
+		<voisin nom="Montpellier" distance="1438.063868178972" />
+	</gare>
+	<gare nom="Dublin" coord="-6.2499098, 53.4264481">
+		<voisin nom="Bordeaux" distance="1136.5777310081342" />
+		<voisin nom="Brest" distance="588.2955342367381" />
+		<voisin nom="Marseille" distance="1691.3600337159312" />
+		<voisin nom="Nantes" distance="866.9932820907011" />
+		<voisin nom="Strasbourg" distance="1637.4168882307886" />
+		<voisin nom="Toulouse" distance="1380.0634515621352" />
+	</gare>
+	<gare nom="Helsinki" coord="24.9528604, 60.3210416">
+		<voisin nom="Ajaccio" distance="2653.7278004255422" />
+		<voisin nom="Bergerac" distance="3190.484800911563" />
+		<voisin nom="Strasbourg" distance="2299.6850408763066" />
+	</gare>
+	<gare nom="Madrid" coord="-3.5675982, 40.4983322">
+		<voisin nom="Bordeaux" distance="577.3882733844315" />
+		<voisin nom="Marseille" distance="1030.8278132661776" />
+		<voisin nom="Toulouse" distance="650.536568198605" />
+	</gare>
+	<gare nom="Ajaccio" coord="8.7946284, 41.9202168">
+		<voisin nom="Amsterdam" distance="1232.4019194647612" />
+		<voisin nom="Bergerac" distance="975.8959860402423" />
+		<voisin nom="Berlin" distance="1257.8907305893151" />
+		<voisin nom="Helsinki" distance="2653.7278004255422" />
+		<voisin nom="Nantes" distance="1295.4372604903012" />
+		<voisin nom="Naples" distance="621.987825145633" />
+		<voisin nom="Palerme" distance="629.7318437631535" />
+		<voisin nom="Rennes" distance="1356.2079420758037" />
+		<voisin nom="Rome" distance="384.45703155971665" />
+		<voisin nom="Strasbourg" distance="740.7444137391396" />
+	</gare>
+	<gare nom="Amsterdam" coord="4.7674241, 52.3076865">
+		<voisin nom="Ajaccio" distance="1232.4019194647612" />
+		<voisin nom="Bergerac" distance="957.0390273902358" />
+		<voisin nom="Lyon" distance="731.1196075655648" />
+	</gare>
+	<gare nom="Athènes" coord="23.9484156, 37.9356467">
+		<voisin nom="Brest" distance="3357.2688149083287" />
+		<voisin nom="Lyon" distance="2259.2636588351106" />
+		<voisin nom="Nantes" distance="3014.598576941665" />
+		<voisin nom="Toulouse" distance="2587.5219954420077" />
+	</gare>
+	<gare nom="Bergen" coord="5.2220173, 60.29183">
+		<voisin nom="Strasbourg" distance="1327.2316727985456" />
+	</gare>
+	<gare nom="Bordeaux" coord="-0.7103052, 44.8305935">
+		<voisin nom="Brest" distance="576.2651144316108" />
+		<voisin nom="Montpellier" distance="538.7627759230196" />
+		<voisin nom="Clermont Ferrand" distance="13710.169098896302" />
+		<voisin nom="Cracovie" distance="2352.618073360634" />
+		<voisin nom="Dublin" distance="1136.5777310081342" />
+		<voisin nom="Florence" distance="1330.798088762981" />
+		<voisin nom="Ljubljana" distance="1695.2815352204332" />
+		<voisin nom="Madrid" distance="577.3882733844315" />
+	</gare>
+	<gare nom="Brest" coord="-4.4178324, 48.4476378">
+		<voisin nom="Athènes" distance="3357.2688149083287" />
+		<voisin nom="Bordeaux" distance="576.2651144316108" />
+		<voisin nom="Montpellier" distance="1078.8862562278466" />
+		<voisin nom="Dublin" distance="588.2955342367381" />
+		<voisin nom="Edimbourg" distance="841.5644520165151" />
+		<voisin nom="Hambourg" distance="1704.6327790776468" />
+		<voisin nom="Munich" distance="1802.6109901652947" />
+		<voisin nom="Nice" distance="1399.9272871209769" />
+		<voisin nom="Stockholm" distance="2774.6362702366023" />
+		<voisin nom="Strasbourg" distance="1340.9772027663143" />
+		<voisin nom="Toulouse" distance="837.8706152608893" />
+	</gare>
+	<gare nom="Bruxelles" coord="4.4855744, 50.900999">
+		<voisin nom="Strasbourg" distance="436.6855207580827" />
+	</gare>
+	<gare nom="Cracovie" coord="19.7881188, 50.0769776">
+		<voisin nom="Bordeaux" distance="2352.618073360634" />
+		<voisin nom="Montpellier" distance="1897.3293606285868" />
+	</gare>
+	<gare nom="Dubrovnik" coord="18.2621926, 42.5602173">
+		<voisin nom="Montpellier" distance="1595.3976884131534" />
+		<voisin nom="Strasbourg" distance="1349.3457590446096" />
+	</gare>
+	<gare nom="Düsseldorf" coord="6.7667912, 51.2876146">
+		<voisin nom="Bergerac" distance="999.4409470422293" />
+		<voisin nom="Lyon" distance="643.7624955830627" />
+		<voisin nom="Nantes" distance="1038.9213164987386" />
+		<voisin nom="Strasbourg" distance="318.294241302381" />
+	</gare>
+	<gare nom="Edimbourg" coord="-3.3614532, 55.950785">
+		<voisin nom="Brest" distance="841.5644520165151" />
+		<voisin nom="Montpellier" distance="1599.7257114621814" />
+	</gare>
+	<gare nom="Florence" coord="11.2012247, 43.8086534">
+		<voisin nom="Bordeaux" distance="1330.798088762981" />
+		<voisin nom="Lyon" distance="712.3675530721683" />
+		<voisin nom="Toulouse" distance="1094.8442141759106" />
+	</gare>
+	<gare nom="Funchal" coord="-16.7758737, 32.6957983">
+		<voisin nom="Porto" distance="1293.0389551588642" />
+	</gare>
+	<gare nom="Glasgow" coord="-4.4350529, 55.8690744">
+		<voisin nom="Bergerac" distance="1346.519813578883" />
+	</gare>
+	<gare nom="Hambourg" coord="9.9974128, 53.633622">
+		<voisin nom="Brest" distance="1704.6327790776468" />
+		<voisin nom="Lyon" distance="1029.6089439151278" />
+		<voisin nom="Toulouse" distance="1465.7871011837271" />
+	</gare>
+	<gare nom="Lisbonne" coord="-9.1353667, 38.7755936">
+		<voisin nom="Nantes" distance="1250.6650535218375" />
+	</gare>
+	<gare nom="Lyon" coord="5.0887768, 45.7234181">
+		<voisin nom="Amsterdam" distance="731.1196075655648" />
+		<voisin nom="Athènes" distance="2259.2636588351106" />
+		<voisin nom="Bergerac" distance="518.4753621174337" />
+		<voisin nom="Düsseldorf" distance="643.7624955830627" />
+		<voisin nom="Florence" distance="712.3675530721683" />
+		<voisin nom="Hambourg" distance="1029.6089439151278" />
+		<voisin nom="Leipzig" distance="15199.3653157556" />
+		<voisin nom="Porto" distance="1611.2693299279497" />
+		<voisin nom="Keflavik" distance="5828.165305799982" />
+		<voisin nom="Rovaniemi" distance="3202.954387682632" />
+	</gare>
+	<gare nom="Marseille" coord="5.214414, 43.4384235">
+		<voisin nom="Clermont Ferrand" distance="13312.89797266908" />
+		<voisin nom="Dublin" distance="1691.3600337159312" />
+		<voisin nom="EuroAirport" distance="527.2030802296478" />
+		<voisin nom="Héraklion" distance="2384.2543639525106" />
+		<voisin nom="Madrid" distance="1030.8278132661776" />
+		<voisin nom="Munich" distance="908.7801024417255" />
+		<voisin nom="Naples" distance="1048.250348960081" />
+		<voisin nom="Palerme" distance="1050.6070445519128" />
+		<voisin nom="Porto" distance="1565.6528722149926" />
+		<voisin nom="Séville" distance="1405.8041174106395" />
+	</gare>
+	<gare nom="Munich" coord="11.7750279, 48.3536621">
+		<voisin nom="Brest" distance="1802.6109901652947" />
+		<voisin nom="Marseille" distance="908.7801024417255" />
+		<voisin nom="Strasbourg" distance="462.09211108710133" />
+		<voisin nom="Toulouse" distance="1270.584818152829" />
+	</gare>
+	<gare nom="Naples" coord="14.289243, 40.8847493">
+		<voisin nom="Ajaccio" distance="621.987825145633" />
+		<voisin nom="Marseille" distance="1048.250348960081" />
+		<voisin nom="Nantes" distance="1899.8589623634182" />
+	</gare>
+	<gare nom="Nice" coord="7.2148214, 43.6597689">
+		<voisin nom="Brest" distance="1399.9272871209769" />
+	</gare>
+	<gare nom="Porto" coord="-8.6785514, 41.2421186">
+		<voisin nom="Funchal" distance="1293.0389551588642" />
+		<voisin nom="Lyon" distance="1611.2693299279497" />
+		<voisin nom="Marseille" distance="1565.6528722149926" />
+		<voisin nom="Nantes" distance="1024.3931591168162" />
+	</gare>
+	<gare nom="Rome" coord="12.2462384, 41.7998868">
+		<voisin nom="Ajaccio" distance="384.45703155971665" />
+	</gare>
+	<gare nom="Rovaniemi" coord="25.8300782, 66.563104">
+		<voisin nom="Lyon" distance="3202.954387682632" />
+		<voisin nom="Nantes" distance="3699.940799187427" />
+	</gare>
+	<gare nom="Séville" coord="-5.89305, 37.4201674">
+		<voisin nom="Marseille" distance="1405.8041174106395" />
+		<voisin nom="Montpellier" distance="1293.5112390892455" />
+		<voisin nom="Toulouse" distance="1062.8574462849685" />
+	</gare>
+	<gare nom="Stockholm" coord="17.9237807, 59.6497622">
+		<voisin nom="Brest" distance="2774.6362702366023" />
+	</gare>
+	<gare nom="Toulouse" coord="1.367682, 43.6293863">
+		<voisin nom="Athènes" distance="2587.5219954420077" />
+		<voisin nom="Dublin" distance="1380.0634515621352" />
+		<voisin nom="EuroAirport" distance="814.6878163906649" />
+		<voisin nom="Florence" distance="1094.8442141759106" />
+		<voisin nom="Grenoble" distance="10303.768592079241" />
+		<voisin nom="Hambourg" distance="1465.7871011837271" />
+		<voisin nom="Lille" distance="796.0834861480507" />
+		<voisin nom="Madrid" distance="650.536568198605" />
+		<voisin nom="Munich" distance="1270.584818152829" />
+		<voisin nom="Séville" distance="1062.8574462849685" />
+		<voisin nom="Brest" distance="837.8706152608893" />
+		<voisin nom="Venise" distance="1239.4947945262484" />
+	</gare>
+	<gare nom="Venise" coord="12.3460177, 45.5044899">
+		<voisin nom="Nantes" distance="1563.8695315486991" />
+		<voisin nom="Toulouse" distance="1239.4947945262484" />
+	</gare>
+	<gare nom="Vienne" coord="16.5665751, 48.1158333">
+		<voisin nom="Strasbourg" distance="996.1003266657015" />
+	</gare>
+	<gare nom="Keflavik" coord="-45.4178059, 61.1614002">
+		<voisin nom="Lyon" distance="5828.165305799982" />
+		<voisin nom="Strasbourg" distance="6038.194812189153" />
+	</gare>
+	<gare nom="Nantes" coord="-1.606232, 47.157419">
+		<voisin nom="Athènes" distance="3014.598576941665" />
+		<voisin nom="Dublin" distance="866.9932820907011" />
+		<voisin nom="Düsseldorf" distance="1038.9213164987386" />
+		<voisin nom="Grenoble" distance="10806.078546507477" />
+		<voisin nom="Lisbonne" distance="1250.6650535218375" />
+		<voisin nom="Ljubljana" distance="1790.976291668794" />
+		<voisin nom="Ajaccio" distance="1295.4372604903012" />
+		<voisin nom="Montpellier" distance="736.9530290548787" />
+		<voisin nom="Naples" distance="1899.8589623634182" />
+		<voisin nom="Porto" distance="1024.3931591168162" />
+		<voisin nom="Rovaniemi" distance="3699.940799187427" />
+		<voisin nom="Venise" distance="1563.8695315486991" />
+	</gare>
+	<gare nom="Bergerac" coord="0.5186379, 44.8240252">
+		<voisin nom="Amsterdam" distance="957.0390273902358" />
+		<voisin nom="Ajaccio" distance="975.8959860402423" />
+		<voisin nom="Lyon" distance="518.4753621174337" />
+		<voisin nom="Düsseldorf" distance="999.4409470422293" />
+		<voisin nom="Glasgow" distance="1346.519813578883" />
+		<voisin nom="Helsinki" distance="3190.484800911563" />
+	</gare>
+	<gare nom="Montpellier" coord="3.9652372, 43.5795991">
+		<voisin nom="Berlin" distance="1438.063868178972" />
+		<voisin nom="Bordeaux" distance="538.7627759230196" />
+		<voisin nom="Brest" distance="1078.8862562278466" />
+		<voisin nom="Cracovie" distance="1897.3293606285868" />
+		<voisin nom="Dubrovnik" distance="1595.3976884131534" />
+		<voisin nom="Edimbourg" distance="1599.7257114621814" />
+		<voisin nom="La Corogne" distance="10571.008818905524" />
+		<voisin nom="Lille" distance="782.7402143369533" />
+		<voisin nom="Nantes" distance="736.9530290548787" />
+		<voisin nom="Séville" distance="1293.5112390892455" />
+	</gare>
+	<gare nom="Strasbourg" coord="7.6280226, 48.5394301">
+		<voisin nom="Bergen" distance="1327.2316727985456" />
+		<voisin nom="Bruxelles" distance="436.6855207580827" />
+		<voisin nom="Dublin" distance="1637.4168882307886" />
+		<voisin nom="Dubrovnik" distance="1349.3457590446096" />
+		<voisin nom="Düsseldorf" distance="318.294241302381" />
+		<voisin nom="Helsinki" distance="2299.6850408763066" />
+		<voisin nom="La Corogne" distance="9933.813132470606" />
+		<voisin nom="Munich" distance="462.09211108710133" />
+		<voisin nom="Keflavik" distance="6038.194812189153" />
+		<voisin nom="Ajaccio" distance="740.7444137391396" />
+		<voisin nom="Brest" distance="1340.9772027663143" />
+		<voisin nom="Vienne" distance="996.1003266657015" />
+	</gare>
+	<gare nom="Clermont Ferrand" coord="1458.0, 2080.0">
+		<voisin nom="Bordeaux" distance="13710.169098896302" />
+		<voisin nom="Marseille" distance="13312.89797266908" />
+	</gare>
+	<gare nom="EuroAirport" coord="7.5254958, 47.5981804">
+		<voisin nom="Marseille" distance="527.2030802296478" />
+		<voisin nom="Toulouse" distance="814.6878163906649" />
+	</gare>
+	<gare nom="Grenoble" coord="1468.0, 2110.0">
+		<voisin nom="Nantes" distance="10806.078546507477" />
+		<voisin nom="Toulouse" distance="10303.768592079241" />
+	</gare>
+	<gare nom="Héraklion" coord="25.1747483, 35.3395798">
+		<voisin nom="Marseille" distance="2384.2543639525106" />
+	</gare>
+	<gare nom="La Corogne" coord="1497.0, 1949.0">
+		<voisin nom="Montpellier" distance="10571.008818905524" />
+		<voisin nom="Strasbourg" distance="9933.813132470606" />
+	</gare>
+	<gare nom="Leipzig" coord="339.0, 544.0">
+		<voisin nom="Lyon" distance="15199.3653157556" />
+	</gare>
+	<gare nom="Lille" coord="3.106087, 50.57178">
+		<voisin nom="Montpellier" distance="782.7402143369533" />
+		<voisin nom="Toulouse" distance="796.0834861480507" />
+	</gare>
+	<gare nom="Ljubljana" coord="14.4559143, 46.2259433">
+		<voisin nom="Bordeaux" distance="1695.2815352204332" />
+		<voisin nom="Nantes" distance="1790.976291668794" />
+	</gare>
+	<gare nom="Palerme" coord="13.1005819, 38.1824001">
+		<voisin nom="Ajaccio" distance="629.7318437631535" />
+		<voisin nom="Marseille" distance="1050.6070445519128" />
+	</gare>
+	<gare nom="Rennes" coord="-1.734365, 48.0697843">
+		<voisin nom="Ajaccio" distance="1356.2079420758037" />
+	</gare>
+</ligne>

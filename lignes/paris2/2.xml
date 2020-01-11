@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="PORTE DAUPHINE,NATION">
+	<gare nom="PORTE DAUPHINE" coord="785, 1241">
+		<voisin nom ="VICTOR HUGO" distance ="0.008418971518816895"/>
+	</gare>
+	<gare nom="VICTOR HUGO" coord="894, 1211">
+		<voisin nom ="CHARLES DE GAULLE ETOILE" distance ="0.011360341574923606"/>
+		<voisin nom ="PORTE DAUPHINE" distance ="0.008418971518816895"/>
+	</gare>
+	<gare nom="CHARLES DE GAULLE ETOILE" coord="946, 1126">
+		<voisin nom ="TERNES" distance ="0.004237647570916975"/>
+		<voisin nom ="VICTOR HUGO" distance ="0.011360341574923606"/>
+	</gare>
+	<gare nom="TERNES" coord="1003, 1021">
+		<voisin nom ="COURCELLES" distance ="0.005363984967223082"/>
+		<voisin nom ="CHARLES DE GAULLE ETOILE" distance ="0.004237647570916975"/>
+	</gare>
+	<gare nom="COURCELLES" coord="1030, 987">
+		<voisin nom ="MONCEAU" distance ="0.0060499046921270415"/>
+		<voisin nom ="TERNES" distance ="0.005363984967223082"/>
+	</gare>
+	<gare nom="MONCEAU" coord="1078, 936">
+		<voisin nom ="VILLIERS" distance ="0.005768160333340044"/>
+		<voisin nom ="COURCELLES" distance ="0.0060499046921270415"/>
+	</gare>
+	<gare nom="VILLIERS" coord="1135, 882">
+		<voisin nom ="ROME" distance ="0.006192650769148297"/>
+		<voisin nom ="MONCEAU" distance ="0.005768160333340044"/>
+	</gare>
+	<gare nom="ROME" coord="1181, 855">
+		<voisin nom ="PLACE DE CLICHY" distance ="0.006173469277971464"/>
+		<voisin nom ="VILLIERS" distance ="0.006192650769148297"/>
+	</gare>
+	<gare nom="PLACE DE CLICHY" coord="1322, 788">
+		<voisin nom ="BLANCHE" distance ="0.004685711792260845"/>
+		<voisin nom ="ROME" distance ="0.006173469277971464"/>
+	</gare>
+	<gare nom="BLANCHE" coord="1404, 759">
+		<voisin nom ="PIGALLE" distance ="0.0055926306765178135"/>
+		<voisin nom ="PLACE DE CLICHY" distance ="0.004685711792260845"/>
+	</gare>
+	<gare nom="PIGALLE" coord="1528, 742">
+		<voisin nom ="ANVERS" distance ="0.006852569653400782"/>
+		<voisin nom ="BLANCHE" distance ="0.0055926306765178135"/>
+	</gare>
+	<gare nom="ANVERS" coord="1648, 740">
+		<voisin nom ="BARBES-ROCHECHOUART" distance ="0.0065494929495847325"/>
+		<voisin nom ="PIGALLE" distance ="0.006852569653400782"/>
+	</gare>
+	<gare nom="BARBES-ROCHECHOUART" coord="1770, 764">
+		<voisin nom ="LA CHAPELLE" distance ="0.009896212063295894"/>
+		<voisin nom ="ANVERS" distance ="0.0065494929495847325"/>
+	</gare>
+	<gare nom="LA CHAPELLE" coord="1877, 801">
+		<voisin nom ="STALINGRAD" distance ="0.005391371955170729"/>
+		<voisin nom ="BARBES-ROCHECHOUART" distance ="0.009896212063295894"/>
+	</gare>
+	<gare nom="STALINGRAD" coord="2048, 924">
+		<voisin nom ="JAURES" distance ="0.004645303119206686"/>
+		<voisin nom ="LA CHAPELLE" distance ="0.005391371955170729"/>
+	</gare>
+	<gare nom="JAURES" coord="2105, 963">
+		<voisin nom ="COLONEL FABIEN" distance ="0.0048988330810300655"/>
+		<voisin nom ="STALINGRAD" distance ="0.004645303119206686"/>
+	</gare>
+	<gare nom="COLONEL FABIEN" coord="2191, 1070">
+		<voisin nom ="BELLEVILLE" distance ="0.008162628506633034"/>
+		<voisin nom ="JAURES" distance ="0.0048988330810300655"/>
+	</gare>
+	<gare nom="BELLEVILLE" coord="2233, 1150">
+		<voisin nom ="COURONNES" distance ="0.004816468110399305"/>
+		<voisin nom ="COLONEL FABIEN" distance ="0.008162628506633034"/>
+	</gare>
+	<gare nom="COURONNES" coord="2269, 1232">
+		<voisin nom ="MENILMONTANT" distance ="0.0036494713626842937"/>
+		<voisin nom ="BELLEVILLE" distance ="0.004816468110399305"/>
+	</gare>
+	<gare nom="MENILMONTANT" coord="2297, 1344">
+		<voisin nom ="PERE LACHAISE" distance ="0.004445784967922848"/>
+		<voisin nom ="COURONNES" distance ="0.0036494713626842937"/>
+	</gare>
+	<gare nom="PERE LACHAISE" coord="2311, 1439">
+		<voisin nom ="PHILIPPE AUGUSTE" distance ="0.00604045037917028"/>
+		<voisin nom ="MENILMONTANT" distance ="0.004445784967922848"/>
+	</gare>
+	<gare nom="PHILIPPE AUGUSTE" coord="2307, 1512">
+		<voisin nom ="ALEXANDRE DUMAS" distance ="0.005264393523898806"/>
+		<voisin nom ="PERE LACHAISE" distance ="0.00604045037917028"/>
+	</gare>
+	<gare nom="ALEXANDRE DUMAS" coord="2300, 1574">
+		<voisin nom ="AVRON" distance ="0.006138326154809135"/>
+		<voisin nom ="PHILIPPE AUGUSTE" distance ="0.005264393523898806"/>
+	</gare>
+	<gare nom="AVRON" coord="2288, 1638">
+		<voisin nom ="NATION" distance ="0.005016882893382669"/>
+		<voisin nom ="ALEXANDRE DUMAS" distance ="0.006138326154809135"/>
+	</gare>
+	<gare nom="NATION" coord="2259, 1730">
+		<voisin nom ="AVRON" distance ="0.005016882893382669"/>
+	</gare>
+</ligne>

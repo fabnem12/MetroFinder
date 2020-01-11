@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="SAINT-DENIS-UNIVERSITE,CHATILLON-MONTROUGE,LES COURTILLES-ASNIERES-GENNEVILLIERS">
+	<gare nom="CHATILLON-MONTROUGE" coord="836, 2481">
+			<voisin nom ="MALAKOFF-RUE ÉTIENNE DOLET" distance ="0.006478431582429334"/>
+		</gare>
+	<gare nom="MALAKOFF-RUE ÉTIENNE DOLET" coord="925, 2391">
+			<voisin nom ="MALAKOFF-PLATEAU DE VANVES" distance ="0.007407078957803639"/>
+			<voisin nom ="CHATILLON-MONTROUGE" distance ="0.006478431582429334"/>
+		</gare>
+	<gare nom="MALAKOFF-PLATEAU DE VANVES" coord="971, 2343">
+			<voisin nom ="PORTE DE VANVES" distance ="0.008783785995277774"/>
+			<voisin nom ="MALAKOFF-RUE ÉTIENNE DOLET" distance ="0.007407078957803639"/>
+		</gare>
+	<gare nom="PORTE DE VANVES" coord="1044, 2281">
+			<voisin nom ="PLAISANCE" distance ="0.009486282375587754"/>
+			<voisin nom ="MALAKOFF-PLATEAU DE VANVES" distance ="0.008783785995277774"/>
+		</gare>
+	<gare nom="PLAISANCE" coord="1119, 2197">
+			<voisin nom ="PERNETY" distance ="0.0044838456639217875"/>
+			<voisin nom ="PORTE DE VANVES" distance ="0.009486282375587754"/>
+		</gare>
+	<gare nom="PERNETY" coord="1182, 2135">
+			<voisin nom ="GAITE" distance ="0.006443917505793798"/>
+			<voisin nom ="PLAISANCE" distance ="0.0044838456639217875"/>
+		</gare>
+	<gare nom="GAITE" coord="1219, 2071">
+			<voisin nom ="MONTPARNASSE" distance ="0.003991198465060041"/>
+			<voisin nom ="PERNETY" distance ="0.006443917505793798"/>
+		</gare>
+	<gare nom="MONTPARNASSE" coord="1224, 1970">
+			<voisin nom ="DUROC" distance ="0.006566942908683834"/>
+			<voisin nom ="GAITE" distance ="0.003991198465060041"/>
+		</gare>
+	<gare nom="DUROC" coord="1036, 1870">
+			<voisin nom ="SAINT-FRANCOIS-XAVIER" distance ="0.004830096588030788"/>
+			<voisin nom ="MONTPARNASSE" distance ="0.006566942908683834"/>
+		</gare>
+	<gare nom="SAINT-FRANCOIS-XAVIER" coord="946, 1782">
+			<voisin nom ="VARENNE" distance ="0.005468265554205408"/>
+			<voisin nom ="DUROC" distance ="0.004830096588030788"/>
+		</gare>
+	<gare nom="VARENNE" coord="904, 1648">
+			<voisin nom ="INVALIDES" distance ="0.005454563219221535"/>
+			<voisin nom ="SAINT-FRANCOIS-XAVIER" distance ="0.005468265554205408"/>
+		</gare>
+	<gare nom="INVALIDES" coord="904, 1542">
+			<voisin nom ="CHAMPS-ELYSEES-CLEMENCEAU" distance ="0.005421538368695167"/>
+			<voisin nom ="VARENNE" distance ="0.005454563219221535"/>
+		</gare>
+	<gare nom="CHAMPS-ELYSEES-CLEMENCEAU" coord="906, 1386">
+			<voisin nom ="MIROMESNIL" distance ="0.006193386230144544"/>
+			<voisin nom ="INVALIDES" distance ="0.005421538368695167"/>
+		</gare>
+	<gare nom="MIROMESNIL" coord="991, 1196">
+			<voisin nom ="SAINT-LAZARE" distance ="0.010000919003712699"/>
+			<voisin nom ="CHAMPS-ELYSEES-CLEMENCEAU" distance ="0.006193386230144544"/>
+		</gare>
+	<gare nom="SAINT-LAZARE" coord="1090, 1091">
+			<voisin nom ="LIEGE" distance ="0.004757087030710066"/>
+			<voisin nom ="MIROMESNIL" distance ="0.010000919003712699"/>
+		</gare>
+	<gare nom="LIEGE" coord="1097, 930">
+			<voisin nom ="PLACE DE CLICHY" distance ="0.004175630930674438"/>
+			<voisin nom ="SAINT-LAZARE" distance ="0.004757087030710066"/>
+		</gare>
+	<gare nom="PLACE DE CLICHY" coord="1098, 830">
+			<voisin nom ="LA FOURCHE" distance ="0.0036827976480815713"/>
+			<voisin nom ="LIEGE" distance ="0.004175630930674438"/>
+		</gare>
+	<gare nom="LA FOURCHE" coord="1097, 761">
+			<voisin nom ="PLACE DE CLICHY" distance ="0.0036827976480815713"/>
+			<voisin nom ="BROCHANT" distance ="0.006557221795578335"/>
+			<voisin nom ="GUY MOQUET" distance ="0.005880770106890635"/>
+		</gare>
+		
+	<gare nom="BROCHANT" coord="1038, 685">
+			<voisin nom ="PORTE DE CLICHY" distance ="0.00737739979628386"/>
+			<voisin nom ="LA FOURCHE" distance ="0.006557221795578335"/>
+		</gare>
+	<gare nom="PORTE DE CLICHY" coord="983, 629">
+			<voisin nom ="MAIRIE DE CLICHY" distance ="0.011999928532162885"/>
+			<voisin nom ="BROCHANT" distance ="0.00737739979628386"/>
+		</gare>
+	<gare nom="MAIRIE DE CLICHY" coord="881, 528">
+			<voisin nom ="GABRIEL PERI-ASNIERES-GENNEVILLIERS" distance ="0.017224293983332962"/>
+			<voisin nom ="PORTE DE CLICHY" distance ="0.011999928532162885"/>
+		</gare>
+	<gare nom="GABRIEL PERI-ASNIERES-GENNEVILLIERS" coord="781, 429">
+			<voisin nom ="LES AGNETTES-ASNIERES-GENNEVILLIERS" distance ="0.010762488604190214"/>
+			<voisin nom ="MAIRIE DE CLICHY" distance ="0.017224293983332962"/>
+		</gare>
+	<gare nom="LES AGNETTES-ASNIERES-GENNEVILLIERS" coord="738, 386">
+			<voisin nom ="LES COURTILLES-ASNIERES-GENNEVILLIERS" distance ="0.007937468149909895"/>
+			<voisin nom ="GABRIEL PERI-ASNIERES-GENNEVILLIERS" distance ="0.010762488604190214"/>
+		</gare>
+	<gare nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" coord="666, 292">
+			<voisin nom ="LES AGNETTES-ASNIERES-GENNEVILLIERS" distance ="0.007937468149909895"/>
+		</gare>
+		
+	<gare nom="GUY MOQUET" coord="1097, 675">
+			<voisin nom ="PORTE DE SAINT-OUEN" distance ="0.00479154030160684"/>
+			<voisin nom ="LA FOURCHE" distance ="0.005880770106890635"/>
+		</gare>
+	<gare nom="PORTE DE SAINT-OUEN" coord="1097, 596">
+			<voisin nom ="GARIBALDI" distance ="0.009185101630561292"/>
+			<voisin nom ="GUY MOQUET" distance ="0.00479154030160684"/>
+		</gare>
+	<gare nom="GARIBALDI" coord="1160, 518">
+			<voisin nom ="MAIRIE DE SAINT-OUEN" distance ="0.006233129925899368"/>
+			<voisin nom ="PORTE DE SAINT-OUEN" distance ="0.009185101630561292"/>
+		</gare>
+	<gare nom="MAIRIE DE SAINT-OUEN" coord="1227, 451">
+			<voisin nom ="CARREFOUR PLEYEL" distance ="0.012078421135841119"/>
+			<voisin nom ="GARIBALDI" distance ="0.006233129925899368"/>
+		</gare>
+	<gare nom="CARREFOUR PLEYEL" coord="1293, 386">
+			<voisin nom ="SAINT-DENIS-PORTE DE PARIS" distance ="0.016414547692876723"/>
+			<voisin nom ="MAIRIE DE SAINT-OUEN" distance ="0.012078421135841119"/>
+		</gare>
+	<gare nom="SAINT-DENIS-PORTE DE PARIS" coord="1427, 362">
+			<voisin nom ="BASILIQUE DE SAINT-DENIS" distance ="0.007399119902647968"/>
+			<voisin nom ="CARREFOUR PLEYEL" distance ="0.016414547692876723"/>
+		</gare>
+	<gare nom="BASILIQUE DE SAINT-DENIS" coord="1642, 284">
+			<voisin nom ="SAINT-DENIS-UNIVERSITE" distance ="0.010644047534262133"/>
+			<voisin nom ="SAINT-DENIS-PORTE DE PARIS" distance ="0.007399119902647968"/>
+		</gare>
+	<gare nom="SAINT-DENIS-UNIVERSITE" coord="1678, 241">
+			<voisin nom ="BASILIQUE DE SAINT-DENIS" distance ="0.010644047534262133"/>
+	</gare>
+</ligne>

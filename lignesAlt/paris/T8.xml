@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="EPINAY-ORGEMONT,SAINT-DENIS-PORTE DE PARIS" couleur="6e6e00">
+	<gare nom="BLUMENTHAL" coord="1257, 200">
+		<voisin nom="DELAUNAY-BELLEVILLE" distance="0.9392685513452262" />
+		<voisin nom="LES MOBILES" distance="1.1761282746677917" />
+	</gare>
+	<gare nom="DELAUNAY-BELLEVILLE" coord="1362, 212">
+		<voisin nom="BLUMENTHAL" distance="0.9392685513452262" />
+		<voisin nom="VILLETANEUSE-UNIVERSITE" distance="1.6388961246121048" />
+		<voisin nom="PAUL ELUARD" distance="0.6933587381518567" />
+	</gare>
+	<gare nom="EPINAY-ORGEMONT" coord="895, 199">
+		<voisin nom="EPINAY-SUR-SEINE" distance="0.7391247782057587" />
+	</gare>
+	<gare nom="EPINAY-SUR-SEINE" coord="977, 200">
+		<voisin nom="GILBERT BONNEMAISON" distance="0.6305519826724875" />
+		<voisin nom="EPINAY-ORGEMONT" distance="0.7391247782057587" />
+	</gare>
+	<gare nom="GARE DE SAINT-DENIS" coord="1362, 280">
+		<voisin nom="PAUL ELUARD" distance="0.5738601065591051" />
+		<voisin nom="PIERRE DE GEYTER" distance="0.6465736443551295" />
+	</gare>
+	<gare nom="GILBERT BONNEMAISON" coord="1037, 201">
+		<voisin nom="LACEPEDE" distance="0.4096590709212095" />
+		<voisin nom="EPINAY-SUR-SEINE" distance="0.6305519826724875" />
+	</gare>
+	<gare nom="LACEPEDE" coord="1081, 202">
+		<voisin nom="GILBERT BONNEMAISON" distance="0.4096590709212095" />
+		<voisin nom="ROSE BERTIN" distance="0.5263681023483214" />
+	</gare>
+	<gare nom="LES BEATUS" coord="1169, 201">
+		<voisin nom="ROSE BERTIN" distance="0.5598235901436813" />
+		<voisin nom="LES MOBILES" distance="0.9791108940212842" />
+	</gare>
+	<gare nom="LES MOBILES" coord="1214, 200">
+		<voisin nom="BLUMENTHAL" distance="1.1761282746677917" />
+		<voisin nom="LES BEATUS" distance="0.9791108940212842" />
+	</gare>
+	<gare nom="PAUL ELUARD" coord="1362, 242">
+		<voisin nom="DELAUNAY-BELLEVILLE" distance="0.6933587381518567" />
+		<voisin nom="GARE DE SAINT-DENIS" distance="0.5738601065591051" />
+	</gare>
+	<gare nom="PIERRE DE GEYTER" coord="1379, 319">
+		<voisin nom="GARE DE SAINT-DENIS" distance="0.6465736443551295" />
+		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="0.568247000770306" />
+	</gare>
+	<gare nom="ROSE BERTIN" coord="1126, 201">
+		<voisin nom="LES BEATUS" distance="0.5598235901436813" />
+		<voisin nom="LACEPEDE" distance="0.5263681023483214" />
+	</gare>
+	<gare nom="SAINT-DENIS-PORTE DE PARIS" coord="1410, 349">
+		<voisin nom="PIERRE DE GEYTER" distance="0.568247000770306" />
+	</gare>
+	<gare nom="VILLETANEUSE-UNIVERSITE" coord="1362, 152">
+		<voisin nom="DELAUNAY-BELLEVILLE" distance="1.6388961246121048" />
+	</gare>
+</ligne>

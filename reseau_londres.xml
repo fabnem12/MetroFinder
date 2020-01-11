@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<gare nom="Baker Street" coord="673, 454">
+		<voisin nom="Bond Street" distance="0.027266804194180115" lignes="Jubilee Line" />
+		<voisin nom="Edgware Road (C)" distance="0.028975064441153744" lignes="Circle Line,Hammersmith &amp; City Line" />
+		<voisin nom="Finchley Road" distance="0.04968582797826124" lignes="Metropolitan Line" />
+		<voisin nom="Great Portland Street" distance="0.02912606299753938" lignes="Circle Line,Hammersmith &amp; City Line,Metropolitan Line" />
+		<voisin nom="Marylebone" distance="0.021872463052385226" lignes="Bakerloo Line" />
+		<voisin nom="Regent's Park" distance="0.026402061866814867" lignes="Bakerloo Line" />
+		<voisin nom="St. John's Wood" distance="0.03665672058739888" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Bermondsey" coord="1060, 670">
+		<voisin nom="Canada Water" distance="0.029374962698826473" lignes="Jubilee Line" />
+		<voisin nom="London Bridge" distance="0.03971654537752002" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Bond Street" coord="673, 531">
+		<voisin nom="Baker Street" distance="0.027266804194180115" lignes="Jubilee Line" />
+		<voisin nom="Green Park" distance="0.02586212526012252" lignes="Jubilee Line" />
+		<voisin nom="Marble Arch" distance="0.02509117423420753" lignes="Central Line" />
+		<voisin nom="Oxford Circus" distance="0.023812032789356244" lignes="Central Line" />
+	</gare>
+	<gare nom="Canada Water" coord="1139, 670">
+		<voisin nom="Bermondsey" distance="0.029374962698826473" lignes="Jubilee Line" />
+		<voisin nom="Canary Wharf" distance="0.04597312475640032" lignes="Jubilee Line" />
+		<voisin nom="Rotherhithe" distance="0.019495163963313418" lignes="East London Line" />
+		<voisin nom="Surrey Quays" distance="0.021327818923195095" lignes="East London Line" />
+	</gare>
+	<gare nom="Canary Wharf" coord="1239, 670">
+		<voisin nom="Canada Water" distance="0.04597312475640032" lignes="Jubilee Line" />
+		<voisin nom="Heron Quays" distance="0.017768996373011332" lignes="Docklands Light Railway" />
+		<voisin nom="North Greenwich" distance="0.041094635148994085" lignes="Jubilee Line" />
+		<voisin nom="West India Quay" distance="0.017864115661430577" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Canning Town" coord="1332, 591">
+		<voisin nom="East India" distance="0.02750133312652475" lignes="Docklands Light Railway" />
+		<voisin nom="North Greenwich" distance="0.030708408403013258" lignes="Jubilee Line" />
+		<voisin nom="Royal Victoria" distance="0.0272457231473774" lignes="Docklands Light Railway" />
+		<voisin nom="West Ham" distance="0.030111011785979185" lignes="Jubilee Line" />
+		<voisin nom="West Silvertown" distance="0.034616228999090545" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Canons Park" coord="497, 160">
+		<voisin nom="Queensbury" distance="0.031962621045320064" lignes="Jubilee Line" />
+		<voisin nom="Stanmore" distance="0.03001977453161736" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Dollis Hill" coord="542, 271">
+		<voisin nom="Neasden" distance="0.027678407491431033" lignes="Jubilee Line" />
+		<voisin nom="Willesden Green" distance="0.03329804650554794" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Finchley Road" coord="618, 348">
+		<voisin nom="Baker Street" distance="0.04968582797826124" lignes="Metropolitan Line" />
+		<voisin nom="Swiss Cottage" distance="0.02350379853814998" lignes="Jubilee Line" />
+		<voisin nom="Wembley Park" distance="0.11640187398232762" lignes="Metropolitan Line" />
+		<voisin nom="West Hampstead" distance="0.026175997782764887" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Green Park" coord="685, 583">
+		<voisin nom="Bond Street" distance="0.02586212526012252" lignes="Jubilee Line" />
+		<voisin nom="Hyde Park Corner" distance="0.02654917631158408" lignes="Piccadilly Line" />
+		<voisin nom="Oxford Circus" distance="0.024272820168756017" lignes="Victoria Line" />
+		<voisin nom="Piccadilly Circus" distance="0.025013292645341294" lignes="Piccadilly Line" />
+		<voisin nom="Victoria" distance="0.02624708157431062" lignes="Victoria Line" />
+		<voisin nom="Westminster" distance="0.03418146320051623" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Kilburn" coord="581, 311">
+		<voisin nom="West Hampstead" distance="0.02997304814529127" lignes="Jubilee Line" />
+		<voisin nom="Willesden Green" distance="0.03280237104834108" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Kingsbury" coord="498, 206">
+		<voisin nom="Queensbury" distance="0.028053994079461627" lignes="Jubilee Line" />
+		<voisin nom="Wembley Park" distance="0.03699081536727675" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="London Bridge" coord="974, 670">
+		<voisin nom="Bank" distance="0.024265079604010524" lignes="Northern Line" />
+		<voisin nom="Bermondsey" distance="0.03971654537752002" lignes="Jubilee Line" />
+		<voisin nom="Borough" distance="0.024772191556937436" lignes="Northern Line" />
+		<voisin nom="Southwark" distance="0.03470988871982114" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Neasden" coord="522, 252">
+		<voisin nom="Dollis Hill" distance="0.027678407491431033" lignes="Jubilee Line" />
+		<voisin nom="Wembley Park" distance="0.046516857790422805" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="North Greenwich" coord="1293, 661">
+		<voisin nom="Canary Wharf" distance="0.041094635148994085" lignes="Jubilee Line" />
+		<voisin nom="Canning Town" distance="0.030708408403013258" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Queensbury" coord="497, 184">
+		<voisin nom="Canons Park" distance="0.031962621045320064" lignes="Jubilee Line" />
+		<voisin nom="Kingsbury" distance="0.028053994079461627" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Southwark" coord="853, 728">
+		<voisin nom="London Bridge" distance="0.03470988871982114" lignes="Jubilee Line" />
+		<voisin nom="Waterloo" distance="0.024980416743354942" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="St. John's Wood" coord="650, 377">
+		<voisin nom="Baker Street" distance="0.03665672058739888" lignes="Jubilee Line" />
+		<voisin nom="Swiss Cottage" distance="0.02437398239251223" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Stanmore" coord="498, 140">
+		<voisin nom="Canons Park" distance="0.03001977453161736" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Stratford" coord="1301, 395">
+		<voisin nom="Leyton" distance="0.030911909029641513" lignes="Central Line" />
+		<voisin nom="Mile End" distance="0.04933638735858527" lignes="Central Line" />
+		<voisin nom="Pudding Mill Lane" distance="0.028011646251368136" lignes="Docklands Light Railway" />
+		<voisin nom="West Ham" distance="0.03207193841595105" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Swiss Cottage" coord="633, 361">
+		<voisin nom="Finchley Road" distance="0.02350379853814998" lignes="Jubilee Line" />
+		<voisin nom="St. John's Wood" distance="0.02437398239251223" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Waterloo" coord="787, 706">
+		<voisin nom="Bank" distance="0.0433412493592828" lignes="Waterloo &amp; City Line" />
+		<voisin nom="Embankment" distance="0.02472826570710735" lignes="Bakerloo Line,Northern Line" />
+		<voisin nom="Kennington" distance="0.0335362837503156" lignes="Northern Line" />
+		<voisin nom="Lambeth North" distance="0.021171629776914426" lignes="Bakerloo Line" />
+		<voisin nom="Southwark" distance="0.024980416743354942" lignes="Jubilee Line" />
+		<voisin nom="Westminster" distance="0.027272068364968944" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Wembley Park" coord="507, 237">
+		<voisin nom="Finchley Road" distance="0.11640187398232762" lignes="Metropolitan Line" />
+		<voisin nom="Kingsbury" distance="0.03699081536727675" lignes="Jubilee Line" />
+		<voisin nom="Neasden" distance="0.046516857790422805" lignes="Jubilee Line" />
+		<voisin nom="Preston Road" distance="0.03390105017802771" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="West Ham" coord="1332, 484">
+		<voisin nom="Bromley-By-Bow" distance="0.03380093539648618" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Canning Town" distance="0.030111011785979185" lignes="Jubilee Line" />
+		<voisin nom="Plaistow" distance="0.027759438658285375" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Stratford" distance="0.03207193841595105" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="West Hampstead" coord="598, 328">
+		<voisin nom="Finchley Road" distance="0.026175997782764887" lignes="Jubilee Line" />
+		<voisin nom="Kilburn" distance="0.02997304814529127" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Westminster" coord="764, 661">
+		<voisin nom="Embankment" distance="0.022982888455938065" lignes="Circle Line,District Line" />
+		<voisin nom="Green Park" distance="0.03418146320051623" lignes="Jubilee Line" />
+		<voisin nom="St. James's Park" distance="0.024128142357900763" lignes="Circle Line,District Line" />
+		<voisin nom="Waterloo" distance="0.027272068364968944" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Willesden Green" coord="561, 290">
+		<voisin nom="Dollis Hill" distance="0.03329804650554794" lignes="Jubilee Line" />
+		<voisin nom="Kilburn" distance="0.03280237104834108" lignes="Jubilee Line" />
+	</gare>
+</data>

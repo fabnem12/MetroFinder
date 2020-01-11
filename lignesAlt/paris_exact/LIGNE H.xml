@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="LUZARCHES,CREIL,GARE DU NORD,PONTOISE" couleur="844c54">
+	<gare nom="AUVERS-SUR-OISE" coord="2.17530420995, 49.0704623634">
+		<voisin nom="CHAPONVAL" distance="2.454296881666634" />
+		<voisin nom="VALMONDOIS" distance="3.0005364539733783" />
+	</gare>
+	<gare nom="BELLOY-SAINT-MARTIN" coord="2.36127055524, 49.0984002625">
+		<voisin nom="VILLAINES" distance="2.240505827997507" />
+		<voisin nom="VIARMES" distance="2.091928247400257" />
+	</gare>
+	<gare nom="BESSANCOURT" coord="2.21024652104, 49.0353113094">
+		<voisin nom="FREPILLON" distance="1.4801747868396915" />
+		<voisin nom="TAVERNY" distance="1.4847860304717326" />
+	</gare>
+	<gare nom="BORAN-SUR-OISE" coord="2.36230352857, 49.1667750398">
+		<voisin nom="PRECY-SUR-OISE" distance="4.19322010174343" />
+		<voisin nom="BRUYERES-SUR-OISE" distance="2.956735814134295" />
+	</gare>
+	<gare nom="BOUFFEMONT-MOISSELLES" coord="2.32291784485, 49.0451694612">
+		<voisin nom="MONTSOULT-MAFFLIERS" distance="2.3509826604469" />
+		<voisin nom="DOMONT" distance="1.6953787042499497" />
+	</gare>
+	<gare nom="BRUYERES-SUR-OISE" coord="2.32575400036, 49.155189859">
+		<voisin nom="PERSAN-BEAUMONT" distance="3.5875465619715534" />
+		<voisin nom="BORAN-SUR-OISE" distance="2.956735814134295" />
+	</gare>
+	<gare nom="CERNAY" coord="2.25747415863, 48.9850047004">
+		<voisin nom="ERMONT-HALTE" distance="0.754316428525067" />
+		<voisin nom="FRANCONVILLE-LE-PLESSIS-BOUCHARD" distance="1.9522624667726032" />
+	</gare>
+	<gare nom="CHAMP DE COURSES D'ENGHIEN" coord="2.29247712881, 48.9794479839">
+		<voisin nom="ERMONT-EAUBONNE" distance="1.6428889729641105" />
+	</gare>
+	<gare nom="CHAMPAGNE-SUR-OISE" coord="2.24267777678, 49.1360005646">
+		<voisin nom="L'ISLE-ADAM-PARMAIN" distance="3.3523358685560316" />
+		<voisin nom="PERSAN-BEAUMONT" distance="2.8727177950377465" />
+	</gare>
+	<gare nom="CHAPONVAL" coord="2.14169693141, 49.0693141355">
+		<voisin nom="AUVERS-SUR-OISE" distance="2.454296881666634" />
+		<voisin nom="PONT-PETIT" distance="1.2513680805052574" />
+	</gare>
+	<gare nom="CREIL" coord="2.46891411535, 49.2639441445">
+		<voisin nom="SAINT-LEU DESSERENT" distance="6.717440252006831" />
+	</gare>
+	<gare nom="DEUIL-MONTMAGNY" coord="2.33852407065, 48.9760542531">
+		<voisin nom="GROSLAY" distance="1.4241592381903247" />
+		<voisin nom="EPINAY-VILLETANEUSE" distance="2.1175027660088106" />
+	</gare>
+	<gare nom="DOMONT" coord="2.33682968984, 49.0329720468">
+		<voisin nom="ECOUEN-EZANVILLE" distance="2.1487665293407856" />
+		<voisin nom="BOUFFEMONT-MOISSELLES" distance="1.6953787042499497" />
+	</gare>
+	<gare nom="ECOUEN-EZANVILLE" coord="2.36222298238, 49.0232063781">
+		<voisin nom="SARCELLES-SAINT-BRICE" distance="3.06437930685604" />
+		<voisin nom="DOMONT" distance="2.1487665293407856" />
+	</gare>
+	<gare nom="ENGHIEN-LES-BAINS" coord="2.30713703071, 48.9727491198">
+		<voisin nom="ERMONT-EAUBONNE" distance="2.8407792898024535" />
+		<voisin nom="LA BARRE-ORMESSON" distance="0.9937601580855097" />
+	</gare>
+	<gare nom="EPINAY-VILLETANEUSE" coord="2.32824501027, 48.9582696037">
+		<voisin nom="DEUIL-MONTMAGNY" distance="2.1175027660088106" />
+		<voisin nom="SAINT-DENIS" distance="2.9391146532438657" />
+		<voisin nom="LA BARRE-ORMESSON" distance="1.237347894009601" />
+	</gare>
+	<gare nom="EPLUCHES" coord="2.12273590827, 49.0551017605">
+		<voisin nom="SAINT-OUEN-L'AUMONE" distance="1.6856130012555328" />
+		<voisin nom="PONT-PETIT" distance="0.8520098551542504" />
+	</gare>
+	<gare nom="ERMONT-EAUBONNE" coord="2.27003542627, 48.9803775554">
+		<voisin nom="ENGHIEN-LES-BAINS" distance="2.8407792898024535" />
+		<voisin nom="CHAMP DE COURSES D'ENGHIEN" distance="1.6428889729641105" />
+		<voisin nom="GROS-NOYER-SAINT-PRIX" distance="1.9072823162980308" />
+	</gare>
+	<gare nom="ERMONT-HALTE" coord="2.26318262286, 48.9906512497">
+		<voisin nom="GROS-NOYER-SAINT-PRIX" distance="0.6588753291203575" />
+		<voisin nom="CERNAY" distance="0.754316428525067" />
+	</gare>
+	<gare nom="FRANCONVILLE-LE-PLESSIS-BOUCHARD" coord="2.23427639398, 48.9937134813">
+		<voisin nom="MONTIGNY-BEAUCHAMP" distance="3.081548845234341" />
+		<voisin nom="CERNAY" distance="1.9522624667726032" />
+	</gare>
+	<gare nom="FREPILLON" coord="2.19708767832, 49.0454302542">
+		<voisin nom="BESSANCOURT" distance="1.4801747868396915" />
+		<voisin nom="MERY-VAL D'OISE" distance="1.4678412821027853" />
+	</gare>
+	<gare nom="GARE DU NORD" coord="2.35632854366, 48.8809220076">
+		<voisin nom="SAINT-DENIS" distance="6.010761875155212" />
+	</gare>
+	<gare nom="GROS-NOYER-SAINT-PRIX" coord="2.25965561906, 48.9960988426">
+		<voisin nom="SAINT-LEU-LA-FORET" distance="2.5057162859749087" />
+		<voisin nom="ERMONT-EAUBONNE" distance="1.9072823162980308" />
+		<voisin nom="ERMONT-HALTE" distance="0.6588753291203575" />
+	</gare>
+	<gare nom="GROSLAY" coord="2.35340724587, 48.9843159621">
+		<voisin nom="DEUIL-MONTMAGNY" distance="1.4241592381903247" />
+		<voisin nom="SARCELLES-SAINT-BRICE" distance="1.714367374163256" />
+	</gare>
+	<gare nom="L'ISLE-ADAM-PARMAIN" coord="2.21001986929, 49.1147839701">
+		<voisin nom="CHAMPAGNE-SUR-OISE" distance="3.3523358685560316" />
+		<voisin nom="VALMONDOIS" distance="2.706196526520748" />
+	</gare>
+	<gare nom="LA BARRE-ORMESSON" coord="2.31658207116, 48.9663265448">
+		<voisin nom="ENGHIEN-LES-BAINS" distance="0.9937601580855097" />
+		<voisin nom="EPINAY-VILLETANEUSE" distance="1.237347894009601" />
+	</gare>
+	<gare nom="LUZARCHES" coord="2.42010703417, 49.1171321315">
+		<voisin nom="SEUGY" distance="1.4998605696302565" />
+	</gare>
+	<gare nom="MERIEL" coord="2.20544672552, 49.0776990428">
+		<voisin nom="VALMONDOIS" distance="1.5120861852272813" />
+		<voisin nom="MERY-VAL D'OISE" distance="2.4203910927689303" />
+	</gare>
+	<gare nom="MERY-VAL D'OISE" coord="2.19124475918, 49.0580478127">
+		<voisin nom="FREPILLON" distance="1.4678412821027853" />
+		<voisin nom="MERIEL" distance="2.4203910927689303" />
+	</gare>
+	<gare nom="MONTIGNY-BEAUCHAMP" coord="2.19761981397, 49.0074232971">
+		<voisin nom="PIERRELAYE" distance="3.3966127798575436" />
+		<voisin nom="FRANCONVILLE-LE-PLESSIS-BOUCHARD" distance="3.081548845234341" />
+	</gare>
+	<gare nom="MONTSOULT-MAFFLIERS" coord="2.32292045583, 49.0662886977">
+		<voisin nom="VILLAINES" distance="2.509160193509356" />
+		<voisin nom="BOUFFEMONT-MOISSELLES" distance="2.3509826604469" />
+		<voisin nom="PRESLES-COURCELLES" distance="5.898656678877795" />
+	</gare>
+	<gare nom="NOINTEL-MOURS" coord="2.28051536983, 49.1325777015">
+		<voisin nom="PERSAN-BEAUMONT" distance="1.6969423982523708" />
+		<voisin nom="PRESLES-COURCELLES" distance="2.1304979876155956" />
+	</gare>
+	<gare nom="PERSAN-BEAUMONT" coord="2.27782319062, 49.1477195065">
+		<voisin nom="CHAMPAGNE-SUR-OISE" distance="2.8727177950377465" />
+		<voisin nom="NOINTEL-MOURS" distance="1.6969423982523708" />
+		<voisin nom="BRUYERES-SUR-OISE" distance="3.5875465619715534" />
+	</gare>
+	<gare nom="PIERRELAYE" coord="2.15466348564, 49.0191367398">
+		<voisin nom="MONTIGNY-BEAUCHAMP" distance="3.3966127798575436" />
+		<voisin nom="SAINT-OUEN-L'AUMONE-LIESSE" distance="2.5389662857683435" />
+	</gare>
+	<gare nom="PONT-PETIT" coord="2.13087413699, 49.0605916831">
+		<voisin nom="CHAPONVAL" distance="1.2513680805052574" />
+		<voisin nom="EPLUCHES" distance="0.8520098551542504" />
+	</gare>
+	<gare nom="PONTOISE" coord="2.09519506723, 49.0466457626">
+		<voisin nom="SAINT-OUEN-L'AUMONE" distance="0.7385770946381957" />
+	</gare>
+	<gare nom="PRECY-SUR-OISE" coord="2.37660117732, 49.2032657335">
+		<voisin nom="SAINT-LEU DESSERENT" distance="3.190697229255473" />
+		<voisin nom="BORAN-SUR-OISE" distance="4.19322010174343" />
+	</gare>
+	<gare nom="PRESLES-COURCELLES" coord="2.28791534353, 49.1140619515">
+		<voisin nom="MONTSOULT-MAFFLIERS" distance="5.898656678877795" />
+		<voisin nom="NOINTEL-MOURS" distance="2.1304979876155956" />
+	</gare>
+	<gare nom="SAINT-DENIS" coord="2.3456043782, 48.9344555451">
+		<voisin nom="GARE DU NORD" distance="6.010761875155212" />
+		<voisin nom="EPINAY-VILLETANEUSE" distance="2.9391146532438657" />
+	</gare>
+	<gare nom="SAINT-LEU DESSERENT" coord="2.41736939105, 49.2138563248">
+		<voisin nom="CREIL" distance="6.717440252006831" />
+		<voisin nom="PRECY-SUR-OISE" distance="3.190697229255473" />
+	</gare>
+	<gare nom="SAINT-LEU-LA-FORET" coord="2.2424791085, 49.0155849755">
+		<voisin nom="VAUCELLES" distance="1.1788353525565363" />
+		<voisin nom="GROS-NOYER-SAINT-PRIX" distance="2.5057162859749087" />
+	</gare>
+	<gare nom="SAINT-OUEN-L'AUMONE" coord="2.10511070344, 49.0453116484">
+		<voisin nom="EPLUCHES" distance="1.6856130012555328" />
+		<voisin nom="PONTOISE" distance="0.7385770946381957" />
+		<voisin nom="SAINT-OUEN-L'AUMONE-LIESSE" distance="2.108020135773624" />
+	</gare>
+	<gare nom="SAINT-OUEN-L'AUMONE-LIESSE" coord="2.12826387392, 49.0339876363">
+		<voisin nom="SAINT-OUEN-L'AUMONE" distance="2.108020135773624" />
+		<voisin nom="PIERRELAYE" distance="2.5389662857683435" />
+	</gare>
+	<gare nom="SARCELLES-SAINT-BRICE" coord="2.36868456416, 48.9960068305">
+		<voisin nom="GROSLAY" distance="1.714367374163256" />
+		<voisin nom="ECOUEN-EZANVILLE" distance="3.06437930685604" />
+	</gare>
+	<gare nom="SEUGY" coord="2.39972485252, 49.1190226463">
+		<voisin nom="LUZARCHES" distance="1.4998605696302565" />
+		<voisin nom="VIARMES" distance="2.308419788709512" />
+	</gare>
+	<gare nom="TAVERNY" coord="2.22272732081, 49.0247785479">
+		<voisin nom="VAUCELLES" distance="0.5894572476914158" />
+		<voisin nom="BESSANCOURT" distance="1.4847860304717326" />
+	</gare>
+	<gare nom="VALMONDOIS" coord="2.20182348425, 49.0910734513">
+		<voisin nom="AUVERS-SUR-OISE" distance="3.0005364539733783" />
+		<voisin nom="L'ISLE-ADAM-PARMAIN" distance="2.706196526520748" />
+		<voisin nom="MERIEL" distance="1.5120861852272813" />
+	</gare>
+	<gare nom="VAUCELLES" coord="2.22937648839, 49.0217739562">
+		<voisin nom="SAINT-LEU-LA-FORET" distance="1.1788353525565363" />
+		<voisin nom="TAVERNY" distance="0.5894572476914158" />
+	</gare>
+	<gare nom="VIARMES" coord="2.36825354761, 49.1166278825">
+		<voisin nom="BELLOY-SAINT-MARTIN" distance="2.091928247400257" />
+		<voisin nom="SEUGY" distance="2.308419788709512" />
+	</gare>
+	<gare nom="VILLAINES" coord="2.35083083357, 49.0794702331">
+		<voisin nom="MONTSOULT-MAFFLIERS" distance="2.509160193509356" />
+		<voisin nom="BELLOY-SAINT-MARTIN" distance="2.240505827997507" />
+	</gare>
+</ligne>

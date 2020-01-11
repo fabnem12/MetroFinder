@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Aéroconstellation,Palais de Justice" couleur="234b90">
+	<gare nom="Ancely" coord="312, 312">
+		<voisin nom="Servanty-Airbus" distance="0.8947191177819891" />
+		<voisin nom="Arènes Romaines" distance="0.4894915942075492" />
+	</gare>
+	<gare nom="Andromède-Lycée" coord="226, 23">
+		<voisin nom="Beauzelle" distance="0.7541182407254837" />
+		<voisin nom="Place Georges Brassens" distance="0.7331966329341013" />
+	</gare>
+	<gare nom="Arènes" coord="357, 496">
+		<voisin nom="Zénith" distance="0.9988686992539428" />
+		<voisin nom="Déodat de Séverac" distance="0.5149152362579794" />
+	</gare>
+	<gare nom="Arènes Romaines" coord="315, 348">
+		<voisin nom="Ancely" distance="0.4894915942075492" />
+		<voisin nom="Purpan" distance="0.7011655860231134" />
+	</gare>
+	<gare nom="Av. Muret" coord="435, 493">
+		<voisin nom="Fer à cheval" distance="0.5482883702643931" />
+		<voisin nom="Croix de Pierre" distance="0.6031326481681287" />
+	</gare>
+	<gare nom="Aéroconstellation" coord="114, 23">
+		<voisin nom="Beauzelle" distance="0.8351371120242767" />
+	</gare>
+	<gare nom="Beauzelle" coord="178, 24">
+		<voisin nom="Aéroconstellation" distance="0.8351371120242767" />
+		<voisin nom="Andromède-Lycée" distance="0.7541182407254837" />
+	</gare>
+	<gare nom="Cartoucherie" coord="315, 443">
+		<voisin nom="Zénith" distance="0.7055303772050182" />
+		<voisin nom="Casselardit" distance="0.48321672986429864" />
+	</gare>
+	<gare nom="Casselardit" coord="315, 411">
+		<voisin nom="Purpan" distance="0.913303156775977" />
+		<voisin nom="Cartoucherie" distance="0.48321672986429864" />
+	</gare>
+	<gare nom="Croix de Pierre" coord="412, 493">
+		<voisin nom="Av. Muret" distance="0.6031326481681287" />
+		<voisin nom="Déodat de Séverac" distance="0.826089579560706" />
+	</gare>
+	<gare nom="Déodat de Séverac" coord="387, 494">
+		<voisin nom="Arènes" distance="0.5149152362579794" />
+		<voisin nom="Croix de Pierre" distance="0.826089579560706" />
+	</gare>
+	<gare nom="Fer à cheval" coord="460, 493">
+		<voisin nom="Av. Muret" distance="0.5482883702643931" />
+		<voisin nom="Ile du Ramier" distance="0.5613069185901525" />
+	</gare>
+	<gare nom="Grand Noble" coord="313, 64">
+		<voisin nom="Patinoire-Barradels" distance="0.7309560558962452" />
+		<voisin nom="Place Georges Brassens" distance="0.471122079745333" />
+	</gare>
+	<gare nom="Guyenne-Berry" coord="311, 240">
+		<voisin nom="Servanty-Airbus" distance="0.6302030911014836" />
+		<voisin nom="Pasteur-Mairie de Blagnac" distance="0.3904047009996645" />
+	</gare>
+	<gare nom="Ile du Ramier" coord="486, 492">
+		<voisin nom="Fer à cheval" distance="0.5613069185901525" />
+		<voisin nom="Palais de Justice" distance="0.40163779378768233" />
+	</gare>
+	<gare nom="Odyssud-Ritouret" coord="312, 138">
+		<voisin nom="Patinoire-Barradels" distance="0.562111489334503" />
+		<voisin nom="Place du Relais" distance="0.5298375798965527" />
+	</gare>
+	<gare nom="Palais de Justice" coord="513, 493">
+		<voisin nom="Ile du Ramier" distance="0.40163779378768233" />
+	</gare>
+	<gare nom="Pasteur-Mairie de Blagnac" coord="311, 205">
+		<voisin nom="Guyenne-Berry" distance="0.3904047009996645" />
+		<voisin nom="Place du Relais" distance="0.29514995050766263" />
+	</gare>
+	<gare nom="Patinoire-Barradels" coord="312, 98">
+		<voisin nom="Odyssud-Ritouret" distance="0.562111489334503" />
+		<voisin nom="Grand Noble" distance="0.7309560558962452" />
+	</gare>
+	<gare nom="Place Georges Brassens" coord="273, 25">
+		<voisin nom="Andromède-Lycée" distance="0.7331966329341013" />
+		<voisin nom="Grand Noble" distance="0.471122079745333" />
+	</gare>
+	<gare nom="Place du Relais" coord="312, 171">
+		<voisin nom="Pasteur-Mairie de Blagnac" distance="0.29514995050766263" />
+		<voisin nom="Odyssud-Ritouret" distance="0.5298375798965527" />
+	</gare>
+	<gare nom="Purpan" coord="315, 378">
+		<voisin nom="Arènes Romaines" distance="0.7011655860231134" />
+		<voisin nom="Casselardit" distance="0.913303156775977" />
+	</gare>
+	<gare nom="Servanty-Airbus" coord="312, 276">
+		<voisin nom="Ancely" distance="0.8947191177819891" />
+		<voisin nom="Guyenne-Berry" distance="0.6302030911014836" />
+	</gare>
+	<gare nom="Zénith" coord="315, 474">
+		<voisin nom="Arènes" distance="0.9988686992539428" />
+		<voisin nom="Cartoucherie" distance="0.7055303772050182" />
+	</gare>
+</ligne>

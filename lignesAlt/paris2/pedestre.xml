@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="SUZANNE LENGLEN,OPERA,ANVERS,BALARD,BOULOGNE-PONT DE SAINT CLOUD,CLUNY-LA-SORBONNE,SAINT-AUGUSTIN,HOPITAL ROBERT DEBRE,GARE DE L'EST,LA CHAPELLE,GARE DU NORD,PRE SAINT-GERVAIS,CHATEAU-LANDON,PARC DE SAINT-CLOUD,ABBESSES,CHATELET,LES COURTILLES,LES HALLES,MUSEE DE SEVRES,PONT DE SEVRES,SAINT-MICHEL,LES COURTILLES-ASNIERES-GENNEVILLIERS" couleur="c0c0c0">
+	<gare nom="ABBESSES" coord="1549, 699">
+		<voisin nom="ANVERS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="ANVERS" coord="1647, 741">
+		<voisin nom="ABBESSES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="AUBER" coord="1390, 1230">
+		<voisin nom="OPERA" distance="4.6096306961911235" />
+		<voisin nom="HAVRE-CAUMARTIN" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="BALARD" coord="775, 1992">
+		<voisin nom="SUZANNE LENGLEN" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="BOULOGNE-PONT DE SAINT CLOUD" coord="315, 1710">
+		<voisin nom="PARC DE SAINT-CLOUD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATEAU-LANDON" coord="1975, 1029">
+		<voisin nom="GARE DE L'EST" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATELET" coord="1665, 1529">
+		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATELET-LES HALLES" coord="1683, 1456">
+		<voisin nom="CHATELET" distance="4.6096306961911235" />
+		<voisin nom="LES HALLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CLUNY-LA-SORBONNE" coord="1545, 1808">
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE L'EST" coord="1915, 1035">
+		<voisin nom="CHATEAU-LANDON" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DU NORD" coord="1854, 894">
+		<voisin nom="LA CHAPELLE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HAVRE-CAUMARTIN" coord="1399, 1164">
+		<voisin nom="SAINT-LAZARE" distance="4.6096306961911235" />
+		<voisin nom="AUBER" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HOPITAL ROBERT DEBRE" coord="2465, 997">
+		<voisin nom="PRE SAINT-GERVAIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LA CHAPELLE" coord="1877, 801">
+		<voisin nom="GARE DU NORD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES COURTILLES" coord="959, 223">
+		<voisin nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" coord="974, 198">
+		<voisin nom="LES COURTILLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES HALLES" coord="1721, 1450">
+		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="MUSEE DE SEVRES" coord="296, 1890">
+		<voisin nom="PONT DE SEVRES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="OPERA" coord="1456, 1283">
+		<voisin nom="AUBER" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PARC DE SAINT-CLOUD" coord="241, 1710">
+		<voisin nom="BOULOGNE-PONT DE SAINT CLOUD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PONT DE SEVRES" coord="358, 1853">
+		<voisin nom="MUSEE DE SEVRES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PRE SAINT-GERVAIS" coord="2465, 1039">
+		<voisin nom="HOPITAL ROBERT DEBRE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-AUGUSTIN" coord="1298, 1159">
+		<voisin nom="SAINT-LAZARE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-LAZARE" coord="1304, 1088">
+		<voisin nom="SAINT-AUGUSTIN" distance="4.6096306961911235" />
+		<voisin nom="HAVRE-CAUMARTIN" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-MICHEL" coord="1559, 1731">
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-MICHEL NOTRE DAME" coord="1605, 1742">
+		<voisin nom="CLUNY-LA-SORBONNE" distance="4.6096306961911235" />
+		<voisin nom="SAINT-MICHEL" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SUZANNE LENGLEN" coord="739, 2014">
+		<voisin nom="BALARD" distance="4.6096306961911235" />
+	</gare>
+</ligne>

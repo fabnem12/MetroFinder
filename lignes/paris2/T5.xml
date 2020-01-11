@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="MARCHE DE SAINT-DENIS,GUYNEMER">
+	<gare nom="MARCHE DE SAINT-DENIS" coord="1776, 232">
+			<voisin nom ="BAUDELAIRE" distance ="0.0032013862986173757"/>
+		</gare>
+	<gare nom="BAUDELAIRE" coord="1814, 66">
+			<voisin nom ="ROGER SEMAT" distance ="0.0027076441151612524"/>
+			<voisin nom ="MARCHE DE SAINT-DENIS" distance ="0.0032013862986173757"/>
+		</gare>
+	<gare nom="ROGER SEMAT" coord="1466, 86">
+			<voisin nom ="GUYNEMER" distance ="0.0034196240943281265"/>
+			<voisin nom ="BAUDELAIRE" distance ="0.0027076441151612524"/>
+		</gare>
+	<gare nom="GUYNEMER" coord="1667, 82">
+			<voisin nom ="ROGER SEMAT" distance ="0.0034196240943281265"/>
+	</gare>
+</ligne>

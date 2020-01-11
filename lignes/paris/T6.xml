@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="CHATILLON-MONTROUGE,VIROFLAY RIVE DROITE">
+	<gare nom="CHATILLON-MONTROUGE" coord="836, 2481">
+			<voisin nom ="VAUBAN" distance ="0.007144165491520105"/>
+		</gare>
+	<gare nom="VAUBAN" coord="836, 2530">
+			<voisin nom ="CENTRE DE CHATILLON" distance ="0.005842238011447868"/>
+			<voisin nom ="CHATILLON-MONTROUGE" distance ="0.007144165491520105"/>
+		</gare>
+	<gare nom="CENTRE DE CHATILLON" coord="837, 2556">
+			<voisin nom ="PARC ANDRE MALRAUX" distance ="0.008314780331021308"/>
+			<voisin nom ="VAUBAN" distance ="0.005842238011447868"/>
+		</gare>
+	<gare nom="PARC ANDRE MALRAUX" coord="826, 2585">
+			<voisin nom ="DIVISION LECLERC" distance ="0.010764212632587256"/>
+			<voisin nom ="CENTRE DE CHATILLON" distance ="0.008314780331021308"/>
+		</gare>
+	<gare nom="DIVISION LECLERC" coord="809, 2603">
+			<voisin nom ="SOLEIL LEVANT" distance ="0.010142729153583224"/>
+			<voisin nom ="PARC ANDRE MALRAUX" distance ="0.010764212632587256"/>
+		</gare>
+	<gare nom="SOLEIL LEVANT" coord="774, 2616">
+			<voisin nom ="HOPITAL BECLERE" distance ="0.00959481121351631"/>
+			<voisin nom ="DIVISION LECLERC" distance ="0.010142729153583224"/>
+		</gare>
+	<gare nom="HOPITAL BECLERE" coord="733, 2615">
+			<voisin nom ="MAIL DE LA PLAINE" distance ="0.008111275157350547"/>
+			<voisin nom ="SOLEIL LEVANT" distance ="0.00959481121351631"/>
+		</gare>
+	<gare nom="MAIL DE LA PLAINE" coord="697, 2616">
+			<voisin nom ="PAVE BLANC" distance ="0.007733009796834736"/>
+			<voisin nom ="HOPITAL BECLERE" distance ="0.008111275157350547"/>
+		</gare>
+	<gare nom="PAVE BLANC" coord="664, 2616">
+			<voisin nom ="GEORGES POMPIDOU" distance ="0.004968417658520287"/>
+			<voisin nom ="MAIL DE LA PLAINE" distance ="0.007733009796834736"/>
+		</gare>
+	<gare nom="GEORGES POMPIDOU" coord="626, 2616">
+			<voisin nom ="GEORGES MILLANDY" distance ="0.006306768744435548"/>
+			<voisin nom ="PAVE BLANC" distance ="0.004968417658520287"/>
+		</gare>
+	<gare nom="GEORGES MILLANDY" coord="591, 2616">
+			<voisin nom ="MEUDON-LA-FORET" distance ="0.005703392643207853"/>
+			<voisin nom ="GEORGES POMPIDOU" distance ="0.006306768744435548"/>
+		</gare>
+	<gare nom="MEUDON-LA-FORET" coord="556, 2615">
+			<voisin nom ="VELIZY 2" distance ="0.0054614317324374285"/>
+			<voisin nom ="GEORGES MILLANDY" distance ="0.005703392643207853"/>
+		</gare>
+	<gare nom="VELIZY 2" coord="518, 2616">
+			<voisin nom ="DEWOITINE" distance ="0.005735969468210029"/>
+			<voisin nom ="MEUDON-LA-FORET" distance ="0.0054614317324374285"/>
+		</gare>
+	<gare nom="DEWOITINE" coord="484, 2616">
+			<voisin nom ="INOVEL PARC NORD" distance ="0.0057502233515186905"/>
+			<voisin nom ="VELIZY 2" distance ="0.005735969468210029"/>
+		</gare>
+	<gare nom="INOVEL PARC NORD" coord="447, 2615">
+			<voisin nom ="LOUVOIS" distance ="0.012691947648962133"/>
+			<voisin nom ="DEWOITINE" distance ="0.0057502233515186905"/>
+		</gare>
+	<gare nom="LOUVOIS" coord="412, 2617">
+			<voisin nom ="MAIRIE DE VELIZY" distance ="0.005109131794706597"/>
+			<voisin nom ="INOVEL PARC NORD" distance ="0.012691947648962133"/>
+		</gare>
+	<gare nom="MAIRIE DE VELIZY" coord="377, 2615">
+			<voisin nom ="L ONDE" distance ="0.011023140919571186"/>
+			<voisin nom ="LOUVOIS" distance ="0.005109131794706597"/>
+		</gare>
+	<gare nom="L ONDE" coord="341, 2616">
+			<voisin nom ="ROBERT WAGNER" distance ="0.003563729724094997"/>
+			<voisin nom ="MAIRIE DE VELIZY" distance ="0.011023140919571186"/>
+		</gare>
+	<gare nom="ROBERT WAGNER" coord="313, 2609">
+			<voisin nom ="VIROFLAY RIVE GAUCHE" distance ="0.017774357426810234"/>
+			<voisin nom ="L ONDE" distance ="0.003563729724094997"/>
+		</gare>
+	<gare nom="VIROFLAY RIVE GAUCHE" coord="293, 2585">
+			<voisin nom ="VIROFLAY RIVE DROITE" distance ="0.005000484780615886"/>
+			<voisin nom ="ROBERT WAGNER" distance ="0.017774357426810234"/>
+		</gare>
+	<gare nom="VIROFLAY RIVE DROITE" coord="235, 2493">
+			<voisin nom ="VIROFLAY RIVE GAUCHE" distance ="0.005000484780615886"/>
+	</gare>
+</ligne>

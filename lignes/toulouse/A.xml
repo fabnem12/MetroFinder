@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne nom ="A" terminus="BALMA-GRAMONT,BASSO-CAMBO">
+	<gare nom="BASSO-CAMBO" coord="114, 724">
+			<voisin nom ="BELLEFONTAINE" distance ="0.007045447578999126"/>
+		</gare>
+	<gare nom="BELLEFONTAINE" coord="178, 723">
+			<voisin nom ="REYNERIE" distance ="0.006066542829538286"/>
+			<voisin nom ="BASSO-CAMBO" distance ="0.007045447578999126"/>
+		</gare>
+	<gare nom="REYNERIE" coord="244, 724">
+			<voisin nom ="MIRAIL-UNIVERSITE" distance ="0.0037594222529031642"/>
+			<voisin nom ="BELLEFONTAINE" distance ="0.006066542829538286"/>
+		</gare>
+	<gare nom="MIRAIL-UNIVERSITE" coord="312, 724">
+			<voisin nom ="BAGATELLE" distance ="0.011585762769468507"/>
+			<voisin nom ="REYNERIE" distance ="0.0037594222529031642"/>
+		</gare>
+	<gare nom="BAGATELLE" coord="358, 679">
+			<voisin nom ="MERMOZ" distance ="0.00455364531142125"/>
+			<voisin nom ="MIRAIL-UNIVERSITE" distance ="0.011585762769468507"/>
+		</gare>
+	<gare nom="MERMOZ" coord="358, 625">
+			<voisin nom ="FONTAINE-LESTANG" distance ="0.005131724696134469"/>
+			<voisin nom ="BAGATELLE" distance ="0.00455364531142125"/>
+		</gare>
+	<gare nom="FONTAINE-LESTANG" coord="358, 571">
+			<voisin nom ="ARENES" distance ="0.0052863750977909674"/>
+			<voisin nom ="MERMOZ" distance ="0.005131724696134469"/>
+		</gare>
+	<gare nom="ARENES" coord="358, 496">
+			<voisin nom ="PATTE D'OIE" distance ="0.006245999876625061"/>
+			<voisin nom ="FONTAINE-LESTANG" distance ="0.0052863750977909674"/>
+		</gare>
+	<gare nom="PATTE D'OIE" coord="358, 448">
+			<voisin nom ="ST CYPRIEN-REPUBLIQUE" distance ="0.008330358173377217"/>
+			<voisin nom ="ARENES" distance ="0.006245999876625061"/>
+		</gare>
+	<gare nom="ST CYPRIEN-REPUBLIQUE" coord="359, 409">
+			<voisin nom ="ESQUIROL" distance ="0.012692341500500973"/>
+			<voisin nom ="PATTE D'OIE" distance ="0.008330358173377217"/>
+		</gare>
+	<gare nom="ESQUIROL" coord="407, 366">
+			<voisin nom ="CAPITOLE" distance ="0.004580254463884107"/>
+			<voisin nom ="ST CYPRIEN-REPUBLIQUE" distance ="0.012692341500500973"/>
+		</gare>
+	<gare nom="CAPITOLE" coord="458, 367">
+			<voisin nom ="JEAN JAURES" distance ="0.0038364969910540054"/>
+			<voisin nom ="ESQUIROL" distance ="0.004580254463884107"/>
+		</gare>
+	<gare nom="JEAN JAURES" coord="513, 367">
+			<voisin nom ="MARENGO-SNCF / Gare Matabiau" distance ="0.007825056873736785"/>
+			<voisin nom ="CAPITOLE" distance ="0.0038364969910540054"/>
+		</gare>
+	<gare nom="MARENGO-SNCF / Gare Matabiau" coord="615, 366">
+			<voisin nom ="JOLIMONT" distance ="0.009341372100494398"/>
+			<voisin nom ="JEAN JAURES" distance ="0.007825056873736785"/>
+		</gare>
+	<gare nom="JOLIMONT" coord="613, 281">
+			<voisin nom ="ROSERAIE" distance ="0.008211103614872426"/>
+			<voisin nom ="MARENGO-SNCF / Gare Matabiau" distance ="0.009341372100494398"/>
+		</gare>
+	<gare nom="ROSERAIE" coord="614, 222">
+			<voisin nom ="ARGOULETS" distance ="0.008099625356964263"/>
+			<voisin nom ="JOLIMONT" distance ="0.008211103614872426"/>
+		</gare>
+	<gare nom="ARGOULETS" coord="672, 173">
+			<voisin nom ="BALMA-GRAMONT" distance ="0.006855174347471049"/>
+			<voisin nom ="ROSERAIE" distance ="0.008099625356964263"/>
+		</gare>
+	<gare nom="BALMA-GRAMONT" coord="757, 173">
+			<voisin nom ="ARGOULETS" distance ="0.006855174347471049"/>
+		</gare>
+</ligne>

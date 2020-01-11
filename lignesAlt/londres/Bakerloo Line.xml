@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Elephant &amp; Castle,Harrow &amp; Wealdston" couleur="ab6612">
+	<gare nom="Baker Street" coord="673, 454">
+		<voisin nom="Marylebone" distance="0.668009704286698" />
+		<voisin nom="Regent's Park" distance="1.1722423186709146" />
+	</gare>
+	<gare nom="Charing Cross" coord="801, 625">
+		<voisin nom="Embankment" distance="0.27538918867265133" />
+		<voisin nom="Piccadilly Circus" distance="1.0763505915577596" />
+	</gare>
+	<gare nom="Edgware Road (B)" coord="572, 419">
+		<voisin nom="Marylebone" distance="0.6076855849414191" />
+		<voisin nom="Paddington" distance="0.9832089961205405" />
+	</gare>
+	<gare nom="Elephant &amp; Castle" coord="833, 822">
+		<voisin nom="Lambeth North" distance="1.3769457032062027" />
+	</gare>
+	<gare nom="Embankment" coord="814, 674">
+		<voisin nom="Waterloo" distance="0.9859158179872659" />
+		<voisin nom="Charing Cross" distance="0.27538918867265133" />
+	</gare>
+	<gare nom="Harlesden" coord="434, 304">
+		<voisin nom="Stonebridge Park" distance="2.220394745754203" />
+		<voisin nom="Willesden Junction" distance="1.1517654219597089" />
+	</gare>
+	<gare nom="Harrow &amp; Wealdston" coord="435, 158">
+		<voisin nom="Kenton" distance="2.4287457835654522" />
+	</gare>
+	<gare nom="Kensal Green" coord="434, 346">
+		<voisin nom="Willesden Junction" distance="2.5498723065708906" />
+		<voisin nom="Queen's Park" distance="2.2970145250163236" />
+	</gare>
+	<gare nom="Kenton" coord="435, 182">
+		<voisin nom="Harrow &amp; Wealdston" distance="2.4287457835654522" />
+		<voisin nom="South Kenton" distance="1.5658346725301304" />
+	</gare>
+	<gare nom="Kilburn Park" coord="436, 388">
+		<voisin nom="Queen's Park" distance="1.2073931160323024" />
+		<voisin nom="Maida Vale" distance="1.1034660076962493" />
+	</gare>
+	<gare nom="Lambeth North" coord="815, 781">
+		<voisin nom="Elephant &amp; Castle" distance="1.3769457032062027" />
+		<voisin nom="Waterloo" distance="0.5899924678379523" />
+	</gare>
+	<gare nom="Maida Vale" coord="449, 401">
+		<voisin nom="Kilburn Park" distance="1.1034660076962493" />
+		<voisin nom="Warwick Avenue" distance="0.7538521179180248" />
+	</gare>
+	<gare nom="Marylebone" coord="619, 421">
+		<voisin nom="Baker Street" distance="0.668009704286698" />
+		<voisin nom="Edgware Road (B)" distance="0.6076855849414191" />
+	</gare>
+	<gare nom="North Wembley" coord="435, 252">
+		<voisin nom="Wembley Central" distance="1.3834426490564529" />
+		<voisin nom="South Kenton" distance="1.0328635874782492" />
+	</gare>
+	<gare nom="Oxford Circus" coord="723, 531">
+		<voisin nom="Regent's Park" distance="1.0939345131021554" />
+		<voisin nom="Piccadilly Circus" distance="0.9977222793794863" />
+	</gare>
+	<gare nom="Paddington" coord="515, 421">
+		<voisin nom="Edgware Road (B)" distance="0.9832089961205405" />
+		<voisin nom="Warwick Avenue" distance="1.2673290408408526" />
+	</gare>
+	<gare nom="Piccadilly Circus" coord="759, 583">
+		<voisin nom="Charing Cross" distance="1.0763505915577596" />
+		<voisin nom="Oxford Circus" distance="0.9977222793794863" />
+	</gare>
+	<gare nom="Queen's Park" coord="434, 364">
+		<voisin nom="Kilburn Park" distance="1.2073931160323024" />
+		<voisin nom="Kensal Green" distance="2.2970145250163236" />
+	</gare>
+	<gare nom="Regent's Park" coord="702, 481">
+		<voisin nom="Oxford Circus" distance="1.0939345131021554" />
+		<voisin nom="Baker Street" distance="1.1722423186709146" />
+	</gare>
+	<gare nom="South Kenton" coord="435, 231">
+		<voisin nom="North Wembley" distance="1.0328635874782492" />
+		<voisin nom="Kenton" distance="1.5658346725301304" />
+	</gare>
+	<gare nom="Stonebridge Park" coord="434, 287">
+		<voisin nom="Harlesden" distance="2.220394745754203" />
+		<voisin nom="Wembley Central" distance="2.4392902384000523" />
+	</gare>
+	<gare nom="Warwick Avenue" coord="463, 414">
+		<voisin nom="Paddington" distance="1.2673290408408526" />
+		<voisin nom="Maida Vale" distance="0.7538521179180248" />
+	</gare>
+	<gare nom="Waterloo" coord="813, 705">
+		<voisin nom="Lambeth North" distance="0.5899924678379523" />
+		<voisin nom="Embankment" distance="0.9859158179872659" />
+	</gare>
+	<gare nom="Wembley Central" coord="435, 268">
+		<voisin nom="Stonebridge Park" distance="2.4392902384000523" />
+		<voisin nom="North Wembley" distance="1.3834426490564529" />
+	</gare>
+	<gare nom="Willesden Junction" coord="434, 328">
+		<voisin nom="Harlesden" distance="1.1517654219597089" />
+		<voisin nom="Kensal Green" distance="2.5498723065708906" />
+	</gare>
+</ligne>

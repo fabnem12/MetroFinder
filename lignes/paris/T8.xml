@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="SAINT-DENIS-PORTE DE PARIS,EPINAY-ORGEMONT">
+	<gare nom="SAINT-DENIS-PORTE DE PARIS" coord="1427, 362">
+			<voisin nom ="PIERRE DE GEYTER" distance ="0.005105476092680507"/>
+		</gare>
+	<gare nom="PIERRE DE GEYTER" coord="1383, 323">
+			<voisin nom ="GARE DE SAINT-DENIS" distance ="0.005809765481399056"/>
+			<voisin nom ="SAINT-DENIS-PORTE DE PARIS" distance ="0.005105476092680507"/>
+		</gare>
+	<gare nom="GARE DE SAINT-DENIS" coord="1363, 281">
+			<voisin nom ="PAUL ELUARD" distance ="0.005158252255499532"/>
+			<voisin nom ="PIERRE DE GEYTER" distance ="0.005809765481399056"/>
+		</gare>
+	<gare nom="PAUL ELUARD" coord="1365, 246">
+			<voisin nom ="DELAUNAY-BELLEVILLE" distance ="0.0062331765811614115"/>
+			<voisin nom ="GARE DE SAINT-DENIS" distance ="0.005158252255499532"/>
+		</gare>
+	<gare nom="DELAUNAY-BELLEVILLE" coord="1363, 215">
+			<voisin nom ="BLUMENTHAL" distance ="0.008438095384373965"/>
+			<voisin nom ="PAUL ELUARD" distance ="0.0062331765811614115"/>
+		</gare>
+	<gare nom="BLUMENTHAL" coord="1260, 202">
+			<voisin nom ="LES MOBILES" distance ="0.010565696200426968"/>
+			<voisin nom ="DELAUNAY-BELLEVILLE" distance ="0.008438095384373965"/>
+		</gare>
+	<gare nom="LES MOBILES" coord="1219, 200">
+			<voisin nom ="LES BEATUS" distance ="0.008795796159108277"/>
+			<voisin nom ="BLUMENTHAL" distance ="0.010565696200426968"/>
+		</gare>
+	<gare nom="LES BEATUS" coord="1172, 203">
+			<voisin nom ="ROSE BERTIN" distance ="0.005029327118501364"/>
+			<voisin nom ="LES MOBILES" distance ="0.008795796159108277"/>
+		</gare>
+	<gare nom="ROSE BERTIN" coord="1126, 202">
+			<voisin nom ="LACEPEDE" distance ="0.004729709081419874"/>
+			<voisin nom ="LES BEATUS" distance ="0.005029327118501364"/>
+		</gare>
+	<gare nom="LACEPEDE" coord="1086, 198">
+			<voisin nom ="GILBERT BONNEMAISON" distance ="0.003680072515585168"/>
+			<voisin nom ="ROSE BERTIN" distance ="0.004729709081419874"/>
+		</gare>
+	<gare nom="GILBERT BONNEMAISON" coord="1042, 201">
+			<voisin nom ="EPINAY-SUR-SEINE" distance ="0.005664368336560176"/>
+			<voisin nom ="LACEPEDE" distance ="0.003680072515585168"/>
+		</gare>
+	<gare nom="EPINAY-SUR-SEINE" coord="975, 199">
+			<voisin nom ="EPINAY-ORGEMONT" distance ="0.0066396847092594444"/>
+			<voisin nom ="GILBERT BONNEMAISON" distance ="0.005664368336560176"/>
+		</gare>
+	<gare nom="EPINAY-ORGEMONT" coord="896, 199">
+			<voisin nom ="EPINAY-SUR-SEINE" distance ="0.0066396847092594444"/>
+		</gare>
+</ligne>

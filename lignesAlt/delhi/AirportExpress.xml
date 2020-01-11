@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="New Delhi-Airport Express,Dwarka Sec-21-Airport" couleur="f7943a">
+	<gare nom="Delhi Aero City" coord="1489, 1812">
+		<voisin nom="IGI Airport" distance="2.3282666883113703" />
+		<voisin nom="Dhaula Kuan" distance="6.215381794426411" />
+	</gare>
+	<gare nom="Dhaula Kuan" coord="1692, 1684">
+		<voisin nom="Shivaji Stadium" distance="6.36483241023227" />
+		<voisin nom="Delhi Aero City" distance="6.215381794426411" />
+	</gare>
+	<gare nom="Dwarka Sec-21-Airport" coord="899, 1881">
+		<voisin nom="IGI Airport" distance="5.608656661961134" />
+	</gare>
+	<gare nom="IGI Airport" coord="1301, 1812">
+		<voisin nom="Dwarka Sec-21-Airport" distance="5.608656661961134" />
+		<voisin nom="Delhi Aero City" distance="2.3282666883113703" />
+	</gare>
+	<gare nom="New Delhi-Airport Express" coord="2353, 1145">
+		<voisin nom="Shivaji Stadium" distance="1.7986727678895569" />
+	</gare>
+	<gare nom="Shivaji Stadium" coord="2119, 1256">
+		<voisin nom="New Delhi-Airport Express" distance="1.7986727678895569" />
+		<voisin nom="Dhaula Kuan" distance="6.36483241023227" />
+	</gare>
+</ligne>

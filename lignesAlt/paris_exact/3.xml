@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="PONT DE LEVALLOIS-BECON,GALLIENI (PARC DE BAGNOLET)" couleur="837902">
+	<gare nom="ANATOLE FRANCE" coord="2.28500950275, 48.892082786">
+		<voisin nom="PONT DE LEVALLOIS-BECON" distance="0.7435523637338987" />
+		<voisin nom="LOUISE MICHEL" distance="0.4380953585072646" />
+	</gare>
+	<gare nom="ARTS ET METIERS" coord="2.35673675681, 48.8655864776">
+		<voisin nom="TEMPLE" distance="0.3724058367207063" />
+		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.31778567340933195" />
+	</gare>
+	<gare nom="BOURSE" coord="2.34072072367, 48.8686959778">
+		<voisin nom="QUATRE SEPTEMBRE" distance="0.3441876809290667" />
+		<voisin nom="SENTIER" distance="0.5209906673908092" />
+	</gare>
+	<gare nom="EUROPE" coord="2.32226521312, 48.8787703685">
+		<voisin nom="SAINT-LAZARE" distance="0.28124300972264177" />
+		<voisin nom="VILLIERS" distance="0.5826435476739376" />
+	</gare>
+	<gare nom="GALLIENI (PARC DE BAGNOLET)" coord="2.41669727286, 48.8653353173">
+		<voisin nom="PORTE DE BAGNOLET" distance="0.6136151098955102" />
+	</gare>
+	<gare nom="GAMBETTA" coord="2.39898444025, 48.8649166851">
+		<voisin nom="PORTE DE BAGNOLET" distance="0.7398343061130449" />
+		<voisin nom="PERE LACHAISE" distance="0.9800277092008289" />
+	</gare>
+	<gare nom="HAVRE-CAUMARTIN" coord="2.32754308036, 48.8735133896">
+		<voisin nom="SAINT-LAZARE" distance="0.42315539730018503" />
+		<voisin nom="OPERA" distance="0.49027980771069957" />
+	</gare>
+	<gare nom="LOUISE MICHEL" coord="2.28808363305, 48.8887060198">
+		<voisin nom="PORTE DE CHAMPERRET" distance="0.46214731897291506" />
+		<voisin nom="ANATOLE FRANCE" distance="0.4380953585072646" />
+	</gare>
+	<gare nom="MALESHERBES METRO" coord="2.30905226455, 48.8828919175">
+		<voisin nom="WAGRAM" distance="0.3363448039636581" />
+		<voisin nom="VILLIERS" distance="0.4884699387508723" />
+	</gare>
+	<gare nom="OPERA" coord="2.33240740643, 48.8704867033">
+		<voisin nom="QUATRE SEPTEMBRE" distance="0.2965766046076591" />
+		<voisin nom="HAVRE-CAUMARTIN" distance="0.49027980771069957" />
+	</gare>
+	<gare nom="PARMENTIER" coord="2.37458197, 48.8652537861">
+		<voisin nom="SAINT-MAUR" distance="0.47338240172904283" />
+		<voisin nom="REPUBLIQUE" distance="0.7820540248548752" />
+	</gare>
+	<gare nom="PERE LACHAISE" coord="2.38588244933, 48.8631232146">
+		<voisin nom="SAINT-MAUR" distance="0.3874809623475395" />
+		<voisin nom="GAMBETTA" distance="0.9800277092008289" />
+	</gare>
+	<gare nom="PEREIRE-LEVALLOIS" coord="2.29803330321, 48.8854042809">
+		<voisin nom="PORTE DE CHAMPERRET" distance="0.4013518865493212" />
+		<voisin nom="WAGRAM" distance="0.5175521258572253" />
+	</gare>
+	<gare nom="PONT DE LEVALLOIS-BECON" coord="2.27980958669, 48.8978210671">
+		<voisin nom="ANATOLE FRANCE" distance="0.7435523637338987" />
+	</gare>
+	<gare nom="PORTE DE BAGNOLET" coord="2.40883246514, 48.863433742">
+		<voisin nom="GALLIENI (PARC DE BAGNOLET)" distance="0.6136151098955102" />
+		<voisin nom="GAMBETTA" distance="0.7398343061130449" />
+	</gare>
+	<gare nom="PORTE DE CHAMPERRET" coord="2.2925823141, 48.8857931052">
+		<voisin nom="LOUISE MICHEL" distance="0.46214731897291506" />
+		<voisin nom="PEREIRE-LEVALLOIS" distance="0.4013518865493212" />
+	</gare>
+	<gare nom="QUATRE SEPTEMBRE" coord="2.33621884752, 48.8695852435">
+		<voisin nom="BOURSE" distance="0.3441876809290667" />
+		<voisin nom="OPERA" distance="0.2965766046076591" />
+	</gare>
+	<gare nom="REAUMUR-SEBASTOPOL" coord="2.35245974411, 48.8660696891">
+		<voisin nom="ARTS ET METIERS" distance="0.31778567340933195" />
+		<voisin nom="SENTIER" distance="0.38741825993775686" />
+	</gare>
+	<gare nom="REPUBLIQUE" coord="2.36424799375, 48.8670267876">
+		<voisin nom="PARMENTIER" distance="0.7820540248548752" />
+		<voisin nom="TEMPLE" distance="0.20185454275879605" />
+	</gare>
+	<gare nom="SAINT-LAZARE" coord="2.32473804682, 48.8768369549">
+		<voisin nom="EUROPE" distance="0.28124300972264177" />
+		<voisin nom="HAVRE-CAUMARTIN" distance="0.42315539730018503" />
+	</gare>
+	<gare nom="SAINT-MAUR" coord="2.38079798618, 48.8640865748">
+		<voisin nom="PARMENTIER" distance="0.47338240172904283" />
+		<voisin nom="PERE LACHAISE" distance="0.3874809623475395" />
+	</gare>
+	<gare nom="SENTIER" coord="2.34751621328, 48.867309475">
+		<voisin nom="BOURSE" distance="0.5209906673908092" />
+		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.38741825993775686" />
+	</gare>
+	<gare nom="TEMPLE" coord="2.36154153207, 48.8666826802">
+		<voisin nom="ARTS ET METIERS" distance="0.3724058367207063" />
+		<voisin nom="REPUBLIQUE" distance="0.20185454275879605" />
+	</gare>
+	<gare nom="VILLIERS" coord="2.31517662622, 48.8811500285">
+		<voisin nom="EUROPE" distance="0.5826435476739376" />
+		<voisin nom="MALESHERBES METRO" distance="0.4884699387508723" />
+	</gare>
+	<gare nom="WAGRAM" coord="2.30467444053, 48.8838092012">
+		<voisin nom="MALESHERBES METRO" distance="0.3363448039636581" />
+		<voisin nom="PEREIRE-LEVALLOIS" distance="0.5175521258572253" />
+	</gare>
+</ligne>

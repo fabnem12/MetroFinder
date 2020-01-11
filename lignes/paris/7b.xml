@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="LOUIS BLANC">
+	<gare nom="LOUIS BLANC" coord="1886, 916">
+			<voisin nom ="JAURES" distance ="0.005051750850682645"/>
+		</gare>
+	<gare nom="JAURES" coord="1971, 894">
+			<voisin nom ="BOLIVAR" distance ="0.004314665416988541"/>
+			<voisin nom ="LOUIS BLANC" distance ="0.005051750850682645"/>
+		</gare>
+	<gare nom="BOLIVAR" coord="2028, 946">
+			<voisin nom ="BUTTES-CHAUMONT" distance ="0.007815649062734306"/>
+			<voisin nom ="JAURES" distance ="0.004314665416988541"/>
+		</gare>
+	<gare nom="BUTTES-CHAUMONT" coord="2131, 965">
+			<voisin nom ="BOTZARIS" distance ="0.007563451383552976"/>
+			<voisin nom ="BOLIVAR" distance ="0.007815649062734306"/>
+		</gare>
+	<gare nom="BOTZARIS" coord="2180, 966">
+			<voisin nom ="PLACE DES FETES" distance ="0.0047627225281773045"/>
+			<voisin nom ="BUTTES-CHAUMONT" distance ="0.007563451383552976"/>
+		</gare>
+	<gare nom="PLACE DES FETES" coord="2267, 1038">
+			<voisin nom ="PRE SAINT-GERVAIS" distance ="0.006698590174278347"/>
+		</gare>
+	<gare nom="PRE SAINT-GERVAIS" coord="2341, 955">
+			<voisin nom ="DANUBE" distance ="0.005831994017116662"/>
+		</gare>
+	<gare nom="DANUBE" coord="2267, 899">
+			<voisin nom ="BOTZARIS" distance ="0.004974884198367149"/>
+		</gare>
+</ligne>

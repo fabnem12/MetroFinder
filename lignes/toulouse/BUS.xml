@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne nom ="BUS" terminus="Aéroport,COMPANS-CAFFARELLI">
+	<gare nom="Aéroport" coord="115, 310">
+			<voisin nom ="Pont du Béarnais" distance ="0.05379739160177915"/>
+		</gare>
+	<gare nom="Pont du Béarnais" coord="467, 223">
+			<voisin nom ="COMPANS-CAFFARELLI" distance ="0.011040415501838818"/>
+			<voisin nom ="Aéroport" distance ="0.05379739160177915"/>
+		</gare>
+	<gare nom="COMPANS-CAFFARELLI" coord="514, 254">
+			<voisin nom ="Pont du Béarnais" distance ="0.011040415501838818"/>
+		</gare>
+</ligne>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="SAINT-DENIS-UNIVERSITE,AUSTERLITZ,PARC DE SAINT-CLOUD,BIBLIOTHEQUE FRANCOIS MITTERRAND,GARE DE LYON,CHATELET,LES COURTILLES,MAGENTA,SAINT-MICHEL,BOULOGNE-PONT DE SAINT CLOUD,ANVERS,LES COURTILLES-ASNIERES-GENNEVILLIERS,CHATEAU-LANDON,AVENUE DE FRANCE,GARE DE L'EST,GUYNEMER,SAINT-AUGUSTIN,ELLA FITZGERALD,PANTIN,LA CHAPELLE,PONT DE SEVRES,PRE SAINT-GERVAIS,OPERA,HOPITAL ROBERT DEBRE,MARCHE DE SAINT-DENIS,CLUNY-LA-SORBONNE,ABBESSES,BASILIQUE DE SAINT-DENIS,MUSEE DE SEVRES,LES HALLES" couleur="c0c0c0">
+	<gare nom="ABBESSES" coord="1373, 770">
+		<voisin nom="ANVERS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="ANVERS" coord="1479, 829">
+		<voisin nom="ABBESSES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="AUBER" coord="1132, 1259">
+		<voisin nom="HAVRE-CAUMARTIN" distance="4.6096306961911235" />
+		<voisin nom="OPERA" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="AUSTERLITZ" coord="1807, 1916">
+		<voisin nom="GARE DE LYON" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="AVENUE DE FRANCE" coord="2046, 2201">
+		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="BASILIQUE DE SAINT-DENIS" coord="1643, 277">
+		<voisin nom="MARCHE DE SAINT-DENIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" coord="2050, 2159">
+		<voisin nom="AVENUE DE FRANCE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="BOULOGNE-PONT DE SAINT CLOUD" coord="199, 2058">
+		<voisin nom="PARC DE SAINT-CLOUD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATEAU-LANDON" coord="1834, 959">
+		<voisin nom="GARE DE L'EST" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATELET" coord="1480, 1474">
+		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CHATELET-LES HALLES" coord="1505, 1440">
+		<voisin nom="CHATELET" distance="4.6096306961911235" />
+		<voisin nom="LES HALLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="CLUNY-LA-SORBONNE" coord="1452, 1720">
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="ELLA FITZGERALD" coord="2216, 641">
+		<voisin nom="PANTIN" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE L'EST" coord="1745, 1001">
+		<voisin nom="CHATEAU-LANDON" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DE LYON" coord="1907, 1855">
+		<voisin nom="AUSTERLITZ" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GARE DU NORD" coord="1727, 892">
+		<voisin nom="MAGENTA" distance="4.6096306961911235" />
+		<voisin nom="LA CHAPELLE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="GUYNEMER" coord="1594, 183">
+		<voisin nom="SAINT-DENIS-UNIVERSITE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HAUSSMANN-SAINT-LAZARE" coord="1132, 1106">
+		<voisin nom="HAVRE-CAUMARTIN" distance="4.6096306961911235" />
+		<voisin nom="SAINT-LAZARE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HAVRE-CAUMARTIN" coord="1133, 1188">
+		<voisin nom="AUBER" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="HOPITAL ROBERT DEBRE" coord="2376, 938">
+		<voisin nom="PRE SAINT-GERVAIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LA CHAPELLE" coord="1741, 829">
+		<voisin nom="GARE DU NORD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES COURTILLES" coord="684, 292">
+		<voisin nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" coord="666, 292">
+		<voisin nom="LES COURTILLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="LES HALLES" coord="1480, 1421">
+		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="MAGENTA" coord="1767, 903">
+		<voisin nom="GARE DU NORD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="MARCHE DE SAINT-DENIS" coord="1533, 276">
+		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="MUSEE DE SEVRES" coord="187, 2340">
+		<voisin nom="PONT DE SEVRES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="OPERA" coord="1188, 1243">
+		<voisin nom="AUBER" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PANTIN" coord="2217, 608">
+		<voisin nom="ELLA FITZGERALD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PARC DE SAINT-CLOUD" coord="120, 2103">
+		<voisin nom="BOULOGNE-PONT DE SAINT CLOUD" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PONT DE SEVRES" coord="247, 2275">
+		<voisin nom="MUSEE DE SEVRES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PRE SAINT-GERVAIS" coord="2341, 954">
+		<voisin nom="HOPITAL ROBERT DEBRE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-AUGUSTIN" coord="1029, 1148">
+		<voisin nom="SAINT-LAZARE" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-DENIS-UNIVERSITE" coord="1678, 241">
+		<voisin nom="GUYNEMER" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-LAZARE" coord="1091, 1091">
+		<voisin nom="SAINT-AUGUSTIN" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-MICHEL" coord="1400, 1660">
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="SAINT-MICHEL NOTRE DAME" coord="1428, 1642">
+		<voisin nom="SAINT-MICHEL" distance="4.6096306961911235" />
+		<voisin nom="CLUNY-LA-SORBONNE" distance="4.6096306961911235" />
+	</gare>
+</ligne>

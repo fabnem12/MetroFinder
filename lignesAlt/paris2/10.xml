@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="AUSTERLITZ,BOULOGNE-PONT DE SAINT CLOUD" couleur="c9910d">
+	<gare nom="AUSTERLITZ" coord="1769, 1963">
+		<voisin nom="JUSSIEU" distance="1.2379192490569055" />
+	</gare>
+	<gare nom="AVENUE EMILE ZOLA" coord="884, 1710">
+		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.41239962859136053" />
+		<voisin nom="CHARLES MICHELS" distance="1.050155498222349" />
+	</gare>
+	<gare nom="BOULOGNE-JEAN JAURES" coord="394, 1710">
+		<voisin nom="MICHEL-ANGE-MOLITOR" distance="2.55654376833224" />
+		<voisin nom="BOULOGNE-PONT DE SAINT CLOUD" distance="1.1606926854735364" />
+	</gare>
+	<gare nom="BOULOGNE-PONT DE SAINT CLOUD" coord="316, 1710">
+		<voisin nom="BOULOGNE-JEAN JAURES" distance="1.1606926854735364" />
+	</gare>
+	<gare nom="CARDINAL-LEMOINE" coord="1664, 1874">
+		<voisin nom="JUSSIEU" distance="0.3710557379976225" />
+		<voisin nom="MAUBERT-MUTUALITE" distance="0.5539355568248165" />
+	</gare>
+	<gare nom="CHARDON-LAGACHE" coord="619, 1708">
+		<voisin nom="MIRABEAU" distance="0.7356792831624194" />
+	</gare>
+	<gare nom="CHARLES MICHELS" coord="829, 1678">
+		<voisin nom="JAVEL" distance="0.9236902886090747" />
+		<voisin nom="AVENUE EMILE ZOLA" distance="1.050155498222349" />
+	</gare>
+	<gare nom="CLUNY-LA-SORBONNE" coord="1545, 1808">
+		<voisin nom="ODEON" distance="0.5298477406812769" />
+		<voisin nom="MAUBERT-MUTUALITE" distance="0.4332312414465248" />
+	</gare>
+	<gare nom="DUROC" coord="1133, 1790">
+		<voisin nom="VANEAU" distance="0.5727145806823628" />
+		<voisin nom="SEGUR" distance="1.004337995454423" />
+	</gare>
+	<gare nom="EGLISE D'AUTEUIL" coord="629, 1638">
+		<voisin nom="MICHEL-ANGE-AUTEUIL" distance="0.5542850235538179" />
+	</gare>
+	<gare nom="JAVEL" coord="785, 1655">
+		<voisin nom="EGLISE D'AUTEUIL" distance="0.9614635034190713" />
+		<voisin nom="CHARLES MICHELS" distance="0.9236902886090747" />
+	</gare>
+	<gare nom="JUSSIEU" coord="1723, 1912">
+		<voisin nom="AUSTERLITZ" distance="1.2379192490569055" />
+		<voisin nom="CARDINAL-LEMOINE" distance="0.3710557379976225" />
+	</gare>
+	<gare nom="LA MOTTE-PICQUET-GRENELLE" coord="920, 1730">
+		<voisin nom="SEGUR" distance="1.0444795235293522" />
+		<voisin nom="AVENUE EMILE ZOLA" distance="0.41239962859136053" />
+	</gare>
+	<gare nom="MABILLON" coord="1456, 1789">
+		<voisin nom="ODEON" distance="0.47091620094277065" />
+		<voisin nom="SEVRES-BABYLONE" distance="0.976222757801733" />
+	</gare>
+	<gare nom="MAUBERT-MUTUALITE" coord="1591, 1832">
+		<voisin nom="CARDINAL-LEMOINE" distance="0.5539355568248165" />
+		<voisin nom="CLUNY-LA-SORBONNE" distance="0.4332312414465248" />
+	</gare>
+	<gare nom="MICHEL-ANGE-AUTEUIL" coord="531, 1638">
+		<voisin nom="PORTE D'AUTEUIL" distance="0.7207047304941147" />
+	</gare>
+	<gare nom="MICHEL-ANGE-MOLITOR" coord="510, 1710">
+		<voisin nom="CHARDON-LAGACHE" distance="0.5363641341471743" />
+	</gare>
+	<gare nom="MIRABEAU" coord="660, 1670">
+		<voisin nom="JAVEL" distance="0.5620885655623871" />
+	</gare>
+	<gare nom="ODEON" coord="1496, 1793">
+		<voisin nom="MABILLON" distance="0.47091620094277065" />
+		<voisin nom="CLUNY-LA-SORBONNE" distance="0.5298477406812769" />
+	</gare>
+	<gare nom="PORTE D'AUTEUIL" coord="462, 1675">
+		<voisin nom="BOULOGNE-JEAN JAURES" distance="2.2015958862330205" />
+	</gare>
+	<gare nom="SEGUR" coord="1031, 1784">
+		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="1.0444795235293522" />
+		<voisin nom="DUROC" distance="1.004337995454423" />
+	</gare>
+	<gare nom="SEVRES-BABYLONE" coord="1285, 1789">
+		<voisin nom="MABILLON" distance="0.976222757801733" />
+		<voisin nom="VANEAU" distance="0.70077114168089" />
+	</gare>
+	<gare nom="VANEAU" coord="1211, 1789">
+		<voisin nom="SEVRES-BABYLONE" distance="0.70077114168089" />
+		<voisin nom="DUROC" distance="0.5727145806823628" />
+	</gare>
+</ligne>

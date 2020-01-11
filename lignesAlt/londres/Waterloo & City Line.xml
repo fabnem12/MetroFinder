@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Bank,Waterloo" couleur="89cbc1">
+	<gare nom="Bank" coord="960, 561">
+		<voisin nom="Waterloo" distance="3.0579034632315167" />
+	</gare>
+	<gare nom="Waterloo" coord="814, 706">
+		<voisin nom="Bank" distance="3.0579034632315167" />
+	</gare>
+</ligne>

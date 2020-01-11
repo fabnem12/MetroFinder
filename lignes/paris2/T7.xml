@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="VILLEJUIF-LOUIS ARAGON,AEROPORT D ORLY - TERMINAL SUD">
+	<gare nom="VILLEJUIF-LOUIS ARAGON" coord="1686, 2612">
+			<voisin nom ="FRATERNELLE" distance ="0.047712421552027276"/>
+		</gare>
+	<gare nom="FRATERNELLE" coord="1653, 2708">
+			<voisin nom ="AEROPORT D ORLY - TERMINAL SUD" distance ="0.019676574952451405"/>
+			<voisin nom ="VILLEJUIF-LOUIS ARAGON" distance ="0.047712421552027276"/>
+		</gare>
+	<gare nom="AEROPORT D ORLY - TERMINAL SUD" coord="1629, 2762">
+			<voisin nom ="FRATERNELLE" distance ="0.019676574952451405"/>
+	</gare>
+</ligne>

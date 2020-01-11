@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="Arènes,ARENES,PALAIS DE JUSTICE,Palais de Justice" couleur="c0c0c0">
+	<gare nom="ARENES" coord="358, 496">
+		<voisin nom="Arènes" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Arènes" coord="358, 496">
+		<voisin nom="ARENES" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="PALAIS DE JUSTICE" coord="513, 493">
+		<voisin nom="Palais de Justice" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Palais de Justice" coord="513, 493">
+		<voisin nom="PALAIS DE JUSTICE" distance="4.6096306961911235" />
+	</gare>
+</ligne>

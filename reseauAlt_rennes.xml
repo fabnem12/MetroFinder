@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<gare nom="Anatole France" coord="416, 341">
+		<voisin nom="Sainte Anne" distance="0.8857739913279462" lignes="a" />
+		<voisin nom="Pontchaillou" distance="0.7494734489368091" lignes="a" />
+	</gare>
+	<gare nom="Atalante" coord="1059, 195">
+		<voisin nom="Beaulieu Université" distance="1.355214878491686" lignes="b" />
+		<voisin nom="Cesson Viasilva" distance="1.0096878477607807" lignes="b" />
+	</gare>
+	<gare nom="Beaulieu Université" coord="936, 277">
+		<voisin nom="Irène Joliot-Curie" distance="1.3963105806243994" lignes="b" />
+		<voisin nom="Atalante" distance="1.355214878491686" lignes="b" />
+	</gare>
+	<gare nom="Cesson Viasilva" coord="1166, 101">
+		<voisin nom="Atalante" distance="1.0096878477607807" lignes="b" />
+	</gare>
+	<gare nom="Charles de Gaulle" coord="531, 546">
+		<voisin nom="République" distance="0.5453759634639991" lignes="a" />
+		<voisin nom="Gares" distance="0.5409078178020733" lignes="a" />
+	</gare>
+	<gare nom="Clemenceau" coord="558, 740">
+		<voisin nom="Jacques Cartier" distance="0.46650175918911085" lignes="a" />
+		<voisin nom="Henri Fréville" distance="0.6469618011467188" lignes="a" />
+	</gare>
+	<gare nom="Cleunay" coord="212, 620">
+		<voisin nom="La Courrouze" distance="1.0214001532392365" lignes="b" />
+		<voisin nom="Mabilais" distance="1.5964911407177635" lignes="b" />
+	</gare>
+	<gare nom="Colombier" coord="477, 539">
+		<voisin nom="Mabilais" distance="1.1721806331434952" lignes="b" />
+		<voisin nom="Gares" distance="1.1263029023801276" lignes="b" />
+	</gare>
+	<gare nom="Gares" coord="580, 561|581, 574">
+		<voisin nom="Saint Germain" distance="0.876574984668703" lignes="b" />
+		<voisin nom="Colombier" distance="1.1263029023801276" lignes="b" />
+		<voisin nom="Charles de Gaulle" distance="0.5409078178020733" lignes="a" />
+		<voisin nom="Jacques Cartier" distance="0.7871026265506852" lignes="a" />
+	</gare>
+	<gare nom="Gros Chêne" coord="666, 227">
+		<voisin nom="Jules Ferry" distance="1.0020485161324915" lignes="b" />
+		<voisin nom="Les Gayeulles" distance="0.930454055875357" lignes="b" />
+	</gare>
+	<gare nom="Henri Fréville" coord="553, 835">
+		<voisin nom="Italie" distance="0.779817639540029" lignes="a" />
+		<voisin nom="Clemenceau" distance="0.6469618011467188" lignes="a" />
+	</gare>
+	<gare nom="Irène Joliot-Curie" coord="807, 245">
+		<voisin nom="Beaulieu Université" distance="1.3963105806243994" lignes="b" />
+		<voisin nom="Les Gayeulles" distance="0.8729357206892955" lignes="b" />
+	</gare>
+	<gare nom="Italie" coord="628, 852">
+		<voisin nom="Triangle" distance="0.8395182921516134" lignes="a" />
+		<voisin nom="Henri Fréville" distance="0.779817639540029" lignes="a" />
+	</gare>
+	<gare nom="J.F. Kennedy" coord="159, 290">
+		<voisin nom="Villejean-Université" distance="0.8161768267118216" lignes="a" />
+	</gare>
+	<gare nom="Jacques Cartier" coord="547, 675">
+		<voisin nom="Clemenceau" distance="0.46650175918911085" lignes="a" />
+		<voisin nom="Gares" distance="0.7871026265506852" lignes="a" />
+	</gare>
+	<gare nom="Jules Ferry" coord="596, 332">
+		<voisin nom="Sainte Anne" distance="1.1780847788961861" lignes="b" />
+		<voisin nom="Gros Chêne" distance="1.0020485161324915" lignes="b" />
+	</gare>
+	<gare nom="La Courrouze" coord="296, 689">
+		<voisin nom="Saint-Jacques-Gaité" distance="0.7653381916258872" lignes="b" />
+		<voisin nom="Cleunay" distance="1.0214001532392365" lignes="b" />
+	</gare>
+	<gare nom="La Poterie" coord="881, 837">
+		<voisin nom="Le Blosne" distance="1.0807258723496636" lignes="a" />
+	</gare>
+	<gare nom="Le Blosne" coord="775, 833">
+		<voisin nom="Triangle" distance="0.6921235111618397" lignes="a" />
+		<voisin nom="La Poterie" distance="1.0807258723496636" lignes="a" />
+	</gare>
+	<gare nom="Les Gayeulles" coord="744, 158">
+		<voisin nom="Irène Joliot-Curie" distance="0.8729357206892955" lignes="b" />
+		<voisin nom="Gros Chêne" distance="0.930454055875357" lignes="b" />
+	</gare>
+	<gare nom="Mabilais" coord="359, 553">
+		<voisin nom="Cleunay" distance="1.5964911407177635" lignes="b" />
+		<voisin nom="Colombier" distance="1.1721806331434952" lignes="b" />
+	</gare>
+	<gare nom="Pontchaillou" coord="352, 286">
+		<voisin nom="Anatole France" distance="0.7494734489368091" lignes="a" />
+		<voisin nom="Villejean-Université" distance="1.172642093969905" lignes="a" />
+	</gare>
+	<gare nom="République" coord="507, 477">
+		<voisin nom="Charles de Gaulle" distance="0.5453759634639991" lignes="a" />
+		<voisin nom="Sainte Anne" distance="0.5504547132218683" lignes="a" />
+	</gare>
+	<gare nom="Saint Germain" coord="539, 464">
+		<voisin nom="Gares" distance="0.876574984668703" lignes="b" />
+		<voisin nom="Sainte Anne" distance="0.6414934202948095" lignes="b" />
+	</gare>
+	<gare nom="Saint-Jacques-Gaité" coord="240, 766">
+		<voisin nom="La Courrouze" distance="0.7653381916258872" lignes="b" />
+	</gare>
+	<gare nom="Sainte Anne" coord="490, 396|500, 400">
+		<voisin nom="Jules Ferry" distance="1.1780847788961861" lignes="b" />
+		<voisin nom="Saint Germain" distance="0.6414934202948095" lignes="b" />
+		<voisin nom="République" distance="0.5504547132218683" lignes="a" />
+		<voisin nom="Anatole France" distance="0.8857739913279462" lignes="a" />
+	</gare>
+	<gare nom="Triangle" coord="710, 854">
+		<voisin nom="Italie" distance="0.8395182921516134" lignes="a" />
+		<voisin nom="Le Blosne" distance="0.6921235111618397" lignes="a" />
+	</gare>
+	<gare nom="Villejean-Université" coord="238, 290">
+		<voisin nom="J.F. Kennedy" distance="0.8161768267118216" lignes="a" />
+		<voisin nom="Pontchaillou" distance="1.172642093969905" lignes="a" />
+	</gare>
+</data>

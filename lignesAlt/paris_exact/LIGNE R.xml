@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="GARE DE LYON,MONTEREAU,MONTARGIS" couleur="e59fdb">
+	<gare nom="BAGNEAUX-SUR-LOING" coord="2.70393605431, 48.2295499366">
+		<voisin nom="NEMOURS-SAINT-PIERRE" distance="4.464151617027671" />
+		<voisin nom="SOUPPES" distance="5.91883767072155" />
+	</gare>
+	<gare nom="BOIS-LE-ROI" coord="2.69203325987, 48.4755230724">
+		<voisin nom="FONTAINEBLEAU-AVON" distance="7.0631909160724025" />
+		<voisin nom="MELUN" distance="6.3729105929450975" />
+	</gare>
+	<gare nom="BOURRON-MARLOTTE-GREZ" coord="2.69248019059, 48.3326836438">
+		<voisin nom="NEMOURS-SAINT-PIERRE" distance="7.245169100067136" />
+		<voisin nom="MONTIGNY-SUR-LOING" distance="3.3951482909022914" />
+	</gare>
+	<gare nom="CHAMPAGNE-SUR-SEINE" coord="2.79923356025, 48.4068056249">
+		<voisin nom="VERNOU-SUR-SEINE" distance="3.8708214055960375" />
+		<voisin nom="VULAINES-SUR-SEINE-SAMOREAU" distance="4.3375454037460734" />
+	</gare>
+	<gare nom="CHARTRETTES" coord="2.69503731923, 48.4870763944">
+		<voisin nom="FONTAINE-LE-PORT" distance="4.140364184128982" />
+		<voisin nom="LIVRY-SUR-SEINE" distance="2.840322653213964" />
+	</gare>
+	<gare nom="DORDIVES" coord="2.7627283872, 48.1472180399">
+		<voisin nom="FERRIERES FONTENAY" distance="5.690251177605769" />
+		<voisin nom="SOUPPES" distance="4.237276427243906" />
+	</gare>
+	<gare nom="FERRIERES FONTENAY" coord="2.77230261766, 48.0965027788">
+		<voisin nom="DORDIVES" distance="5.690251177605769" />
+		<voisin nom="MONTARGIS" distance="10.195154440403817" />
+	</gare>
+	<gare nom="FONTAINE-LE-PORT" coord="2.75115365838, 48.4872228755">
+		<voisin nom="HERICY" distance="4.988432313661394" />
+		<voisin nom="CHARTRETTES" distance="4.140364184128982" />
+	</gare>
+	<gare nom="FONTAINEBLEAU-AVON" coord="2.72666153173, 48.416377033">
+		<voisin nom="THOMERY" distance="3.6960171750645343" />
+		<voisin nom="BOIS-LE-ROI" distance="7.0631909160724025" />
+	</gare>
+	<gare nom="GARE DE LYON" coord="2.37359365326, 48.8447601713">
+		<voisin nom="MELUN" distance="40.951113373472474" />
+	</gare>
+	<gare nom="HERICY" coord="2.76092673374, 48.4428820633">
+		<voisin nom="FONTAINE-LE-PORT" distance="4.988432313661394" />
+		<voisin nom="VULAINES-SUR-SEINE-SAMOREAU" distance="1.444201692506377" />
+	</gare>
+	<gare nom="LA GRANDE PAROISSE" coord="2.89720177648, 48.3787957608">
+		<voisin nom="VERNOU-SUR-SEINE" distance="4.173974576453257" />
+		<voisin nom="MONTEREAU" distance="3.351986463523746" />
+	</gare>
+	<gare nom="LIVRY-SUR-SEINE" coord="2.67897398269, 48.5102651762">
+		<voisin nom="MELUN" distance="2.5883365902921702" />
+		<voisin nom="CHARTRETTES" distance="2.840322653213964" />
+	</gare>
+	<gare nom="MELUN" coord="2.65499028486, 48.5272433206">
+		<voisin nom="GARE DE LYON" distance="40.951113373472474" />
+		<voisin nom="LIVRY-SUR-SEINE" distance="2.5883365902921702" />
+		<voisin nom="BOIS-LE-ROI" distance="6.3729105929450975" />
+	</gare>
+	<gare nom="MONTARGIS" coord="2.74303831268, 48.0070317015">
+		<voisin nom="FERRIERES FONTENAY" distance="10.195154440403817" />
+	</gare>
+	<gare nom="MONTEREAU" coord="2.9425234154, 48.3795261033">
+		<voisin nom="SAINT-MAMMES" distance="9.363090167205577" />
+		<voisin nom="LA GRANDE PAROISSE" distance="3.351986463523746" />
+	</gare>
+	<gare nom="MONTIGNY-SUR-LOING" coord="2.73800161988, 48.3364817806">
+		<voisin nom="MORET-VENEUX-LES-SABLONS" distance="6.522617373088174" />
+		<voisin nom="BOURRON-MARLOTTE-GREZ" distance="3.3951482909022914" />
+	</gare>
+	<gare nom="MORET-VENEUX-LES-SABLONS" coord="2.79930742793, 48.3785977679">
+		<voisin nom="SAINT-MAMMES" distance="1.300212630397508" />
+		<voisin nom="THOMERY" distance="3.140207077517874" />
+		<voisin nom="MONTIGNY-SUR-LOING" distance="6.522617373088174" />
+	</gare>
+	<gare nom="NEMOURS-SAINT-PIERRE" coord="2.68564708994, 48.2677581099">
+		<voisin nom="BAGNEAUX-SUR-LOING" distance="4.464151617027671" />
+		<voisin nom="BOURRON-MARLOTTE-GREZ" distance="7.245169100067136" />
+	</gare>
+	<gare nom="SAINT-MAMMES" coord="2.81595676708, 48.3823580058">
+		<voisin nom="MONTEREAU" distance="9.363090167205577" />
+		<voisin nom="MORET-VENEUX-LES-SABLONS" distance="1.300212630397508" />
+	</gare>
+	<gare nom="SOUPPES" coord="2.73624984291, 48.1809368558">
+		<voisin nom="DORDIVES" distance="4.237276427243906" />
+		<voisin nom="BAGNEAUX-SUR-LOING" distance="5.91883767072155" />
+	</gare>
+	<gare nom="THOMERY" coord="2.76402819014, 48.3943084388">
+		<voisin nom="MORET-VENEUX-LES-SABLONS" distance="3.140207077517874" />
+		<voisin nom="FONTAINEBLEAU-AVON" distance="3.6960171750645343" />
+	</gare>
+	<gare nom="VERNOU-SUR-SEINE" coord="2.84203738882, 48.3867709874">
+		<voisin nom="CHAMPAGNE-SUR-SEINE" distance="3.8708214055960375" />
+		<voisin nom="LA GRANDE PAROISSE" distance="4.173974576453257" />
+	</gare>
+	<gare nom="VULAINES-SUR-SEINE-SAMOREAU" coord="2.75317756884, 48.4309707241">
+		<voisin nom="HERICY" distance="1.444201692506377" />
+		<voisin nom="CHAMPAGNE-SUR-SEINE" distance="4.3375454037460734" />
+	</gare>
+</ligne>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="LA DEFENSE-GRANDE ARCHE,LA VERRIERE" couleur="c90062">
+	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="2.2370180564, 48.8921870764">
+		<voisin nom="PUTEAUX" distance="1.0097644739142704" />
+	</gare>
+	<gare nom="LA VERRIERE" coord="1.94383520242, 48.7553892687">
+		<voisin nom="TRAPPES" distance="5.085072730026384" />
+	</gare>
+	<gare nom="PUTEAUX" coord="2.2336919188, 48.8833838129">
+		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="1.0097644739142704" />
+		<voisin nom="SURESNES-MONT VALERIEN" distance="1.5959119046143366" />
+	</gare>
+	<gare nom="SAINT-CLOUD" coord="2.2176210809, 48.8461029477">
+		<voisin nom="SEVRES-VILLE-D'AVRAY" distance="2.4378494917688074" />
+		<voisin nom="SURESNES-MONT VALERIEN" distance="2.861938444628701" />
+	</gare>
+	<gare nom="SAINT-CYR" coord="2.07184700593, 48.7987076353">
+		<voisin nom="SAINT-QUENTIN-EN-YVELINES" distance="2.360810827913316" />
+		<voisin nom="VERSAILLES-CHANTIERS" distance="4.723435206213988" />
+	</gare>
+	<gare nom="SAINT-QUENTIN-EN-YVELINES" coord="2.04462198717, 48.7873902383">
+		<voisin nom="SAINT-CYR" distance="2.360810827913316" />
+		<voisin nom="TRAPPES" distance="3.123392893443582" />
+	</gare>
+	<gare nom="SEVRES-VILLE-D'AVRAY" coord="2.20072125659, 48.8272387754">
+		<voisin nom="SAINT-CLOUD" distance="2.4378494917688074" />
+		<voisin nom="VERSAILLES-CHANTIERS" distance="5.927298494575486" />
+	</gare>
+	<gare nom="SURESNES-MONT VALERIEN" coord="2.22102955043, 48.8717141912">
+		<voisin nom="SAINT-CLOUD" distance="2.861938444628701" />
+		<voisin nom="PUTEAUX" distance="1.5959119046143366" />
+	</gare>
+	<gare nom="TRAPPES" coord="2.00656686906, 48.7748028098">
+		<voisin nom="LA VERRIERE" distance="5.085072730026384" />
+		<voisin nom="SAINT-QUENTIN-EN-YVELINES" distance="3.123392893443582" />
+	</gare>
+	<gare nom="VERSAILLES-CHANTIERS" coord="2.1360504883, 48.7952802463">
+		<voisin nom="SAINT-CYR" distance="4.723435206213988" />
+		<voisin nom="SEVRES-VILLE-D'AVRAY" distance="5.927298494575486" />
+	</gare>
+</ligne>

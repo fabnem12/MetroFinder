@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<gare nom="Acton Town" coord="249, 651|249, 651">
+		<voisin nom="Ealing Common" distance="1.2138352451361514" lignes="District Line,Piccadilly Line" />
+		<voisin nom="Chiswick Park" distance="1.6456035506573945" lignes="District Line" />
+		<voisin nom="South Ealing" distance="3.022687886607391" lignes="Piccadilly Line" />
+		<voisin nom="Turnham Green" distance="2.9545809917994674" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Aldgate" coord="1078, 560|1078, 560">
+		<voisin nom="Liverpool Street" distance="0.8513574407018364" lignes="Metropolitan Line,Circle Line" />
+		<voisin nom="Tower Hill" distance="0.5156864334740096" lignes="Circle Line" />
+	</gare>
+	<gare nom="Aldgate East" coord="1122, 552|1122, 552">
+		<voisin nom="Tower Hill" distance="0.7660847437153493" lignes="District Line" />
+		<voisin nom="Whitechapel" distance="1.3448941529495224" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Liverpool Street" distance="1.1123596365433162" lignes="Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="All Saints" coord="1239, 564">
+		<voisin nom="Devons Road" distance="1.3771709851839546" lignes="Docklands Light Railway" />
+		<voisin nom="Poplar" distance="0.5836581710617282" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Alperton" coord="240, 354">
+		<voisin nom="Sudbury Town" distance="2.090931855271119" lignes="Piccadilly Line" />
+		<voisin nom="Park Royal" distance="2.3111736682442965" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Amersham" coord="16, 55">
+		<voisin nom="Chalfont &amp; Latimer" distance="5.159855481482559" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Angel" coord="936, 426">
+		<voisin nom="King's Cross St. Pancras" distance="2.009802401048991" lignes="Northern Line" />
+		<voisin nom="Old Street" distance="2.1616052452121335" lignes="Northern Line" />
+	</gare>
+	<gare nom="Archway" coord="881, 213">
+		<voisin nom="Highgate" distance="1.808758722835493" lignes="Northern Line" />
+		<voisin nom="Tufnell Park" distance="0.9854735491740586" lignes="Northern Line" />
+	</gare>
+	<gare nom="Arnos Grove" coord="1069, 120">
+		<voisin nom="Bounds Green" distance="1.425278890632094" lignes="Piccadilly Line" />
+		<voisin nom="Southgate" distance="1.8482009472015644" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Arsenal" coord="1017, 278">
+		<voisin nom="Holloway Road" distance="1.0518947869041855" lignes="Piccadilly Line" />
+		<voisin nom="Finsbury Park" distance="0.626956000329465" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Baker Street" coord="673, 437|689, 454">
+		<voisin nom="Finchley Road" distance="3.7641706766689977" lignes="Metropolitan Line" />
+		<voisin nom="Great Portland Street" distance="1.4754767138712055" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Edgware Road (C)" distance="1.4586674917804119" lignes="Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Marylebone" distance="0.668009704286698" lignes="Bakerloo Line" />
+		<voisin nom="Regent's Park" distance="1.1722423186709146" lignes="Bakerloo Line" />
+		<voisin nom="Bond Street" distance="1.2685025499721103" lignes="Jubilee Line" />
+		<voisin nom="St. John's Wood" distance="2.3137824515707366" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Balham" coord="692, 963">
+		<voisin nom="Tooting Bec" distance="1.1258668363884687" lignes="Northern Line" />
+		<voisin nom="Clapham South" distance="1.1802457904359889" lignes="Northern Line" />
+	</gare>
+	<gare nom="Bank" coord="960, 561|974, 576">
+		<voisin nom="Monument" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="Liverpool Street" distance="0.8618454951772129" lignes="Central Line" />
+		<voisin nom="St. Paul's" distance="0.9792319175812315" lignes="Central Line" />
+		<voisin nom="Shadwell" distance="3.633383589974174" lignes="Docklands Light Railway" />
+		<voisin nom="Moorgate" distance="0.5899925903197037" lignes="Northern Line" />
+		<voisin nom="London Bridge" distance="0.9343535485187028" lignes="Northern Line" />
+		<voisin nom="Waterloo" distance="3.0579034632315167" lignes="Waterloo &amp; City Line" />
+	</gare>
+	<gare nom="Barbican" coord="947, 485|947, 485">
+		<voisin nom="Farringdon" distance="0.8238394439127309" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Moorgate" distance="1.0544840697936182" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+	</gare>
+	<gare nom="Barking" coord="1420, 410|1420, 410">
+		<voisin nom="Upney" distance="2.274216594432986" lignes="District Line" />
+		<voisin nom="East Ham" distance="3.250605376616571" lignes="District Line,Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Barkingside" coord="1435, 211">
+		<voisin nom="Newbury Park" distance="1.1211799204437496" lignes="Central Line" />
+		<voisin nom="Fairlop" distance="1.1907009441807515" lignes="Central Line" />
+	</gare>
+	<gare nom="Barons Court" coord="464, 652|464, 665">
+		<voisin nom="West Kensington" distance="0.8240650332072206" lignes="District Line" />
+		<voisin nom="Hammersmith" distance="1.2936544259765814" lignes="District Line,Piccadilly Line" />
+		<voisin nom="Earl's Court" distance="1.8554323529779326" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Bayswater" coord="542, 487|542, 487">
+		<voisin nom="Paddington" distance="1.4284068865342192" lignes="District Line,Circle Line" />
+		<voisin nom="Notting Hill Gate" distance="1.0246831750191476" lignes="District Line,Circle Line" />
+	</gare>
+	<gare nom="Beckton" coord="1541, 719">
+		<voisin nom="Gallions Reach" distance="1.2844260885404197" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Beckton Park" coord="1483, 660">
+		<voisin nom="Royal Albert" distance="0.9468048270138031" lignes="Docklands Light Railway" />
+		<voisin nom="Cyprus" distance="1.0021227653944682" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Becontree" coord="1462, 373">
+		<voisin nom="Dagenham Heathway" distance="2.2207331357306774" lignes="District Line" />
+		<voisin nom="Upney" distance="2.8568146873730544" lignes="District Line" />
+	</gare>
+	<gare nom="Belsize Park" coord="789, 290">
+		<voisin nom="Chalk Farm" distance="1.3535721993446692" lignes="Northern Line" />
+		<voisin nom="Hampstead" distance="1.6933726635955684" lignes="Northern Line" />
+	</gare>
+	<gare nom="Bermondsey" coord="1060, 670">
+		<voisin nom="Canada Water" distance="1.5031841425129213" lignes="Jubilee Line" />
+		<voisin nom="London Bridge" distance="2.654403647625824" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Bethnal Green" coord="1168, 468">
+		<voisin nom="Liverpool Street" distance="3.2174989554495252" lignes="Central Line" />
+		<voisin nom="Mile End" distance="2.426918080338158" lignes="Central Line" />
+	</gare>
+	<gare nom="Blackfriars" coord="908, 641|908, 641">
+		<voisin nom="Mansion House" distance="1.013251994544961" lignes="District Line,Circle Line" />
+		<voisin nom="Temple" distance="1.2286061332116769" lignes="District Line,Circle Line" />
+	</gare>
+	<gare nom="Blackhorse Road" coord="1198, 234">
+		<voisin nom="Walthamstow Central" distance="2.5053810922072195" lignes="Victoria Line" />
+		<voisin nom="Tottenham Hale" distance="1.9774177181187282" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Blackwall" coord="1280, 591">
+		<voisin nom="Poplar" distance="1.1913266085009424" lignes="Docklands Light Railway" />
+		<voisin nom="East India" distance="0.5246207864059441" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Bond Street" coord="673, 531|673, 531">
+		<voisin nom="Oxford Circus" distance="0.8839215883809911" lignes="Central Line" />
+		<voisin nom="Marble Arch" distance="1.0263149762936874" lignes="Central Line" />
+		<voisin nom="Baker Street" distance="1.2685025499721103" lignes="Jubilee Line" />
+		<voisin nom="Green Park" distance="1.1121348343675241" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Borough" coord="885, 771">
+		<voisin nom="Elephant &amp; Castle" distance="0.9949239313124086" lignes="Northern Line" />
+		<voisin nom="London Bridge" distance="0.9908057488539638" lignes="Northern Line" />
+	</gare>
+	<gare nom="Boston Manor" coord="184, 694">
+		<voisin nom="Osterley" distance="3.420829755957704" lignes="Piccadilly Line" />
+		<voisin nom="Northfields" distance="1.278234391155278" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Bounds Green" coord="1070, 141">
+		<voisin nom="Wood Green" distance="1.9451296967173473" lignes="Piccadilly Line" />
+		<voisin nom="Arnos Grove" distance="1.425278890632094" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Bow Church" coord="1239, 502|1239, 502">
+		<voisin nom="Bow Road" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="Devons Road" distance="0.6794137450940804" lignes="Docklands Light Railway" />
+		<voisin nom="Pudding Mill Lane" distance="1.0941635499790894" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Bow Road" coord="1257, 484|1258, 484">
+		<voisin nom="Bromley-By-Bow" distance="1.4439386685609241" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Mile End" distance="0.9720556601611696" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Bow Church" distance="4.6096306961911235" lignes="pedestre" />
+	</gare>
+	<gare nom="Brent Cross" coord="706, 207">
+		<voisin nom="Golders Green" distance="2.2205093244805436" lignes="Northern Line" />
+		<voisin nom="Hendon Central" distance="1.538383067276861" lignes="Northern Line" />
+	</gare>
+	<gare nom="Brixton" coord="800, 920">
+		<voisin nom="Stockwell" distance="1.427364206600495" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Bromley-By-Bow" coord="1308, 485|1308, 485">
+		<voisin nom="West Ham" distance="1.9958811714172842" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Bow Road" distance="1.4439386685609241" lignes="District Line,Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Buckhurst Hill" coord="1333, 99">
+		<voisin nom="Woodford" distance="2.618162022342919" lignes="Central Line" />
+		<voisin nom="Loughton" distance="1.8919396046573012" lignes="Central Line" />
+	</gare>
+	<gare nom="Burnt Oak" coord="646, 147">
+		<voisin nom="Edgware" distance="1.7159724194366193" lignes="Northern Line" />
+		<voisin nom="Colindale" distance="1.7477476499233768" lignes="Northern Line" />
+	</gare>
+	<gare nom="Caledonian Road" coord="977, 320">
+		<voisin nom="King's Cross St. Pancras" distance="2.0046432283398246" lignes="Piccadilly Line" />
+		<voisin nom="Holloway Road" distance="0.7997196970691928" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Camden Town" coord="831, 341">
+		<voisin nom="Chalk Farm" distance="1.3608771933664585" lignes="Northern Line" />
+		<voisin nom="Mornington Crescent" distance="0.7058906580321428" lignes="Northern Line" />
+		<voisin nom="Euston" distance="1.5751188576100943" lignes="Northern Line" />
+		<voisin nom="Kentish Town" distance="1.3077514877715062" lignes="Northern Line" />
+	</gare>
+	<gare nom="Canada Water" coord="1139, 670|1139, 670">
+		<voisin nom="Rotherhithe" distance="0.40336987516327805" lignes="East London Line" />
+		<voisin nom="Surrey Quays" distance="0.6073800138433438" lignes="East London Line" />
+		<voisin nom="Bermondsey" distance="1.5031841425129213" lignes="Jubilee Line" />
+		<voisin nom="Canary Wharf" distance="3.350883058585909" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Canary Wharf" coord="1239, 670|1239, 670">
+		<voisin nom="Heron Quays" distance="0.2112138697857809" lignes="Docklands Light Railway" />
+		<voisin nom="West India Quay" distance="0.22180248668003824" lignes="Docklands Light Railway" />
+		<voisin nom="North Greenwich" distance="2.8078121140286356" lignes="Jubilee Line" />
+		<voisin nom="Canada Water" distance="3.350883058585909" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Canning Town" coord="1332, 591|1332, 591">
+		<voisin nom="Royal Victoria" distance="1.2661582715241777" lignes="Docklands Light Railway" />
+		<voisin nom="West Silvertown" distance="2.086639210348712" lignes="Docklands Light Railway" />
+		<voisin nom="East India" distance="1.2946126537340408" lignes="Docklands Light Railway" />
+		<voisin nom="North Greenwich" distance="1.651622634389608" lignes="Jubilee Line" />
+		<voisin nom="West Ham" distance="1.585120746094642" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Cannon Street" coord="945, 609|945, 609">
+		<voisin nom="Mansion House" distance="0.4130837912492217" lignes="District Line,Circle Line" />
+		<voisin nom="Monument" distance="0.4597912759971947" lignes="District Line,Circle Line" />
+	</gare>
+	<gare nom="Canons Park" coord="497, 160">
+		<voisin nom="Queensbury" distance="1.7912245189135105" lignes="Jubilee Line" />
+		<voisin nom="Stanmore" distance="1.5749498769672183" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Chalfont &amp; Latimer" coord="117, 55">
+		<voisin nom="Chorleywood" distance="4.988595881674672" lignes="Metropolitan Line" />
+		<voisin nom="Amersham" distance="5.159855481482559" lignes="Metropolitan Line" />
+		<voisin nom="Chesham" distance="6.944002746625297" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Chalk Farm" coord="810, 311">
+		<voisin nom="Camden Town" distance="1.3608771933664585" lignes="Northern Line" />
+		<voisin nom="Belsize Park" distance="1.3535721993446692" lignes="Northern Line" />
+	</gare>
+	<gare nom="Chancery Lane" coord="890, 530">
+		<voisin nom="St. Paul's" distance="1.596377193422134" lignes="Central Line" />
+		<voisin nom="Holborn" distance="0.9982819794901263" lignes="Central Line" />
+	</gare>
+	<gare nom="Charing Cross" coord="801, 625|801, 625">
+		<voisin nom="Leicester Square" distance="0.5274470478491505" lignes="Northern Line" />
+		<voisin nom="Embankment" distance="0.27538918867265133" lignes="Northern Line,Bakerloo Line" />
+		<voisin nom="Piccadilly Circus" distance="1.0763505915577596" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Chesham" coord="53, 33">
+		<voisin nom="Chalfont &amp; Latimer" distance="6.944002746625297" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Chigwell" coord="1385, 141">
+		<voisin nom="Roding Valley" distance="3.5183299495186864" lignes="Central Line" />
+		<voisin nom="Grange Hill" distance="1.9360951219956988" lignes="Central Line" />
+	</gare>
+	<gare nom="Chiswick Park" coord="270, 666">
+		<voisin nom="Acton Town" distance="1.6456035506573945" lignes="District Line" />
+		<voisin nom="Turnham Green" distance="1.4593471331834247" lignes="District Line" />
+	</gare>
+	<gare nom="Chorleywood" coord="179, 68">
+		<voisin nom="Chalfont &amp; Latimer" distance="4.988595881674672" lignes="Metropolitan Line" />
+		<voisin nom="Rickmansworth" distance="5.242894555097962" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Clapham Common" coord="730, 920">
+		<voisin nom="Clapham South" distance="1.472490039428456" lignes="Northern Line" />
+		<voisin nom="Clapham North" distance="1.0071796541179612" lignes="Northern Line" />
+	</gare>
+	<gare nom="Clapham North" coord="750, 901">
+		<voisin nom="Stockwell" distance="1.1263075539527765" lignes="Northern Line" />
+		<voisin nom="Clapham Common" distance="1.0071796541179612" lignes="Northern Line" />
+	</gare>
+	<gare nom="Clapham South" coord="711, 940">
+		<voisin nom="Balham" distance="1.1802457904359889" lignes="Northern Line" />
+		<voisin nom="Clapham Common" distance="1.472490039428456" lignes="Northern Line" />
+	</gare>
+	<gare nom="Cockfosters" coord="1072, 53">
+		<voisin nom="Oakwood" distance="2.0333713952817303" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Colindale" coord="665, 167">
+		<voisin nom="Burnt Oak" distance="1.7477476499233768" lignes="Northern Line" />
+		<voisin nom="Hendon Central" distance="3.0470795476381602" lignes="Northern Line" />
+	</gare>
+	<gare nom="Colliers Wood" coord="632, 1020">
+		<voisin nom="South Wimbledon" distance="1.5960665801746468" lignes="Northern Line" />
+		<voisin nom="Tooting Broadway" distance="1.5193751685176953" lignes="Northern Line" />
+	</gare>
+	<gare nom="Covent Garden" coord="821, 554">
+		<voisin nom="Leicester Square" distance="0.45898184888892757" lignes="Piccadilly Line" />
+		<voisin nom="Holborn" distance="0.6928679974756932" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Crossharbour &amp; London Arena" coord="1239, 733">
+		<voisin nom="South Quay" distance="0.7638982995061159" lignes="Docklands Light Railway" />
+		<voisin nom="Mudchute" distance="0.6123583729184027" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Croxley" coord="208, 77">
+		<voisin nom="Watford" distance="2.8562378272870164" lignes="Metropolitan Line" />
+		<voisin nom="Moor Park" distance="2.2106997420157057" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Custom House" coord="1424, 602">
+		<voisin nom="Royal Victoria" distance="1.0584721735821787" lignes="Docklands Light Railway" />
+		<voisin nom="Prince Regent" distance="0.6682879047701988" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Cutty Sark" coord="1238, 812">
+		<voisin nom="Island Gardens" distance="0.4929580849931163" lignes="Docklands Light Railway" />
+		<voisin nom="Greenwich" distance="0.7812217449680077" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Cyprus" coord="1502, 680">
+		<voisin nom="Beckton Park" distance="1.0021227653944682" lignes="Docklands Light Railway" />
+		<voisin nom="Gallions Reach" distance="0.854843808668806" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Dagenham East" coord="1501, 330">
+		<voisin nom="Dagenham Heathway" distance="2.090673541801088" lignes="District Line" />
+		<voisin nom="Elm Park" distance="3.6327179855589664" lignes="District Line" />
+	</gare>
+	<gare nom="Dagenham Heathway" coord="1488, 346">
+		<voisin nom="Becontree" distance="2.2207331357306774" lignes="District Line" />
+		<voisin nom="Dagenham East" distance="2.090673541801088" lignes="District Line" />
+	</gare>
+	<gare nom="Debden" coord="1333, 56">
+		<voisin nom="Theydon Bois" distance="3.6357159787749915" lignes="Central Line" />
+		<voisin nom="Loughton" distance="3.1534868061329275" lignes="Central Line" />
+	</gare>
+	<gare nom="Deptford Bridge" coord="1238, 856">
+		<voisin nom="Greenwich" distance="0.8744073211484159" lignes="Docklands Light Railway" />
+		<voisin nom="Elverson Road" distance="0.7016660682674764" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Devons Road" coord="1239, 521">
+		<voisin nom="Bow Church" distance="0.6794137450940804" lignes="Docklands Light Railway" />
+		<voisin nom="All Saints" distance="1.3771709851839546" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Dollis Hill" coord="542, 271">
+		<voisin nom="Willesden Green" distance="1.9398994340699507" lignes="Jubilee Line" />
+		<voisin nom="Neasden" distance="1.314324070254311" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Ealing Broadway" coord="211, 533|211, 533">
+		<voisin nom="Ealing Common" distance="1.606472975987653" lignes="District Line" />
+		<voisin nom="West Acton" distance="2.3363301205932556" lignes="Central Line" />
+	</gare>
+	<gare nom="Ealing Common" coord="239, 593|239, 593">
+		<voisin nom="Ealing Broadway" distance="1.606472975987653" lignes="District Line" />
+		<voisin nom="Acton Town" distance="1.2138352451361514" lignes="District Line,Piccadilly Line" />
+		<voisin nom="North Ealing" distance="0.8256320717322403" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Earl's Court" coord="524, 652|524, 664">
+		<voisin nom="Gloucester Road" distance="1.6269789363229685" lignes="District Line,Piccadilly Line" />
+		<voisin nom="High Street Kensington" distance="1.125643640380644" lignes="District Line" />
+		<voisin nom="West Kensington" distance="1.0343131087367978" lignes="District Line" />
+		<voisin nom="Kensington (Olympia)" distance="1.6382488871550804" lignes="District Line" />
+		<voisin nom="West Brompton" distance="0.5788584635221237" lignes="District Line" />
+		<voisin nom="Barons Court" distance="1.8554323529779326" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="East Acton" coord="379, 534">
+		<voisin nom="North Acton" distance="1.5699563729895407" lignes="Central Line" />
+		<voisin nom="White City" distance="2.6700197660664156" lignes="Central Line" />
+	</gare>
+	<gare nom="East Finchley" coord="881, 168">
+		<voisin nom="Highgate" distance="2.394609573632668" lignes="Northern Line" />
+		<voisin nom="Finchley Central" distance="3.4949323399387726" lignes="Northern Line" />
+	</gare>
+	<gare nom="East Ham" coord="1401, 430|1401, 430">
+		<voisin nom="Upton Park" distance="2.00341063064214" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Barking" distance="3.250605376616571" lignes="District Line,Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="East India" coord="1308, 591">
+		<voisin nom="Canning Town" distance="1.2946126537340408" lignes="Docklands Light Railway" />
+		<voisin nom="Blackwall" distance="0.5246207864059441" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="East Putney" coord="510, 827">
+		<voisin nom="Putney Bridge" distance="1.0989030337359742" lignes="District Line" />
+		<voisin nom="Southfields" distance="1.5560764016836228" lignes="District Line" />
+	</gare>
+	<gare nom="Eastcote" coord="218, 186|219, 187">
+		<voisin nom="Ruislip Manor" distance="1.7641222869935715" lignes="Metropolitan Line,Piccadilly Line" />
+		<voisin nom="Rayners Lane" distance="2.8529079675012605" lignes="Metropolitan Line,Piccadilly Line" />
+	</gare>
+	<gare nom="Edgware" coord="619, 117">
+		<voisin nom="Burnt Oak" distance="1.7159724194366193" lignes="Northern Line" />
+	</gare>
+	<gare nom="Edgware Road (B)" coord="572, 419">
+		<voisin nom="Marylebone" distance="0.6076855849414191" lignes="Bakerloo Line" />
+		<voisin nom="Paddington" distance="0.9832089961205405" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Edgware Road (C)" coord="594, 441|594, 441">
+		<voisin nom="Paddington" distance="0.819993162433942" lignes="District Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Baker Street" distance="1.4586674917804119" lignes="Hammersmith &amp; City Line,Circle Line" />
+	</gare>
+	<gare nom="Elephant &amp; Castle" coord="833, 822|833, 822">
+		<voisin nom="Kennington" distance="0.8754687895909609" lignes="Northern Line" />
+		<voisin nom="Borough" distance="0.9949239313124086" lignes="Northern Line" />
+		<voisin nom="Lambeth North" distance="1.3769457032062027" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Elm Park" coord="1523, 310">
+		<voisin nom="Hornchurch" distance="2.3535050708504714" lignes="District Line" />
+		<voisin nom="Dagenham East" distance="3.6327179855589664" lignes="District Line" />
+	</gare>
+	<gare nom="Elverson Road" coord="1238, 877">
+		<voisin nom="Deptford Bridge" distance="0.7016660682674764" lignes="Docklands Light Railway" />
+		<voisin nom="Lewisham" distance="0.536185665513671" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Embankment" coord="801, 662|814, 674">
+		<voisin nom="Westminster" distance="0.7916201973137611" lignes="District Line,Circle Line" />
+		<voisin nom="Temple" distance="1.0014420523494707" lignes="District Line,Circle Line" />
+		<voisin nom="Waterloo" distance="0.9859158179872659" lignes="Northern Line,Bakerloo Line" />
+		<voisin nom="Charing Cross" distance="0.27538918867265133" lignes="Northern Line,Bakerloo Line" />
+	</gare>
+	<gare nom="Epping" coord="1334, 19">
+		<voisin nom="Theydon Bois" distance="2.718471788090045" lignes="Central Line" />
+	</gare>
+	<gare nom="Euston" coord="832, 414|841, 414">
+		<voisin nom="King's Cross St. Pancras" distance="1.1394351454091323" lignes="Victoria Line,Northern Line" />
+		<voisin nom="Warren Street" distance="0.6523353578487535" lignes="Victoria Line,Northern Line" />
+		<voisin nom="Camden Town" distance="1.5751188576100943" lignes="Northern Line" />
+		<voisin nom="Mornington Crescent" distance="0.8694315641183251" lignes="Northern Line" />
+	</gare>
+	<gare nom="Euston Square" coord="831, 439|831, 439">
+		<voisin nom="King's Cross St. Pancras" distance="1.4490782764572585" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Great Portland Street" distance="0.9236162182840373" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+	</gare>
+	<gare nom="Fairlop" coord="1435, 191">
+		<voisin nom="Hainault" distance="0.8135457558376573" lignes="Central Line" />
+		<voisin nom="Barkingside" distance="1.1907009441807515" lignes="Central Line" />
+	</gare>
+	<gare nom="Farringdon" coord="925, 460|925, 460">
+		<voisin nom="King's Cross St. Pancras" distance="2.3679923286298723" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Barbican" distance="0.8238394439127309" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+	</gare>
+	<gare nom="Finchley Central" coord="881, 145">
+		<voisin nom="Mill Hill East" distance="2.0568799426068325" lignes="Northern Line" />
+		<voisin nom="East Finchley" distance="3.4949323399387726" lignes="Northern Line" />
+		<voisin nom="West Finchley" distance="1.0729445618155145" lignes="Northern Line" />
+	</gare>
+	<gare nom="Finchley Road" coord="608, 348|618, 358">
+		<voisin nom="Wembley Park" distance="11.190973188759067" lignes="Metropolitan Line" />
+		<voisin nom="Baker Street" distance="3.7641706766689977" lignes="Metropolitan Line" />
+		<voisin nom="West Hampstead" distance="1.1470769942285504" lignes="Jubilee Line" />
+		<voisin nom="Swiss Cottage" distance="0.8496080253757134" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Finsbury Park" coord="1051, 244|1063, 257">
+		<voisin nom="Highbury &amp; Islington" distance="2.0450359451652855" lignes="Victoria Line" />
+		<voisin nom="Seven Sisters" distance="4.048356672522164" lignes="Victoria Line" />
+		<voisin nom="Arsenal" distance="0.626956000329465" lignes="Piccadilly Line" />
+		<voisin nom="Manor House" distance="1.4233660553874572" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Fulham Broadway" coord="510, 754">
+		<voisin nom="Parsons Green" distance="0.8851102913977329" lignes="District Line" />
+		<voisin nom="West Brompton" distance="0.7577044715082253" lignes="District Line" />
+	</gare>
+	<gare nom="Gallions Reach" coord="1522, 700">
+		<voisin nom="Beckton" distance="1.2844260885404197" lignes="Docklands Light Railway" />
+		<voisin nom="Cyprus" distance="0.854843808668806" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Gants Hill" coord="1411, 266">
+		<voisin nom="Newbury Park" distance="2.6290496423356964" lignes="Central Line" />
+		<voisin nom="Redbridge" distance="2.3266838816465336" lignes="Central Line" />
+	</gare>
+	<gare nom="Gloucester Road" coord="569, 651|569, 662">
+		<voisin nom="Earl's Court" distance="1.6269789363229685" lignes="District Line,Piccadilly Line" />
+		<voisin nom="South Kensington" distance="1.0139855176400348" lignes="District Line,Circle Line,Piccadilly Line" />
+		<voisin nom="High Street Kensington" distance="1.2843759061099256" lignes="Circle Line" />
+	</gare>
+	<gare nom="Golders Green" coord="727, 224">
+		<voisin nom="Brent Cross" distance="2.2205093244805436" lignes="Northern Line" />
+		<voisin nom="Hampstead" distance="2.495562102727512" lignes="Northern Line" />
+	</gare>
+	<gare nom="Goldhawk Road" coord="432, 618">
+		<voisin nom="Shepherd's Bush (H)" distance="0.4458307348284144" lignes="Hammersmith &amp; City Line" />
+		<voisin nom="Hammersmith" distance="0.9300272445405026" lignes="Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Goodge Street" coord="800, 509">
+		<voisin nom="Warren Street" distance="0.623089910270833" lignes="Northern Line" />
+		<voisin nom="Tottenham Court Road" distance="0.6065626750450424" lignes="Northern Line" />
+	</gare>
+	<gare nom="Grange Hill" coord="1410, 141">
+		<voisin nom="Chigwell" distance="1.9360951219956988" lignes="Central Line" />
+		<voisin nom="Hainault" distance="1.1409011099461601" lignes="Central Line" />
+	</gare>
+	<gare nom="Great Portland Street" coord="744, 437|744, 437">
+		<voisin nom="Baker Street" distance="1.4754767138712055" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Euston Square" distance="0.9236162182840373" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+	</gare>
+	<gare nom="Green Park" coord="685, 583|686, 584">
+		<voisin nom="Victoria" distance="1.1549864977697537" lignes="Victoria Line" />
+		<voisin nom="Oxford Circus" distance="0.9352134251120011" lignes="Victoria Line" />
+		<voisin nom="Bond Street" distance="1.1121348343675241" lignes="Jubilee Line" />
+		<voisin nom="Westminster" distance="2.0382407909560354" lignes="Jubilee Line" />
+		<voisin nom="Piccadilly Circus" distance="1.0176449182053893" lignes="Piccadilly Line" />
+		<voisin nom="Hyde Park Corner" distance="1.1886184895523013" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Greenford" coord="159, 366">
+		<voisin nom="Perivale" distance="2.5730191980506047" lignes="Central Line" />
+		<voisin nom="Northolt" distance="2.6568037768036996" lignes="Central Line" />
+	</gare>
+	<gare nom="Greenwich" coord="1238, 835">
+		<voisin nom="Cutty Sark" distance="0.7812217449680077" lignes="Docklands Light Railway" />
+		<voisin nom="Deptford Bridge" distance="0.8744073211484159" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Gunnersbury" coord="294, 727">
+		<voisin nom="Kew Gardens" distance="1.935823127999892" lignes="District Line" />
+		<voisin nom="Turnham Green" distance="2.338900977513255" lignes="District Line" />
+	</gare>
+	<gare nom="Hainault" coord="1435, 168">
+		<voisin nom="Grange Hill" distance="1.1409011099461601" lignes="Central Line" />
+		<voisin nom="Fairlop" distance="0.8135457558376573" lignes="Central Line" />
+	</gare>
+	<gare nom="Hammersmith" coord="433, 641|434, 665">
+		<voisin nom="Barons Court" distance="1.2936544259765814" lignes="District Line,Piccadilly Line" />
+		<voisin nom="Ravenscourt Park" distance="1.2041043637174538" lignes="District Line" />
+		<voisin nom="Goldhawk Road" distance="0.9300272445405026" lignes="Hammersmith &amp; City Line" />
+		<voisin nom="Turnham Green" distance="3.2992850356533605" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Hampstead" coord="747, 247">
+		<voisin nom="Golders Green" distance="2.495562102727512" lignes="Northern Line" />
+		<voisin nom="Belsize Park" distance="1.6933726635955684" lignes="Northern Line" />
+	</gare>
+	<gare nom="Hanger Lane" coord="227, 438">
+		<voisin nom="North Acton" distance="3.8096792648536235" lignes="Central Line" />
+		<voisin nom="Perivale" distance="3.4038449853899273" lignes="Central Line" />
+	</gare>
+	<gare nom="Harlesden" coord="434, 304">
+		<voisin nom="Stonebridge Park" distance="2.220394745754203" lignes="Bakerloo Line" />
+		<voisin nom="Willesden Junction" distance="1.1517654219597089" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Harrow &amp; Wealdston" coord="435, 158">
+		<voisin nom="Kenton" distance="2.4287457835654522" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Harrow-on-the-Hill" coord="346, 217">
+		<voisin nom="Northwick Park" distance="2.0284903039664055" lignes="Metropolitan Line" />
+		<voisin nom="North Harrow" distance="2.9538264590618266" lignes="Metropolitan Line" />
+		<voisin nom="West Harrow" distance="1.8591687993387878" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Hatton Cross" coord="94, 785">
+		<voisin nom="Heathrow Terminal 4" distance="2.88233032001567" lignes="Piccadilly Line" />
+		<voisin nom="Hounslow West" distance="4.203822382288102" lignes="Piccadilly Line" />
+		<voisin nom="Heathrow Terminals 1, 2 &amp; 3" distance="3.342271767977609" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Heathrow Terminal 4" coord="83, 830">
+		<voisin nom="Hatton Cross" distance="2.88233032001567" lignes="Piccadilly Line" />
+		<voisin nom="Heathrow Terminals 1, 2 &amp; 3" distance="1.3871759440730382" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Heathrow Terminal 5" coord="24, 857">
+		<voisin nom="Heathrow Terminals 1, 2 &amp; 3" distance="4.085804423539746" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Heathrow Terminals 1, 2 &amp; 3" coord="69, 812">
+		<voisin nom="Hatton Cross" distance="3.342271767977609" lignes="Piccadilly Line" />
+		<voisin nom="Heathrow Terminal 5" distance="4.085804423539746" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Hendon Central" coord="686, 184">
+		<voisin nom="Brent Cross" distance="1.538383067276861" lignes="Northern Line" />
+		<voisin nom="Colindale" distance="3.0470795476381602" lignes="Northern Line" />
+	</gare>
+	<gare nom="Heron Quays" coord="1239, 690">
+		<voisin nom="Canary Wharf" distance="0.2112138697857809" lignes="Docklands Light Railway" />
+		<voisin nom="South Quay" distance="0.3938885475869064" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="High Barnet" coord="881, 48">
+		<voisin nom="Totteridge &amp; Whetstone" distance="2.8052637753406247" lignes="Northern Line" />
+	</gare>
+	<gare nom="High Street Kensington" coord="540, 576|540, 576">
+		<voisin nom="Earl's Court" distance="1.125643640380644" lignes="District Line" />
+		<voisin nom="Notting Hill Gate" distance="1.055418950949264" lignes="District Line,Circle Line" />
+		<voisin nom="Gloucester Road" distance="1.2843759061099256" lignes="Circle Line" />
+	</gare>
+	<gare nom="Highbury &amp; Islington" coord="1032, 341">
+		<voisin nom="King's Cross St. Pancras" distance="2.7787072717855508" lignes="Victoria Line" />
+		<voisin nom="Finsbury Park" distance="2.0450359451652855" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Highgate" coord="881, 188">
+		<voisin nom="Archway" distance="1.808758722835493" lignes="Northern Line" />
+		<voisin nom="East Finchley" distance="2.394609573632668" lignes="Northern Line" />
+	</gare>
+	<gare nom="Hillingdon" coord="76, 158|76, 158">
+		<voisin nom="Ickenham" distance="1.2517678708300601" lignes="Metropolitan Line,Piccadilly Line" />
+		<voisin nom="Uxbridge" distance="3.3021502472395268" lignes="Metropolitan Line,Piccadilly Line" />
+	</gare>
+	<gare nom="Holborn" coord="841, 531|841, 531">
+		<voisin nom="Tottenham Court Road" distance="1.228606125859512" lignes="Central Line" />
+		<voisin nom="Chancery Lane" distance="0.9982819794901263" lignes="Central Line" />
+		<voisin nom="Covent Garden" distance="0.6928679974756932" lignes="Piccadilly Line" />
+		<voisin nom="Russell Square" distance="0.7927937589558628" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Holland Park" coord="506, 531">
+		<voisin nom="Shepherd's Bush (C)" distance="1.4501468536683828" lignes="Central Line" />
+		<voisin nom="Notting Hill Gate" distance="1.0566556980380195" lignes="Central Line" />
+	</gare>
+	<gare nom="Holloway Road" coord="997, 297">
+		<voisin nom="Arsenal" distance="1.0518947869041855" lignes="Piccadilly Line" />
+		<voisin nom="Caledonian Road" distance="0.7997196970691928" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Hornchurch" coord="1535, 297">
+		<voisin nom="Elm Park" distance="2.3535050708504714" lignes="District Line" />
+		<voisin nom="Upminster Bridge" distance="1.833563171801534" lignes="District Line" />
+	</gare>
+	<gare nom="Hounslow Central" coord="131, 754">
+		<voisin nom="Hounslow West" distance="2.127949475713069" lignes="Piccadilly Line" />
+		<voisin nom="Hounslow East" distance="1.1461575115361344" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Hounslow East" coord="149, 733">
+		<voisin nom="Osterley" distance="1.0058105797785313" lignes="Piccadilly Line" />
+		<voisin nom="Hounslow Central" distance="1.1461575115361344" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Hounslow West" coord="114, 768">
+		<voisin nom="Hatton Cross" distance="4.203822382288102" lignes="Piccadilly Line" />
+		<voisin nom="Hounslow Central" distance="2.127949475713069" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Hyde Park Corner" coord="653, 601">
+		<voisin nom="Knightsbridge" distance="0.9005188740541564" lignes="Piccadilly Line" />
+		<voisin nom="Green Park" distance="1.1886184895523013" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Ickenham" coord="113, 159|113, 159">
+		<voisin nom="Ruislip" distance="2.550151363901256" lignes="Metropolitan Line,Piccadilly Line" />
+		<voisin nom="Hillingdon" distance="1.2517678708300601" lignes="Metropolitan Line,Piccadilly Line" />
+	</gare>
+	<gare nom="Island Gardens" coord="1239, 776">
+		<voisin nom="Cutty Sark" distance="0.4929580849931163" lignes="Docklands Light Railway" />
+		<voisin nom="Mudchute" distance="0.5991636529903259" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Kennington" coord="798, 860">
+		<voisin nom="Elephant &amp; Castle" distance="0.8754687895909609" lignes="Northern Line" />
+		<voisin nom="Waterloo" distance="1.966417612220653" lignes="Northern Line" />
+		<voisin nom="Oval" distance="1.1217329109639544" lignes="Northern Line" />
+	</gare>
+	<gare nom="Kensal Green" coord="434, 346">
+		<voisin nom="Willesden Junction" distance="2.5498723065708906" lignes="Bakerloo Line" />
+		<voisin nom="Queen's Park" distance="2.2970145250163236" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Kensington (Olympia)" coord="511, 606">
+		<voisin nom="Earl's Court" distance="1.6382488871550804" lignes="District Line" />
+	</gare>
+	<gare nom="Kentish Town" coord="881, 268">
+		<voisin nom="Camden Town" distance="1.3077514877715062" lignes="Northern Line" />
+		<voisin nom="Tufnell Park" distance="0.7370643994164742" lignes="Northern Line" />
+	</gare>
+	<gare nom="Kenton" coord="435, 182">
+		<voisin nom="Harrow &amp; Wealdston" distance="2.4287457835654522" lignes="Bakerloo Line" />
+		<voisin nom="South Kenton" distance="1.5658346725301304" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Kew Gardens" coord="294, 757">
+		<voisin nom="Richmond" distance="2.3702820971473337" lignes="District Line" />
+		<voisin nom="Gunnersbury" distance="1.935823127999892" lignes="District Line" />
+	</gare>
+	<gare nom="Kilburn" coord="581, 311">
+		<voisin nom="West Hampstead" distance="1.5697627089552784" lignes="Jubilee Line" />
+		<voisin nom="Willesden Green" distance="1.8847212940699125" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Kilburn Park" coord="436, 388">
+		<voisin nom="Queen's Park" distance="1.2073931160323024" lignes="Bakerloo Line" />
+		<voisin nom="Maida Vale" distance="1.1034660076962493" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="King George V" coord="1509, 727">
+		<voisin nom="London City Airport" distance="1.5588703749350044" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="King's Cross St. Pancras" coord="890, 406|890, 438">
+		<voisin nom="Euston" distance="1.1394351454091323" lignes="Victoria Line,Northern Line" />
+		<voisin nom="Highbury &amp; Islington" distance="2.7787072717855508" lignes="Victoria Line" />
+		<voisin nom="Farringdon" distance="2.3679923286298723" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Euston Square" distance="1.4490782764572585" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Angel" distance="2.009802401048991" lignes="Northern Line" />
+		<voisin nom="Russell Square" distance="0.8708551194064355" lignes="Piccadilly Line" />
+		<voisin nom="Caledonian Road" distance="2.0046432283398246" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Kingsbury" coord="498, 206">
+		<voisin nom="Queensbury" distance="1.3561243635469131" lignes="Jubilee Line" />
+		<voisin nom="Wembley Park" distance="2.3509491563376765" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Knightsbridge" coord="635, 619">
+		<voisin nom="Hyde Park Corner" distance="0.9005188740541564" lignes="Piccadilly Line" />
+		<voisin nom="South Kensington" distance="1.6748665087575458" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Ladbroke Grove" coord="452, 473">
+		<voisin nom="Westbourne Park" distance="1.149342417842247" lignes="Hammersmith &amp; City Line" />
+		<voisin nom="Latimer Road" distance="0.8114866258202516" lignes="Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Lambeth North" coord="815, 781">
+		<voisin nom="Elephant &amp; Castle" distance="1.3769457032062027" lignes="Bakerloo Line" />
+		<voisin nom="Waterloo" distance="0.5899924678379523" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Lancaster Gate" coord="613, 531">
+		<voisin nom="Marble Arch" distance="1.9018698790461899" lignes="Central Line" />
+		<voisin nom="Queensway" distance="1.3535735340219608" lignes="Central Line" />
+	</gare>
+	<gare nom="Latimer Road" coord="438, 488">
+		<voisin nom="Shepherd's Bush (H)" distance="1.3728858030343212" lignes="Hammersmith &amp; City Line" />
+		<voisin nom="Ladbroke Grove" distance="0.8114866258202516" lignes="Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Leicester Square" coord="801, 572|801, 572">
+		<voisin nom="Charing Cross" distance="0.5274470478491505" lignes="Northern Line" />
+		<voisin nom="Tottenham Court Road" distance="0.66279386839575" lignes="Northern Line" />
+		<voisin nom="Covent Garden" distance="0.45898184888892757" lignes="Piccadilly Line" />
+		<voisin nom="Piccadilly Circus" distance="0.6992777110190628" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Lewisham" coord="1238, 899">
+		<voisin nom="Elverson Road" distance="0.536185665513671" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Leyton" coord="1334, 354">
+		<voisin nom="Stratford" distance="1.6742762225438108" lignes="Central Line" />
+		<voisin nom="Leytonstone" distance="1.997091520166035" lignes="Central Line" />
+	</gare>
+	<gare nom="Leytonstone" coord="1333, 300">
+		<voisin nom="Leyton" distance="1.997091520166035" lignes="Central Line" />
+		<voisin nom="Wanstead" distance="2.5013219353613465" lignes="Central Line" />
+		<voisin nom="Snaresbrook" distance="2.0318170237765893" lignes="Central Line" />
+	</gare>
+	<gare nom="Limehouse" coord="1187, 591">
+		<voisin nom="Shadwell" distance="1.8268610370892489" lignes="Docklands Light Railway" />
+		<voisin nom="Westferry" distance="1.4867300315214218" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Liverpool Street" coord="1042, 496|1043, 513">
+		<voisin nom="Aldgate" distance="0.8513574407018364" lignes="Metropolitan Line,Circle Line" />
+		<voisin nom="Moorgate" distance="0.7069444867941655" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Bethnal Green" distance="3.2174989554495252" lignes="Central Line" />
+		<voisin nom="Bank" distance="0.8618454951772129" lignes="Central Line" />
+		<voisin nom="Aldgate East" distance="1.1123596365433162" lignes="Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="London Bridge" coord="974, 670|974, 670">
+		<voisin nom="Borough" distance="0.9908057488539638" lignes="Northern Line" />
+		<voisin nom="Bank" distance="0.9343535485187028" lignes="Northern Line" />
+		<voisin nom="Southwark" distance="2.0970653832595896" lignes="Jubilee Line" />
+		<voisin nom="Bermondsey" distance="2.654403647625824" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="London City Airport" coord="1475, 694">
+		<voisin nom="Pontoon Dock" distance="1.8897118806449862" lignes="Docklands Light Railway" />
+		<voisin nom="King George V" distance="1.5588703749350044" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Loughton" coord="1333, 75">
+		<voisin nom="Buckhurst Hill" distance="1.8919396046573012" lignes="Central Line" />
+		<voisin nom="Debden" distance="3.1534868061329275" lignes="Central Line" />
+	</gare>
+	<gare nom="Maida Vale" coord="449, 401">
+		<voisin nom="Kilburn Park" distance="1.1034660076962493" lignes="Bakerloo Line" />
+		<voisin nom="Warwick Avenue" distance="0.7538521179180248" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Manor House" coord="1071, 216">
+		<voisin nom="Turnpike Lane" distance="2.2749490718315646" lignes="Piccadilly Line" />
+		<voisin nom="Finsbury Park" distance="1.4233660553874572" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Mansion House" coord="926, 624|926, 624">
+		<voisin nom="Cannon Street" distance="0.4130837912492217" lignes="District Line,Circle Line" />
+		<voisin nom="Blackfriars" distance="1.013251994544961" lignes="District Line,Circle Line" />
+	</gare>
+	<gare nom="Marble Arch" coord="639, 532">
+		<voisin nom="Bond Street" distance="1.0263149762936874" lignes="Central Line" />
+		<voisin nom="Lancaster Gate" distance="1.9018698790461899" lignes="Central Line" />
+	</gare>
+	<gare nom="Marylebone" coord="619, 421">
+		<voisin nom="Baker Street" distance="0.668009704286698" lignes="Bakerloo Line" />
+		<voisin nom="Edgware Road (B)" distance="0.6076855849414191" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Mile End" coord="1212, 468|1212, 485">
+		<voisin nom="Stepney Green" distance="1.5675112334188297" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Bow Road" distance="0.9720556601611696" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Bethnal Green" distance="2.426918080338158" lignes="Central Line" />
+		<voisin nom="Stratford" distance="3.725279715176268" lignes="Central Line" />
+	</gare>
+	<gare nom="Mill Hill East" coord="851, 105">
+		<voisin nom="Finchley Central" distance="2.0568799426068325" lignes="Northern Line" />
+	</gare>
+	<gare nom="Monument" coord="992, 594|992, 594">
+		<voisin nom="Tower Hill" distance="1.0855220014290208" lignes="District Line,Circle Line" />
+		<voisin nom="Cannon Street" distance="0.4597912759971947" lignes="District Line,Circle Line" />
+		<voisin nom="Bank" distance="4.6096306961911235" lignes="pedestre" />
+	</gare>
+	<gare nom="Moor Park" coord="219, 104">
+		<voisin nom="Northwood" distance="2.2232464745433824" lignes="Metropolitan Line" />
+		<voisin nom="Croxley" distance="2.2106997420157057" lignes="Metropolitan Line" />
+		<voisin nom="Rickmansworth" distance="4.757762273420783" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Moorgate" coord="974, 497|974, 497">
+		<voisin nom="Liverpool Street" distance="0.7069444867941655" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Barbican" distance="1.0544840697936182" lignes="Metropolitan Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Old Street" distance="0.869289476794423" lignes="Northern Line" />
+		<voisin nom="Bank" distance="0.5899925903197037" lignes="Northern Line" />
+	</gare>
+	<gare nom="Morden" coord="591, 1064">
+		<voisin nom="South Wimbledon" distance="1.5044532278548057" lignes="Northern Line" />
+	</gare>
+	<gare nom="Mornington Crescent" coord="820, 371">
+		<voisin nom="Camden Town" distance="0.7058906580321428" lignes="Northern Line" />
+		<voisin nom="Euston" distance="0.8694315641183251" lignes="Northern Line" />
+	</gare>
+	<gare nom="Mudchute" coord="1239, 755">
+		<voisin nom="Island Gardens" distance="0.5991636529903259" lignes="Docklands Light Railway" />
+		<voisin nom="Crossharbour &amp; London Arena" distance="0.6123583729184027" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Neasden" coord="522, 252">
+		<voisin nom="Wembley Park" distance="3.411407815632068" lignes="Jubilee Line" />
+		<voisin nom="Dollis Hill" distance="1.314324070254311" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="New Cross" coord="1138, 834">
+		<voisin nom="Surrey Quays" distance="2.4980497101888335" lignes="East London Line" />
+	</gare>
+	<gare nom="New Cross Gate" coord="1071, 834">
+		<voisin nom="Surrey Quays" distance="2.1340844038928433" lignes="East London Line" />
+	</gare>
+	<gare nom="Newbury Park" coord="1434, 233">
+		<voisin nom="Gants Hill" distance="2.6290496423356964" lignes="Central Line" />
+		<voisin nom="Barkingside" distance="1.1211799204437496" lignes="Central Line" />
+	</gare>
+	<gare nom="North Acton" coord="358, 534">
+		<voisin nom="East Acton" distance="1.5699563729895407" lignes="Central Line" />
+		<voisin nom="Hanger Lane" distance="3.8096792648536235" lignes="Central Line" />
+		<voisin nom="West Acton" distance="2.443784273490155" lignes="Central Line" />
+	</gare>
+	<gare nom="North Ealing" coord="239, 504">
+		<voisin nom="Park Royal" distance="1.1749757472472608" lignes="Piccadilly Line" />
+		<voisin nom="Ealing Common" distance="0.8256320717322403" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="North Greenwich" coord="1293, 661">
+		<voisin nom="Canary Wharf" distance="2.8078121140286356" lignes="Jubilee Line" />
+		<voisin nom="Canning Town" distance="1.651622634389608" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="North Harrow" coord="301, 185">
+		<voisin nom="Pinner" distance="2.182564208833818" lignes="Metropolitan Line" />
+		<voisin nom="Harrow-on-the-Hill" distance="2.9538264590618266" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="North Wembley" coord="435, 252">
+		<voisin nom="Wembley Central" distance="1.3834426490564529" lignes="Bakerloo Line" />
+		<voisin nom="South Kenton" distance="1.0328635874782492" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Northfields" coord="203, 676">
+		<voisin nom="South Ealing" distance="0.7993322772697037" lignes="Piccadilly Line" />
+		<voisin nom="Boston Manor" distance="1.278234391155278" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Northolt" coord="146, 302">
+		<voisin nom="Greenford" distance="2.6568037768036996" lignes="Central Line" />
+		<voisin nom="South Ruislip" distance="3.484792036659607" lignes="Central Line" />
+	</gare>
+	<gare nom="Northwick Park" coord="407, 215">
+		<voisin nom="Harrow-on-the-Hill" distance="2.0284903039664055" lignes="Metropolitan Line" />
+		<voisin nom="Preston Road" distance="2.657620420399769" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Northwood" coord="238, 122">
+		<voisin nom="Northwood Hills" distance="2.032987565828527" lignes="Metropolitan Line" />
+		<voisin nom="Moor Park" distance="2.2232464745433824" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Northwood Hills" coord="258, 141">
+		<voisin nom="Pinner" distance="3.3107530302598667" lignes="Metropolitan Line" />
+		<voisin nom="Northwood" distance="2.032987565828527" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Notting Hill Gate" coord="541, 531|541, 531">
+		<voisin nom="High Street Kensington" distance="1.055418950949264" lignes="District Line,Circle Line" />
+		<voisin nom="Bayswater" distance="1.0246831750191476" lignes="District Line,Circle Line" />
+		<voisin nom="Holland Park" distance="1.0566556980380195" lignes="Central Line" />
+		<voisin nom="Queensway" distance="1.0122730179448187" lignes="Central Line" />
+	</gare>
+	<gare nom="Oakwood" coord="1071, 75">
+		<voisin nom="Cockfosters" distance="2.0333713952817303" lignes="Piccadilly Line" />
+		<voisin nom="Southgate" distance="1.7657348043487326" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Old Street" coord="974, 450">
+		<voisin nom="Angel" distance="2.1616052452121335" lignes="Northern Line" />
+		<voisin nom="Moorgate" distance="0.869289476794423" lignes="Northern Line" />
+	</gare>
+	<gare nom="Osterley" coord="165, 714">
+		<voisin nom="Boston Manor" distance="3.420829755957704" lignes="Piccadilly Line" />
+		<voisin nom="Hounslow East" distance="1.0058105797785313" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Oval" coord="781, 870">
+		<voisin nom="Stockwell" distance="1.5431291117096642" lignes="Northern Line" />
+		<voisin nom="Kennington" distance="1.1217329109639544" lignes="Northern Line" />
+	</gare>
+	<gare nom="Oxford Circus" coord="723, 531|723, 531">
+		<voisin nom="Green Park" distance="0.9352134251120011" lignes="Victoria Line" />
+		<voisin nom="Warren Street" distance="1.133598896863865" lignes="Victoria Line" />
+		<voisin nom="Bond Street" distance="0.8839215883809911" lignes="Central Line" />
+		<voisin nom="Tottenham Court Road" distance="1.1807214387306935" lignes="Central Line" />
+		<voisin nom="Regent's Park" distance="1.0939345131021554" lignes="Bakerloo Line" />
+		<voisin nom="Piccadilly Circus" distance="0.9977222793794863" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Paddington" coord="515, 421|546, 452">
+		<voisin nom="Bayswater" distance="1.4284068865342192" lignes="District Line,Circle Line" />
+		<voisin nom="Edgware Road (C)" distance="0.819993162433942" lignes="District Line,Hammersmith &amp; City Line,Circle Line" />
+		<voisin nom="Royal Oak" distance="1.4480516601721447" lignes="Hammersmith &amp; City Line" />
+		<voisin nom="Edgware Road (B)" distance="0.9832089961205405" lignes="Bakerloo Line" />
+		<voisin nom="Warwick Avenue" distance="1.2673290408408526" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Park Royal" coord="239, 475">
+		<voisin nom="North Ealing" distance="1.1749757472472608" lignes="Piccadilly Line" />
+		<voisin nom="Alperton" distance="2.3111736682442965" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Parsons Green" coord="510, 775">
+		<voisin nom="Fulham Broadway" distance="0.8851102913977329" lignes="District Line" />
+		<voisin nom="Putney Bridge" distance="1.1741402111864443" lignes="District Line" />
+	</gare>
+	<gare nom="Perivale" coord="192, 401">
+		<voisin nom="Greenford" distance="2.5730191980506047" lignes="Central Line" />
+		<voisin nom="Hanger Lane" distance="3.4038449853899273" lignes="Central Line" />
+	</gare>
+	<gare nom="Piccadilly Circus" coord="759, 583|759, 583">
+		<voisin nom="Charing Cross" distance="1.0763505915577596" lignes="Bakerloo Line" />
+		<voisin nom="Oxford Circus" distance="0.9977222793794863" lignes="Bakerloo Line" />
+		<voisin nom="Leicester Square" distance="0.6992777110190628" lignes="Piccadilly Line" />
+		<voisin nom="Green Park" distance="1.0176449182053893" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Pimlico" coord="684, 744">
+		<voisin nom="Vauxhall" distance="0.9695023270463741" lignes="Victoria Line" />
+		<voisin nom="Victoria" distance="1.4915552932560732" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Pinner" coord="280, 168">
+		<voisin nom="Northwood Hills" distance="3.3107530302598667" lignes="Metropolitan Line" />
+		<voisin nom="North Harrow" distance="2.182564208833818" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Plaistow" coord="1370, 462|1370, 462">
+		<voisin nom="Upton Park" distance="1.952443578205888" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="West Ham" distance="1.323344831581136" lignes="District Line,Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Pontoon Dock" coord="1441, 659">
+		<voisin nom="West Silvertown" distance="1.0374235949835233" lignes="Docklands Light Railway" />
+		<voisin nom="London City Airport" distance="1.8897118806449862" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Poplar" coord="1239, 591">
+		<voisin nom="West India Quay" distance="0.3429290851995163" lignes="Docklands Light Railway" />
+		<voisin nom="All Saints" distance="0.5836581710617282" lignes="Docklands Light Railway" />
+		<voisin nom="Blackwall" distance="1.1913266085009424" lignes="Docklands Light Railway" />
+		<voisin nom="Westferry" distance="1.048059848901287" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Preston Road" coord="461, 216">
+		<voisin nom="Wembley Park" distance="2.00702028211308" lignes="Metropolitan Line" />
+		<voisin nom="Northwick Park" distance="2.657620420399769" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Prince Regent" coord="1443, 621">
+		<voisin nom="Royal Albert" distance="1.4395121013270067" lignes="Docklands Light Railway" />
+		<voisin nom="Custom House" distance="0.6682879047701988" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Pudding Mill Lane" coord="1294, 420">
+		<voisin nom="Bow Church" distance="1.0941635499790894" lignes="Docklands Light Railway" />
+		<voisin nom="Stratford" distance="1.3514204463213562" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Putney Bridge" coord="510, 797">
+		<voisin nom="East Putney" distance="1.0989030337359742" lignes="District Line" />
+		<voisin nom="Parsons Green" distance="1.1741402111864443" lignes="District Line" />
+	</gare>
+	<gare nom="Queen's Park" coord="434, 364">
+		<voisin nom="Kilburn Park" distance="1.2073931160323024" lignes="Bakerloo Line" />
+		<voisin nom="Kensal Green" distance="2.2970145250163236" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Queensbury" coord="497, 184">
+		<voisin nom="Canons Park" distance="1.7912245189135105" lignes="Jubilee Line" />
+		<voisin nom="Kingsbury" distance="1.3561243635469131" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Queensway" coord="581, 532">
+		<voisin nom="Lancaster Gate" distance="1.3535735340219608" lignes="Central Line" />
+		<voisin nom="Notting Hill Gate" distance="1.0122730179448187" lignes="Central Line" />
+	</gare>
+	<gare nom="Ravenscourt Park" coord="405, 665">
+		<voisin nom="Hammersmith" distance="1.2041043637174538" lignes="District Line" />
+		<voisin nom="Stamford Brook" distance="1.1167513838942302" lignes="District Line" />
+	</gare>
+	<gare nom="Rayners Lane" coord="235, 205|235, 205">
+		<voisin nom="Eastcote" distance="2.8529079675012605" lignes="Metropolitan Line,Piccadilly Line" />
+		<voisin nom="West Harrow" distance="2.0684146766765252" lignes="Metropolitan Line" />
+		<voisin nom="South Harrow" distance="2.456545079362256" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Redbridge" coord="1386, 265">
+		<voisin nom="Gants Hill" distance="2.3266838816465336" lignes="Central Line" />
+		<voisin nom="Wanstead" distance="1.8527255706574384" lignes="Central Line" />
+	</gare>
+	<gare nom="Regent's Park" coord="702, 481">
+		<voisin nom="Oxford Circus" distance="1.0939345131021554" lignes="Bakerloo Line" />
+		<voisin nom="Baker Street" distance="1.1722423186709146" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Richmond" coord="294, 784">
+		<voisin nom="Kew Gardens" distance="2.3702820971473337" lignes="District Line" />
+	</gare>
+	<gare nom="Rickmansworth" coord="198, 92">
+		<voisin nom="Chorleywood" distance="5.242894555097962" lignes="Metropolitan Line" />
+		<voisin nom="Moor Park" distance="4.757762273420783" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Roding Valley" coord="1359, 142">
+		<voisin nom="Woodford" distance="1.5666016597273427" lignes="Central Line" />
+		<voisin nom="Chigwell" distance="3.5183299495186864" lignes="Central Line" />
+	</gare>
+	<gare nom="Rotherhithe" coord="1139, 654">
+		<voisin nom="Canada Water" distance="0.40336987516327805" lignes="East London Line" />
+		<voisin nom="Wapping" distance="0.519517363047805" lignes="East London Line" />
+	</gare>
+	<gare nom="Royal Albert" coord="1463, 641">
+		<voisin nom="Beckton Park" distance="0.9468048270138031" lignes="Docklands Light Railway" />
+		<voisin nom="Prince Regent" distance="1.4395121013270067" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Royal Oak" coord="479, 444">
+		<voisin nom="Paddington" distance="1.4480516601721447" lignes="Hammersmith &amp; City Line" />
+		<voisin nom="Westbourne Park" distance="1.47518258216309" lignes="Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Royal Victoria" coord="1399, 592">
+		<voisin nom="Canning Town" distance="1.2661582715241777" lignes="Docklands Light Railway" />
+		<voisin nom="Custom House" distance="1.0584721735821787" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Ruislip" coord="169, 158|169, 160">
+		<voisin nom="Ruislip Manor" distance="0.9977223020133265" lignes="Metropolitan Line,Piccadilly Line" />
+		<voisin nom="Ickenham" distance="2.550151363901256" lignes="Metropolitan Line,Piccadilly Line" />
+	</gare>
+	<gare nom="Ruislip Gardens" coord="146, 214">
+		<voisin nom="West Ruislip" distance="3.19989917079909" lignes="Central Line" />
+		<voisin nom="South Ruislip" distance="1.344798967404645" lignes="Central Line" />
+	</gare>
+	<gare nom="Ruislip Manor" coord="197, 165|197, 165">
+		<voisin nom="Ruislip" distance="0.9977223020133265" lignes="Metropolitan Line,Piccadilly Line" />
+		<voisin nom="Eastcote" distance="1.7641222869935715" lignes="Metropolitan Line,Piccadilly Line" />
+	</gare>
+	<gare nom="Russell Square" coord="852, 489">
+		<voisin nom="King's Cross St. Pancras" distance="0.8708551194064355" lignes="Piccadilly Line" />
+		<voisin nom="Holborn" distance="0.7927937589558628" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Seven Sisters" coord="1126, 235">
+		<voisin nom="Finsbury Park" distance="4.048356672522164" lignes="Victoria Line" />
+		<voisin nom="Tottenham Hale" distance="1.850215500032975" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Shadwell" coord="1138, 580|1150, 591">
+		<voisin nom="Tower Gateway" distance="2.0408235947308984" lignes="Docklands Light Railway" />
+		<voisin nom="Limehouse" distance="1.8268610370892489" lignes="Docklands Light Railway" />
+		<voisin nom="Bank" distance="3.633383589974174" lignes="Docklands Light Railway" />
+		<voisin nom="Whitechapel" distance="1.034312864205773" lignes="East London Line" />
+		<voisin nom="Wapping" distance="0.8240646440770696" lignes="East London Line" />
+	</gare>
+	<gare nom="Shepherd's Bush (C)" coord="474, 531">
+		<voisin nom="Holland Park" distance="1.4501468536683828" lignes="Central Line" />
+		<voisin nom="White City" distance="1.0068057631897542" lignes="Central Line" />
+	</gare>
+	<gare nom="Shepherd's Bush (H)" coord="432, 592">
+		<voisin nom="Goldhawk Road" distance="0.4458307348284144" lignes="Hammersmith &amp; City Line" />
+		<voisin nom="Latimer Road" distance="1.3728858030343212" lignes="Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Shoreditch" coord="1139, 484">
+		<voisin nom="Whitechapel" distance="1.1300435442447838" lignes="East London Line" />
+	</gare>
+	<gare nom="Sloane Square" coord="642, 663|642, 663">
+		<voisin nom="Victoria" distance="1.3906022741009372" lignes="District Line,Circle Line" />
+		<voisin nom="South Kensington" distance="1.9351028471856992" lignes="District Line,Circle Line" />
+	</gare>
+	<gare nom="Snaresbrook" coord="1334, 221">
+		<voisin nom="South Woodford" distance="1.379733027892536" lignes="Central Line" />
+		<voisin nom="Leytonstone" distance="2.0318170237765893" lignes="Central Line" />
+	</gare>
+	<gare nom="South Ealing" coord="222, 658">
+		<voisin nom="Northfields" distance="0.7993322772697037" lignes="Piccadilly Line" />
+		<voisin nom="Acton Town" distance="3.022687886607391" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="South Harrow" coord="241, 247">
+		<voisin nom="Sudbury Hill" distance="1.9266244696534547" lignes="Piccadilly Line" />
+		<voisin nom="Rayners Lane" distance="2.456545079362256" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="South Kensington" coord="592, 652|593, 665">
+		<voisin nom="Sloane Square" distance="1.9351028471856992" lignes="District Line,Circle Line" />
+		<voisin nom="Gloucester Road" distance="1.0139855176400348" lignes="District Line,Circle Line,Piccadilly Line" />
+		<voisin nom="Knightsbridge" distance="1.6748665087575458" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="South Kenton" coord="435, 231">
+		<voisin nom="North Wembley" distance="1.0328635874782492" lignes="Bakerloo Line" />
+		<voisin nom="Kenton" distance="1.5658346725301304" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="South Quay" coord="1239, 711">
+		<voisin nom="Heron Quays" distance="0.3938885475869064" lignes="Docklands Light Railway" />
+		<voisin nom="Crossharbour &amp; London Arena" distance="0.7638982995061159" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="South Ruislip" coord="147, 256">
+		<voisin nom="Ruislip Gardens" distance="1.344798967404645" lignes="Central Line" />
+		<voisin nom="Northolt" distance="3.484792036659607" lignes="Central Line" />
+	</gare>
+	<gare nom="South Wimbledon" coord="612, 1041">
+		<voisin nom="Morden" distance="1.5044532278548057" lignes="Northern Line" />
+		<voisin nom="Colliers Wood" distance="1.5960665801746468" lignes="Northern Line" />
+	</gare>
+	<gare nom="South Woodford" coord="1334, 200">
+		<voisin nom="Woodford" distance="1.8548978443334387" lignes="Central Line" />
+		<voisin nom="Snaresbrook" distance="1.379733027892536" lignes="Central Line" />
+	</gare>
+	<gare nom="Southfields" coord="510, 848">
+		<voisin nom="East Putney" distance="1.5560764016836228" lignes="District Line" />
+		<voisin nom="Wimbledon Park" distance="1.4850556423767989" lignes="District Line" />
+	</gare>
+	<gare nom="Southgate" coord="1069, 98">
+		<voisin nom="Oakwood" distance="1.7657348043487326" lignes="Piccadilly Line" />
+		<voisin nom="Arnos Grove" distance="1.8482009472015644" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Southwark" coord="853, 728">
+		<voisin nom="Waterloo" distance="1.0139855220941982" lignes="Jubilee Line" />
+		<voisin nom="London Bridge" distance="2.0970653832595896" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="St. James's Park" coord="712, 661|712, 661">
+		<voisin nom="Westminster" distance="0.9191106895061781" lignes="District Line,Circle Line" />
+		<voisin nom="Victoria" distance="1.2878945903896746" lignes="District Line,Circle Line" />
+	</gare>
+	<gare nom="St. John's Wood" coord="650, 377">
+		<voisin nom="Baker Street" distance="2.3137824515707366" lignes="Jubilee Line" />
+		<voisin nom="Swiss Cottage" distance="0.9464732107568347" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="St. Paul's" coord="913, 542">
+		<voisin nom="Bank" distance="0.9792319175812315" lignes="Central Line" />
+		<voisin nom="Chancery Lane" distance="1.596377193422134" lignes="Central Line" />
+	</gare>
+	<gare nom="Stamford Brook" coord="359, 665">
+		<voisin nom="Ravenscourt Park" distance="1.1167513838942302" lignes="District Line" />
+		<voisin nom="Turnham Green" distance="0.9796747682174302" lignes="District Line" />
+	</gare>
+	<gare nom="Stanmore" coord="498, 140">
+		<voisin nom="Canons Park" distance="1.5749498769672183" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Stepney Green" coord="1158, 519|1158, 519">
+		<voisin nom="Whitechapel" distance="1.6090576544309716" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Mile End" distance="1.5675112334188297" lignes="District Line,Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Stockwell" coord="768, 887|768, 887">
+		<voisin nom="Brixton" distance="1.427364206600495" lignes="Victoria Line" />
+		<voisin nom="Vauxhall" distance="1.5573955034745801" lignes="Victoria Line" />
+		<voisin nom="Oval" distance="1.5431291117096642" lignes="Northern Line" />
+		<voisin nom="Clapham North" distance="1.1263075539527765" lignes="Northern Line" />
+	</gare>
+	<gare nom="Stonebridge Park" coord="434, 287">
+		<voisin nom="Harlesden" distance="2.220394745754203" lignes="Bakerloo Line" />
+		<voisin nom="Wembley Central" distance="2.4392902384000523" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Stratford" coord="1301, 395|1301, 395">
+		<voisin nom="Leyton" distance="1.6742762225438108" lignes="Central Line" />
+		<voisin nom="Mile End" distance="3.725279715176268" lignes="Central Line" />
+		<voisin nom="Pudding Mill Lane" distance="1.3514204463213562" lignes="Docklands Light Railway" />
+		<voisin nom="West Ham" distance="1.803410106776239" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Sudbury Hill" coord="241, 282">
+		<voisin nom="Sudbury Town" distance="2.4374615810793254" lignes="Piccadilly Line" />
+		<voisin nom="South Harrow" distance="1.9266244696534547" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Sudbury Town" coord="241, 318">
+		<voisin nom="Alperton" distance="2.090931855271119" lignes="Piccadilly Line" />
+		<voisin nom="Sudbury Hill" distance="2.4374615810793254" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Surrey Quays" coord="1138, 725">
+		<voisin nom="New Cross Gate" distance="2.1340844038928433" lignes="East London Line" />
+		<voisin nom="Canada Water" distance="0.6073800138433438" lignes="East London Line" />
+		<voisin nom="New Cross" distance="2.4980497101888335" lignes="East London Line" />
+	</gare>
+	<gare nom="Swiss Cottage" coord="633, 361">
+		<voisin nom="Finchley Road" distance="0.8496080253757134" lignes="Jubilee Line" />
+		<voisin nom="St. John's Wood" distance="0.9464732107568347" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Temple" coord="853, 660|853, 660">
+		<voisin nom="Embankment" distance="1.0014420523494707" lignes="District Line,Circle Line" />
+		<voisin nom="Blackfriars" distance="1.2286061332116769" lignes="District Line,Circle Line" />
+	</gare>
+	<gare nom="Theydon Bois" coord="1333, 38">
+		<voisin nom="Epping" distance="2.718471788090045" lignes="Central Line" />
+		<voisin nom="Debden" distance="3.6357159787749915" lignes="Central Line" />
+	</gare>
+	<gare nom="Tooting Bec" coord="671, 979">
+		<voisin nom="Balham" distance="1.1258668363884687" lignes="Northern Line" />
+		<voisin nom="Tooting Broadway" distance="1.3227800279519533" lignes="Northern Line" />
+	</gare>
+	<gare nom="Tooting Broadway" coord="651, 1000">
+		<voisin nom="Tooting Bec" distance="1.3227800279519533" lignes="Northern Line" />
+		<voisin nom="Colliers Wood" distance="1.5193751685176953" lignes="Northern Line" />
+	</gare>
+	<gare nom="Tottenham Court Road" coord="801, 531|801, 531">
+		<voisin nom="Oxford Circus" distance="1.1807214387306935" lignes="Central Line" />
+		<voisin nom="Holborn" distance="1.228606125859512" lignes="Central Line" />
+		<voisin nom="Leicester Square" distance="0.66279386839575" lignes="Northern Line" />
+		<voisin nom="Goodge Street" distance="0.6065626750450424" lignes="Northern Line" />
+	</gare>
+	<gare nom="Tottenham Hale" coord="1163, 234">
+		<voisin nom="Blackhorse Road" distance="1.9774177181187282" lignes="Victoria Line" />
+		<voisin nom="Seven Sisters" distance="1.850215500032975" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Totteridge &amp; Whetstone" coord="881, 72">
+		<voisin nom="Woodside Park" distance="1.5486556450168887" lignes="Northern Line" />
+		<voisin nom="High Barnet" distance="2.8052637753406247" lignes="Northern Line" />
+	</gare>
+	<gare nom="Tower Gateway" coord="1077, 611|1077, 611">
+		<voisin nom="Tower Hill" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="Shadwell" distance="2.0408235947308984" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Tower Hill" coord="1060, 594|1060, 594">
+		<voisin nom="Aldgate East" distance="0.7660847437153493" lignes="District Line" />
+		<voisin nom="Monument" distance="1.0855220014290208" lignes="District Line,Circle Line" />
+		<voisin nom="Tower Gateway" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="Aldgate" distance="0.5156864334740096" lignes="Circle Line" />
+	</gare>
+	<gare nom="Tufnell Park" coord="881, 240">
+		<voisin nom="Archway" distance="0.9854735491740586" lignes="Northern Line" />
+		<voisin nom="Kentish Town" distance="0.7370643994164742" lignes="Northern Line" />
+	</gare>
+	<gare nom="Turnham Green" coord="320, 653|320, 667">
+		<voisin nom="Chiswick Park" distance="1.4593471331834247" lignes="District Line" />
+		<voisin nom="Gunnersbury" distance="2.338900977513255" lignes="District Line" />
+		<voisin nom="Stamford Brook" distance="0.9796747682174302" lignes="District Line" />
+		<voisin nom="Hammersmith" distance="3.2992850356533605" lignes="Piccadilly Line" />
+		<voisin nom="Acton Town" distance="2.9545809917994674" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Turnpike Lane" coord="1070, 183">
+		<voisin nom="Wood Green" distance="1.1021182032827725" lignes="Piccadilly Line" />
+		<voisin nom="Manor House" distance="2.2749490718315646" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Upminster" coord="1576, 258">
+		<voisin nom="Upminster Bridge" distance="1.8611673041709722" lignes="District Line" />
+	</gare>
+	<gare nom="Upminster Bridge" coord="1554, 278">
+		<voisin nom="Hornchurch" distance="1.833563171801534" lignes="District Line" />
+		<voisin nom="Upminster" distance="1.8611673041709722" lignes="District Line" />
+	</gare>
+	<gare nom="Upney" coord="1443, 391">
+		<voisin nom="Becontree" distance="2.8568146873730544" lignes="District Line" />
+		<voisin nom="Barking" distance="2.274216594432986" lignes="District Line" />
+	</gare>
+	<gare nom="Upton Park" coord="1385, 443|1385, 443">
+		<voisin nom="Plaistow" distance="1.952443578205888" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="East Ham" distance="2.00341063064214" lignes="District Line,Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Uxbridge" coord="19, 158|19, 158">
+		<voisin nom="Hillingdon" distance="3.3021502472395268" lignes="Metropolitan Line,Piccadilly Line" />
+	</gare>
+	<gare nom="Vauxhall" coord="702, 821">
+		<voisin nom="Stockwell" distance="1.5573955034745801" lignes="Victoria Line" />
+		<voisin nom="Pimlico" distance="0.9695023270463741" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Victoria" coord="685, 661|685, 661">
+		<voisin nom="Sloane Square" distance="1.3906022741009372" lignes="District Line,Circle Line" />
+		<voisin nom="St. James's Park" distance="1.2878945903896746" lignes="District Line,Circle Line" />
+		<voisin nom="Green Park" distance="1.1549864977697537" lignes="Victoria Line" />
+		<voisin nom="Pimlico" distance="1.4915552932560732" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Walthamstow Central" coord="1259, 235">
+		<voisin nom="Blackhorse Road" distance="2.5053810922072195" lignes="Victoria Line" />
+	</gare>
+	<gare nom="Wanstead" coord="1361, 265">
+		<voisin nom="Redbridge" distance="1.8527255706574384" lignes="Central Line" />
+		<voisin nom="Leytonstone" distance="2.5013219353613465" lignes="Central Line" />
+	</gare>
+	<gare nom="Wapping" coord="1139, 624">
+		<voisin nom="Rotherhithe" distance="0.519517363047805" lignes="East London Line" />
+		<voisin nom="Shadwell" distance="0.8240646440770696" lignes="East London Line" />
+	</gare>
+	<gare nom="Warren Street" coord="801, 454|801, 454">
+		<voisin nom="Euston" distance="0.6523353578487535" lignes="Victoria Line,Northern Line" />
+		<voisin nom="Oxford Circus" distance="1.133598896863865" lignes="Victoria Line" />
+		<voisin nom="Goodge Street" distance="0.623089910270833" lignes="Northern Line" />
+	</gare>
+	<gare nom="Warwick Avenue" coord="463, 414">
+		<voisin nom="Paddington" distance="1.2673290408408526" lignes="Bakerloo Line" />
+		<voisin nom="Maida Vale" distance="0.7538521179180248" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Waterloo" coord="787, 705|814, 706">
+		<voisin nom="Embankment" distance="0.9859158179872659" lignes="Northern Line,Bakerloo Line" />
+		<voisin nom="Kennington" distance="1.966417612220653" lignes="Northern Line" />
+		<voisin nom="Bank" distance="3.0579034632315167" lignes="Waterloo &amp; City Line" />
+		<voisin nom="Lambeth North" distance="0.5899924678379523" lignes="Bakerloo Line" />
+		<voisin nom="Southwark" distance="1.0139855220941982" lignes="Jubilee Line" />
+		<voisin nom="Westminster" distance="1.2690908691989515" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Watford" coord="207, 53">
+		<voisin nom="Croxley" distance="2.8562378272870164" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="Wembley Central" coord="435, 268">
+		<voisin nom="Stonebridge Park" distance="2.4392902384000523" lignes="Bakerloo Line" />
+		<voisin nom="North Wembley" distance="1.3834426490564529" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Wembley Park" coord="498, 237|507, 247">
+		<voisin nom="Finchley Road" distance="11.190973188759067" lignes="Metropolitan Line" />
+		<voisin nom="Preston Road" distance="2.00702028211308" lignes="Metropolitan Line" />
+		<voisin nom="Neasden" distance="3.411407815632068" lignes="Jubilee Line" />
+		<voisin nom="Kingsbury" distance="2.3509491563376765" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="West Acton" coord="291, 532">
+		<voisin nom="North Acton" distance="2.443784273490155" lignes="Central Line" />
+		<voisin nom="Ealing Broadway" distance="2.3363301205932556" lignes="Central Line" />
+	</gare>
+	<gare nom="West Brompton" coord="511, 710">
+		<voisin nom="Fulham Broadway" distance="0.7577044715082253" lignes="District Line" />
+		<voisin nom="Earl's Court" distance="0.5788584635221237" lignes="District Line" />
+	</gare>
+	<gare nom="West Finchley" coord="881, 113">
+		<voisin nom="Finchley Central" distance="1.0729445618155145" lignes="Northern Line" />
+		<voisin nom="Woodside Park" distance="0.9821965946520637" lignes="Northern Line" />
+	</gare>
+	<gare nom="West Ham" coord="1332, 484|1332, 484">
+		<voisin nom="Bromley-By-Bow" distance="1.9958811714172842" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Plaistow" distance="1.323344831581136" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Canning Town" distance="1.585120746094642" lignes="Jubilee Line" />
+		<voisin nom="Stratford" distance="1.803410106776239" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="West Hampstead" coord="598, 328">
+		<voisin nom="Finchley Road" distance="1.1470769942285504" lignes="Jubilee Line" />
+		<voisin nom="Kilburn" distance="1.5697627089552784" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="West Harrow" coord="297, 219">
+		<voisin nom="Harrow-on-the-Hill" distance="1.8591687993387878" lignes="Metropolitan Line" />
+		<voisin nom="Rayners Lane" distance="2.0684146766765252" lignes="Metropolitan Line" />
+	</gare>
+	<gare nom="West India Quay" coord="1239, 626">
+		<voisin nom="Canary Wharf" distance="0.22180248668003824" lignes="Docklands Light Railway" />
+		<voisin nom="Poplar" distance="0.3429290851995163" lignes="Docklands Light Railway" />
+		<voisin nom="Westferry" distance="0.7527864699122441" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="West Kensington" coord="493, 665">
+		<voisin nom="Barons Court" distance="0.8240650332072206" lignes="District Line" />
+		<voisin nom="Earl's Court" distance="1.0343131087367978" lignes="District Line" />
+	</gare>
+	<gare nom="West Ruislip" coord="147, 127">
+		<voisin nom="Ruislip Gardens" distance="3.19989917079909" lignes="Central Line" />
+	</gare>
+	<gare nom="West Silvertown" coord="1407, 624">
+		<voisin nom="Pontoon Dock" distance="1.0374235949835233" lignes="Docklands Light Railway" />
+		<voisin nom="Canning Town" distance="2.086639210348712" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Westbourne Park" coord="463, 461">
+		<voisin nom="Royal Oak" distance="1.47518258216309" lignes="Hammersmith &amp; City Line" />
+		<voisin nom="Ladbroke Grove" distance="1.149342417842247" lignes="Hammersmith &amp; City Line" />
+	</gare>
+	<gare nom="Westferry" coord="1213, 591">
+		<voisin nom="West India Quay" distance="0.7527864699122441" lignes="Docklands Light Railway" />
+		<voisin nom="Poplar" distance="1.048059848901287" lignes="Docklands Light Railway" />
+		<voisin nom="Limehouse" distance="1.4867300315214218" lignes="Docklands Light Railway" />
+	</gare>
+	<gare nom="Westminster" coord="764, 661|764, 661">
+		<voisin nom="St. James's Park" distance="0.9191106895061781" lignes="District Line,Circle Line" />
+		<voisin nom="Embankment" distance="0.7916201973137611" lignes="District Line,Circle Line" />
+		<voisin nom="Waterloo" distance="1.2690908691989515" lignes="Jubilee Line" />
+		<voisin nom="Green Park" distance="2.0382407909560354" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="White City" coord="414, 533">
+		<voisin nom="East Acton" distance="2.6700197660664156" lignes="Central Line" />
+		<voisin nom="Shepherd's Bush (C)" distance="1.0068057631897542" lignes="Central Line" />
+	</gare>
+	<gare nom="Whitechapel" coord="1139, 537|1139, 537">
+		<voisin nom="Stepney Green" distance="1.6090576544309716" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Aldgate East" distance="1.3448941529495224" lignes="District Line,Hammersmith &amp; City Line" />
+		<voisin nom="Shoreditch" distance="1.1300435442447838" lignes="East London Line" />
+		<voisin nom="Shadwell" distance="1.034312864205773" lignes="East London Line" />
+	</gare>
+	<gare nom="Willesden Green" coord="561, 290">
+		<voisin nom="Dollis Hill" distance="1.9398994340699507" lignes="Jubilee Line" />
+		<voisin nom="Kilburn" distance="1.8847212940699125" lignes="Jubilee Line" />
+	</gare>
+	<gare nom="Willesden Junction" coord="434, 328">
+		<voisin nom="Harlesden" distance="1.1517654219597089" lignes="Bakerloo Line" />
+		<voisin nom="Kensal Green" distance="2.5498723065708906" lignes="Bakerloo Line" />
+	</gare>
+	<gare nom="Wimbledon" coord="510, 892">
+		<voisin nom="Wimbledon Park" distance="1.6445468989438092" lignes="District Line" />
+	</gare>
+	<gare nom="Wimbledon Park" coord="510, 869">
+		<voisin nom="Wimbledon" distance="1.6445468989438092" lignes="District Line" />
+		<voisin nom="Southfields" distance="1.4850556423767989" lignes="District Line" />
+	</gare>
+	<gare nom="Wood Green" coord="1070, 162">
+		<voisin nom="Turnpike Lane" distance="1.1021182032827725" lignes="Piccadilly Line" />
+		<voisin nom="Bounds Green" distance="1.9451296967173473" lignes="Piccadilly Line" />
+	</gare>
+	<gare nom="Woodford" coord="1334, 177">
+		<voisin nom="Buckhurst Hill" distance="2.618162022342919" lignes="Central Line" />
+		<voisin nom="Roding Valley" distance="1.5666016597273427" lignes="Central Line" />
+		<voisin nom="South Woodford" distance="1.8548978443334387" lignes="Central Line" />
+	</gare>
+	<gare nom="Woodside Park" coord="881, 92">
+		<voisin nom="Totteridge &amp; Whetstone" distance="1.5486556450168887" lignes="Northern Line" />
+		<voisin nom="West Finchley" distance="0.9821965946520637" lignes="Northern Line" />
+	</gare>
+</data>

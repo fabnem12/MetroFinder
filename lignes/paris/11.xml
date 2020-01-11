@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="MAIRIE DES LILAS,CHATELET">
+	<gare nom="CHATELET" coord="1488, 1464">
+			<voisin nom ="HOTEL DE VILLE" distance ="0.00356714161243036"/>
+		</gare>
+	<gare nom="HOTEL DE VILLE" coord="1593, 1473">
+			<voisin nom ="RAMBUTEAU" distance ="0.0045025268740512235"/>
+			<voisin nom ="CHATELET" distance ="0.00356714161243036"/>
+		</gare>
+	<gare nom="RAMBUTEAU" coord="1663, 1402">
+			<voisin nom ="ARTS ET METIERS" distance ="0.00544991927280142"/>
+			<voisin nom ="HOTEL DE VILLE" distance ="0.0045025268740512235"/>
+		</gare>
+	<gare nom="ARTS ET METIERS" coord="1740, 1319">
+			<voisin nom ="REPUBLIQUE" distance ="0.0076480829797351355"/>
+			<voisin nom ="RAMBUTEAU" distance ="0.00544991927280142"/>
+		</gare>
+	<gare nom="REPUBLIQUE" coord="1831, 1237">
+			<voisin nom ="GONCOURT (HOPITAL SAINT-LOUIS)" distance ="0.007447714379970415"/>
+			<voisin nom ="ARTS ET METIERS" distance ="0.0076480829797351355"/>
+		</gare>
+	<gare nom="GONCOURT (HOPITAL SAINT-LOUIS)" coord="1908, 1157">
+			<voisin nom ="BELLEVILLE" distance ="0.005814999453812839"/>
+			<voisin nom ="REPUBLIQUE" distance ="0.007447714379970415"/>
+		</gare>
+	<gare nom="BELLEVILLE" coord="1978, 1087">
+			<voisin nom ="PYRENEES" distance ="0.008956333254256908"/>
+			<voisin nom ="GONCOURT (HOPITAL SAINT-LOUIS)" distance ="0.005814999453812839"/>
+		</gare>
+	<gare nom="PYRENEES" coord="2068, 1045">
+			<voisin nom ="JOURDAIN" distance ="0.004279381824166491"/>
+			<voisin nom ="BELLEVILLE" distance ="0.008956333254256908"/>
+		</gare>
+	<gare nom="JOURDAIN" coord="2177, 1045">
+			<voisin nom ="PLACE DES FETES" distance ="0.004016080450605037"/>
+			<voisin nom ="PYRENEES" distance ="0.004279381824166491"/>
+		</gare>
+	<gare nom="PLACE DES FETES" coord="2267, 1038">
+			<voisin nom ="TELEGRAPHE" distance ="0.005962179398164839"/>
+			<voisin nom ="JOURDAIN" distance ="0.004016080450605037"/>
+		</gare>
+	<gare nom="TELEGRAPHE" coord="2358, 1045">
+			<voisin nom ="PORTE DES LILAS" distance ="0.008030083610956376"/>
+			<voisin nom ="PLACE DES FETES" distance ="0.005962179398164839"/>
+		</gare>
+	<gare nom="PORTE DES LILAS" coord="2426, 1042">
+			<voisin nom ="MAIRIE DES LILAS" distance ="0.010104291063918741"/>
+			<voisin nom ="TELEGRAPHE" distance ="0.008030083610956376"/>
+		</gare>
+	<gare nom="MAIRIE DES LILAS" coord="2498, 957">
+			<voisin nom ="PORTE DES LILAS" distance ="0.010104291063918741"/>
+		</gare>
+</ligne>

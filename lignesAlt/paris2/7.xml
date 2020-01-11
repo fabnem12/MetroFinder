@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="LA COURNEUVE 8 MAI 1945,VILLEJUIF-LOUIS ARAGON,MAIRIE D'IVRY" couleur="fa9aba">
+	<gare nom="AUBERVILLIERS-PANTIN (QUATRE CHEMINS)" coord="2242, 577">
+		<voisin nom="PORTE DE LA VILLETTE" distance="0.9482991561614377" />
+		<voisin nom="FORT D'AUBERVILLIERS" distance="1.8357137639912295" />
+	</gare>
+	<gare nom="CADET" coord="1620, 1042">
+		<voisin nom="POISSONNIERE" distance="0.5944357111737967" />
+		<voisin nom="LE PELETIER" distance="0.4514391921071786" />
+	</gare>
+	<gare nom="CENSIER-DAUBENTON" coord="1652, 2047">
+		<voisin nom="PLACE MONGE (JARDIN DES PLANTES)" distance="0.2701915862316188" />
+		<voisin nom="LES GOBELINS" distance="0.5228370869610934" />
+	</gare>
+	<gare nom="CHATEAU-LANDON" coord="1975, 1029">
+		<voisin nom="GARE DE L'EST" distance="0.5558124773402453" />
+		<voisin nom="LOUIS BLANC" distance="0.4643840619986508" />
+	</gare>
+	<gare nom="CHATELET" coord="1679, 1579">
+		<voisin nom="PONT-NEUF (LA MONNAIE)" distance="0.5938696343371513" />
+		<voisin nom="PONT-MARIE (CITE DES ARTS)" distance="1.1947231181206037" />
+	</gare>
+	<gare nom="CHAUSSEE D'ANTIN (LA FAYETTE)" coord="1530, 1153">
+		<voisin nom="OPERA" distance="0.29757553511449575" />
+		<voisin nom="LE PELETIER" distance="0.7785446018222454" />
+	</gare>
+	<gare nom="CORENTIN CARIOU" coord="2128, 773">
+		<voisin nom="PORTE DE LA VILLETTE" distance="0.5360056713114675" />
+		<voisin nom="CRIMEE" distance="0.7338863957888517" />
+	</gare>
+	<gare nom="CRIMEE" coord="2105, 814">
+		<voisin nom="CORENTIN CARIOU" distance="0.7338863957888517" />
+		<voisin nom="RIQUET" distance="0.44568468074540457" />
+	</gare>
+	<gare nom="FORT D'AUBERVILLIERS" coord="2285, 495">
+		<voisin nom="AUBERVILLIERS-PANTIN (QUATRE CHEMINS)" distance="1.8357137639912295" />
+		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.9466185558598356" />
+	</gare>
+	<gare nom="GARE DE L'EST" coord="1905, 1041">
+		<voisin nom="POISSONNIERE" distance="0.9658681686273776" />
+		<voisin nom="CHATEAU-LANDON" distance="0.5558124773402453" />
+	</gare>
+	<gare nom="JUSSIEU" coord="1723, 1923">
+		<voisin nom="SULLY-MORLAND" distance="0.9690165906955824" />
+		<voisin nom="PLACE MONGE (JARDIN DES PLANTES)" distance="0.47257728262925836" />
+	</gare>
+	<gare nom="LA COURNEUVE 8 MAI 1945" coord="2247, 398">
+		<voisin nom="FORT D'AUBERVILLIERS" distance="0.9466185558598356" />
+	</gare>
+	<gare nom="LE KREMLIN-BICETRE" coord="1595, 2479">
+		<voisin nom="VILLEJUIF-LEO LAGRANGE" distance="0.63382441075326" />
+		<voisin nom="MAISON BLANCHE" distance="1.4324670465167335" />
+	</gare>
+	<gare nom="LE PELETIER" coord="1576, 1074">
+		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.7785446018222454" />
+		<voisin nom="CADET" distance="0.4514391921071786" />
+	</gare>
+	<gare nom="LES GOBELINS" coord="1619, 2104">
+		<voisin nom="CENSIER-DAUBENTON" distance="0.5228370869610934" />
+		<voisin nom="PLACE D'ITALIE" distance="0.5986648862936322" />
+	</gare>
+	<gare nom="LOUIS BLANC" coord="2017, 966">
+		<voisin nom="STALINGRAD" distance="0.3280815785620994" />
+		<voisin nom="CHATEAU-LANDON" distance="0.4643840619986508" />
+	</gare>
+	<gare nom="MAIRIE D'IVRY" coord="1896, 2518">
+		<voisin nom="PIERRE CURIE" distance="0.8821388148826369" />
+	</gare>
+	<gare nom="MAISON BLANCHE" coord="1512, 2289">
+		<voisin nom="TOLBIAC" distance="0.46417937855804225" />
+		<voisin nom="PORTE D'ITALIE" distance="0.4193302761427581" />
+		<voisin nom="LE KREMLIN-BICETRE" distance="1.4324670465167335" />
+	</gare>
+	<gare nom="OPERA" coord="1456, 1283">
+		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.29757553511449575" />
+		<voisin nom="PYRAMIDES" distance="0.5449834097084085" />
+	</gare>
+	<gare nom="PALAIS ROYAL-MUSEE DU LOUVRE" coord="1490, 1506">
+		<voisin nom="PONT-NEUF (LA MONNAIE)" distance="0.7625310855223442" />
+		<voisin nom="PYRAMIDES" distance="0.45087153577361194" />
+	</gare>
+	<gare nom="PIERRE CURIE" coord="1876, 2481">
+		<voisin nom="PORTE D'IVRY" distance="1.073565168433824" />
+		<voisin nom="MAIRIE D'IVRY" distance="0.8821388148826369" />
+	</gare>
+	<gare nom="PLACE D'ITALIE" coord="1592, 2149">
+		<voisin nom="TOLBIAC" distance="0.5848278875716997" />
+		<voisin nom="LES GOBELINS" distance="0.5986648862936322" />
+	</gare>
+	<gare nom="PLACE MONGE (JARDIN DES PLANTES)" coord="1686, 1988">
+		<voisin nom="CENSIER-DAUBENTON" distance="0.2701915862316188" />
+		<voisin nom="JUSSIEU" distance="0.47257728262925836" />
+	</gare>
+	<gare nom="POISSONNIERE" coord="1751, 1040">
+		<voisin nom="GARE DE L'EST" distance="0.9658681686273776" />
+		<voisin nom="CADET" distance="0.5944357111737967" />
+	</gare>
+	<gare nom="PONT-MARIE (CITE DES ARTS)" coord="1730, 1654">
+		<voisin nom="SULLY-MORLAND" distance="0.5965019601498146" />
+		<voisin nom="CHATELET" distance="1.1947231181206037" />
+	</gare>
+	<gare nom="PONT-NEUF (LA MONNAIE)" coord="1546, 1568">
+		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.7625310855223442" />
+		<voisin nom="CHATELET" distance="0.5938696343371513" />
+	</gare>
+	<gare nom="PORTE D'ITALIE" coord="1633, 2409">
+		<voisin nom="PORTE DE CHOISY" distance="0.43970092525904375" />
+		<voisin nom="MAISON BLANCHE" distance="0.4193302761427581" />
+	</gare>
+	<gare nom="PORTE D'IVRY" coord="1843, 2428">
+		<voisin nom="PORTE DE CHOISY" distance="0.6134208232568489" />
+		<voisin nom="PIERRE CURIE" distance="1.073565168433824" />
+	</gare>
+	<gare nom="PORTE DE CHOISY" coord="1732, 2409">
+		<voisin nom="PORTE D'IVRY" distance="0.6134208232568489" />
+		<voisin nom="PORTE D'ITALIE" distance="0.43970092525904375" />
+	</gare>
+	<gare nom="PORTE DE LA VILLETTE" coord="2164, 711">
+		<voisin nom="AUBERVILLIERS-PANTIN (QUATRE CHEMINS)" distance="0.9482991561614377" />
+		<voisin nom="CORENTIN CARIOU" distance="0.5360056713114675" />
+	</gare>
+	<gare nom="PYRAMIDES" coord="1432, 1405">
+		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.45087153577361194" />
+		<voisin nom="OPERA" distance="0.5449834097084085" />
+	</gare>
+	<gare nom="RIQUET" coord="2083, 852">
+		<voisin nom="STALINGRAD" distance="1.0272133551281248" />
+		<voisin nom="CRIMEE" distance="0.44568468074540457" />
+	</gare>
+	<gare nom="STALINGRAD" coord="2038, 930">
+		<voisin nom="LOUIS BLANC" distance="0.3280815785620994" />
+		<voisin nom="RIQUET" distance="1.0272133551281248" />
+	</gare>
+	<gare nom="SULLY-MORLAND" coord="1788, 1753">
+		<voisin nom="JUSSIEU" distance="0.9690165906955824" />
+		<voisin nom="PONT-MARIE (CITE DES ARTS)" distance="0.5965019601498146" />
+	</gare>
+	<gare nom="TOLBIAC" coord="1545, 2231">
+		<voisin nom="PLACE D'ITALIE" distance="0.5848278875716997" />
+		<voisin nom="MAISON BLANCHE" distance="0.46417937855804225" />
+	</gare>
+	<gare nom="VILLEJUIF-LEO LAGRANGE" coord="1618, 2516">
+		<voisin nom="LE KREMLIN-BICETRE" distance="0.63382441075326" />
+		<voisin nom="VILLEJUIF-PAUL VAILLANT-COUTURIER" distance="1.0313661415122428" />
+	</gare>
+	<gare nom="VILLEJUIF-LOUIS ARAGON" coord="1673, 2613">
+		<voisin nom="VILLEJUIF-PAUL VAILLANT-COUTURIER" distance="1.0369779195482909" />
+	</gare>
+	<gare nom="VILLEJUIF-PAUL VAILLANT-COUTURIER" coord="1650, 2572">
+		<voisin nom="VILLEJUIF-LEO LAGRANGE" distance="1.0313661415122428" />
+		<voisin nom="VILLEJUIF-LOUIS ARAGON" distance="1.0369779195482909" />
+	</gare>
+</ligne>

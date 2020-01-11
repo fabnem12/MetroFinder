@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="MAIRIE DE MONTREUIL,PONT DE SEVRES">
+	<gare nom="PONT DE SEVRES" coord="247, 2275">
+			<voisin nom ="BILLANCOURT" distance ="0.008209415800762366"/>
+		</gare>
+	<gare nom="BILLANCOURT" coord="292, 2230">
+			<voisin nom ="MARCEL SEMBAT" distance ="0.005441274188511609"/>
+			<voisin nom ="PONT DE SEVRES" distance ="0.008209415800762366"/>
+		</gare>
+	<gare nom="MARCEL SEMBAT" coord="337, 2185">
+			<voisin nom ="PORTE DE SAINT-CLOUD" distance ="0.013945769855942654"/>
+			<voisin nom ="BILLANCOURT" distance ="0.005441274188511609"/>
+		</gare>
+	<gare nom="PORTE DE SAINT-CLOUD" coord="381, 2127">
+			<voisin nom ="EXELMANS" distance ="0.0057660510429223795"/>
+			<voisin nom ="MARCEL SEMBAT" distance ="0.013945769855942654"/>
+		</gare>
+	<gare nom="EXELMANS" coord="381, 2062">
+			<voisin nom ="MICHEL-ANGE-MOLITOR" distance ="0.002803721809012075"/>
+			<voisin nom ="PORTE DE SAINT-CLOUD" distance ="0.0057660510429223795"/>
+		</gare>
+	<gare nom="MICHEL-ANGE-MOLITOR" coord="380, 1990">
+			<voisin nom ="MICHEL-ANGE-AUTEUIL" distance ="0.0037358766214752206"/>
+			<voisin nom ="EXELMANS" distance ="0.002803721809012075"/>
+		</gare>
+	<gare nom="MICHEL-ANGE-AUTEUIL" coord="380, 1916">
+			<voisin nom ="JASMIN" distance ="0.006045154243895769"/>
+			<voisin nom ="MICHEL-ANGE-MOLITOR" distance ="0.0037358766214752206"/>
+		</gare>
+	<gare nom="JASMIN" coord="381, 1808">
+			<voisin nom ="RANELAGH" distance ="0.0035524991919659785"/>
+			<voisin nom ="MICHEL-ANGE-AUTEUIL" distance ="0.006045154243895769"/>
+		</gare>
+	<gare nom="RANELAGH" coord="380, 1700">
+			<voisin nom ="LA MUETTE" distance ="0.004787980571758781"/>
+			<voisin nom ="JASMIN" distance ="0.0035524991919659785"/>
+		</gare>
+	<gare nom="LA MUETTE" coord="381, 1589">
+			<voisin nom ="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" distance ="0.007128182871583711"/>
+			<voisin nom ="RANELAGH" distance ="0.004787980571758781"/>
+		</gare>
+	<gare nom="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" coord="405, 1470">
+			<voisin nom ="TROCADERO" distance ="0.009474579949902324"/>
+			<voisin nom ="LA MUETTE" distance ="0.007128182871583711"/>
+		</gare>
+	<gare nom="TROCADERO" coord="520, 1470">
+			<voisin nom ="IENA" distance ="0.006687347397407357"/>
+			<voisin nom ="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" distance ="0.009474579949902324"/>
+		</gare>
+	<gare nom="IENA" coord="635, 1470">
+			<voisin nom ="ALMA-MARCEAU" distance ="0.006829039641764015"/>
+			<voisin nom ="TROCADERO" distance ="0.006687347397407357"/>
+		</gare>
+	<gare nom="ALMA-MARCEAU" coord="757, 1422">
+			<voisin nom ="FRANKLIN-D.ROOSEVELT" distance ="0.00820994163823985"/>
+			<voisin nom ="IENA" distance ="0.006829039641764015"/>
+		</gare>
+	<gare nom="FRANKLIN-D.ROOSEVELT" coord="848, 1329">
+			<voisin nom ="SAINT-PHILIPPE-DU-ROULE" distance ="0.003664173824383292"/>
+			<voisin nom ="ALMA-MARCEAU" distance ="0.00820994163823985"/>
+		</gare>
+	<gare nom="SAINT-PHILIPPE-DU-ROULE" coord="935, 1243">
+			<voisin nom ="MIROMESNIL" distance ="0.004618661932169634"/>
+			<voisin nom ="FRANKLIN-D.ROOSEVELT" distance ="0.003664173824383292"/>
+		</gare>
+	<gare nom="MIROMESNIL" coord="991, 1196">
+			<voisin nom ="SAINT-AUGUSTIN" distance ="0.006950748975860334"/>
+			<voisin nom ="SAINT-PHILIPPE-DU-ROULE" distance ="0.004618661932169634"/>
+		</gare>
+	<gare nom="SAINT-AUGUSTIN" coord="1032, 1147">
+			<voisin nom ="HAVRE-CAUMARTIN" distance ="0.006268864173064517"/>
+			<voisin nom ="MIROMESNIL" distance ="0.006950748975860334"/>
+		</gare>
+	<gare nom="HAVRE-CAUMARTIN" coord="1132, 1188">
+			<voisin nom ="CHAUSSEE D'ANTIN (LA FAYETTE)" distance ="0.005963905977847764"/>
+			<voisin nom ="SAINT-AUGUSTIN" distance ="0.006268864173064517"/>
+		</gare>
+	<gare nom="CHAUSSEE D'ANTIN (LA FAYETTE)" coord="1253, 1188">
+			<voisin nom ="RICHELIEU-DROUOT" distance ="0.005669491692660409"/>
+			<voisin nom ="HAVRE-CAUMARTIN" distance ="0.005963905977847764"/>
+		</gare>
+	<gare nom="RICHELIEU-DROUOT" coord="1331, 1194">
+			<voisin nom ="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance ="0.004134330021656811"/>
+			<voisin nom ="CHAUSSEE D'ANTIN (LA FAYETTE)" distance ="0.005669491692660409"/>
+		</gare>
+	<gare nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" coord="1432, 1195">
+			<voisin nom ="BONNE NOUVELLE" distance ="0.007463303106103116"/>
+			<voisin nom ="RICHELIEU-DROUOT" distance ="0.004134330021656811"/>
+		</gare>
+	<gare nom="BONNE NOUVELLE" coord="1568, 1197">
+			<voisin nom ="STRASBOURG-SAINT-DENIS" distance ="0.003951601514988311"/>
+			<voisin nom ="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance ="0.007463303106103116"/>
+		</gare>
+	<gare nom="STRASBOURG-SAINT-DENIS" coord="1641, 1193">
+			<voisin nom ="REPUBLIQUE" distance ="0.010159547715843039"/>
+			<voisin nom ="BONNE NOUVELLE" distance ="0.003951601514988311"/>
+		</gare>
+	<gare nom="REPUBLIQUE" coord="1831, 1237">
+			<voisin nom ="OBERKAMPF" distance ="0.004830632937341233"/>
+			<voisin nom ="STRASBOURG-SAINT-DENIS" distance ="0.010159547715843039"/>
+		</gare>
+	<gare nom="OBERKAMPF" coord="1881, 1292">
+			<voisin nom ="SAINT-AMBROISE" distance ="0.007256215253253138"/>
+			<voisin nom ="REPUBLIQUE" distance ="0.004830632937341233"/>
+		</gare>
+	<gare nom="SAINT-AMBROISE" coord="2009, 1429">
+			<voisin nom ="VOLTAIRE (LEON BLUM)" distance ="0.006966887753716524"/>
+			<voisin nom ="OBERKAMPF" distance ="0.007256215253253138"/>
+		</gare>
+	<gare nom="VOLTAIRE (LEON BLUM)" coord="2061, 1482">
+			<voisin nom ="CHARONNE" distance ="0.005632626661783702"/>
+			<voisin nom ="SAINT-AMBROISE" distance ="0.006966887753716524"/>
+		</gare>
+	<gare nom="CHARONNE" coord="2109, 1529">
+			<voisin nom ="RUE DES BOULETS" distance ="0.004436449290106672"/>
+			<voisin nom ="VOLTAIRE (LEON BLUM)" distance ="0.005632626661783702"/>
+		</gare>
+	<gare nom="RUE DES BOULETS" coord="2157, 1579">
+			<voisin nom ="NATION" distance ="0.007837248116249272"/>
+			<voisin nom ="CHARONNE" distance ="0.004436449290106672"/>
+		</gare>
+	<gare nom="NATION" coord="2224, 1666">
+			<voisin nom ="BUZENVAL" distance ="0.007113781798149144"/>
+			<voisin nom ="RUE DES BOULETS" distance ="0.007837248116249272"/>
+		</gare>
+	<gare nom="BUZENVAL" coord="2306, 1612">
+			<voisin nom ="MARAICHERS" distance ="0.005148488325520646"/>
+			<voisin nom ="NATION" distance ="0.007113781798149144"/>
+		</gare>
+	<gare nom="MARAICHERS" coord="2346, 1574">
+			<voisin nom ="PORTE DE MONTREUIL" distance ="0.004610552194147279"/>
+			<voisin nom ="BUZENVAL" distance ="0.005148488325520646"/>
+		</gare>
+	<gare nom="PORTE DE MONTREUIL" coord="2368, 1534">
+			<voisin nom ="ROBESPIERRE" distance ="0.0125480528389597"/>
+			<voisin nom ="MARAICHERS" distance ="0.004610552194147279"/>
+		</gare>
+	<gare nom="ROBESPIERRE" coord="2420, 1497">
+			<voisin nom ="CROIX DE CHAVAUX (JACQUES DUCLOS)" distance ="0.012770340396110611"/>
+			<voisin nom ="PORTE DE MONTREUIL" distance ="0.0125480528389597"/>
+		</gare>
+	<gare nom="CROIX DE CHAVAUX (JACQUES DUCLOS)" coord="2458, 1460">
+			<voisin nom ="MAIRIE DE MONTREUIL" distance ="0.006992426390212407"/>
+			<voisin nom ="ROBESPIERRE" distance ="0.012770340396110611"/>
+		</gare>
+	<gare nom="MAIRIE DE MONTREUIL" coord="2498, 1420">
+			<voisin nom ="CROIX DE CHAVAUX (JACQUES DUCLOS)" distance ="0.006992426390212407"/>
+	</gare>
+</ligne>
