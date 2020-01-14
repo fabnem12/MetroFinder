@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="MAIRIE D'ISSY,FRONT POPULAIRE" couleur="007852">
+<ligne terminus="FRONT POPULAIRE,MAIRIE D'ISSY" couleur="007852">
 	<gare nom="ABBESSES" coord="1548, 700">
 		<voisin nom="LAMARCK-CAULAINCOURT" distance="0.5721818192870329" />
 		<voisin nom="PIGALLE" distance="0.25576350144019494" />
@@ -32,8 +32,8 @@
 		<voisin nom="MARCADET-POISSONNIERS" distance="0.5843776655038435" />
 	</gare>
 	<gare nom="LAMARCK-CAULAINCOURT" coord="1576, 653">
-		<voisin nom="ABBESSES" distance="0.5721818192870329" />
 		<voisin nom="JULES JOFFRIN" distance="0.7248799297313994" />
+		<voisin nom="ABBESSES" distance="0.5721818192870329" />
 	</gare>
 	<gare nom="MADELEINE" coord="1292, 1300">
 		<voisin nom="SAINT-LAZARE" distance="0.5909618800946986" />
@@ -47,8 +47,8 @@
 		<voisin nom="MARX DORMOY" distance="1.1384925558134418" />
 	</gare>
 	<gare nom="MARX DORMOY" coord="1959, 623">
-		<voisin nom="MARCADET-POISSONNIERS" distance="1.1384925558134418" />
 		<voisin nom="PORTE DE LA CHAPELLE" distance="0.7538223292243021" />
+		<voisin nom="MARCADET-POISSONNIERS" distance="1.1384925558134418" />
 	</gare>
 	<gare nom="MONTPARNASSE" coord="1255, 1957">
 		<voisin nom="NOTRE-DAME-DES-CHAMPS" distance="0.9150016495754854" />
@@ -59,32 +59,32 @@
 		<voisin nom="SAINT-GEORGES" distance="0.26880289963758985" />
 	</gare>
 	<gare nom="NOTRE-DAME-DES-CHAMPS" coord="1321, 1949">
-		<voisin nom="MONTPARNASSE" distance="0.9150016495754854" />
 		<voisin nom="RENNES" distance="0.40640253033598284" />
+		<voisin nom="MONTPARNASSE" distance="0.9150016495754854" />
 	</gare>
 	<gare nom="PASTEUR" coord="1056, 1958">
 		<voisin nom="VOLONTAIRES" distance="0.5569215103752672" />
 		<voisin nom="FALGUIERE" distance="0.5954546950331941" />
 	</gare>
 	<gare nom="PIGALLE" coord="1523, 745">
-		<voisin nom="ABBESSES" distance="0.25576350144019494" />
 		<voisin nom="SAINT-GEORGES" distance="0.4422677774522207" />
+		<voisin nom="ABBESSES" distance="0.25576350144019494" />
 	</gare>
 	<gare nom="PORTE DE LA CHAPELLE" coord="2032, 544">
 		<voisin nom="FRONT POPULAIRE" distance="1.2587909962206965" />
 		<voisin nom="MARX DORMOY" distance="0.7538223292243021" />
 	</gare>
 	<gare nom="PORTE DE VERSAILLES" coord="855, 2149">
-		<voisin nom="CONVENTION" distance="1.0832772079933843" />
 		<voisin nom="CORENTIN-CELTON" distance="1.1470307844169212" />
+		<voisin nom="CONVENTION" distance="1.0832772079933843" />
 	</gare>
 	<gare nom="RENNES" coord="1305, 1835">
 		<voisin nom="NOTRE-DAME-DES-CHAMPS" distance="0.40640253033598284" />
 		<voisin nom="SEVRES-BABYLONE" distance="0.3827272392597438" />
 	</gare>
 	<gare nom="RUE DU BAC" coord="1236, 1717">
-		<voisin nom="SOLFERINO" distance="0.4352784919746928" />
 		<voisin nom="SEVRES-BABYLONE" distance="0.43917541109243086" />
+		<voisin nom="SOLFERINO" distance="0.4352784919746928" />
 	</gare>
 	<gare nom="SAINT-GEORGES" coord="1483, 814">
 		<voisin nom="NOTRE-DAME-DE-LORETTE" distance="0.26880289963758985" />
@@ -95,12 +95,12 @@
 		<voisin nom="MADELEINE" distance="0.5909618800946986" />
 	</gare>
 	<gare nom="SEVRES-BABYLONE" coord="1275, 1783">
-		<voisin nom="RENNES" distance="0.3827272392597438" />
 		<voisin nom="RUE DU BAC" distance="0.43917541109243086" />
+		<voisin nom="RENNES" distance="0.3827272392597438" />
 	</gare>
 	<gare nom="SOLFERINO" coord="1203, 1658">
-		<voisin nom="ASSEMBLEE NATIONALE" distance="0.34887812075002345" />
 		<voisin nom="RUE DU BAC" distance="0.4352784919746928" />
+		<voisin nom="ASSEMBLEE NATIONALE" distance="0.34887812075002345" />
 	</gare>
 	<gare nom="TRINITE-D'ESTIENNE D'ORVES" coord="1410, 940">
 		<voisin nom="SAINT-LAZARE" distance="0.9245550607261842" />

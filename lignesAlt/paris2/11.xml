@@ -12,12 +12,12 @@
 		<voisin nom="HOTEL DE VILLE" distance="0.3970696833423217" />
 	</gare>
 	<gare nom="GONCOURT (HOPITAL SAINT-LOUIS)" coord="2098, 1147">
-		<voisin nom="BELLEVILLE" distance="0.6472640369160513" />
 		<voisin nom="REPUBLIQUE" distance="0.8289662121538536" />
+		<voisin nom="BELLEVILLE" distance="0.6472640369160513" />
 	</gare>
 	<gare nom="HOTEL DE VILLE" coord="1813, 1528">
-		<voisin nom="CHATELET" distance="0.3970696833423217" />
 		<voisin nom="RAMBUTEAU" distance="0.5009255758078393" />
+		<voisin nom="CHATELET" distance="0.3970696833423217" />
 	</gare>
 	<gare nom="JOURDAIN" coord="2355, 1148">
 		<voisin nom="PLACE DES FETES" distance="0.44699875290177205" />
@@ -27,24 +27,24 @@
 		<voisin nom="PORTE DES LILAS" distance="1.1097198799483396" />
 	</gare>
 	<gare nom="PLACE DES FETES" coord="2412, 1148">
-		<voisin nom="TELEGRAPHE" distance="0.6636778395060116" />
 		<voisin nom="JOURDAIN" distance="0.44699875290177205" />
+		<voisin nom="TELEGRAPHE" distance="0.6636778395060116" />
 	</gare>
 	<gare nom="PORTE DES LILAS" coord="2543, 1147">
-		<voisin nom="MAIRIE DES LILAS" distance="1.1097198799483396" />
 		<voisin nom="TELEGRAPHE" distance="0.9172933826368075" />
+		<voisin nom="MAIRIE DES LILAS" distance="1.1097198799483396" />
 	</gare>
 	<gare nom="PYRENEES" coord="2291, 1147">
-		<voisin nom="BELLEVILLE" distance="0.9969701268434923" />
 		<voisin nom="JOURDAIN" distance="0.4763444615137447" />
+		<voisin nom="BELLEVILLE" distance="0.9969701268434923" />
 	</gare>
 	<gare nom="RAMBUTEAU" coord="1878, 1416">
-		<voisin nom="ARTS ET METIERS" distance="0.6063510678782923" />
 		<voisin nom="HOTEL DE VILLE" distance="0.5009255758078393" />
+		<voisin nom="ARTS ET METIERS" distance="0.6063510678782923" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="2000, 1205">
-		<voisin nom="ARTS ET METIERS" distance="0.8513550905803795" />
 		<voisin nom="GONCOURT (HOPITAL SAINT-LOUIS)" distance="0.8289662121538536" />
+		<voisin nom="ARTS ET METIERS" distance="0.8513550905803795" />
 	</gare>
 	<gare nom="TELEGRAPHE" coord="2475, 1148">
 		<voisin nom="PLACE DES FETES" distance="0.6636778395060116" />

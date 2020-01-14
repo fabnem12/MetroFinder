@@ -169,7 +169,8 @@ def fusion(ville = ""):
     ville, _ = ctes.identVille(ville if ville != "" else sys.argv[-1])
     #ville = "paris2"
 
-    if ville in ctes.GPSCompte: int = float
+    if ville in ctes.GPSCompte: typeVal = float
+    else: typeVal = int
 
     lignes = dict()
     for numLigne in ctes.lignesOK(ville):
@@ -185,7 +186,7 @@ def fusion(ville = ""):
             listeVoisins = gares[nomGare]
 
             voisins[nomGare] = [(gares[nomGare][voisin][0], voisin, lignes[numLigne]) for voisin in listeVoisins]
-            coordImg[nomGare] = tuple(map(int, coordImg[nomGare].split(", ")))
+            coordImg[nomGare] = tuple(map(typeVal, coordImg[nomGare].split(", ")))
 
         lignes[numLigne].setGares(listeGares, terminus, coordImg, voisins)
 

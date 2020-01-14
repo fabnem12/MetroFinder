@@ -42,7 +42,7 @@ class Ligne():
                 if nomGare in coordImg: print(coordImg[nomGare])
                 print("voisins", nomGare, nomGare in voisins)
                 if nomGare in coordImg: print(voisins[nomGare])
-                
+
                 self.pourrie = True
 
             self.gares.append(gare)
@@ -189,7 +189,8 @@ def fermetureFenetre(event=None):
 
     if not sansEnregistrer:
         ecritXML(True)
-        from fusion2 import listeGaresVille, ecritXMLVille
+        from fusion2 import fusion
+        fusion(ville)
     else:
         print("Enregistrement automatique à la fermeture désactivé")
 
@@ -635,6 +636,16 @@ def touches(event):
             if sansEnregistrer: dollar = "$"
 
             fenetre.title("Ajouter une ligne à "+ville.capitalize()+" "+dollar)
+        if touche == "Delete": #on supprime le cercle de la gareEnCours
+            if gareEnCours.get("coordImg") != (0,0):
+                gareEnCours.setCoordImg((0, 0))
+
+                gareEnCours.setStatut("")
+
+            if gareEnCours.get("cercle") != "":
+                canvasCarte.delete(gareEnCours.get("cercle"))
+
+            deselecGare()
 #Fin Fonctions graphiques#################################################################################################
 
 #Initialisation graphique#################################################################################################

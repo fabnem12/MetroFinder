@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="GALLIENI (PARC DE BAGNOLET),PONT DE LEVALLOIS-BECON" couleur="837902">
+<ligne terminus="PONT DE LEVALLOIS-BECON,GALLIENI (PARC DE BAGNOLET)" couleur="837902">
 	<gare nom="ANATOLE FRANCE" coord="964, 580">
-		<voisin nom="LOUISE MICHEL" distance="0.5081180166504264" />
 		<voisin nom="PONT DE LEVALLOIS-BECON" distance="0.8616644291235673" />
+		<voisin nom="LOUISE MICHEL" distance="0.5081180166504264" />
 	</gare>
 	<gare nom="ARTS ET METIERS" coord="1932, 1294">
 		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4791387583992367" />
@@ -28,12 +28,12 @@
 		<voisin nom="OPERA" distance="0.6376125264060309" />
 	</gare>
 	<gare nom="LOUISE MICHEL" coord="988, 622">
-		<voisin nom="ANATOLE FRANCE" distance="0.5081180166504264" />
 		<voisin nom="PORTE DE CHAMPERRET" distance="0.5964652823286221" />
+		<voisin nom="ANATOLE FRANCE" distance="0.5081180166504264" />
 	</gare>
 	<gare nom="MALESHERBES METRO" coord="1103, 821">
-		<voisin nom="WAGRAM" distance="0.49790297290212787" />
 		<voisin nom="VILLIERS" distance="0.7087568233117338" />
+		<voisin nom="WAGRAM" distance="0.49790297290212787" />
 	</gare>
 	<gare nom="OPERA" coord="1466, 1289">
 		<voisin nom="QUATRE SEPTEMBRE" distance="0.43597415648678567" />
@@ -44,12 +44,12 @@
 		<voisin nom="REPUBLIQUE" distance="1.167153017434547" />
 	</gare>
 	<gare nom="PERE LACHAISE" coord="2314, 1444">
-		<voisin nom="GAMBETTA" distance="1.4720844106066895" />
 		<voisin nom="SAINT-MAUR" distance="0.5760525301121179" />
+		<voisin nom="GAMBETTA" distance="1.4720844106066895" />
 	</gare>
 	<gare nom="PEREIRE-LEVALLOIS" coord="1048, 726">
-		<voisin nom="WAGRAM" distance="0.7830721917681852" />
-		<voisin nom="PORTE DE CHAMPERRET" distance="0.5810359834755696" />
+		<voisin nom="PORTE DE CHAMPERRET" distance="0.6083406354197045" />
+		<voisin nom="WAGRAM" distance="0.7602793794615426" />
 	</gare>
 	<gare nom="PONT DE LEVALLOIS-BECON" coord="942, 543">
 		<voisin nom="ANATOLE FRANCE" distance="0.8616644291235673" />
@@ -59,32 +59,32 @@
 		<voisin nom="GALLIENI (PARC DE BAGNOLET)" distance="0.9006894314690848" />
 	</gare>
 	<gare nom="PORTE DE CHAMPERRET" coord="1016, 671">
+		<voisin nom="PEREIRE-LEVALLOIS" distance="0.6083406354197045" />
 		<voisin nom="LOUISE MICHEL" distance="0.5964652823286221" />
-		<voisin nom="PEREIRE-LEVALLOIS" distance="0.5810359834755696" />
 	</gare>
 	<gare nom="QUATRE SEPTEMBRE" coord="1522, 1309">
 		<voisin nom="BOURSE" distance="0.5108141533048836" />
 		<voisin nom="OPERA" distance="0.43597415648678567" />
 	</gare>
 	<gare nom="REAUMUR-SEBASTOPOL" coord="1797, 1308">
-		<voisin nom="ARTS ET METIERS" distance="0.4791387583992367" />
 		<voisin nom="SENTIER" distance="0.5673252566370549" />
+		<voisin nom="ARTS ET METIERS" distance="0.4791387583992367" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="2027, 1205">
-		<voisin nom="PARMENTIER" distance="1.167153017434547" />
 		<voisin nom="TEMPLE" distance="0.30370323141394867" />
+		<voisin nom="PARMENTIER" distance="1.167153017434547" />
 	</gare>
 	<gare nom="SAINT-LAZARE" coord="1297, 1087">
-		<voisin nom="HAVRE-CAUMARTIN" distance="0.4433850851724998" />
 		<voisin nom="EUROPE" distance="0.4011086331013056" />
+		<voisin nom="HAVRE-CAUMARTIN" distance="0.4433850851724998" />
 	</gare>
 	<gare nom="SAINT-MAUR" coord="2212, 1311">
 		<voisin nom="PERE LACHAISE" distance="0.5760525301121179" />
 		<voisin nom="PARMENTIER" distance="0.7040365469389543" />
 	</gare>
 	<gare nom="SENTIER" coord="1693, 1308">
-		<voisin nom="BOURSE" distance="0.7720297854944664" />
 		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.5673252566370549" />
+		<voisin nom="BOURSE" distance="0.7720297854944664" />
 	</gare>
 	<gare nom="TEMPLE" coord="1965, 1241">
 		<voisin nom="ARTS ET METIERS" distance="0.5485858976908721" />
@@ -95,7 +95,7 @@
 		<voisin nom="MALESHERBES METRO" distance="0.7087568233117338" />
 	</gare>
 	<gare nom="WAGRAM" coord="1074, 771">
-		<voisin nom="PEREIRE-LEVALLOIS" distance="0.7830721917681852" />
+		<voisin nom="PEREIRE-LEVALLOIS" distance="0.7602793794615426" />
 		<voisin nom="MALESHERBES METRO" distance="0.49790297290212787" />
 	</gare>
 </ligne>

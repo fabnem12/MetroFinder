@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PORTE DE LA CHAPELLE,PORTE DE VINCENNES" couleur="009641">
+<ligne terminus="PORTE DE VINCENNES,PORTE DE LA CHAPELLE" couleur="009641">
 	<gare nom="ADRIENNE BOLLAND" coord="2560, 1269">
 		<voisin nom="SEVERINE" distance="0.5448984082224985" />
 		<voisin nom="PORTE DES LILAS" distance="0.494009497725267" />
 	</gare>
 	<gare nom="BUTTE DU CHAPEAU ROUGE" coord="2422, 926">
-		<voisin nom="PORTE DE PANTIN" distance="0.4595821197493928" />
 		<voisin nom="HOPITAL ROBERT DEBRE" distance="0.7925916531769888" />
+		<voisin nom="PORTE DE PANTIN" distance="0.4595821197493928" />
 	</gare>
 	<gare nom="CANAL SAINT-DENIS" coord="2147, 641">
 		<voisin nom="PORTE DE LA VILLETTE" distance="0.6883423986610189" />
 		<voisin nom="ROSA PARKS" distance="0.8070595803031136" />
 	</gare>
 	<gare nom="COLETTE BESSON" coord="2066, 591">
-		<voisin nom="PORTE DE LA CHAPELLE" distance="0.4816175544441079" />
 		<voisin nom="PORTE D AUBERVILLIERS" distance="0.5996435820876416" />
+		<voisin nom="PORTE DE LA CHAPELLE" distance="0.4816175544441079" />
 	</gare>
 	<gare nom="DELPHINE SEYRIG" coord="2335, 810">
 		<voisin nom="PORTE DE PANTIN" distance="0.5883682520799091" />
@@ -33,12 +33,12 @@
 		<voisin nom="PORTE DE MONTREUIL" distance="0.6465851978012861" />
 	</gare>
 	<gare nom="PORTE D AUBERVILLIERS" coord="2096, 609">
-		<voisin nom="ROSA PARKS" distance="0.4977395418267982" />
 		<voisin nom="COLETTE BESSON" distance="0.5996435820876416" />
+		<voisin nom="ROSA PARKS" distance="0.4977395418267982" />
 	</gare>
 	<gare nom="PORTE DE BAGNOLET" coord="2581, 1471">
-		<voisin nom="MARIE DE MIRIBEL" distance="0.5345517411203323" />
 		<voisin nom="SEVERINE" distance="0.45492145024146136" />
+		<voisin nom="MARIE DE MIRIBEL" distance="0.5345517411203323" />
 	</gare>
 	<gare nom="PORTE DE LA CHAPELLE" coord="2032, 573">
 		<voisin nom="COLETTE BESSON" distance="0.4816175544441079" />
@@ -59,8 +59,8 @@
 		<voisin nom="PORTE DE MONTREUIL" distance="0.6337203737799328" />
 	</gare>
 	<gare nom="PORTE DES LILAS" coord="2522, 1126">
-		<voisin nom="ADRIENNE BOLLAND" distance="0.494009497725267" />
 		<voisin nom="HOPITAL ROBERT DEBRE" distance="0.7231250113029224" />
+		<voisin nom="ADRIENNE BOLLAND" distance="0.494009497725267" />
 	</gare>
 	<gare nom="ROSA PARKS" coord="2127, 628">
 		<voisin nom="CANAL SAINT-DENIS" distance="0.8070595803031136" />

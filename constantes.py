@@ -6,7 +6,7 @@ import cherche
 lignesExistantes = {\
 "paris": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "RER E", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8"],\
 "toulouse": ["A","B","C","BUS", "T1", "T2", "pedestre"],\
-"paris2": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8"],\
+"paris2": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "RER C", "RER D", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8"],\
 "londres": ["pedestre"],\
 "tae": ["Air 350","JOON","AirBaltic","HOP!"],\
 "rennes": ["a","b"],\
