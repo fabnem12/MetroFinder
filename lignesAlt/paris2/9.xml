@@ -9,12 +9,12 @@
 		<voisin nom="MARCEL SEMBAT" distance="0.6056798992128674" />
 	</gare>
 	<gare nom="BONNE NOUVELLE" coord="1781, 1159">
-		<voisin nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance="0.8307888607560595" />
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.43987951311879514" />
+		<voisin nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance="0.8307888607560595" />
 	</gare>
 	<gare nom="BUZENVAL" coord="2371, 1745">
-		<voisin nom="NATION" distance="0.7021489103108459" />
 		<voisin nom="MARAICHERS" distance="0.5731112537127205" />
+		<voisin nom="NATION" distance="0.7021489103108459" />
 	</gare>
 	<gare nom="CHARONNE" coord="2203, 1581">
 		<voisin nom="VOLTAIRE (LEON BLUM)" distance="0.6268800678178358" />
@@ -25,8 +25,8 @@
 		<voisin nom="RICHELIEU-DROUOT" distance="0.6311033200047417" />
 	</gare>
 	<gare nom="CROIX DE CHAVAUX (JACQUES DUCLOS)" coord="2686, 1745">
-		<voisin nom="MAIRIE DE MONTREUIL" distance="0.7781660656936806" />
 		<voisin nom="ROBESPIERRE" distance="1.4215485275518323" />
+		<voisin nom="MAIRIE DE MONTREUIL" distance="0.7781660656936806" />
 	</gare>
 	<gare nom="EXELMANS" coord="485, 1732">
 		<voisin nom="PORTE DE SAINT-CLOUD" distance="0.6415023265107743" />
@@ -41,8 +41,8 @@
 		<voisin nom="BONNE NOUVELLE" distance="0.8307888607560595" />
 	</gare>
 	<gare nom="HAVRE-CAUMARTIN" coord="1402, 1160">
-		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.6638938624982967" />
 		<voisin nom="SAINT-AUGUSTIN" distance="0.6978308241927572" />
+		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.6638938624982967" />
 	</gare>
 	<gare nom="IENA" coord="947, 1360">
 		<voisin nom="ALMA-MARCEAU" distance="0.7602052024686143" />
@@ -72,8 +72,8 @@
 		<voisin nom="MICHEL-ANGE-MOLITOR" distance="0.4157081140366649" />
 	</gare>
 	<gare nom="MICHEL-ANGE-MOLITOR" coord="504, 1700">
-		<voisin nom="EXELMANS" distance="0.3119441632392116" />
 		<voisin nom="MICHEL-ANGE-AUTEUIL" distance="0.4157081140366649" />
+		<voisin nom="EXELMANS" distance="0.3119441632392116" />
 	</gare>
 	<gare nom="MIROMESNIL" coord="1231, 1160">
 		<voisin nom="SAINT-AUGUSTIN" distance="0.7737456925400363" />
@@ -84,8 +84,8 @@
 		<voisin nom="RUE DES BOULETS" distance="0.848862388747213" />
 	</gare>
 	<gare nom="OBERKAMPF" coord="2096, 1396">
-		<voisin nom="SAINT-AMBROISE" distance="0.8075775371908392" />
 		<voisin nom="REPUBLIQUE" distance="0.5376397553977783" />
+		<voisin nom="SAINT-AMBROISE" distance="0.8075775371908392" />
 	</gare>
 	<gare nom="PONT DE SEVRES" coord="357, 1853">
 		<voisin nom="BILLANCOURT" distance="0.9138068239354616" />
@@ -95,16 +95,16 @@
 		<voisin nom="ROBESPIERRE" distance="1.3964191639861585" />
 	</gare>
 	<gare nom="PORTE DE SAINT-CLOUD" coord="461, 1773">
-		<voisin nom="EXELMANS" distance="0.6415023265107743" />
 		<voisin nom="MARCEL SEMBAT" distance="1.5523247066168973" />
+		<voisin nom="EXELMANS" distance="0.6415023265107743" />
 	</gare>
 	<gare nom="RANELAGH" coord="606, 1524">
-		<voisin nom="JASMIN" distance="0.3952440812379853" />
 		<voisin nom="LA MUETTE" distance="0.5328757020791287" />
+		<voisin nom="JASMIN" distance="0.3952440812379853" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="1986, 1205">
-		<voisin nom="STRASBOURG-SAINT-DENIS" distance="1.1308993077092573" />
 		<voisin nom="OBERKAMPF" distance="0.5376397553977783" />
+		<voisin nom="STRASBOURG-SAINT-DENIS" distance="1.1308993077092573" />
 	</gare>
 	<gare nom="RICHELIEU-DROUOT" coord="1652, 1159">
 		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.6311033200047417" />
@@ -115,16 +115,16 @@
 		<voisin nom="PORTE DE MONTREUIL" distance="1.3964191639861585" />
 	</gare>
 	<gare nom="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" coord="689, 1380">
-		<voisin nom="TROCADERO" distance="1.0547041808669053" />
 		<voisin nom="LA MUETTE" distance="0.7930727035874588" />
+		<voisin nom="TROCADERO" distance="1.0547041808669053" />
 	</gare>
 	<gare nom="RUE DES BOULETS" coord="2239, 1644">
-		<voisin nom="NATION" distance="0.848862388747213" />
 		<voisin nom="CHARONNE" distance="0.49375155842642415" />
+		<voisin nom="NATION" distance="0.848862388747213" />
 	</gare>
 	<gare nom="SAINT-AMBROISE" coord="2144, 1479">
-		<voisin nom="VOLTAIRE (LEON BLUM)" distance="0.7753755599714605" />
 		<voisin nom="OBERKAMPF" distance="0.8075775371908392" />
+		<voisin nom="VOLTAIRE (LEON BLUM)" distance="0.7753755599714605" />
 	</gare>
 	<gare nom="SAINT-AUGUSTIN" coord="1298, 1159">
 		<voisin nom="HAVRE-CAUMARTIN" distance="0.6978308241927572" />

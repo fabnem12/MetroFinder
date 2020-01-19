@@ -12,8 +12,8 @@
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.37466092545067975" />
 	</gare>
 	<gare nom="CHATEAU ROUGE" coord="1736, 700">
-		<voisin nom="BARBES-ROCHECHOUART" distance="0.410145212846445" />
 		<voisin nom="MARCADET-POISSONNIERS" distance="0.45512444235605026" />
+		<voisin nom="BARBES-ROCHECHOUART" distance="0.410145212846445" />
 	</gare>
 	<gare nom="CHATELET" coord="1670, 1538">
 		<voisin nom="CITE" distance="0.3842417681353836" />
@@ -24,24 +24,24 @@
 		<voisin nom="CHATELET" distance="0.3842417681353836" />
 	</gare>
 	<gare nom="DENFERT-ROCHEREAU" coord="1346, 2146">
-		<voisin nom="RASPAIL" distance="0.5696580946638384" />
 		<voisin nom="MOUTON-DUVERNET" distance="0.4978754871380969" />
+		<voisin nom="RASPAIL" distance="0.5696580946638384" />
 	</gare>
 	<gare nom="ETIENNE-MARCEL" coord="1750, 1400">
-		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4712256515383505" />
 		<voisin nom="LES HALLES" distance="0.39362969031752565" />
+		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4712256515383505" />
 	</gare>
 	<gare nom="GARE DE L'EST" coord="1925, 1029">
-		<voisin nom="GARE DU NORD" distance="0.5382102517396712" />
+		<voisin nom="GARE DU NORD" distance="0.5382102601312939" />
 		<voisin nom="CHATEAU D'EAU" distance="0.4461997957525393" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="1848, 894">
-		<voisin nom="GARE DE L'EST" distance="0.5382102517396712" />
+		<voisin nom="GARE DE L'EST" distance="0.5382102601312939" />
 		<voisin nom="BARBES-ROCHECHOUART" distance="0.7986810083971859" />
 	</gare>
 	<gare nom="LES HALLES" coord="1721, 1450">
-		<voisin nom="ETIENNE-MARCEL" distance="0.39362969031752565" />
 		<voisin nom="CHATELET" distance="0.4855569133176489" />
+		<voisin nom="ETIENNE-MARCEL" distance="0.39362969031752565" />
 	</gare>
 	<gare nom="MAIRIE DE MONTROUGE" coord="1208, 2438">
 		<voisin nom="PORTE D'ORLEANS" distance="0.8362788509574391" />
@@ -51,16 +51,16 @@
 		<voisin nom="SIMPLON" distance="0.3576889722954373" />
 	</gare>
 	<gare nom="MONTPARNASSE" coord="1142, 2001">
-		<voisin nom="SAINT-PLACIDE" distance="0.8211124397394136" />
 		<voisin nom="VAVIN" distance="0.8933199862531167" />
+		<voisin nom="SAINT-PLACIDE" distance="0.8211124397394136" />
 	</gare>
 	<gare nom="MOUTON-DUVERNET" coord="1313, 2257">
 		<voisin nom="ALESIA" distance="0.430997419891832" />
 		<voisin nom="DENFERT-ROCHEREAU" distance="0.4978754871380969" />
 	</gare>
 	<gare nom="ODEON" coord="1497, 1778">
-		<voisin nom="SAINT-GERMAIN-DES-PRES" distance="0.6758745554793487" />
 		<voisin nom="SAINT-MICHEL" distance="0.4201743621263969" />
+		<voisin nom="SAINT-GERMAIN-DES-PRES" distance="0.6758745554793487" />
 	</gare>
 	<gare nom="PORTE D'ORLEANS" coord="1251, 2363">
 		<voisin nom="ALESIA" distance="0.5599894363372077" />
@@ -74,8 +74,8 @@
 		<voisin nom="VAVIN" distance="0.4107950578664753" />
 	</gare>
 	<gare nom="REAUMUR-SEBASTOPOL" coord="1806, 1303">
-		<voisin nom="ETIENNE-MARCEL" distance="0.4712256515383505" />
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.4370875475030512" />
+		<voisin nom="ETIENNE-MARCEL" distance="0.4712256515383505" />
 	</gare>
 	<gare nom="SAINT-GERMAIN-DES-PRES" coord="1414, 1777">
 		<voisin nom="SAINT-SULPICE" distance="0.36125904085851307" />
@@ -90,16 +90,16 @@
 		<voisin nom="MONTPARNASSE" distance="0.8211124397394136" />
 	</gare>
 	<gare nom="SAINT-SULPICE" coord="1343, 1826">
-		<voisin nom="SAINT-PLACIDE" distance="0.7288447075319701" />
 		<voisin nom="SAINT-GERMAIN-DES-PRES" distance="0.36125904085851307" />
+		<voisin nom="SAINT-PLACIDE" distance="0.7288447075319701" />
 	</gare>
 	<gare nom="SIMPLON" coord="1647, 545">
-		<voisin nom="PORTE DE CLIGNANCOURT" distance="0.5036587091875536" />
 		<voisin nom="MARCADET-POISSONNIERS" distance="0.3576889722954373" />
+		<voisin nom="PORTE DE CLIGNANCOURT" distance="0.5036587091875536" />
 	</gare>
 	<gare nom="STRASBOURG-SAINT-DENIS" coord="1875, 1183">
-		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4370875475030512" />
 		<voisin nom="CHATEAU D'EAU" distance="0.37466092545067975" />
+		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4370875475030512" />
 	</gare>
 	<gare nom="VAVIN" coord="1300, 2067">
 		<voisin nom="RASPAIL" distance="0.4107950578664753" />

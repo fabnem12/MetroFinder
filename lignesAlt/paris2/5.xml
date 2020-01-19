@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PLACE D'ITALIE,BOBIGNY-PABLO PICASSO" couleur="ff7e2e">
+<ligne terminus="BOBIGNY-PABLO PICASSO,PLACE D'ITALIE" couleur="ff7e2e">
 	<gare nom="AUSTERLITZ" coord="1757, 1963">
 		<voisin nom="SAINT-MARCEL" distance="0.6746961110438994" />
 		<voisin nom="QUAI DE LA RAPEE" distance="0.4461921231714056" />
@@ -12,8 +12,8 @@
 		<voisin nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance="3.0107883413213847" />
 	</gare>
 	<gare nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" coord="2475, 720">
-		<voisin nom="BOBIGNY-PABLO PICASSO" distance="3.0107883413213847" />
 		<voisin nom="EGLISE DE PANTIN" distance="1.3595056286964584" />
+		<voisin nom="BOBIGNY-PABLO PICASSO" distance="3.0107883413213847" />
 	</gare>
 	<gare nom="BREGUET-SABIN" coord="1998, 1545">
 		<voisin nom="BASTILLE" distance="0.3102708205063323" />
@@ -28,32 +28,32 @@
 		<voisin nom="HOCHE" distance="1.2408654157880008" />
 	</gare>
 	<gare nom="GARE DE L'EST" coord="1916, 1035">
+		<voisin nom="GARE DU NORD" distance="0.5382102601312939" />
 		<voisin nom="JACQUES BONSERGENT" distance="0.6743777801722611" />
-		<voisin nom="GARE DU NORD" distance="0.5382102517396712" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="1860, 894">
-		<voisin nom="GARE DE L'EST" distance="0.5382102517396712" />
 		<voisin nom="STALINGRAD" distance="1.0510248921445704" />
+		<voisin nom="GARE DE L'EST" distance="0.5382102601312939" />
 	</gare>
 	<gare nom="HOCHE" coord="2403, 842">
 		<voisin nom="EGLISE DE PANTIN" distance="1.2408654157880008" />
 		<voisin nom="PORTE DE PANTIN" distance="0.7826250625672502" />
 	</gare>
 	<gare nom="JACQUES BONSERGENT" coord="1965, 1121">
-		<voisin nom="GARE DE L'EST" distance="0.6743777801722611" />
 		<voisin nom="REPUBLIQUE" distance="0.5527998063118952" />
+		<voisin nom="GARE DE L'EST" distance="0.6743777801722611" />
 	</gare>
 	<gare nom="JAURES" coord="2108, 951">
 		<voisin nom="LAUMIERE" distance="1.1014549301835599" />
 		<voisin nom="STALINGRAD" distance="0.5170454921962901" />
 	</gare>
 	<gare nom="LAUMIERE" coord="2229, 958">
-		<voisin nom="OURCQ" distance="0.8398561037885656" />
 		<voisin nom="JAURES" distance="1.1014549301835599" />
+		<voisin nom="OURCQ" distance="0.8398561037885656" />
 	</gare>
 	<gare nom="OBERKAMPF" coord="2085, 1395">
-		<voisin nom="RICHARD LENOIR" distance="0.6604626266901703" />
 		<voisin nom="REPUBLIQUE" distance="0.5376397553977783" />
+		<voisin nom="RICHARD LENOIR" distance="0.6604626266901703" />
 	</gare>
 	<gare nom="OURCQ" coord="2348, 936">
 		<voisin nom="LAUMIERE" distance="0.8398561037885656" />
@@ -71,8 +71,8 @@
 		<voisin nom="AUSTERLITZ" distance="0.4461921231714056" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="2014, 1205">
-		<voisin nom="JACQUES BONSERGENT" distance="0.5527998063118952" />
 		<voisin nom="OBERKAMPF" distance="0.5376397553977783" />
+		<voisin nom="JACQUES BONSERGENT" distance="0.5527998063118952" />
 	</gare>
 	<gare nom="RICHARD LENOIR" coord="2039, 1473">
 		<voisin nom="BREGUET-SABIN" distance="0.45649962669547867" />

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="VILLEJUIF-LOUIS ARAGON,PORTE DE L'ESSONNE" couleur="6e491e">
+<ligne terminus="PORTE DE L'ESSONNE,VILLEJUIF-LOUIS ARAGON" couleur="6e491e">
 	<gare nom="AEROPORT D ORLY" coord="1670, 2786">
-		<voisin nom="COEUR D'ORLY" distance="0.5957194094758976" />
 		<voisin nom="PORTE DE L'ESSONNE" distance="1.700048976336542" />
+		<voisin nom="COEUR D'ORLY" distance="0.5957194094758976" />
 	</gare>
 	<gare nom="AUGUSTE PERRET" coord="1672, 2670">
 		<voisin nom="PORTE DE THIAIS" distance="0.35024014173407436" />
 		<voisin nom="BRETAGNE" distance="0.6142848432827354" />
 	</gare>
 	<gare nom="BRETAGNE" coord="1677, 2663">
-		<voisin nom="MOULIN VERT" distance="0.421946607838478" />
 		<voisin nom="AUGUSTE PERRET" distance="0.6142848432827354" />
+		<voisin nom="MOULIN VERT" distance="0.421946607838478" />
 	</gare>
 	<gare nom="CAROLINE AIGLE" coord="1647, 2738">
 		<voisin nom="COEUR D'ORLY" distance="0.5195668531497997" />
 		<voisin nom="HELENE BOUCHER" distance="1.173184621028566" />
 	</gare>
 	<gare nom="COEUR D'ORLY" coord="1654, 2762">
-		<voisin nom="CAROLINE AIGLE" distance="0.5195668531497997" />
 		<voisin nom="AEROPORT D ORLY" distance="0.5957194094758976" />
+		<voisin nom="CAROLINE AIGLE" distance="0.5195668531497997" />
 	</gare>
 	<gare nom="DOMAINE CHERIOUX" coord="1687, 2646">
-		<voisin nom="MOULIN VERT" distance="0.7889711259215125" />
 		<voisin nom="LAMARTINE" distance="0.4843541775647487" />
+		<voisin nom="MOULIN VERT" distance="0.7889711259215125" />
 	</gare>
 	<gare nom="FRATERNELLE" coord="1651, 2708">
 		<voisin nom="ROBERT SCHUMAN" distance="0.5620154651877614" />
@@ -37,16 +37,16 @@
 		<voisin nom="PLACE DE LA LOGISTIQUE" distance="0.8369288701541912" />
 	</gare>
 	<gare nom="LAMARTINE" coord="1693, 2637">
-		<voisin nom="DOMAINE CHERIOUX" distance="0.4843541775647487" />
 		<voisin nom="VILLEJUIF-LOUIS ARAGON" distance="0.4431634164273239" />
+		<voisin nom="DOMAINE CHERIOUX" distance="0.4843541775647487" />
 	</gare>
 	<gare nom="MOULIN VERT" coord="1681, 2657">
 		<voisin nom="DOMAINE CHERIOUX" distance="0.7889711259215125" />
 		<voisin nom="BRETAGNE" distance="0.421946607838478" />
 	</gare>
 	<gare nom="PLACE DE LA LOGISTIQUE" coord="1657, 2692">
-		<voisin nom="PORTE DE RUNGIS" distance="0.7338831956164826" />
 		<voisin nom="LA BELLE EPINE" distance="0.8369288701541912" />
+		<voisin nom="PORTE DE RUNGIS" distance="0.7338831956164826" />
 	</gare>
 	<gare nom="PORTE DE L'ESSONNE" coord="1669, 2835">
 		<voisin nom="AEROPORT D ORLY" distance="1.700048976336542" />
@@ -56,8 +56,8 @@
 		<voisin nom="PLACE DE LA LOGISTIQUE" distance="0.7338831956164826" />
 	</gare>
 	<gare nom="PORTE DE THIAIS" coord="1667, 2677">
-		<voisin nom="AUGUSTE PERRET" distance="0.35024014173407436" />
 		<voisin nom="LA BELLE EPINE" distance="0.3948994523987573" />
+		<voisin nom="AUGUSTE PERRET" distance="0.35024014173407436" />
 	</gare>
 	<gare nom="ROBERT SCHUMAN" coord="1653, 2700">
 		<voisin nom="SAARINEN" distance="0.42492576437154234" />

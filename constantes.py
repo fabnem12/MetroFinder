@@ -3,15 +3,17 @@ from math import acos, cos, sin, pi
 import sys, os, codecs
 import cherche
 
-lignesExistantes = {\
-"paris": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "RER E", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8"],\
-"toulouse": ["A","B","C","BUS", "T1", "T2", "pedestre"],\
-"paris2": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "RER C", "RER D", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8"],\
-"londres": ["pedestre"],\
-"tae": ["Air 350","JOON","AirBaltic","HOP!"],\
-"rennes": ["a","b"],\
-"delhi": ["RedLine","PinkLine","YellowLine","VioletLine","BlueLine","MagentaLine","GreenLine","AirportExpress","Rapid","AquaLine","pedestre"],\
-"paris_exact": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "RER C", "RER D","RER E", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8", "T11", "LIGNE H", "LIGNE J", "LIGNE K", "LIGNE L", "LIGNE N", "LIGNE P", "LIGNE R", "LIGNE U"],\
+villeParDefaut = "paris2"
+
+lignesExistantes = {
+"paris": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "RER E", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8"],
+"toulouse": ["A","B","C","BUS", "T1", "T2", "pedestre"],
+"paris2": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "RER C", "RER D","RER E", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8"],
+"londres": ["pedestre"],
+"tae": ["Air 350","JOON","AirBaltic","HOP!"],
+"rennes": ["a","b"],
+"delhi": ["RedLine","PinkLine","YellowLine","VioletLine","BlueLine","MagentaLine","GreenLine","AirportExpress","Rapid","AquaLine","pedestre"],
+"paris_exact": list(map(str, range(1,15)))+["3b","7b","pedestre", "RER A", "RER B", "RER C", "RER D","RER E", "ORLYVAL", "T1", "T2", "T3A", "T3B","T4","T5","T6","T7","T8", "T11", "LIGNE H", "LIGNE J", "LIGNE K", "LIGNE L", "LIGNE N", "LIGNE P", "LIGNE R", "LIGNE U"],
 "paris_metro_exact": list(map(str, range(1,15))) + ["3b", "7b", "pedestre", "T3A", "T3B"]}
 
 def couleursLignes(ville, ligne):
@@ -130,7 +132,7 @@ def identVille(ville): #fonction qui identifie la ville en cours de traitement
 
     for villeDispo in villesDispos:
         if villeDispo in ville: ville = villeDispo; break
-    if ville not in villesDispos: ville = "paris" #ville par defaut
+    if ville not in villesDispos: ville = villeParDefaut #ville par defaut
 
     return ville, console
 

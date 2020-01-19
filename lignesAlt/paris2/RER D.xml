@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="CREIL,MALESHERBES RER" couleur="009966">
+<ligne terminus="MALESHERBES RER,CREIL" couleur="009966">
 	<gare nom="BALLANCOURT" coord="2483, 2900">
 		<voisin nom="MENNECY" distance="8.117799072874591" />
 		<voisin nom="LA FERTE-ALAIS" distance="5.578119554122005" />
 	</gare>
 	<gare nom="BOIGNEVILLE" coord="2445, 2940">
-		<voisin nom="BUNO-GIRONVILLE" distance="3.435070543591077" />
 		<voisin nom="MALESHERBES RER" distance="5.89572032827927" />
+		<voisin nom="BUNO-GIRONVILLE" distance="3.435070543591077" />
 	</gare>
 	<gare nom="BOISSISE-LE-ROI" coord="2614, 2898">
 		<voisin nom="VOSVES" distance="3.438492882318539" />
 		<voisin nom="PONTHIERRY-PRINGY" distance="3.1440305512483446" />
 	</gare>
 	<gare nom="BOUSSY-SAINT-ANTOINE" coord="2565, 2784">
-		<voisin nom="COMBS-LA-VILLE-QUINCY" distance="2.16863800287234" />
 		<voisin nom="BRUNOY" distance="3.6607744217195837" />
+		<voisin nom="COMBS-LA-VILLE-QUINCY" distance="2.16863800287234" />
 	</gare>
 	<gare nom="BOUTIGNY-SUR-ESSONNE" coord="2465, 2914">
 		<voisin nom="MAISSE" distance="4.910582414087924" />
@@ -25,12 +25,12 @@
 		<voisin nom="YERRES" distance="2.547987435469526" />
 	</gare>
 	<gare nom="BUNO-GIRONVILLE" coord="2451, 2928">
-		<voisin nom="MAISSE" distance="2.570057819740068" />
 		<voisin nom="BOIGNEVILLE" distance="3.435070543591077" />
+		<voisin nom="MAISSE" distance="2.570057819740068" />
 	</gare>
 	<gare nom="CESSON" coord="2674, 2836">
-		<voisin nom="SAVIGNY-LE-TEMPLE-NANDY" distance="3.6033351416119315" />
 		<voisin nom="LE MEE" distance="4.511986460481487" />
+		<voisin nom="SAVIGNY-LE-TEMPLE-NANDY" distance="3.6033351416119315" />
 	</gare>
 	<gare nom="CHANTILLY-GOUVIEUX" coord="1564, 165">
 		<voisin nom="ORRY-LA-VILLE-COYE" distance="6.434523567350733" />
@@ -45,9 +45,9 @@
 		<voisin nom="LIEUSAINT-MOISSY" distance="5.033791869781199" />
 	</gare>
 	<gare nom="CORBEIL-ESSONNES" coord="2495, 2859">
+		<voisin nom="ESSONNES-ROBINSON" distance="1.4583519550001127" />
 		<voisin nom="MOULIN-GALANT" distance="2.9227418843861637" />
 		<voisin nom="LE BRAS-DE-FER" distance="2.6371704047746025" />
-		<voisin nom="ESSONNES-ROBINSON" distance="1.4583519550001127" />
 		<voisin nom="EVRY" distance="3.280613455241077" />
 	</gare>
 	<gare nom="CREIL" coord="1549, 137">
@@ -58,84 +58,84 @@
 		<voisin nom="VILLENEUVE-TRIAGE" distance="2.915287408818031" />
 	</gare>
 	<gare nom="ESSONNES-ROBINSON" coord="2493, 2880">
-		<voisin nom="CORBEIL-ESSONNES" distance="1.4583519550001127" />
 		<voisin nom="VILLABE" distance="1.439639393154048" />
+		<voisin nom="CORBEIL-ESSONNES" distance="1.4583519550001127" />
 	</gare>
 	<gare nom="EVRY" coord="2496, 2832">
 		<voisin nom="GRAND-BOURG" distance="2.4478789825770915" />
 		<voisin nom="CORBEIL-ESSONNES" distance="3.280613455241077" />
 	</gare>
 	<gare nom="EVRY-COURCOURONNES" coord="2461, 2842">
-		<voisin nom="LE BRAS-DE-FER" distance="2.541299379927673" />
 		<voisin nom="ORANGIS-BOIS DE L'EPINE" distance="2.5990031512923037" />
+		<voisin nom="LE BRAS-DE-FER" distance="2.541299379927673" />
 	</gare>
 	<gare nom="GARE DE LYON" coord="1905, 1843">
-		<voisin nom="MAISONS-ALFORT-ALFORTVILLE" distance="7.550946732138042" />
 		<voisin nom="CHATELET-LES HALLES" distance="3.5221243476667636" />
+		<voisin nom="MAISONS-ALFORT-ALFORTVILLE" distance="7.550946732138042" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="1753, 868">
 		<voisin nom="STADE DE FRANCE-SAINT-DENIS" distance="4.160819990863272" />
 		<voisin nom="CHATELET-LES HALLES" distance="2.388667536492601" />
 	</gare>
 	<gare nom="GARGES-SARCELLES" coord="1607, 239">
-		<voisin nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" distance="3.421207765939391" />
 		<voisin nom="PIERREFITTE-STAINS" distance="2.5149597887507267" />
+		<voisin nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" distance="3.421207765939391" />
 	</gare>
 	<gare nom="GOUSSAINVILLE" coord="1597, 221">
 		<voisin nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" distance="6.072987499791814" />
 		<voisin nom="LES NOUES" distance="2.0882674194015247" />
 	</gare>
 	<gare nom="GRAND-BOURG" coord="2486, 2816">
-		<voisin nom="RIS-ORANGIS" distance="2.525576011170486" />
 		<voisin nom="EVRY" distance="2.4478789825770915" />
+		<voisin nom="RIS-ORANGIS" distance="2.525576011170486" />
 	</gare>
 	<gare nom="GRIGNY-CENTRE" coord="2451, 2819">
-		<voisin nom="VIRY-CHATILLON" distance="2.6734977371593844" />
 		<voisin nom="ORANGIS-BOIS DE L'EPINE" distance="2.3479565717293474" />
+		<voisin nom="VIRY-CHATILLON" distance="2.6734977371593844" />
 	</gare>
 	<gare nom="JUVISY" coord="2453, 2792">
-		<voisin nom="VIRY-CHATILLON" distance="1.5782363059696798" />
 		<voisin nom="VIGNEUX-SUR-SEINE" distance="4.084937548034563" />
+		<voisin nom="VIRY-CHATILLON" distance="1.5782363059696798" />
 	</gare>
 	<gare nom="LA BORNE BLANCHE" coord="1575, 182">
-		<voisin nom="SURVILLIERS-FOSSES" distance="3.7154442682365247" />
 		<voisin nom="ORRY-LA-VILLE-COYE" distance="2.1898987685642286" />
+		<voisin nom="SURVILLIERS-FOSSES" distance="3.7154442682365247" />
 	</gare>
 	<gare nom="LA FERTE-ALAIS" coord="2475, 2906">
-		<voisin nom="BOUTIGNY-SUR-ESSONNE" distance="6.256030857541489" />
 		<voisin nom="BALLANCOURT" distance="5.578119554122005" />
+		<voisin nom="BOUTIGNY-SUR-ESSONNE" distance="6.256030857541489" />
 	</gare>
 	<gare nom="LE BRAS-DE-FER" coord="2470, 2850">
 		<voisin nom="CORBEIL-ESSONNES" distance="2.6371704047746025" />
 		<voisin nom="EVRY-COURCOURONNES" distance="2.541299379927673" />
 	</gare>
 	<gare nom="LE COUDRAY-MONTCEAUX" coord="2536, 2900">
-		<voisin nom="LE PLESSIS-CHENET" distance="1.7044012228250518" />
 		<voisin nom="SAINT-FARGEAU RER" distance="5.562125692570871" />
+		<voisin nom="LE PLESSIS-CHENET" distance="1.7044012228250518" />
 	</gare>
 	<gare nom="LE MEE" coord="2681, 2848">
 		<voisin nom="CESSON" distance="4.511986460481487" />
 		<voisin nom="MELUN" distance="3.522121293201435" />
 	</gare>
 	<gare nom="LE PLESSIS-CHENET" coord="2517, 2893">
-		<voisin nom="LE COUDRAY-MONTCEAUX" distance="1.7044012228250518" />
 		<voisin nom="VILLABE" distance="2.8717540068081697" />
+		<voisin nom="LE COUDRAY-MONTCEAUX" distance="1.7044012228250518" />
 	</gare>
 	<gare nom="LE VERT-DE-MAISONS" coord="2282, 2495">
 		<voisin nom="CRETEIL POMPADOUR" distance="1.9956753487913326" />
 		<voisin nom="MAISONS-ALFORT-ALFORTVILLE" distance="1.587726678027997" />
 	</gare>
 	<gare nom="LES NOUES" coord="1591, 210">
-		<voisin nom="GOUSSAINVILLE" distance="2.0882674194015247" />
 		<voisin nom="LOUVRES" distance="3.193454537460819" />
+		<voisin nom="GOUSSAINVILLE" distance="2.0882674194015247" />
 	</gare>
 	<gare nom="LIEUSAINT-MOISSY" coord="2640, 2795">
-		<voisin nom="SAVIGNY-LE-TEMPLE-NANDY" distance="3.983871870044321" />
 		<voisin nom="COMBS-LA-VILLE-QUINCY" distance="5.033791869781199" />
+		<voisin nom="SAVIGNY-LE-TEMPLE-NANDY" distance="3.983871870044321" />
 	</gare>
 	<gare nom="LOUVRES" coord="1585, 201">
-		<voisin nom="SURVILLIERS-FOSSES" distance="6.184525986464617" />
 		<voisin nom="LES NOUES" distance="3.193454537460819" />
+		<voisin nom="SURVILLIERS-FOSSES" distance="6.184525986464617" />
 	</gare>
 	<gare nom="MAISONS-ALFORT-ALFORTVILLE" coord="2222, 2391">
 		<voisin nom="LE VERT-DE-MAISONS" distance="1.587726678027997" />
@@ -153,28 +153,28 @@
 		<voisin nom="LE MEE" distance="3.522121293201435" />
 	</gare>
 	<gare nom="MENNECY" coord="2492, 2893">
-		<voisin nom="MOULIN-GALANT" distance="4.9620499290032605" />
 		<voisin nom="BALLANCOURT" distance="8.117799072874591" />
+		<voisin nom="MOULIN-GALANT" distance="4.9620499290032605" />
 	</gare>
 	<gare nom="MONTGERON-CROSNE" coord="2477, 2781">
-		<voisin nom="YERRES" distance="2.4515848151871102" />
 		<voisin nom="VILLENEUVE-SAINT-GEORGES" distance="3.0251872747160666" />
+		<voisin nom="YERRES" distance="2.4515848151871102" />
 	</gare>
 	<gare nom="MOULIN-GALANT" coord="2516, 2876">
-		<voisin nom="CORBEIL-ESSONNES" distance="2.9227418843861637" />
 		<voisin nom="MENNECY" distance="4.9620499290032605" />
+		<voisin nom="CORBEIL-ESSONNES" distance="2.9227418843861637" />
 	</gare>
 	<gare nom="ORANGIS-BOIS DE L'EPINE" coord="2457, 2832">
-		<voisin nom="EVRY-COURCOURONNES" distance="2.5990031512923037" />
 		<voisin nom="GRIGNY-CENTRE" distance="2.3479565717293474" />
+		<voisin nom="EVRY-COURCOURONNES" distance="2.5990031512923037" />
 	</gare>
 	<gare nom="ORRY-LA-VILLE-COYE" coord="1569, 173">
 		<voisin nom="LA BORNE BLANCHE" distance="2.1898987685642286" />
 		<voisin nom="CHANTILLY-GOUVIEUX" distance="6.434523567350733" />
 	</gare>
 	<gare nom="PIERREFITTE-STAINS" coord="1612, 246">
-		<voisin nom="GARGES-SARCELLES" distance="2.5149597887507267" />
 		<voisin nom="SAINT-DENIS" distance="4.395658743155581" />
+		<voisin nom="GARGES-SARCELLES" distance="2.5149597887507267" />
 	</gare>
 	<gare nom="PONTHIERRY-PRINGY" coord="2578, 2904">
 		<voisin nom="SAINT-FARGEAU RER" distance="3.2690385426872477" />
@@ -185,41 +185,41 @@
 		<voisin nom="VIRY-CHATILLON" distance="3.6926324451459895" />
 	</gare>
 	<gare nom="SAINT-DENIS" coord="1616, 253">
-		<voisin nom="PIERREFITTE-STAINS" distance="4.395658743155581" />
 		<voisin nom="STADE DE FRANCE-SAINT-DENIS" distance="1.9524945357567534" />
+		<voisin nom="PIERREFITTE-STAINS" distance="4.395658743155581" />
 	</gare>
 	<gare nom="SAINT-FARGEAU RER" coord="2547, 2903">
 		<voisin nom="LE COUDRAY-MONTCEAUX" distance="5.562125692570871" />
 		<voisin nom="PONTHIERRY-PRINGY" distance="3.2690385426872477" />
 	</gare>
 	<gare nom="SAVIGNY-LE-TEMPLE-NANDY" coord="2667, 2824">
-		<voisin nom="LIEUSAINT-MOISSY" distance="3.983871870044321" />
 		<voisin nom="CESSON" distance="3.6033351416119315" />
+		<voisin nom="LIEUSAINT-MOISSY" distance="3.983871870044321" />
 	</gare>
 	<gare nom="STADE DE FRANCE-SAINT-DENIS" coord="1701, 402">
 		<voisin nom="GARE DU NORD" distance="4.160819990863272" />
 		<voisin nom="SAINT-DENIS" distance="1.9524945357567534" />
 	</gare>
 	<gare nom="SURVILLIERS-FOSSES" coord="1581, 193">
-		<voisin nom="LA BORNE BLANCHE" distance="3.7154442682365247" />
 		<voisin nom="LOUVRES" distance="6.184525986464617" />
+		<voisin nom="LA BORNE BLANCHE" distance="3.7154442682365247" />
 	</gare>
 	<gare nom="VIGNEUX-SUR-SEINE" coord="2447, 2781">
 		<voisin nom="JUVISY" distance="4.084937548034563" />
 		<voisin nom="VILLENEUVE-SAINT-GEORGES" distance="4.285444519373044" />
 	</gare>
 	<gare nom="VILLABE" coord="2498, 2888">
-		<voisin nom="LE PLESSIS-CHENET" distance="2.8717540068081697" />
 		<voisin nom="ESSONNES-ROBINSON" distance="1.439639393154048" />
+		<voisin nom="LE PLESSIS-CHENET" distance="2.8717540068081697" />
 	</gare>
 	<gare nom="VILLENEUVE-SAINT-GEORGES" coord="2406, 2710">
+		<voisin nom="VIGNEUX-SUR-SEINE" distance="4.285444519373044" />
 		<voisin nom="MONTGERON-CROSNE" distance="3.0251872747160666" />
 		<voisin nom="VILLENEUVE-TRIAGE" distance="1.8915364764983449" />
-		<voisin nom="VIGNEUX-SUR-SEINE" distance="4.285444519373044" />
 	</gare>
 	<gare nom="VILLENEUVE-TRIAGE" coord="2372, 2651">
-		<voisin nom="CRETEIL POMPADOUR" distance="2.915287408818031" />
 		<voisin nom="VILLENEUVE-SAINT-GEORGES" distance="1.8915364764983449" />
+		<voisin nom="CRETEIL POMPADOUR" distance="2.915287408818031" />
 	</gare>
 	<gare nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" coord="1603, 231">
 		<voisin nom="GOUSSAINVILLE" distance="6.072987499791814" />
@@ -231,11 +231,11 @@
 		<voisin nom="RIS-ORANGIS" distance="3.6926324451459895" />
 	</gare>
 	<gare nom="VOSVES" coord="2658, 2890">
-		<voisin nom="MELUN" distance="6.343100202341966" />
 		<voisin nom="BOISSISE-LE-ROI" distance="3.438492882318539" />
+		<voisin nom="MELUN" distance="6.343100202341966" />
 	</gare>
 	<gare nom="YERRES" coord="2497, 2785">
-		<voisin nom="MONTGERON-CROSNE" distance="2.4515848151871102" />
 		<voisin nom="BRUNOY" distance="2.547987435469526" />
+		<voisin nom="MONTGERON-CROSNE" distance="2.4515848151871102" />
 	</gare>
 </ligne>

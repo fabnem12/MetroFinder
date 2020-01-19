@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligne terminus="CHELLES-GOURNAY,HAUSSMANN-SAINT-LAZARE,TOURNAN" couleur="de81d3">
+	<gare nom="BONDY" coord="2741, 667">
+		<voisin nom="LE RAINCY-VILLEMOMBLE-MONTFERMEIL" distance="3.689395996621775" />
+		<voisin nom="NOISY-LE-SEC" distance="2.4035674079024107" />
+	</gare>
+	<gare nom="CHELLES-GOURNAY" coord="2842, 666">
+		<voisin nom="LE CHENAY-GAGNY" distance="3.4061530590355655" />
+	</gare>
+	<gare nom="EMERAINVILLE-PONTAULT-COMBAULT" coord="2880, 690">
+		<voisin nom="ROISSY-EN-BRIE" distance="3.6287512980485097" />
+		<voisin nom="LES YVRIS-NOISY-LE-GRAND" distance="4.809170931278256" />
+	</gare>
+	<gare nom="GAGNY" coord="2791, 665">
+		<voisin nom="LE RAINCY-VILLEMOMBLE-MONTFERMEIL" distance="1.550723905890387" />
+		<voisin nom="LE CHENAY-GAGNY" distance="3.1417437391055905" />
+	</gare>
+	<gare nom="GRETZ-ARMAINVILLIERS" coord="2910, 690">
+		<voisin nom="OZOIR-LA-FERRIERE" distance="4.92546912109668" />
+		<voisin nom="TOURNAN" distance="3.6014167990455936" />
+	</gare>
+	<gare nom="HAUSSMANN-SAINT-LAZARE" coord="1379, 1093">
+		<voisin nom="MAGENTA" distance="3.6344825013985966" />
+	</gare>
+	<gare nom="LE CHENAY-GAGNY" coord="2819, 665">
+		<voisin nom="CHELLES-GOURNAY" distance="3.4061530590355655" />
+		<voisin nom="GAGNY" distance="3.1417437391055905" />
+	</gare>
+	<gare nom="LE RAINCY-VILLEMOMBLE-MONTFERMEIL" coord="2764, 667">
+		<voisin nom="GAGNY" distance="1.550723905890387" />
+		<voisin nom="BONDY" distance="3.689395996621775" />
+	</gare>
+	<gare nom="LES BOULLEREAUX-CHAMPIGNY" coord="2832, 689">
+		<voisin nom="VILLIERS-SUR-MARNE-PLESSIS-TREVISE" distance="3.435846155824978" />
+		<voisin nom="NOGENT-LE-PERREUX" distance="2.5428586286482413" />
+	</gare>
+	<gare nom="LES YVRIS-NOISY-LE-GRAND" coord="2864, 690">
+		<voisin nom="EMERAINVILLE-PONTAULT-COMBAULT" distance="4.809170931278256" />
+		<voisin nom="VILLIERS-SUR-MARNE-PLESSIS-TREVISE" distance="4.136369209596741" />
+	</gare>
+	<gare nom="MAGENTA" coord="1822, 991">
+		<voisin nom="ROSA PARKS" distance="2.443302127303336" />
+		<voisin nom="HAUSSMANN-SAINT-LAZARE" distance="3.6344825013985966" />
+	</gare>
+	<gare nom="NOGENT-LE-PERREUX" coord="2816, 689">
+		<voisin nom="VAL-DE-FONTENAY" distance="1.7516547172424843" />
+		<voisin nom="LES BOULLEREAUX-CHAMPIGNY" distance="2.5428586286482413" />
+	</gare>
+	<gare nom="NOISY-LE-SEC" coord="2716, 676">
+		<voisin nom="ROSNY-BOIS-PERRIER" distance="3.022400890677801" />
+		<voisin nom="PANTIN" distance="6.458761363668077" />
+		<voisin nom="BONDY" distance="2.4035674079024107" />
+	</gare>
+	<gare nom="OZOIR-LA-FERRIERE" coord="2904, 690">
+		<voisin nom="ROISSY-EN-BRIE" distance="5.229285236467176" />
+		<voisin nom="GRETZ-ARMAINVILLIERS" distance="4.92546912109668" />
+	</gare>
+	<gare nom="PANTIN" coord="2275, 675">
+		<voisin nom="ROSA PARKS" distance="2.9252607011409038" />
+		<voisin nom="NOISY-LE-SEC" distance="6.458761363668077" />
+	</gare>
+	<gare nom="ROISSY-EN-BRIE" coord="2896, 690">
+		<voisin nom="EMERAINVILLE-PONTAULT-COMBAULT" distance="3.6287512980485097" />
+		<voisin nom="OZOIR-LA-FERRIERE" distance="5.229285236467176" />
+	</gare>
+	<gare nom="ROSA PARKS" coord="2128, 682">
+		<voisin nom="PANTIN" distance="2.9252607011409038" />
+		<voisin nom="MAGENTA" distance="2.443302127303336" />
+	</gare>
+	<gare nom="ROSNY-BOIS-PERRIER" coord="2741, 687">
+		<voisin nom="ROSNY-SOUS-BOIS" distance="1.460355705083972" />
+		<voisin nom="NOISY-LE-SEC" distance="3.022400890677801" />
+	</gare>
+	<gare nom="ROSNY-SOUS-BOIS" coord="2765, 688">
+		<voisin nom="VAL-DE-FONTENAY" distance="1.7806207476514866" />
+		<voisin nom="ROSNY-BOIS-PERRIER" distance="1.460355705083972" />
+	</gare>
+	<gare nom="TOURNAN" coord="2926, 690">
+		<voisin nom="GRETZ-ARMAINVILLIERS" distance="3.6014167990455936" />
+	</gare>
+	<gare nom="VAL-DE-FONTENAY" coord="2791, 689">
+		<voisin nom="ROSNY-SOUS-BOIS" distance="1.7806207476514866" />
+		<voisin nom="NOGENT-LE-PERREUX" distance="1.7516547172424843" />
+	</gare>
+	<gare nom="VILLIERS-SUR-MARNE-PLESSIS-TREVISE" coord="2848, 689">
+		<voisin nom="LES BOULLEREAUX-CHAMPIGNY" distance="3.435846155824978" />
+		<voisin nom="LES YVRIS-NOISY-LE-GRAND" distance="4.136369209596741" />
+	</gare>
+</ligne>

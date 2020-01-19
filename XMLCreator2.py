@@ -217,7 +217,7 @@ def ecritXML(toutesLesLignes=False):
             for gare in sorted(listeGaresLigne, key=lambda x:x.get("nom")):
                 nomGare = ctes.traitementNom(gare.get("nom"))
 
-                if gare.get("coordImg") != (0,0):
+                if gare.get("coordImg") != (0,0) and gare.get("voisins") != []:
                     fichier.write("\t<gare nom=\""+nomGare+"\" coord=\""+str(gare.get("coord"))[1:-1]+"\">\n")
                     for voisin in gare.get("voisins"):
                         dist = ctes.distance(gare.get("coordGPS"),voisin.get("coordGPS"), GPS=True)
@@ -395,13 +395,20 @@ def setLigne(): #Changer la ligne traitee
     if bg == "": bg = "ffffff"
     affiNumLigne.config(text="Ligne "+ligne.get("num"), bg="#"+bg, fg="#"+ctes.contrasteur(bg))
 
+    dicoCoordImg = dict()
+    for ligneTemp in lignes.values():
+        for gare in sorted(ligneTemp.get("gares")):
+            if gare.get("coordImg") != (0,0):
+                if gare.get("nom") != dicoCoordImg: dicoCoordImg[gare.get("nom")] = []
+
+                dicoCoordImg[gare.get("nom")].append(gare.get("coordImg"))
+
     affiListeGares.delete(0, END)
     for gare in sorted(ligne.get("gares")):
         affiListeGares.insert(END, gare.get("nom"))
 
-        if gare.get("coordImg") == (0,0):
-            coordPossibles = [x.get("coordImg") for x in ligne.get("gares") for ligne in lignes if x.get("nom") == gare.get("nom") and x.get("coordImg") != (0,0)]
-
+        if gare.get("coordImg") == (0,0) and gare.get("nom") in dicoCoordImg and ligne.get("num") not in ["pedestre"]:
+            coordPossibles = dicoCoordImg[gare.get("nom")]
             if len(coordPossibles) > 0: gare.setCoordImg(choice(coordPossibles))
 
         statut, cercle = gare.get("statut"), gare.get("cercle")
@@ -492,7 +499,7 @@ def clic(event, cote):
         if gareEnCours != "":
             deselecGare()
     elif cote.lower() == "droite":
-        if event != "selecListBox":
+        if event != "selecListBox" and identGare(pos) != []:
             gare = identGare(pos)[0]
             selecGare(gare)
 
@@ -739,7 +746,7 @@ affiCarteEtInfos.pack()
 #-Fin Positionnement
 
 #-Molette
-commandes = {"<Button-1>":lambda x: clic(x, "gauche"),"<Button-2>": lambda x: clic(x, "milieu"),"<Button-3>":lambda x: clic(x, "droite"),"<Shift-Button-3>": lambda x: clic(x, "DROITE"),"<Button-4>":monteAscenseur, "<Button-5>":descendAscenseur, "<Shift-Button-4>":gaucheAscenseur, "<Shift-Button-5>":droiteAscenseur, "<MouseWheel>":ascenseurVertWindows, "<Shift-MouseWheel>":ascenseurHoriWindows}
+commandes = {"<Button-1>":lambda x: clic(x, "gauche"),"<Button-2>": lambda x: clic(x, "milieu"),"<Double-3>":lambda x: clic(x, "milieu"),"<Button-3>":lambda x: clic(x, "droite"),"<Shift-Button-3>": lambda x: clic(x, "DROITE"),"<Button-4>":monteAscenseur, "<Button-5>":descendAscenseur, "<Shift-Button-4>":gaucheAscenseur, "<Shift-Button-5>":droiteAscenseur, "<MouseWheel>":ascenseurVertWindows, "<Shift-MouseWheel>":ascenseurHoriWindows}
 for commande in commandes: canvasCarte.bind(commande, commandes[commande])
 canvasCarte.bind_all("<Key>", touches)
 #-Fin Molette

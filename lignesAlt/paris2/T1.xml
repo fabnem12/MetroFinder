@@ -5,12 +5,12 @@
 		<voisin nom="PONT DE BONDY" distance="1.0749664121189195" />
 	</gare>
 	<gare nom="BASILIQUE DE SAINT-DENIS" coord="1840, 247">
-		<voisin nom="CIMETIERE DE SAINT-DENIS" distance="0.3732442931297929" />
 		<voisin nom="MARCHE DE SAINT-DENIS" distance="0.501860713259446" />
+		<voisin nom="CIMETIERE DE SAINT-DENIS" distance="0.3732442931297929" />
 	</gare>
 	<gare nom="BOBIGNY-PABLO PICASSO" coord="2557, 528">
-		<voisin nom="JEAN ROSTAND" distance="0.5045123002776793" />
 		<voisin nom="HOTEL DE VILLE - MAISON DE LA CULTURE" distance="0.6692894367084494" />
+		<voisin nom="JEAN ROSTAND" distance="0.5045123002776793" />
 	</gare>
 	<gare nom="CHEMIN DES RENIERS" coord="1377, 222">
 		<voisin nom="PARC DES CHANTERAINES" distance="0.9339521330588328" />
@@ -21,8 +21,8 @@
 		<voisin nom="HOPITAL DELAFONTAINE" distance="0.8851986964631057" />
 	</gare>
 	<gare nom="COSMONAUTES" coord="1944, 268">
-		<voisin nom="HOPITAL DELAFONTAINE" distance="0.8213173980444245" />
 		<voisin nom="SIX ROUTES" distance="0.7532847201730944" />
+		<voisin nom="HOPITAL DELAFONTAINE" distance="0.8213173980444245" />
 	</gare>
 	<gare nom="DANTON" coord="2198, 348">
 		<voisin nom="STADE GEO ANDRE" distance="0.5391859089438369" />
@@ -41,44 +41,44 @@
 		<voisin nom="TIMBAUD" distance="0.6496272371706752" />
 	</gare>
 	<gare nom="GARE DE SAINT-DENIS" coord="1651, 223">
-		<voisin nom="THEATRE GERARD PHILIPE" distance="0.37693487470035747" />
 		<voisin nom="L ILE-SAINT-DENIS" distance="0.9759660710809661" />
+		<voisin nom="THEATRE GERARD PHILIPE" distance="0.37693487470035747" />
 	</gare>
 	<gare nom="GASTON ROULAUD" coord="2388, 433">
 		<voisin nom="ESCADRILLE NORMANDIE-NIEMEN" distance="0.4863557846816012" />
 		<voisin nom="HOPITAL AVICENNE" distance="0.7242396679862515" />
 	</gare>
 	<gare nom="HOPITAL AVICENNE" coord="2352, 415">
-		<voisin nom="DRANCY-AVENIR" distance="0.8429785840892108" />
 		<voisin nom="GASTON ROULAUD" distance="0.7242396679862515" />
+		<voisin nom="DRANCY-AVENIR" distance="0.8429785840892108" />
 	</gare>
 	<gare nom="HOPITAL DELAFONTAINE" coord="1909, 261">
 		<voisin nom="CIMETIERE DE SAINT-DENIS" distance="0.8851986964631057" />
 		<voisin nom="COSMONAUTES" distance="0.8213173980444245" />
 	</gare>
 	<gare nom="HOTEL DE VILLE - MAISON DE LA CULTURE" coord="2527, 509">
-		<voisin nom="BOBIGNY-PABLO PICASSO" distance="0.6692894367084494" />
 		<voisin nom="LIBERATION" distance="0.59916001969406" />
+		<voisin nom="BOBIGNY-PABLO PICASSO" distance="0.6692894367084494" />
 	</gare>
 	<gare nom="HOTEL DE VILLE DE LA COURNEUVE" coord="2036, 293">
-		<voisin nom="STADE GEO ANDRE" distance="1.1207130028123973" />
 		<voisin nom="SIX ROUTES" distance="0.9047938748133868" />
+		<voisin nom="STADE GEO ANDRE" distance="1.1207130028123973" />
 	</gare>
 	<gare nom="JEAN ROSTAND" coord="2601, 556">
 		<voisin nom="AUGUSTE DELAUNE" distance="0.6979483936198226" />
 		<voisin nom="BOBIGNY-PABLO PICASSO" distance="0.5045123002776793" />
 	</gare>
 	<gare nom="L ILE-SAINT-DENIS" coord="1512, 223">
-		<voisin nom="MAIRIE DE VILLENEUVE-LA-GARENNE" distance="0.5318389885538838" />
 		<voisin nom="GARE DE SAINT-DENIS" distance="0.9759660710809661" />
+		<voisin nom="MAIRIE DE VILLENEUVE-LA-GARENNE" distance="0.5318389885538838" />
 	</gare>
 	<gare nom="LA COURNEUVE 8 MAI 1945" coord="2247, 368">
-		<voisin nom="MAURICE LACHATRE" distance="0.40238580727619433" />
 		<voisin nom="DANTON" distance="0.4916667759180686" />
+		<voisin nom="MAURICE LACHATRE" distance="0.40238580727619433" />
 	</gare>
 	<gare nom="LA FERME" coord="2459, 470">
-		<voisin nom="ESCADRILLE NORMANDIE-NIEMEN" distance="0.40883466905505483" />
 		<voisin nom="LIBERATION" distance="0.3294043141692188" />
+		<voisin nom="ESCADRILLE NORMANDIE-NIEMEN" distance="0.40883466905505483" />
 	</gare>
 	<gare nom="LA NOUE" coord="1421, 224">
 		<voisin nom="MAIRIE DE VILLENEUVE-LA-GARENNE" distance="0.8422235605157388" />
@@ -89,8 +89,8 @@
 		<voisin nom="LE VILLAGE" distance="0.6838558675792121" />
 	</gare>
 	<gare nom="LE VILLAGE" coord="1096, 221">
-		<voisin nom="TIMBAUD" distance="0.7471877187869103" />
 		<voisin nom="LE LUTH" distance="0.6838558675792121" />
+		<voisin nom="TIMBAUD" distance="0.7471877187869103" />
 	</gare>
 	<gare nom="LES COURTILLES" coord="959, 222">
 		<voisin nom="LE LUTH" distance="0.5772981294628696" />
@@ -108,27 +108,27 @@
 		<voisin nom="THEATRE GERARD PHILIPE" distance="0.6784021077038127" />
 	</gare>
 	<gare nom="MAURICE LACHATRE" coord="2280, 383">
-		<voisin nom="DRANCY-AVENIR" distance="0.4562203616498537" />
 		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.40238580727619433" />
+		<voisin nom="DRANCY-AVENIR" distance="0.4562203616498537" />
 	</gare>
 	<gare nom="NOISY-LE-SEC" coord="2739, 657">
-		<voisin nom="PETIT NOISY" distance="0.7594804999407682" />
+		<voisin nom="PETIT NOISY" distance="0.894141390316188" />
 	</gare>
 	<gare nom="PARC DES CHANTERAINES" coord="1302, 224">
-		<voisin nom="GARE DE GENNEVILLIERS" distance="0.6748368925558729" />
 		<voisin nom="CHEMIN DES RENIERS" distance="0.9339521330588328" />
+		<voisin nom="GARE DE GENNEVILLIERS" distance="0.6748368925558729" />
 	</gare>
 	<gare nom="PETIT NOISY" coord="2689, 618">
+		<voisin nom="NOISY-LE-SEC" distance="0.894141390316188" />
 		<voisin nom="PONT DE BONDY" distance="0.6923729233364677" />
-		<voisin nom="NOISY-LE-SEC" distance="0.7594804999407682" />
 	</gare>
 	<gare nom="PONT DE BONDY" coord="2660, 598">
 		<voisin nom="AUGUSTE DELAUNE" distance="1.0749664121189195" />
 		<voisin nom="PETIT NOISY" distance="0.6923729233364677" />
 	</gare>
 	<gare nom="SIX ROUTES" coord="1997, 281">
-		<voisin nom="COSMONAUTES" distance="0.7532847201730944" />
 		<voisin nom="HOTEL DE VILLE DE LA COURNEUVE" distance="0.9047938748133868" />
+		<voisin nom="COSMONAUTES" distance="0.7532847201730944" />
 	</gare>
 	<gare nom="STADE GEO ANDRE" coord="2156, 331">
 		<voisin nom="DANTON" distance="0.5391859089438369" />
@@ -139,7 +139,7 @@
 		<voisin nom="GARE DE SAINT-DENIS" distance="0.37693487470035747" />
 	</gare>
 	<gare nom="TIMBAUD" coord="1152, 224">
-		<voisin nom="GARE DE GENNEVILLIERS" distance="0.6496272371706752" />
 		<voisin nom="LE VILLAGE" distance="0.7471877187869103" />
+		<voisin nom="GARE DE GENNEVILLIERS" distance="0.6496272371706752" />
 	</gare>
 </ligne>

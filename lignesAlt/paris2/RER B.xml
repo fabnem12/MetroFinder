@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ligne terminus="SAINT-REMY-LES-CHEVREUSE,AEROPORT CHARLES DE GAULLE 2-TGV,ROBINSON,MITRY-CLAYE" couleur="4b92db">
 	<gare nom="AEROPORT CHARLES DE GAULLE 1" coord="2692, 227">
-		<voisin nom="AEROPORT CHARLES DE GAULLE 2-TGV" distance="1.1843509170989306" />
 		<voisin nom="PARC DES EXPOSITIONS" distance="6.599298961557208" />
+		<voisin nom="AEROPORT CHARLES DE GAULLE 2-TGV" distance="1.1843509170989306" />
 	</gare>
 	<gare nom="AEROPORT CHARLES DE GAULLE 2-TGV" coord="2786, 226">
 		<voisin nom="AEROPORT CHARLES DE GAULLE 1" distance="1.1843509170989306" />
@@ -21,8 +21,8 @@
 		<voisin nom="SEVRAN-BEAUDOTTES" distance="3.675044059720921" />
 	</gare>
 	<gare nom="BAGNEUX" coord="1249, 2605">
-		<voisin nom="BOURG-LA-REINE" distance="1.8196492862591882" />
 		<voisin nom="ARCUEIL-CACHAN" distance="0.9046943199114091" />
+		<voisin nom="BOURG-LA-REINE" distance="1.8196492862591882" />
 	</gare>
 	<gare nom="BLANC-MESNIL" coord="2240, 227">
 		<voisin nom="AULNAY-SOUS-BOIS" distance="2.208475339418161" />
@@ -30,8 +30,8 @@
 	</gare>
 	<gare nom="BOURG-LA-REINE" coord="1220, 2655">
 		<voisin nom="SCEAUX" distance="1.636065691864461" />
-		<voisin nom="PARC-DE-SCEAUX" distance="1.0922511207303678" />
 		<voisin nom="BAGNEUX" distance="1.8196492862591882" />
+		<voisin nom="PARC-DE-SCEAUX" distance="1.0922511207303678" />
 	</gare>
 	<gare nom="CHATELET-LES HALLES" coord="1696, 1449">
 		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="0.9501722307634991" />
@@ -42,8 +42,8 @@
 		<voisin nom="DENFERT-ROCHEREAU" distance="1.6191846945313169" />
 	</gare>
 	<gare nom="DENFERT-ROCHEREAU" coord="1376, 2170">
-		<voisin nom="CITE UNIVERSITAIRE" distance="1.6191846945313169" />
 		<voisin nom="PORT ROYAL" distance="0.7943151628020526" />
+		<voisin nom="CITE UNIVERSITAIRE" distance="1.6191846945313169" />
 	</gare>
 	<gare nom="DRANCY" coord="2174, 228">
 		<voisin nom="BLANC-MESNIL" distance="2.327893406623102" />
@@ -54,20 +54,20 @@
 		<voisin nom="ROBINSON" distance="1.4798186237072375" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="1766, 876">
-		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="4.199384286748224" />
 		<voisin nom="CHATELET-LES HALLES" distance="2.388667536492601" />
+		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="4.199384286748224" />
 	</gare>
 	<gare nom="GENTILLY" coord="1329, 2467">
-		<voisin nom="CITE UNIVERSITAIRE" distance="0.6856529081253984" />
 		<voisin nom="LAPLACE" distance="1.0602937540097466" />
+		<voisin nom="CITE UNIVERSITAIRE" distance="0.6856529081253984" />
 	</gare>
 	<gare nom="LA COURNEUVE-AUBERVILLIERS" coord="2056, 374">
-		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="2.730478468598848" />
 		<voisin nom="LE BOURGET" distance="4.443463996145351" />
+		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="2.730478468598848" />
 	</gare>
 	<gare nom="LA CROIX-DE-BERNY-FRESNES" coord="1168, 2744">
-		<voisin nom="PARC-DE-SCEAUX" distance="1.2047006518531092" />
 		<voisin nom="ANTONY" distance="0.8326780834203604" />
+		<voisin nom="PARC-DE-SCEAUX" distance="1.2047006518531092" />
 	</gare>
 	<gare nom="LA PLAINE-STADE DE FRANCE" coord="2012, 450">
 		<voisin nom="GARE DU NORD" distance="4.199384286748224" />
@@ -97,8 +97,8 @@
 		<voisin nom="VILLEPINTE" distance="1.2068916912591818" />
 	</gare>
 	<gare nom="PARC-DE-SCEAUX" coord="1191, 2705">
-		<voisin nom="BOURG-LA-REINE" distance="1.0922511207303678" />
 		<voisin nom="LA CROIX-DE-BERNY-FRESNES" distance="1.2047006518531092" />
+		<voisin nom="BOURG-LA-REINE" distance="1.0922511207303678" />
 	</gare>
 	<gare nom="PORT ROYAL" coord="1441, 2035">
 		<voisin nom="DENFERT-ROCHEREAU" distance="0.7943151628020526" />
@@ -108,15 +108,15 @@
 		<voisin nom="FONTENAY-AUX-ROSES" distance="1.4798186237072375" />
 	</gare>
 	<gare nom="SAINT-MICHEL NOTRE DAME" coord="1605, 1750">
-		<voisin nom="LUXEMBOURG" distance="1.0841418954594721" />
 		<voisin nom="CHATELET-LES HALLES" distance="0.9501722307634991" />
+		<voisin nom="LUXEMBOURG" distance="1.0841418954594721" />
 	</gare>
 	<gare nom="SAINT-REMY-LES-CHEVREUSE" coord="1101, 2861">
 		<voisin nom="MASSY-PALAISEAU" distance="21.0344486940553" />
 	</gare>
 	<gare nom="SCEAUX" coord="1092, 2694">
-		<voisin nom="BOURG-LA-REINE" distance="1.636065691864461" />
 		<voisin nom="FONTENAY-AUX-ROSES" distance="0.9021012650999254" />
+		<voisin nom="BOURG-LA-REINE" distance="1.636065691864461" />
 	</gare>
 	<gare nom="SEVRAN-BEAUDOTTES" coord="2426, 227">
 		<voisin nom="AULNAY-SOUS-BOIS" distance="3.675044059720921" />
@@ -135,7 +135,7 @@
 		<voisin nom="MITRY-CLAYE" distance="5.048669964742313" />
 	</gare>
 	<gare nom="VILLEPINTE" coord="2504, 226">
-		<voisin nom="SEVRAN-BEAUDOTTES" distance="2.1509624979229924" />
 		<voisin nom="PARC DES EXPOSITIONS" distance="1.2068916912591818" />
+		<voisin nom="SEVRAN-BEAUDOTTES" distance="2.1509624979229924" />
 	</gare>
 </ligne>
