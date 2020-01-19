@@ -5,47 +5,47 @@
 		<voisin nom="SEVERINE" distance="0.5443377508623091" />
 	</gare>
 	<gare nom="BUTTE DU CHAPEAU ROUGE" coord="2.3967512888, 48.8850167892">
-		<voisin nom="PORTE DE PANTIN" distance="0.4511143367147941" />
 		<voisin nom="HOPITAL ROBERT DEBRE" distance="0.6987932340919594" />
+		<voisin nom="PORTE DE PANTIN" distance="0.4511143367147941" />
 	</gare>
 	<gare nom="CANAL SAINT-DENIS" coord="2.38053703549, 48.8987339907">
 		<voisin nom="PORTE DE LA VILLETTE" distance="0.4655911150255159" />
 		<voisin nom="ROSA PARKS" distance="0.5224238716299745" />
 	</gare>
 	<gare nom="COLETTE BESSON" coord="2.36365138218, 48.8984911016">
-		<voisin nom="PORTE DE LA CHAPELLE" distance="0.3334386771919009" />
 		<voisin nom="PORTE D AUBERVILLIERS" distance="0.39431056923030544" />
+		<voisin nom="PORTE DE LA CHAPELLE" distance="0.3334386907369921" />
 	</gare>
 	<gare nom="DELPHINE SEYRIG" coord="2.39773885065, 48.8938802825">
-		<voisin nom="ELLA FITZGERALD" distance="0.44199352971453254" />
-		<voisin nom="PORTE DE PANTIN" distance="0.562940592235764" />
+		<voisin nom="ELLA FITZGERALD" distance="0.44199351949615345" />
+		<voisin nom="PORTE DE PANTIN" distance="0.562940576189817" />
 	</gare>
 	<gare nom="ELLA FITZGERALD" coord="2.39504174968, 48.8974328495">
+		<voisin nom="DELPHINE SEYRIG" distance="0.44199351949615345" />
 		<voisin nom="PORTE DE LA VILLETTE" distance="0.6191467689084413" />
-		<voisin nom="DELPHINE SEYRIG" distance="0.44199352971453254" />
 	</gare>
 	<gare nom="HOPITAL ROBERT DEBRE" coord="2.40122176128, 48.8794703691">
-		<voisin nom="PORTE DES LILAS" distance="0.5342802378102233" />
 		<voisin nom="BUTTE DU CHAPEAU ROUGE" distance="0.6987932340919594" />
+		<voisin nom="PORTE DES LILAS" distance="0.5342802378102233" />
 	</gare>
 	<gare nom="MARIE DE MIRIBEL" coord="2.40968568697, 48.8587040102">
-		<voisin nom="PORTE DE MONTREUIL" distance="0.6410618099409531" />
 		<voisin nom="PORTE DE BAGNOLET" distance="0.5302063035518195" />
+		<voisin nom="PORTE DE MONTREUIL" distance="0.6410618099409531" />
 	</gare>
 	<gare nom="PORTE D AUBERVILLIERS" coord="2.36903694932, 48.8986011722">
-		<voisin nom="ROSA PARKS" distance="0.42961660087948883" />
 		<voisin nom="COLETTE BESSON" distance="0.39431056923030544" />
+		<voisin nom="ROSA PARKS" distance="0.42961660087948883" />
 	</gare>
 	<gare nom="PORTE DE BAGNOLET" coord="2.40883246514, 48.863433742">
-		<voisin nom="SEVERINE" distance="0.45515765531919317" />
 		<voisin nom="MARIE DE MIRIBEL" distance="0.5302063035518195" />
+		<voisin nom="SEVERINE" distance="0.45515765531919317" />
 	</gare>
 	<gare nom="PORTE DE LA CHAPELLE" coord="2.35950786882, 48.8972452881">
-		<voisin nom="COLETTE BESSON" distance="0.3334386771919009" />
+		<voisin nom="COLETTE BESSON" distance="0.3334386907369921" />
 	</gare>
 	<gare nom="PORTE DE LA VILLETTE" coord="2.38658143311, 48.8974287356">
-		<voisin nom="ELLA FITZGERALD" distance="0.6191467689084413" />
 		<voisin nom="CANAL SAINT-DENIS" distance="0.4655911150255159" />
+		<voisin nom="ELLA FITZGERALD" distance="0.6191467689084413" />
 	</gare>
 	<gare nom="PORTE DE MONTREUIL" coord="2.41074113613, 48.8529872779">
 		<voisin nom="MARIE DE MIRIBEL" distance="0.6410618099409531" />
@@ -53,7 +53,7 @@
 	</gare>
 	<gare nom="PORTE DE PANTIN" coord="2.39568107471, 48.8890076495">
 		<voisin nom="BUTTE DU CHAPEAU ROUGE" distance="0.4511143367147941" />
-		<voisin nom="DELPHINE SEYRIG" distance="0.562940592235764" />
+		<voisin nom="DELPHINE SEYRIG" distance="0.562940576189817" />
 	</gare>
 	<gare nom="PORTE DE VINCENNES" coord="2.4096560564, 48.8473938905">
 		<voisin nom="PORTE DE MONTREUIL" distance="0.6277057256096136" />
@@ -63,11 +63,11 @@
 		<voisin nom="HOPITAL ROBERT DEBRE" distance="0.5342802378102233" />
 	</gare>
 	<gare nom="ROSA PARKS" coord="2.37412297553, 48.8966738112">
-		<voisin nom="PORTE D AUBERVILLIERS" distance="0.42961660087948883" />
 		<voisin nom="CANAL SAINT-DENIS" distance="0.5224238716299745" />
+		<voisin nom="PORTE D AUBERVILLIERS" distance="0.42961660087948883" />
 	</gare>
 	<gare nom="SEVERINE" coord="2.40897893974, 48.8675213572">
-		<voisin nom="PORTE DE BAGNOLET" distance="0.45515765531919317" />
 		<voisin nom="ADRIENNE BOLLAND" distance="0.5443377508623091" />
+		<voisin nom="PORTE DE BAGNOLET" distance="0.45515765531919317" />
 	</gare>
 </ligne>

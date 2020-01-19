@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PORTE DE VINCENNES,PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" couleur="ff5a00">
+<ligne terminus="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU,PORTE DE VINCENNES" couleur="ff5a00">
 	<gare nom="ALEXANDRA DAVID-NEEL" coord="2.41013203808, 48.8437717867">
-		<voisin nom="PORTE DE VINCENNES" distance="0.40471570399776313" />
 		<voisin nom="MONTEMPOIVRE" distance="0.44727514210246966" />
+		<voisin nom="PORTE DE VINCENNES" distance="0.40471570399776313" />
 	</gare>
 	<gare nom="AVENUE DE FRANCE" coord="2.38116559196, 48.8255702286">
-		<voisin nom="MARYSE BASTIE" distance="0.29664211096869053" />
 		<voisin nom="BARON LE ROY" distance="1.0479091142129564" />
+		<voisin nom="MARYSE BASTIE" distance="0.29664211096869053" />
 	</gare>
 	<gare nom="BALARD" coord="2.27811917696, 48.8361229793">
 		<voisin nom="DESNOUETTES" distance="0.4740625934817859" />
@@ -22,31 +22,31 @@
 	</gare>
 	<gare nom="DESNOUETTES" coord="2.2840072433, 48.8343581655">
 		<voisin nom="BALARD" distance="0.4740625934817859" />
-		<voisin nom="PORTE DE VERSAILLES" distance="0.35161371381688034" />
+		<voisin nom="PORTE DE VERSAILLES" distance="0.3516137395067613" />
 	</gare>
 	<gare nom="DIDOT" coord="2.31338008738, 48.8259205461">
-		<voisin nom="PORTE DE VANVES" distance="0.6116707586459305" />
 		<voisin nom="JEAN MOULIN" distance="0.42147559989571565" />
+		<voisin nom="PORTE DE VANVES" distance="0.6116707586459305" />
 	</gare>
 	<gare nom="GEORGES BRASSENS" coord="2.29566198282, 48.829826379">
 		<voisin nom="PORTE DE BRANCION" distance="0.40144857288744495" />
 		<voisin nom="PORTE DE VERSAILLES" distance="0.6405013386769051" />
 	</gare>
 	<gare nom="JEAN MOULIN" coord="2.31882969127, 48.8247110179">
-		<voisin nom="PORTE D'ORLEANS" distance="0.5151339889677103" />
 		<voisin nom="DIDOT" distance="0.42147559989571565" />
+		<voisin nom="PORTE D'ORLEANS" distance="0.5151339889677103" />
 	</gare>
 	<gare nom="MARYSE BASTIE" coord="2.37758429146, 48.8243285035">
 		<voisin nom="AVENUE DE FRANCE" distance="0.29664211096869053" />
 		<voisin nom="PORTE D'IVRY" distance="0.692099190166829" />
 	</gare>
 	<gare nom="MONTEMPOIVRE" coord="2.4088668504, 48.8398410732">
-		<voisin nom="PORTE DOREE" distance="0.6179966770498629" />
 		<voisin nom="ALEXANDRA DAVID-NEEL" distance="0.44727514210246966" />
+		<voisin nom="PORTE DOREE" distance="0.6179966770498629" />
 	</gare>
 	<gare nom="MONTSOURIS" coord="2.33333983286, 48.8215089174">
-		<voisin nom="PORTE D'ORLEANS" distance="0.6071952689046647" />
 		<voisin nom="CITE UNIVERSITAIRE" distance="0.4159045519583142" />
+		<voisin nom="PORTE D'ORLEANS" distance="0.6071952689046647" />
 	</gare>
 	<gare nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" coord="2.27045824379, 48.8390897554">
 		<voisin nom="BALARD" distance="0.6512663280405991" />
@@ -56,20 +56,20 @@
 		<voisin nom="POTERNE DES PEUPLIERS" distance="0.7039386586996703" />
 	</gare>
 	<gare nom="PORTE D'IVRY" coord="2.36929058735, 48.8213557838">
-		<voisin nom="PORTE DE CHOISY" distance="0.4254372976958062" />
 		<voisin nom="MARYSE BASTIE" distance="0.692099190166829" />
+		<voisin nom="PORTE DE CHOISY" distance="0.4254372976958062" />
 	</gare>
 	<gare nom="PORTE D'ORLEANS" coord="2.32557563621, 48.823411629">
-		<voisin nom="MONTSOURIS" distance="0.6071952689046647" />
 		<voisin nom="JEAN MOULIN" distance="0.5151339889677103" />
+		<voisin nom="MONTSOURIS" distance="0.6071952689046647" />
 	</gare>
 	<gare nom="PORTE DE BRANCION" coord="2.30085182613, 48.8286719395">
 		<voisin nom="GEORGES BRASSENS" distance="0.40144857288744495" />
 		<voisin nom="PORTE DE VANVES" distance="0.35677409111361563" />
 	</gare>
 	<gare nom="PORTE DE CHARENTON" coord="2.39835010387, 48.8319930862">
-		<voisin nom="PORTE DOREE" distance="0.6018297238418082" />
 		<voisin nom="BARON LE ROY" distance="0.401066045763932" />
+		<voisin nom="PORTE DOREE" distance="0.6018297238418082" />
 	</gare>
 	<gare nom="PORTE DE CHOISY" coord="2.36401546218, 48.8197612676">
 		<voisin nom="PORTE D'ITALIE" distance="0.29556601608224775" />
@@ -80,22 +80,22 @@
 		<voisin nom="PORTE DE BRANCION" distance="0.35677409111361563" />
 	</gare>
 	<gare nom="PORTE DE VERSAILLES" coord="2.2880694576, 48.8326768719">
+		<voisin nom="DESNOUETTES" distance="0.3516137395067613" />
 		<voisin nom="GEORGES BRASSENS" distance="0.6405013386769051" />
-		<voisin nom="DESNOUETTES" distance="0.35161371381688034" />
 	</gare>
 	<gare nom="PORTE DE VINCENNES" coord="2.4096560564, 48.8473938905">
 		<voisin nom="ALEXANDRA DAVID-NEEL" distance="0.40471570399776313" />
 	</gare>
 	<gare nom="PORTE DOREE" coord="2.40538321063, 48.8347851581">
-		<voisin nom="PORTE DE CHARENTON" distance="0.6018297238418082" />
 		<voisin nom="MONTEMPOIVRE" distance="0.6179966770498629" />
+		<voisin nom="PORTE DE CHARENTON" distance="0.6018297238418082" />
 	</gare>
 	<gare nom="POTERNE DES PEUPLIERS" coord="2.35093287806, 48.8208733552">
 		<voisin nom="PORTE D'ITALIE" distance="0.7039386586996703" />
 		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.4058286809246721" />
 	</gare>
 	<gare nom="STADE CHARLETY (PORTE DE GENTILLY)" coord="2.34580357984, 48.8195005099">
-		<voisin nom="POTERNE DES PEUPLIERS" distance="0.4058286809246721" />
 		<voisin nom="CITE UNIVERSITAIRE" distance="0.5306061041307749" />
+		<voisin nom="POTERNE DES PEUPLIERS" distance="0.4058286809246721" />
 	</gare>
 </ligne>

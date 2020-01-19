@@ -5,15 +5,15 @@
 		<voisin nom="JAURES" distance="0.3446358230550299" />
 	</gare>
 	<gare nom="BOTZARIS" coord="2.38911580738, 48.8794817719">
-		<voisin nom="PLACE DES FETES" distance="0.4146246530644312" />
 		<voisin nom="BUTTES-CHAUMONT" distance="0.5596304174198334" />
+		<voisin nom="PLACE DES FETES" distance="0.4146246530644312" />
 	</gare>
 	<gare nom="BUTTES-CHAUMONT" coord="2.38161451194, 48.8785141131">
-		<voisin nom="BOTZARIS" distance="0.5596304174198334" />
 		<voisin nom="BOLIVAR" distance="0.6039983669376867" />
+		<voisin nom="BOTZARIS" distance="0.5596304174198334" />
 	</gare>
 	<gare nom="DANUBE" coord="2.39344545649, 48.8819319987">
-		<voisin nom="BOTZARIS" distance="0.4181635277031411" />
+		<voisin nom="BOTZARIS" distance="0.41816354930453364" />
 	</gare>
 	<gare nom="JAURES" coord="2.37015796174, 48.8824652456">
 		<voisin nom="BOLIVAR" distance="0.3446358230550299" />
@@ -26,6 +26,6 @@
 		<voisin nom="PRE SAINT-GERVAIS" distance="0.5585985414718037" />
 	</gare>
 	<gare nom="PRE SAINT-GERVAIS" coord="2.39894666246, 48.8799957944">
-		<voisin nom="DANUBE" distance="0.45677474616112407" />
+		<voisin nom="DANUBE" distance="0.45677475604883644" />
 	</gare>
 </ligne>

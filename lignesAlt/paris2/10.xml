@@ -22,8 +22,8 @@
 		<voisin nom="MIRABEAU" distance="0.7356792831624194" />
 	</gare>
 	<gare nom="CHARLES MICHELS" coord="829, 1678">
-		<voisin nom="JAVEL" distance="1.0291033420167592" />
 		<voisin nom="AVENUE EMILE ZOLA" distance="1.050155498222349" />
+		<voisin nom="JAVEL" distance="1.0291033420167592" />
 	</gare>
 	<gare nom="CLUNY-LA-SORBONNE" coord="1545, 1808">
 		<voisin nom="MAUBERT-MUTUALITE" distance="0.4332312414465248" />
@@ -41,20 +41,20 @@
 		<voisin nom="EGLISE D'AUTEUIL" distance="0.855483058371443" />
 	</gare>
 	<gare nom="JUSSIEU" coord="1723, 1912">
-		<voisin nom="CARDINAL-LEMOINE" distance="0.3710557379976225" />
 		<voisin nom="AUSTERLITZ" distance="1.2379919783030409" />
+		<voisin nom="CARDINAL-LEMOINE" distance="0.3710557379976225" />
 	</gare>
 	<gare nom="LA MOTTE-PICQUET-GRENELLE" coord="920, 1730">
 		<voisin nom="AVENUE EMILE ZOLA" distance="0.41239962859136053" />
 		<voisin nom="SEGUR" distance="1.0444795235293522" />
 	</gare>
 	<gare nom="MABILLON" coord="1456, 1789">
-		<voisin nom="SEVRES-BABYLONE" distance="0.976222757801733" />
 		<voisin nom="ODEON" distance="0.47091620094277065" />
+		<voisin nom="SEVRES-BABYLONE" distance="0.976222757801733" />
 	</gare>
 	<gare nom="MAUBERT-MUTUALITE" coord="1591, 1832">
-		<voisin nom="CLUNY-LA-SORBONNE" distance="0.4332312414465248" />
 		<voisin nom="CARDINAL-LEMOINE" distance="0.5539355568248165" />
+		<voisin nom="CLUNY-LA-SORBONNE" distance="0.4332312414465248" />
 	</gare>
 	<gare nom="MICHEL-ANGE-AUTEUIL" coord="531, 1638">
 		<voisin nom="PORTE D'AUTEUIL" distance="0.7207047304941147" />

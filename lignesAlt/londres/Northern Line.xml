@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Morden,Mill Hill East,Edgware,High Barnet" couleur="000000">
+<ligne terminus="High Barnet,Mill Hill East,Edgware,Morden" couleur="000000">
 	<gare nom="Angel" coord="936, 426">
 		<voisin nom="King's Cross St. Pancras" distance="2.009802401048991" />
 		<voisin nom="Old Street" distance="2.1616052452121335" />
@@ -9,12 +9,12 @@
 		<voisin nom="Tufnell Park" distance="0.9854735491740586" />
 	</gare>
 	<gare nom="Balham" coord="692, 963">
-		<voisin nom="Tooting Bec" distance="1.1258668363884687" />
 		<voisin nom="Clapham South" distance="1.1802457904359889" />
+		<voisin nom="Tooting Bec" distance="1.1258668363884687" />
 	</gare>
 	<gare nom="Bank" coord="974, 576">
-		<voisin nom="Moorgate" distance="0.5899925903197037" />
 		<voisin nom="London Bridge" distance="0.9343535485187028" />
+		<voisin nom="Moorgate" distance="0.5899925903197037" />
 	</gare>
 	<gare nom="Belsize Park" coord="789, 290">
 		<voisin nom="Chalk Farm" distance="1.3535721993446692" />
@@ -29,30 +29,30 @@
 		<voisin nom="Hendon Central" distance="1.538383067276861" />
 	</gare>
 	<gare nom="Burnt Oak" coord="646, 147">
-		<voisin nom="Edgware" distance="1.7159724194366193" />
 		<voisin nom="Colindale" distance="1.7477476499233768" />
+		<voisin nom="Edgware" distance="1.7159724194366193" />
 	</gare>
 	<gare nom="Camden Town" coord="831, 341">
 		<voisin nom="Chalk Farm" distance="1.3608771933664585" />
-		<voisin nom="Mornington Crescent" distance="0.7058906580321428" />
 		<voisin nom="Euston" distance="1.5751188576100943" />
 		<voisin nom="Kentish Town" distance="1.3077514877715062" />
+		<voisin nom="Mornington Crescent" distance="0.7058906580321428" />
 	</gare>
 	<gare nom="Chalk Farm" coord="810, 311">
-		<voisin nom="Camden Town" distance="1.3608771933664585" />
 		<voisin nom="Belsize Park" distance="1.3535721993446692" />
+		<voisin nom="Camden Town" distance="1.3608771933664585" />
 	</gare>
 	<gare nom="Charing Cross" coord="801, 625">
-		<voisin nom="Leicester Square" distance="0.5274470478491505" />
 		<voisin nom="Embankment" distance="0.27538918867265133" />
+		<voisin nom="Leicester Square" distance="0.5274470478491505" />
 	</gare>
 	<gare nom="Clapham Common" coord="730, 920">
-		<voisin nom="Clapham South" distance="1.472490039428456" />
 		<voisin nom="Clapham North" distance="1.0071796541179612" />
+		<voisin nom="Clapham South" distance="1.472490039428456" />
 	</gare>
 	<gare nom="Clapham North" coord="750, 901">
-		<voisin nom="Stockwell" distance="1.1263075539527765" />
 		<voisin nom="Clapham Common" distance="1.0071796541179612" />
+		<voisin nom="Stockwell" distance="1.1263075539527765" />
 	</gare>
 	<gare nom="Clapham South" coord="711, 940">
 		<voisin nom="Balham" distance="1.1802457904359889" />
@@ -67,29 +67,29 @@
 		<voisin nom="Tooting Broadway" distance="1.5193751685176953" />
 	</gare>
 	<gare nom="East Finchley" coord="881, 168">
-		<voisin nom="Highgate" distance="2.394609573632668" />
 		<voisin nom="Finchley Central" distance="3.4949323399387726" />
+		<voisin nom="Highgate" distance="2.394609573632668" />
 	</gare>
 	<gare nom="Edgware" coord="619, 117">
 		<voisin nom="Burnt Oak" distance="1.7159724194366193" />
 	</gare>
 	<gare nom="Elephant &amp; Castle" coord="833, 822">
-		<voisin nom="Kennington" distance="0.8754687895909609" />
 		<voisin nom="Borough" distance="0.9949239313124086" />
+		<voisin nom="Kennington" distance="0.8754687895909609" />
 	</gare>
 	<gare nom="Embankment" coord="801, 662">
-		<voisin nom="Waterloo" distance="0.9859158179872659" />
 		<voisin nom="Charing Cross" distance="0.27538918867265133" />
+		<voisin nom="Waterloo" distance="0.9859158179872659" />
 	</gare>
 	<gare nom="Euston" coord="832, 414">
 		<voisin nom="Camden Town" distance="1.5751188576100943" />
 		<voisin nom="King's Cross St. Pancras" distance="1.1394351454091323" />
 		<voisin nom="Mornington Crescent" distance="0.8694315641183251" />
-		<voisin nom="Warren Street" distance="0.6523353578487535" />
+		<voisin nom="Warren Street" distance="0.6523353647722743" />
 	</gare>
 	<gare nom="Finchley Central" coord="881, 145">
-		<voisin nom="Mill Hill East" distance="2.0568799426068325" />
 		<voisin nom="East Finchley" distance="3.4949323399387726" />
+		<voisin nom="Mill Hill East" distance="2.0568799426068325" />
 		<voisin nom="West Finchley" distance="1.0729445618155145" />
 	</gare>
 	<gare nom="Golders Green" coord="727, 224">
@@ -97,12 +97,12 @@
 		<voisin nom="Hampstead" distance="2.495562102727512" />
 	</gare>
 	<gare nom="Goodge Street" coord="800, 509">
-		<voisin nom="Warren Street" distance="0.623089910270833" />
 		<voisin nom="Tottenham Court Road" distance="0.6065626750450424" />
+		<voisin nom="Warren Street" distance="0.623089910270833" />
 	</gare>
 	<gare nom="Hampstead" coord="747, 247">
-		<voisin nom="Golders Green" distance="2.495562102727512" />
 		<voisin nom="Belsize Park" distance="1.6933726635955684" />
+		<voisin nom="Golders Green" distance="2.495562102727512" />
 	</gare>
 	<gare nom="Hendon Central" coord="686, 184">
 		<voisin nom="Brent Cross" distance="1.538383067276861" />
@@ -117,8 +117,8 @@
 	</gare>
 	<gare nom="Kennington" coord="798, 860">
 		<voisin nom="Elephant &amp; Castle" distance="0.8754687895909609" />
-		<voisin nom="Waterloo" distance="1.966417612220653" />
 		<voisin nom="Oval" distance="1.1217329109639544" />
+		<voisin nom="Waterloo" distance="1.966417612220653" />
 	</gare>
 	<gare nom="Kentish Town" coord="881, 268">
 		<voisin nom="Camden Town" distance="1.3077514877715062" />
@@ -133,15 +133,15 @@
 		<voisin nom="Tottenham Court Road" distance="0.66279386839575" />
 	</gare>
 	<gare nom="London Bridge" coord="974, 670">
-		<voisin nom="Borough" distance="0.9908057488539638" />
 		<voisin nom="Bank" distance="0.9343535485187028" />
+		<voisin nom="Borough" distance="0.9908057488539638" />
 	</gare>
 	<gare nom="Mill Hill East" coord="851, 105">
 		<voisin nom="Finchley Central" distance="2.0568799426068325" />
 	</gare>
 	<gare nom="Moorgate" coord="974, 497">
-		<voisin nom="Old Street" distance="0.869289476794423" />
 		<voisin nom="Bank" distance="0.5899925903197037" />
+		<voisin nom="Old Street" distance="0.869289476794423" />
 	</gare>
 	<gare nom="Morden" coord="591, 1064">
 		<voisin nom="South Wimbledon" distance="1.5044532278548057" />
@@ -155,39 +155,39 @@
 		<voisin nom="Moorgate" distance="0.869289476794423" />
 	</gare>
 	<gare nom="Oval" coord="781, 870">
-		<voisin nom="Stockwell" distance="1.5431291117096642" />
 		<voisin nom="Kennington" distance="1.1217329109639544" />
+		<voisin nom="Stockwell" distance="1.5431291117096642" />
 	</gare>
 	<gare nom="South Wimbledon" coord="612, 1041">
-		<voisin nom="Morden" distance="1.5044532278548057" />
 		<voisin nom="Colliers Wood" distance="1.5960665801746468" />
+		<voisin nom="Morden" distance="1.5044532278548057" />
 	</gare>
 	<gare nom="Stockwell" coord="768, 887">
-		<voisin nom="Oval" distance="1.5431291117096642" />
 		<voisin nom="Clapham North" distance="1.1263075539527765" />
+		<voisin nom="Oval" distance="1.5431291117096642" />
 	</gare>
 	<gare nom="Tooting Bec" coord="671, 979">
 		<voisin nom="Balham" distance="1.1258668363884687" />
 		<voisin nom="Tooting Broadway" distance="1.3227800279519533" />
 	</gare>
 	<gare nom="Tooting Broadway" coord="651, 1000">
-		<voisin nom="Tooting Bec" distance="1.3227800279519533" />
 		<voisin nom="Colliers Wood" distance="1.5193751685176953" />
+		<voisin nom="Tooting Bec" distance="1.3227800279519533" />
 	</gare>
 	<gare nom="Tottenham Court Road" coord="801, 531">
-		<voisin nom="Leicester Square" distance="0.66279386839575" />
 		<voisin nom="Goodge Street" distance="0.6065626750450424" />
+		<voisin nom="Leicester Square" distance="0.66279386839575" />
 	</gare>
 	<gare nom="Totteridge &amp; Whetstone" coord="881, 72">
-		<voisin nom="Woodside Park" distance="1.5486556450168887" />
 		<voisin nom="High Barnet" distance="2.8052637753406247" />
+		<voisin nom="Woodside Park" distance="1.5486556450168887" />
 	</gare>
 	<gare nom="Tufnell Park" coord="881, 240">
 		<voisin nom="Archway" distance="0.9854735491740586" />
 		<voisin nom="Kentish Town" distance="0.7370643994164742" />
 	</gare>
 	<gare nom="Warren Street" coord="801, 454">
-		<voisin nom="Euston" distance="0.6523353578487535" />
+		<voisin nom="Euston" distance="0.6523353647722743" />
 		<voisin nom="Goodge Street" distance="0.623089910270833" />
 	</gare>
 	<gare nom="Waterloo" coord="801, 705">

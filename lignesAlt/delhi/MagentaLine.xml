@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Botanical Garden,Janak Puri West" couleur="DA70D6">
+<ligne terminus="Janak Puri West,Botanical Garden" couleur="DA70D6">
 	<gare nom="Botanical Garden" coord="3245, 1808">
-		<voisin nom="Okhla Bird Sanctuary" distance="1.8100354640550071" />
+		<voisin nom="Okhla Bird Sanctuary" distance="1.810035461559776" />
 	</gare>
 	<gare nom="Chirag Delhi" coord="2311, 2001">
+		<voisin nom="Greater Kailash" distance="0.6339738979262567" />
 		<voisin nom="Panchsheel Park" distance="1.0940187133928196" />
-		<voisin nom="Greater Kailash" distance="0.6339738908022136" />
 	</gare>
 	<gare nom="Dabri Mor" coord="1108, 1332">
 		<voisin nom="Dashrath Puri" distance="1.5888325489428998" />
 		<voisin nom="Janak Puri West" distance="1.6688077716701912" />
 	</gare>
 	<gare nom="Dashrath Puri" coord="1190, 1408">
-		<voisin nom="Palam" distance="1.1232356348516928" />
 		<voisin nom="Dabri Mor" distance="1.5888325489428998" />
+		<voisin nom="Palam" distance="1.1232356348516928" />
 	</gare>
 	<gare nom="Greater Kailash" coord="2383, 1999">
+		<voisin nom="Chirag Delhi" distance="0.6339738979262567" />
 		<voisin nom="Nehru Enclave" distance="1.3187875715085893" />
-		<voisin nom="Chirag Delhi" distance="0.6339738908022136" />
 	</gare>
 	<gare nom="Hauz Khas" coord="2137, 2001">
-		<voisin nom="Panchsheel Park" distance="1.396128398034993" />
 		<voisin nom="IIT Delhi" distance="1.371081101005387" />
+		<voisin nom="Panchsheel Park" distance="1.396128398034993" />
 	</gare>
 	<gare nom="IIT Delhi" coord="1972, 1998">
 		<voisin nom="Hauz Khas" distance="1.371081101005387" />
@@ -39,40 +39,40 @@
 		<voisin nom="Okhla Vihar" distance="1.744701002738643" />
 	</gare>
 	<gare nom="Kalindi Kunj" coord="3066, 1983">
-		<voisin nom="Okhla Bird Sanctuary" distance="1.579581309730177" />
 		<voisin nom="Jasola Vihar Shaheen Bagh" distance="1.3713562579457246" />
+		<voisin nom="Okhla Bird Sanctuary" distance="1.5795813068709017" />
 	</gare>
 	<gare nom="Kalkaji Mandir" coord="2557, 1941">
 		<voisin nom="Nehru Enclave" distance="0.934110904873006" />
 		<voisin nom="Sukhdev Vihar" distance="1.9297585306393747" />
 	</gare>
 	<gare nom="Munirka" coord="1766, 1956">
-		<voisin nom="Vasant Vihar" distance="1.2085098288162548" />
 		<voisin nom="R.K Puram" distance="1.2883476978307111" />
+		<voisin nom="Vasant Vihar" distance="1.2085098288162548" />
 	</gare>
 	<gare nom="Nehru Enclave" coord="2463, 2001">
-		<voisin nom="Kalkaji Mandir" distance="0.934110904873006" />
 		<voisin nom="Greater Kailash" distance="1.3187875715085893" />
+		<voisin nom="Kalkaji Mandir" distance="0.934110904873006" />
 	</gare>
 	<gare nom="Okhla Bird Sanctuary" coord="3164, 1888">
-		<voisin nom="Kalindi Kunj" distance="1.579581309730177" />
-		<voisin nom="Botanical Garden" distance="1.8100354640550071" />
+		<voisin nom="Botanical Garden" distance="1.810035461559776" />
+		<voisin nom="Kalindi Kunj" distance="1.5795813068709017" />
 	</gare>
 	<gare nom="Okhla Vihar" coord="2850, 1822">
 		<voisin nom="Jamia Millia Islamia" distance="0.7280171347082255" />
 		<voisin nom="Jasola Vihar Shaheen Bagh" distance="1.744701002738643" />
 	</gare>
 	<gare nom="Palam" coord="1264, 1478">
-		<voisin nom="Dashrath Puri" distance="1.1232356348516928" />
 		<voisin nom="Dabri Mor" distance="2.7097159128585666" />
+		<voisin nom="Dashrath Puri" distance="1.1232356348516928" />
 	</gare>
 	<gare nom="Panchsheel Park" coord="2231, 1999">
-		<voisin nom="Hauz Khas" distance="1.396128398034993" />
 		<voisin nom="Chirag Delhi" distance="1.0940187133928196" />
+		<voisin nom="Hauz Khas" distance="1.396128398034993" />
 	</gare>
 	<gare nom="R.K Puram" coord="1890, 2000">
-		<voisin nom="Munirka" distance="1.2883476978307111" />
 		<voisin nom="IIT Delhi" distance="0.9391085642797651" />
+		<voisin nom="Munirka" distance="1.2883476978307111" />
 	</gare>
 	<gare nom="Sadar Bazaar Cantonment" coord="1405, 1613">
 		<voisin nom="Palam" distance="3.2592301677782247" />
@@ -83,12 +83,12 @@
 		<voisin nom="Vasant Vihar" distance="2.1116345650026376" />
 	</gare>
 	<gare nom="Sukhdev Vihar" coord="2682, 1822">
-		<voisin nom="Kalkaji Mandir" distance="1.9297585306393747" />
 		<voisin nom="Jamia Millia Islamia" distance="0.9639596008259689" />
+		<voisin nom="Kalkaji Mandir" distance="1.9297585306393747" />
 	</gare>
 	<gare nom="Terminal 1 IGI Airport" coord="1514, 1716">
-		<voisin nom="Shankar Vihar" distance="1.779660000380702" />
 		<voisin nom="Sadar Bazaar Cantonment" distance="1.776870007575214" />
+		<voisin nom="Shankar Vihar" distance="1.779660000380702" />
 	</gare>
 	<gare nom="Vasant Vihar" coord="1683, 1876">
 		<voisin nom="Munirka" distance="1.2085098288162548" />

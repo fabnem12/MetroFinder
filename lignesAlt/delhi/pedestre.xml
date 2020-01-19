@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Dwarka Sec-21-Airport,New Delhi-Airport Express,New Delhi,Sikandarpur,Dwarka Sector 21,Sikandarpur (Rapid Metro)" couleur="ffffff">
+<ligne terminus="Sikandarpur,Dwarka Sec-21-Airport,Noida City Center,New Delhi-Airport Express,Noida Sector 51,Sikandarpur (Rapid Metro),Mayur Vihar Pocket I,Dwarka Sector 21,Trilokpuri Sanjay Lake,New Delhi" couleur="ffffff">
 	<gare nom="Dwarka Sec-21-Airport" coord="899, 1881">
 		<voisin nom="Dwarka Sector 21" distance="4.6096306961911235" />
 	</gare>
 	<gare nom="Dwarka Sector 21" coord="888, 1870">
 		<voisin nom="Dwarka Sec-21-Airport" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Mayur Vihar Pocket I" coord="3052, 1491">
+		<voisin nom="Trilokpuri Sanjay Lake" distance="4.6096306961911235" />
 	</gare>
 	<gare nom="New Delhi" coord="2382, 1145">
 		<voisin nom="New Delhi-Airport Express" distance="4.6096306961911235" />
@@ -12,10 +15,19 @@
 	<gare nom="New Delhi-Airport Express" coord="2353, 1145">
 		<voisin nom="New Delhi" distance="4.6096306961911235" />
 	</gare>
+	<gare nom="Noida City Center" coord="3406, 1831">
+		<voisin nom="Noida Sector 51" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Noida Sector 51" coord="3436, 1901">
+		<voisin nom="Noida City Center" distance="4.6096306961911235" />
+	</gare>
 	<gare nom="Sikandarpur" coord="1582, 2534">
 		<voisin nom="Sikandarpur (Rapid Metro)" distance="4.6096306961911235" />
 	</gare>
 	<gare nom="Sikandarpur (Rapid Metro)" coord="1611, 2563">
 		<voisin nom="Sikandarpur" distance="4.6096306961911235" />
+	</gare>
+	<gare nom="Trilokpuri Sanjay Lake" coord="3089, 1433">
+		<voisin nom="Mayur Vihar Pocket I" distance="4.6096306961911235" />
 	</gare>
 </ligne>

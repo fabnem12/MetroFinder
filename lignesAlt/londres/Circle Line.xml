@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ligne terminus="" couleur="f7dc00">
 	<gare nom="Aldgate" coord="1078, 560">
+		<voisin nom="Liverpool Street" distance="0.8513574460068436" />
 		<voisin nom="Tower Hill" distance="0.5156864334740096" />
-		<voisin nom="Liverpool Street" distance="0.8513574407018364" />
 	</gare>
 	<gare nom="Baker Street" coord="689, 437">
 		<voisin nom="Edgware Road (C)" distance="1.4586674917804119" />
@@ -13,8 +13,8 @@
 		<voisin nom="Moorgate" distance="1.0544840697936182" />
 	</gare>
 	<gare nom="Bayswater" coord="542, 487">
-		<voisin nom="Paddington" distance="1.4284068865342192" />
 		<voisin nom="Notting Hill Gate" distance="1.0246831750191476" />
+		<voisin nom="Paddington" distance="1.4284068865342192" />
 	</gare>
 	<gare nom="Blackfriars" coord="908, 641">
 		<voisin nom="Mansion House" distance="1.013251994544961" />
@@ -25,20 +25,20 @@
 		<voisin nom="Monument" distance="0.4597912759971947" />
 	</gare>
 	<gare nom="Edgware Road (C)" coord="594, 441">
-		<voisin nom="Paddington" distance="0.819993162433942" />
 		<voisin nom="Baker Street" distance="1.4586674917804119" />
+		<voisin nom="Paddington" distance="0.819993162433942" />
 	</gare>
 	<gare nom="Embankment" coord="801, 662">
-		<voisin nom="Westminster" distance="0.7916201973137611" />
 		<voisin nom="Temple" distance="1.0014420523494707" />
+		<voisin nom="Westminster" distance="0.7916201973137611" />
 	</gare>
 	<gare nom="Euston Square" coord="831, 439">
-		<voisin nom="King's Cross St. Pancras" distance="1.4490782764572585" />
 		<voisin nom="Great Portland Street" distance="0.9236162182840373" />
+		<voisin nom="King's Cross St. Pancras" distance="1.4490782764572585" />
 	</gare>
 	<gare nom="Farringdon" coord="925, 460">
-		<voisin nom="King's Cross St. Pancras" distance="2.3679923286298723" />
 		<voisin nom="Barbican" distance="0.8238394439127309" />
+		<voisin nom="King's Cross St. Pancras" distance="2.3679923286298723" />
 	</gare>
 	<gare nom="Gloucester Road" coord="569, 662">
 		<voisin nom="High Street Kensington" distance="1.2843759061099256" />
@@ -53,48 +53,48 @@
 		<voisin nom="Notting Hill Gate" distance="1.055418950949264" />
 	</gare>
 	<gare nom="King's Cross St. Pancras" coord="890, 438">
-		<voisin nom="Farringdon" distance="2.3679923286298723" />
 		<voisin nom="Euston Square" distance="1.4490782764572585" />
+		<voisin nom="Farringdon" distance="2.3679923286298723" />
 	</gare>
 	<gare nom="Liverpool Street" coord="1043, 496">
-		<voisin nom="Aldgate" distance="0.8513574407018364" />
+		<voisin nom="Aldgate" distance="0.8513574460068436" />
 		<voisin nom="Moorgate" distance="0.7069444867941655" />
 	</gare>
 	<gare nom="Mansion House" coord="926, 624">
-		<voisin nom="Cannon Street" distance="0.4130837912492217" />
 		<voisin nom="Blackfriars" distance="1.013251994544961" />
+		<voisin nom="Cannon Street" distance="0.4130837912492217" />
 	</gare>
 	<gare nom="Monument" coord="992, 594">
-		<voisin nom="Tower Hill" distance="1.0855220014290208" />
 		<voisin nom="Cannon Street" distance="0.4597912759971947" />
+		<voisin nom="Tower Hill" distance="1.0855220014290208" />
 	</gare>
 	<gare nom="Moorgate" coord="974, 497">
-		<voisin nom="Liverpool Street" distance="0.7069444867941655" />
 		<voisin nom="Barbican" distance="1.0544840697936182" />
+		<voisin nom="Liverpool Street" distance="0.7069444867941655" />
 	</gare>
 	<gare nom="Notting Hill Gate" coord="541, 531">
-		<voisin nom="High Street Kensington" distance="1.055418950949264" />
 		<voisin nom="Bayswater" distance="1.0246831750191476" />
+		<voisin nom="High Street Kensington" distance="1.055418950949264" />
 	</gare>
 	<gare nom="Paddington" coord="546, 452">
 		<voisin nom="Bayswater" distance="1.4284068865342192" />
 		<voisin nom="Edgware Road (C)" distance="0.819993162433942" />
 	</gare>
 	<gare nom="Sloane Square" coord="642, 663">
-		<voisin nom="Victoria" distance="1.3906022741009372" />
 		<voisin nom="South Kensington" distance="1.9351028471856992" />
+		<voisin nom="Victoria" distance="1.3906022741009372" />
 	</gare>
 	<gare nom="South Kensington" coord="593, 665">
-		<voisin nom="Sloane Square" distance="1.9351028471856992" />
 		<voisin nom="Gloucester Road" distance="1.0139855176400348" />
+		<voisin nom="Sloane Square" distance="1.9351028471856992" />
 	</gare>
 	<gare nom="St. James's Park" coord="712, 661">
-		<voisin nom="Westminster" distance="0.9191106895061781" />
 		<voisin nom="Victoria" distance="1.2878945903896746" />
+		<voisin nom="Westminster" distance="0.9191106895061781" />
 	</gare>
 	<gare nom="Temple" coord="853, 660">
-		<voisin nom="Embankment" distance="1.0014420523494707" />
 		<voisin nom="Blackfriars" distance="1.2286061332116769" />
+		<voisin nom="Embankment" distance="1.0014420523494707" />
 	</gare>
 	<gare nom="Tower Hill" coord="1060, 594">
 		<voisin nom="Aldgate" distance="0.5156864334740096" />
@@ -105,7 +105,7 @@
 		<voisin nom="St. James's Park" distance="1.2878945903896746" />
 	</gare>
 	<gare nom="Westminster" coord="764, 661">
-		<voisin nom="St. James's Park" distance="0.9191106895061781" />
 		<voisin nom="Embankment" distance="0.7916201973137611" />
+		<voisin nom="St. James's Park" distance="0.9191106895061781" />
 	</gare>
 </ligne>

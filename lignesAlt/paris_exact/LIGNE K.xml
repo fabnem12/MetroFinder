@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ligne terminus="GARE DU NORD,CREPY-EN-VALOIS" couleur="ae9a00">
 	<gare nom="AULNAY-SOUS-BOIS" coord="2.49551314123, 48.9321960051">
-		<voisin nom="GARE DU NORD" distance="11.674454407938207" />
+		<voisin nom="GARE DU NORD" distance="11.674454408325074" />
 		<voisin nom="MITRY-CLAYE" distance="11.786661670380166" />
 	</gare>
 	<gare nom="COMPANS" coord="2.66505986931, 48.991391402">
@@ -9,30 +9,30 @@
 		<voisin nom="THIEUX-NANTOUILLET" distance="2.1671380615447693" />
 	</gare>
 	<gare nom="CREPY-EN-VALOIS" coord="2.88736670498, 49.2310180602">
-		<voisin nom="ORMOY-VILLERS" distance="4.9078780373927" />
+		<voisin nom="ORMOY-VILLERS" distance="4.907878038312946" />
 	</gare>
 	<gare nom="DAMMARTIN-JUILLY-SAINT-MARD" coord="2.69945308646, 49.0325740896">
-		<voisin nom="LE PLESSIS-BELLEVILLE" distance="7.805513803045197" />
+		<voisin nom="LE PLESSIS-BELLEVILLE" distance="7.8055138042024454" />
 		<voisin nom="THIEUX-NANTOUILLET" distance="3.062487037191386" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="2.35632854366, 48.8809220076">
-		<voisin nom="AULNAY-SOUS-BOIS" distance="11.674454407938207" />
+		<voisin nom="AULNAY-SOUS-BOIS" distance="11.674454408325074" />
 	</gare>
 	<gare nom="LE PLESSIS-BELLEVILLE" coord="2.74468620744, 49.0961208107">
-		<voisin nom="NANTEUIL-LE-HAUDOUIN" distance="6.344025097048511" />
-		<voisin nom="DAMMARTIN-JUILLY-SAINT-MARD" distance="7.805513803045197" />
+		<voisin nom="DAMMARTIN-JUILLY-SAINT-MARD" distance="7.8055138042024454" />
+		<voisin nom="NANTEUIL-LE-HAUDOUIN" distance="6.344025097760434" />
 	</gare>
 	<gare nom="MITRY-CLAYE" coord="2.64240630503, 48.9758587558">
 		<voisin nom="AULNAY-SOUS-BOIS" distance="11.786661670380166" />
 		<voisin nom="COMPANS" distance="2.3934716173196966" />
 	</gare>
 	<gare nom="NANTEUIL-LE-HAUDOUIN" coord="2.79445455011, 49.1428841983">
-		<voisin nom="LE PLESSIS-BELLEVILLE" distance="6.344025097048511" />
+		<voisin nom="LE PLESSIS-BELLEVILLE" distance="6.344025097760434" />
 		<voisin nom="ORMOY-VILLERS" distance="7.195183458112187" />
 	</gare>
 	<gare nom="ORMOY-VILLERS" coord="2.83810847804, 49.2008770791">
+		<voisin nom="CREPY-EN-VALOIS" distance="4.907878038312946" />
 		<voisin nom="NANTEUIL-LE-HAUDOUIN" distance="7.195183458112187" />
-		<voisin nom="CREPY-EN-VALOIS" distance="4.9078780373927" />
 	</gare>
 	<gare nom="THIEUX-NANTOUILLET" coord="2.68025245597, 49.0081140177">
 		<voisin nom="COMPANS" distance="2.1671380615447693" />

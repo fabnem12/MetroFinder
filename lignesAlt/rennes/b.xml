@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Saint-Jacques-Gaité,Cesson Viasilva" couleur="0000FF">
+<ligne terminus="Cesson Viasilva,Saint-Jacques-Gaité" couleur="0000FF">
 	<gare nom="Atalante" coord="1059, 195">
 		<voisin nom="Beaulieu Université" distance="1.355214878491686" />
 		<voisin nom="Cesson Viasilva" distance="1.0096878477607807" />
 	</gare>
 	<gare nom="Beaulieu Université" coord="936, 277">
-		<voisin nom="Irène Joliot-Curie" distance="1.3963105806243994" />
 		<voisin nom="Atalante" distance="1.355214878491686" />
+		<voisin nom="Irène Joliot-Curie" distance="1.3963105806243994" />
 	</gare>
 	<gare nom="Cesson Viasilva" coord="1166, 101">
 		<voisin nom="Atalante" distance="1.0096878477607807" />
 	</gare>
 	<gare nom="Cleunay" coord="212, 620">
-		<voisin nom="La Courrouze" distance="1.0214001532392365" />
+		<voisin nom="La Courrouze" distance="1.021400157661066" />
 		<voisin nom="Mabilais" distance="1.5964911407177635" />
 	</gare>
 	<gare nom="Colombier" coord="477, 539">
-		<voisin nom="Mabilais" distance="1.1721806331434952" />
 		<voisin nom="Gares" distance="1.1263029023801276" />
+		<voisin nom="Mabilais" distance="1.1721806331434952" />
 	</gare>
 	<gare nom="Gares" coord="580, 574">
-		<voisin nom="Saint Germain" distance="0.876574984668703" />
 		<voisin nom="Colombier" distance="1.1263029023801276" />
+		<voisin nom="Saint Germain" distance="0.876574984668703" />
 	</gare>
 	<gare nom="Gros Chêne" coord="666, 227">
 		<voisin nom="Jules Ferry" distance="1.0020485161324915" />
@@ -32,16 +32,16 @@
 		<voisin nom="Les Gayeulles" distance="0.8729357206892955" />
 	</gare>
 	<gare nom="Jules Ferry" coord="596, 332">
-		<voisin nom="Sainte Anne" distance="1.1780847788961861" />
 		<voisin nom="Gros Chêne" distance="1.0020485161324915" />
+		<voisin nom="Sainte Anne" distance="1.1780847788961861" />
 	</gare>
 	<gare nom="La Courrouze" coord="296, 689">
+		<voisin nom="Cleunay" distance="1.021400157661066" />
 		<voisin nom="Saint-Jacques-Gaité" distance="0.7653381916258872" />
-		<voisin nom="Cleunay" distance="1.0214001532392365" />
 	</gare>
 	<gare nom="Les Gayeulles" coord="744, 158">
-		<voisin nom="Irène Joliot-Curie" distance="0.8729357206892955" />
 		<voisin nom="Gros Chêne" distance="0.930454055875357" />
+		<voisin nom="Irène Joliot-Curie" distance="0.8729357206892955" />
 	</gare>
 	<gare nom="Mabilais" coord="359, 553">
 		<voisin nom="Cleunay" distance="1.5964911407177635" />

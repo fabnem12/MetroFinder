@@ -11,7 +11,7 @@
 		<voisin nom="SAINT-FARGEAU METRO" distance="0.5705837720337624" />
 	</gare>
 	<gare nom="SAINT-FARGEAU METRO" coord="2510, 1266">
-		<voisin nom="PORTE DES LILAS" distance="0.5705837720337624" />
 		<voisin nom="PELLEPORT" distance="0.5233550717804755" />
+		<voisin nom="PORTE DES LILAS" distance="0.5705837720337624" />
 	</gare>
 </ligne>

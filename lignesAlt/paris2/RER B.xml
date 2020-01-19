@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="SAINT-REMY-LES-CHEVREUSE,AEROPORT CHARLES DE GAULLE 2-TGV,ROBINSON,MITRY-CLAYE" couleur="4b92db">
+<ligne terminus="ROBINSON,SAINT-REMY-LES-CHEVREUSE,MITRY-CLAYE,AEROPORT CHARLES DE GAULLE 2-TGV" couleur="4b92db">
 	<gare nom="AEROPORT CHARLES DE GAULLE 1" coord="2692, 227">
-		<voisin nom="PARC DES EXPOSITIONS" distance="6.599298961557208" />
 		<voisin nom="AEROPORT CHARLES DE GAULLE 2-TGV" distance="1.1843509170989306" />
+		<voisin nom="PARC DES EXPOSITIONS" distance="6.599298961557208" />
 	</gare>
 	<gare nom="AEROPORT CHARLES DE GAULLE 2-TGV" coord="2786, 226">
 		<voisin nom="AEROPORT CHARLES DE GAULLE 1" distance="1.1843509170989306" />
 	</gare>
 	<gare nom="ANTONY" coord="1140, 2793">
+		<voisin nom="FONTAINE-MICHALON" distance="1.38512853229755" />
 		<voisin nom="LA CROIX-DE-BERNY-FRESNES" distance="0.8326780834203604" />
-		<voisin nom="MASSY-PALAISEAU" distance="5.787395921511515" />
 	</gare>
 	<gare nom="ARCUEIL-CACHAN" coord="1283, 2545">
-		<voisin nom="LAPLACE" distance="1.2542421010721265" />
 		<voisin nom="BAGNEUX" distance="0.9046943199114091" />
+		<voisin nom="LAPLACE" distance="1.2542421010721265" />
 	</gare>
 	<gare nom="AULNAY-SOUS-BOIS" coord="2304, 226">
-		<voisin nom="SEVRAN-LIVRY" distance="4.38750260122544" />
 		<voisin nom="BLANC-MESNIL" distance="2.208475339418161" />
 		<voisin nom="SEVRAN-BEAUDOTTES" distance="3.675044059720921" />
+		<voisin nom="SEVRAN-LIVRY" distance="4.38750260122544" />
 	</gare>
 	<gare nom="BAGNEUX" coord="1249, 2605">
 		<voisin nom="ARCUEIL-CACHAN" distance="0.9046943199114091" />
@@ -29,76 +29,124 @@
 		<voisin nom="DRANCY" distance="2.327893406623102" />
 	</gare>
 	<gare nom="BOURG-LA-REINE" coord="1220, 2655">
-		<voisin nom="SCEAUX" distance="1.636065691864461" />
 		<voisin nom="BAGNEUX" distance="1.8196492862591882" />
 		<voisin nom="PARC-DE-SCEAUX" distance="1.0922511207303678" />
+		<voisin nom="SCEAUX" distance="1.636065691864461" />
+	</gare>
+	<gare nom="BURES-SUR-YVETTE" coord="1022, 2942">
+		<voisin nom="LA HACQUINIERE" distance="1.4220466538153294" />
+		<voisin nom="ORSAY-VILLE" distance="1.8616101812427817" />
 	</gare>
 	<gare nom="CHATELET-LES HALLES" coord="1696, 1449">
-		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="0.9501722307634991" />
 		<voisin nom="GARE DU NORD" distance="2.388667536492601" />
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="0.9501722307634991" />
 	</gare>
 	<gare nom="CITE UNIVERSITAIRE" coord="1368, 2398">
-		<voisin nom="GENTILLY" distance="0.6856529081253984" />
 		<voisin nom="DENFERT-ROCHEREAU" distance="1.6191846945313169" />
+		<voisin nom="GENTILLY" distance="0.6856529081253984" />
+	</gare>
+	<gare nom="COURCELLE-SUR-YVETTE" coord="975, 2955">
+		<voisin nom="GIF-SUR-YVETTE" distance="4.309037906917572" />
+		<voisin nom="SAINT-REMY-LES-CHEVREUSE" distance="2.980789285965428" />
 	</gare>
 	<gare nom="DENFERT-ROCHEREAU" coord="1376, 2170">
-		<voisin nom="PORT ROYAL" distance="0.7943151628020526" />
 		<voisin nom="CITE UNIVERSITAIRE" distance="1.6191846945313169" />
+		<voisin nom="PORT ROYAL" distance="0.7943151628020526" />
 	</gare>
 	<gare nom="DRANCY" coord="2174, 228">
 		<voisin nom="BLANC-MESNIL" distance="2.327893406623102" />
 		<voisin nom="LE BOURGET" distance="3.232885058593989" />
 	</gare>
+	<gare nom="FONTAINE-MICHALON" coord="1128, 2814">
+		<voisin nom="ANTONY" distance="1.38512853229755" />
+		<voisin nom="LES BACONNETS" distance="1.0545950818207" />
+	</gare>
 	<gare nom="FONTENAY-AUX-ROSES" coord="1014, 2703">
-		<voisin nom="SCEAUX" distance="0.9021012650999254" />
 		<voisin nom="ROBINSON" distance="1.4798186237072375" />
+		<voisin nom="SCEAUX" distance="0.9021012650999254" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="1766, 876">
 		<voisin nom="CHATELET-LES HALLES" distance="2.388667536492601" />
 		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="4.199384286748224" />
 	</gare>
 	<gare nom="GENTILLY" coord="1329, 2467">
-		<voisin nom="LAPLACE" distance="1.0602937540097466" />
 		<voisin nom="CITE UNIVERSITAIRE" distance="0.6856529081253984" />
+		<voisin nom="LAPLACE" distance="1.0602937540097466" />
+	</gare>
+	<gare nom="GIF-SUR-YVETTE" coord="987, 2954">
+		<voisin nom="COURCELLE-SUR-YVETTE" distance="4.309037906917572" />
+		<voisin nom="LA HACQUINIERE" distance="1.7095967157111982" />
 	</gare>
 	<gare nom="LA COURNEUVE-AUBERVILLIERS" coord="2056, 374">
-		<voisin nom="LE BOURGET" distance="4.443463996145351" />
 		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="2.730478468598848" />
+		<voisin nom="LE BOURGET" distance="4.443463996145351" />
 	</gare>
 	<gare nom="LA CROIX-DE-BERNY-FRESNES" coord="1168, 2744">
 		<voisin nom="ANTONY" distance="0.8326780834203604" />
 		<voisin nom="PARC-DE-SCEAUX" distance="1.2047006518531092" />
+	</gare>
+	<gare nom="LA HACQUINIERE" coord="1007, 2950">
+		<voisin nom="BURES-SUR-YVETTE" distance="1.4220466538153294" />
+		<voisin nom="GIF-SUR-YVETTE" distance="1.7095967157111982" />
 	</gare>
 	<gare nom="LA PLAINE-STADE DE FRANCE" coord="2012, 450">
 		<voisin nom="GARE DU NORD" distance="4.199384286748224" />
 		<voisin nom="LA COURNEUVE-AUBERVILLIERS" distance="2.730478468598848" />
 	</gare>
 	<gare nom="LAPLACE" coord="1308, 2503">
-		<voisin nom="GENTILLY" distance="1.0602937540097466" />
 		<voisin nom="ARCUEIL-CACHAN" distance="1.2542421010721265" />
+		<voisin nom="GENTILLY" distance="1.0602937540097466" />
 	</gare>
 	<gare nom="LE BOURGET" coord="2130, 252">
-		<voisin nom="LA COURNEUVE-AUBERVILLIERS" distance="4.443463996145351" />
 		<voisin nom="DRANCY" distance="3.232885058593989" />
+		<voisin nom="LA COURNEUVE-AUBERVILLIERS" distance="4.443463996145351" />
+	</gare>
+	<gare nom="LE GUICHET" coord="1047, 2927">
+		<voisin nom="LOZERE" distance="2.174699156943439" />
+		<voisin nom="ORSAY-VILLE" distance="1.569267025613315" />
+	</gare>
+	<gare nom="LES BACONNETS" coord="1113, 2841">
+		<voisin nom="FONTAINE-MICHALON" distance="1.0545950818207" />
+		<voisin nom="MASSY-VERRIERES" distance="1.6727343193567576" />
+	</gare>
+	<gare nom="LOZERE" coord="1057, 2918">
+		<voisin nom="LE GUICHET" distance="2.174699156943439" />
+		<voisin nom="PALAISEAU-VILLEBON" distance="2.7992165668386284" />
 	</gare>
 	<gare nom="LUXEMBOURG" coord="1512, 1911">
-		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="1.0841418954594721" />
 		<voisin nom="PORT ROYAL" distance="0.7089528165419349" />
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="1.0841418954594721" />
 	</gare>
-	<gare nom="MASSY-PALAISEAU" coord="1115, 2836">
-		<voisin nom="ANTONY" distance="5.787395921511515" />
-		<voisin nom="SAINT-REMY-LES-CHEVREUSE" distance="21.0344486940553" />
+	<gare nom="MASSY-PALAISEAU" coord="1086, 2884">
+		<voisin nom="MASSY-VERRIERES" distance="1.9878679793387275" />
+		<voisin nom="PALAISEAU" distance="1.6913979986621697" />
+	</gare>
+	<gare nom="MASSY-VERRIERES" coord="1098, 2867">
+		<voisin nom="LES BACONNETS" distance="1.6727343193567576" />
+		<voisin nom="MASSY-PALAISEAU" distance="1.9878679793387275" />
 	</gare>
 	<gare nom="MITRY-CLAYE" coord="2786, 362">
 		<voisin nom="VILLEPARISIS-MITRY-LE-NEUF" distance="5.048669964742313" />
+	</gare>
+	<gare nom="ORSAY-VILLE" coord="1031, 2937">
+		<voisin nom="BURES-SUR-YVETTE" distance="1.8616101812427817" />
+		<voisin nom="LE GUICHET" distance="1.569267025613315" />
+	</gare>
+	<gare nom="PALAISEAU" coord="1077, 2895">
+		<voisin nom="MASSY-PALAISEAU" distance="1.6913979986621697" />
+		<voisin nom="PALAISEAU-VILLEBON" distance="1.350964091653999" />
+	</gare>
+	<gare nom="PALAISEAU-VILLEBON" coord="1068, 2907">
+		<voisin nom="LOZERE" distance="2.7992165668386284" />
+		<voisin nom="PALAISEAU" distance="1.350964091653999" />
 	</gare>
 	<gare nom="PARC DES EXPOSITIONS" coord="2582, 226">
 		<voisin nom="AEROPORT CHARLES DE GAULLE 1" distance="6.599298961557208" />
 		<voisin nom="VILLEPINTE" distance="1.2068916912591818" />
 	</gare>
 	<gare nom="PARC-DE-SCEAUX" coord="1191, 2705">
-		<voisin nom="LA CROIX-DE-BERNY-FRESNES" distance="1.2047006518531092" />
 		<voisin nom="BOURG-LA-REINE" distance="1.0922511207303678" />
+		<voisin nom="LA CROIX-DE-BERNY-FRESNES" distance="1.2047006518531092" />
 	</gare>
 	<gare nom="PORT ROYAL" coord="1441, 2035">
 		<voisin nom="DENFERT-ROCHEREAU" distance="0.7943151628020526" />
@@ -111,28 +159,28 @@
 		<voisin nom="CHATELET-LES HALLES" distance="0.9501722307634991" />
 		<voisin nom="LUXEMBOURG" distance="1.0841418954594721" />
 	</gare>
-	<gare nom="SAINT-REMY-LES-CHEVREUSE" coord="1101, 2861">
-		<voisin nom="MASSY-PALAISEAU" distance="21.0344486940553" />
+	<gare nom="SAINT-REMY-LES-CHEVREUSE" coord="964, 2955">
+		<voisin nom="COURCELLE-SUR-YVETTE" distance="2.980789285965428" />
 	</gare>
 	<gare nom="SCEAUX" coord="1092, 2694">
-		<voisin nom="FONTENAY-AUX-ROSES" distance="0.9021012650999254" />
 		<voisin nom="BOURG-LA-REINE" distance="1.636065691864461" />
+		<voisin nom="FONTENAY-AUX-ROSES" distance="0.9021012650999254" />
 	</gare>
 	<gare nom="SEVRAN-BEAUDOTTES" coord="2426, 227">
 		<voisin nom="AULNAY-SOUS-BOIS" distance="3.675044059720921" />
 		<voisin nom="VILLEPINTE" distance="2.1509624979229924" />
 	</gare>
 	<gare nom="SEVRAN-LIVRY" coord="2480, 284">
-		<voisin nom="VERT-GALANT" distance="3.6401406550165714" />
 		<voisin nom="AULNAY-SOUS-BOIS" distance="4.38750260122544" />
+		<voisin nom="VERT-GALANT" distance="3.6401406550165714" />
 	</gare>
 	<gare nom="VERT-GALANT" coord="2569, 336">
-		<voisin nom="VILLEPARISIS-MITRY-LE-NEUF" distance="4.2039970936675894" />
 		<voisin nom="SEVRAN-LIVRY" distance="3.6401406550165714" />
+		<voisin nom="VILLEPARISIS-MITRY-LE-NEUF" distance="4.2039970936675894" />
 	</gare>
 	<gare nom="VILLEPARISIS-MITRY-LE-NEUF" coord="2668, 362">
-		<voisin nom="VERT-GALANT" distance="4.2039970936675894" />
 		<voisin nom="MITRY-CLAYE" distance="5.048669964742313" />
+		<voisin nom="VERT-GALANT" distance="4.2039970936675894" />
 	</gare>
 	<gare nom="VILLEPINTE" coord="2504, 226">
 		<voisin nom="PARC DES EXPOSITIONS" distance="1.2068916912591818" />

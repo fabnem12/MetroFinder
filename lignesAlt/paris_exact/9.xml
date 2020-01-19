@@ -5,8 +5,8 @@
 		<voisin nom="IENA" distance="0.5000973459721064" />
 	</gare>
 	<gare nom="BILLANCOURT" coord="2.23863934858, 48.8321105601">
+		<voisin nom="MARCEL SEMBAT" distance="0.42061438956808017" />
 		<voisin nom="PONT DE SEVRES" distance="0.6352667760469352" />
-		<voisin nom="MARCEL SEMBAT" distance="0.42061436809255476" />
 	</gare>
 	<gare nom="BONNE NOUVELLE" coord="2.35049797186, 48.8701642009">
 		<voisin nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance="0.5577955512307312" />
@@ -18,27 +18,27 @@
 	</gare>
 	<gare nom="CHARONNE" coord="2.38556348082, 48.8545804991">
 		<voisin nom="RUE DES BOULETS" distance="0.3763619003016698" />
-		<voisin nom="VOLTAIRE (LEON BLUM)" distance="0.47771636396409967" />
+		<voisin nom="VOLTAIRE (LEON BLUM)" distance="0.47771635450983396" />
 	</gare>
 	<gare nom="CHAUSSEE D'ANTIN (LA FAYETTE)" coord="2.33347913185, 48.8729376577">
 		<voisin nom="HAVRE-CAUMARTIN" distance="0.43932501706391397" />
 		<voisin nom="RICHELIEU-DROUOT" distance="0.4261880276892673" />
 	</gare>
 	<gare nom="CROIX DE CHAVAUX (JACQUES DUCLOS)" coord="2.43555571569, 48.8579655912">
-		<voisin nom="ROBESPIERRE" distance="0.9539733408166406" />
 		<voisin nom="MAIRIE DE MONTREUIL" distance="0.6108187756965046" />
+		<voisin nom="ROBESPIERRE" distance="0.9539733408166406" />
 	</gare>
 	<gare nom="EXELMANS" coord="2.26003290221, 48.8429386959">
-		<voisin nom="MICHEL-ANGE-MOLITOR" distance="0.282203907420664" />
+		<voisin nom="MICHEL-ANGE-MOLITOR" distance="0.28220389141642943" />
 		<voisin nom="PORTE DE SAINT-CLOUD" distance="0.5937115330032491" />
 	</gare>
 	<gare nom="FRANKLIN-D.ROOSEVELT" coord="2.30747079345, 48.8698082202">
 		<voisin nom="ALMA-MARCEAU" distance="0.7349098704392746" />
-		<voisin nom="SAINT-PHILIPPE-DU-ROULE" distance="0.34645164047077887" />
+		<voisin nom="SAINT-PHILIPPE-DU-ROULE" distance="0.3464516274344501" />
 	</gare>
 	<gare nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" coord="2.34315477308, 48.8714977394">
-		<voisin nom="RICHELIEU-DROUOT" distance="0.3036838832555239" />
 		<voisin nom="BONNE NOUVELLE" distance="0.5577955512307312" />
+		<voisin nom="RICHELIEU-DROUOT" distance="0.30368386838329087" />
 	</gare>
 	<gare nom="HAVRE-CAUMARTIN" coord="2.32754308036, 48.8735133896">
 		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.43932501706391397" />
@@ -49,8 +49,8 @@
 		<voisin nom="TROCADERO" distance="0.49966663623651997" />
 	</gare>
 	<gare nom="JASMIN" coord="2.26817674944, 48.8525040906">
-		<voisin nom="RANELAGH" distance="0.3607638977240763" />
 		<voisin nom="MICHEL-ANGE-AUTEUIL" distance="0.5854767605648398" />
+		<voisin nom="RANELAGH" distance="0.3607638977240763" />
 	</gare>
 	<gare nom="LA MUETTE" coord="2.27415463109, 48.8580460563">
 		<voisin nom="RANELAGH" distance="0.41118095700408125" />
@@ -60,11 +60,11 @@
 		<voisin nom="CROIX DE CHAVAUX (JACQUES DUCLOS)" distance="0.6108187756965046" />
 	</gare>
 	<gare nom="MARAICHERS" coord="2.40608916188, 48.8527251193">
-		<voisin nom="PORTE DE MONTREUIL" distance="0.3419937368743173" />
 		<voisin nom="BUZENVAL" distance="0.3848064015305315" />
+		<voisin nom="PORTE DE MONTREUIL" distance="0.3419937368743173" />
 	</gare>
 	<gare nom="MARCEL SEMBAT" coord="2.24384059238, 48.8337088491">
-		<voisin nom="BILLANCOURT" distance="0.42061436809255476" />
+		<voisin nom="BILLANCOURT" distance="0.42061438956808017" />
 		<voisin nom="PORTE DE SAINT-CLOUD" distance="1.0822010101497264" />
 	</gare>
 	<gare nom="MICHEL-ANGE-AUTEUIL" coord="2.26421877705, 48.8479348079">
@@ -72,20 +72,20 @@
 		<voisin nom="MICHEL-ANGE-MOLITOR" distance="0.3544470671047512" />
 	</gare>
 	<gare nom="MICHEL-ANGE-MOLITOR" coord="2.2616234924, 48.8452475655">
+		<voisin nom="EXELMANS" distance="0.28220389141642943" />
 		<voisin nom="MICHEL-ANGE-AUTEUIL" distance="0.3544470671047512" />
-		<voisin nom="EXELMANS" distance="0.282203907420664" />
 	</gare>
 	<gare nom="MIROMESNIL" coord="2.31445603619, 48.8737699887">
-		<voisin nom="SAINT-PHILIPPE-DU-ROULE" distance="0.35654933303207287" />
 		<voisin nom="SAINT-AUGUSTIN" distance="0.5131854883308822" />
+		<voisin nom="SAINT-PHILIPPE-DU-ROULE" distance="0.35654932036494086" />
 	</gare>
 	<gare nom="NATION" coord="2.39582358883, 48.8482371104">
-		<voisin nom="RUE DES BOULETS" distance="0.6550023642004008" />
 		<voisin nom="BUZENVAL" distance="0.5508160640076155" />
+		<voisin nom="RUE DES BOULETS" distance="0.6550023642004008" />
 	</gare>
 	<gare nom="OBERKAMPF" coord="2.36849638711, 48.8647276207">
-		<voisin nom="SAINT-AMBROISE" distance="0.6156638010029669" />
 		<voisin nom="REPUBLIQUE" distance="0.40285487365633216" />
+		<voisin nom="SAINT-AMBROISE" distance="0.6156638010029669" />
 	</gare>
 	<gare nom="PONT DE SEVRES" coord="2.23079959132, 48.8296748438">
 		<voisin nom="BILLANCOURT" distance="0.6352667760469352" />
@@ -99,20 +99,20 @@
 		<voisin nom="MARCEL SEMBAT" distance="1.0822010101497264" />
 	</gare>
 	<gare nom="RANELAGH" coord="2.27010913894, 48.8554850504">
-		<voisin nom="LA MUETTE" distance="0.41118095700408125" />
 		<voisin nom="JASMIN" distance="0.3607638977240763" />
+		<voisin nom="LA MUETTE" distance="0.41118095700408125" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="2.36424799375, 48.8670267876">
-		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.7720878397805687" />
 		<voisin nom="OBERKAMPF" distance="0.40285487365633216" />
+		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.7720878397805687" />
 	</gare>
 	<gare nom="RICHELIEU-DROUOT" coord="2.33903054672, 48.8717866021">
-		<voisin nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance="0.3036838832555239" />
 		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.4261880276892673" />
+		<voisin nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance="0.30368386838329087" />
 	</gare>
 	<gare nom="ROBESPIERRE" coord="2.42298321615, 48.8557264286">
-		<voisin nom="PORTE DE MONTREUIL" distance="0.9471042343460944" />
 		<voisin nom="CROIX DE CHAVAUX (JACQUES DUCLOS)" distance="0.9539733408166406" />
+		<voisin nom="PORTE DE MONTREUIL" distance="0.9471042343460944" />
 	</gare>
 	<gare nom="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" coord="2.27811255845, 48.8639744458">
 		<voisin nom="LA MUETTE" distance="0.7207965321491578" />
@@ -127,23 +127,23 @@
 		<voisin nom="VOLTAIRE (LEON BLUM)" distance="0.5913525070759241" />
 	</gare>
 	<gare nom="SAINT-AUGUSTIN" coord="2.3213619281, 48.8745583847">
-		<voisin nom="MIROMESNIL" distance="0.5131854883308822" />
 		<voisin nom="HAVRE-CAUMARTIN" distance="0.4672750608944027" />
+		<voisin nom="MIROMESNIL" distance="0.5131854883308822" />
 	</gare>
 	<gare nom="SAINT-PHILIPPE-DU-ROULE" coord="2.31003834462, 48.8724223837">
-		<voisin nom="MIROMESNIL" distance="0.35654933303207287" />
-		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.34645164047077887" />
+		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.3464516274344501" />
+		<voisin nom="MIROMESNIL" distance="0.35654932036494086" />
 	</gare>
 	<gare nom="STRASBOURG-SAINT-DENIS" coord="2.35439176839, 48.8694907745">
-		<voisin nom="REPUBLIQUE" distance="0.7720878397805687" />
 		<voisin nom="BONNE NOUVELLE" distance="0.29480554082271626" />
+		<voisin nom="REPUBLIQUE" distance="0.7720878397805687" />
 	</gare>
 	<gare nom="TROCADERO" coord="2.28758016253, 48.8636109376">
 		<voisin nom="IENA" distance="0.49966663623651997" />
 		<voisin nom="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" distance="0.6945083582233615" />
 	</gare>
 	<gare nom="VOLTAIRE (LEON BLUM)" coord="2.38071878586, 48.8574537227">
+		<voisin nom="CHARONNE" distance="0.47771635450983396" />
 		<voisin nom="SAINT-AMBROISE" distance="0.5913525070759241" />
-		<voisin nom="CHARONNE" distance="0.47771636396409967" />
 	</gare>
 </ligne>

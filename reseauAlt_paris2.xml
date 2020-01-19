@@ -14,20 +14,20 @@
 		<voisin nom="SEVERINE" distance="0.5448984082224985" lignes="T3B" />
 	</gare>
 	<gare nom="AEROPORT CHARLES DE GAULLE 1" coord="2692, 227">
-		<voisin nom="PARC DES EXPOSITIONS" distance="6.599298961557208" lignes="RER B" />
 		<voisin nom="AEROPORT CHARLES DE GAULLE 2-TGV" distance="1.1843509170989306" lignes="RER B" />
+		<voisin nom="PARC DES EXPOSITIONS" distance="6.599298961557208" lignes="RER B" />
 	</gare>
 	<gare nom="AEROPORT CHARLES DE GAULLE 2-TGV" coord="2786, 226">
 		<voisin nom="AEROPORT CHARLES DE GAULLE 1" distance="1.1843509170989306" lignes="RER B" />
 	</gare>
 	<gare nom="AEROPORT D ORLY" coord="1669, 2786|1670, 2786">
-		<voisin nom="AEROPORT D ORLY - TERMINAL SUD" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="PORTE DE L'ESSONNE" distance="1.700048976336542" lignes="T7" />
 		<voisin nom="COEUR D'ORLY" distance="0.5957194094758976" lignes="T7" />
+		<voisin nom="PORTE DE L'ESSONNE" distance="1.700048976336542" lignes="T7" />
+		<voisin nom="AEROPORT D ORLY - TERMINAL SUD" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="AEROPORT D ORLY - TERMINAL OUEST" coord="1587, 2787|1588, 2787">
-		<voisin nom="AEROPORT D ORLY - TERMINAL SUD" distance="1.104220923587756" lignes="ORLYVAL,pedestre" />
 		<voisin nom="ANTONY" distance="7.147997854346879" lignes="ORLYVAL" />
+		<voisin nom="AEROPORT D ORLY - TERMINAL SUD" distance="1.104220923587756" lignes="ORLYVAL,pedestre" />
 	</gare>
 	<gare nom="AEROPORT D ORLY - TERMINAL SUD" coord="1628, 2763|1629, 2764">
 		<voisin nom="AEROPORT D ORLY - TERMINAL OUEST" distance="1.104220923587756" lignes="ORLYVAL,pedestre" />
@@ -38,26 +38,26 @@
 		<voisin nom="MOUTON-DUVERNET" distance="0.430997419891832" lignes="4" />
 	</gare>
 	<gare nom="ALEXANDRA DAVID-NEEL" coord="2367, 2044">
-		<voisin nom="MONTEMPOIVRE" distance="0.459304542083761" lignes="T3A" />
 		<voisin nom="PORTE DE VINCENNES" distance="0.40632374079131023" lignes="T3A" />
+		<voisin nom="MONTEMPOIVRE" distance="0.459304542083761" lignes="T3A" />
 	</gare>
 	<gare nom="ALEXANDRE DUMAS" coord="2299, 1575">
-		<voisin nom="AVRON" distance="0.6829396925633447" lignes="2" />
 		<voisin nom="PHILIPPE AUGUSTE" distance="0.5859492006858485" lignes="2" />
+		<voisin nom="AVRON" distance="0.6829396925633447" lignes="2" />
 	</gare>
 	<gare nom="ALMA-MARCEAU" coord="1001, 1325|1002, 1325">
-		<voisin nom="PONT DE L'ALMA" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="IENA" distance="0.7602052024686143" lignes="9" />
 		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.9136479445008243" lignes="9" />
+		<voisin nom="PONT DE L'ALMA" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="ANATOLE FRANCE" coord="964, 580">
-		<voisin nom="LOUISE MICHEL" distance="0.5081180166504264" lignes="3" />
 		<voisin nom="PONT DE LEVALLOIS-BECON" distance="0.8616644291235673" lignes="3" />
+		<voisin nom="LOUISE MICHEL" distance="0.5081180166504264" lignes="3" />
 	</gare>
 	<gare nom="ANTONY" coord="1140, 2793|1155, 2818">
-		<voisin nom="LA CROIX-DE-BERNY-FRESNES" distance="0.8326780834203604" lignes="RER B" />
-		<voisin nom="MASSY-PALAISEAU" distance="5.787395921511515" lignes="RER B" />
 		<voisin nom="AEROPORT D ORLY - TERMINAL OUEST" distance="7.147997854346879" lignes="ORLYVAL" />
+		<voisin nom="FONTAINE-MICHALON" distance="1.38512853229755" lignes="RER B" />
+		<voisin nom="LA CROIX-DE-BERNY-FRESNES" distance="0.8326780834203604" lignes="RER B" />
 	</gare>
 	<gare nom="ANVERS" coord="1647, 741|1648, 741">
 		<voisin nom="BARBES-ROCHECHOUART" distance="0.7290737524361272" lignes="2" />
@@ -69,61 +69,61 @@
 		<voisin nom="LAPLACE" distance="1.2542421010721265" lignes="RER B" />
 	</gare>
 	<gare nom="ARGENTINE" coord="897, 1040">
-		<voisin nom="PORTE MAILLOT" distance="0.6022925761966718" lignes="1" />
 		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.5947305349821552" lignes="1" />
+		<voisin nom="PORTE MAILLOT" distance="0.6022925761966718" lignes="1" />
 	</gare>
 	<gare nom="ARPAJON" coord="2306, 2863">
-		<voisin nom="LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON" distance="2.9427875464236237" lignes="RER C" />
 		<voisin nom="EGLY" distance="2.1113081072178064" lignes="RER C" />
+		<voisin nom="LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON" distance="2.9427875464236237" lignes="RER C" />
 	</gare>
 	<gare nom="ARTS ET METIERS" coord="1932, 1294|1944, 1301">
-		<voisin nom="RAMBUTEAU" distance="0.6063510678782923" lignes="11" />
-		<voisin nom="REPUBLIQUE" distance="0.8513550905803795" lignes="11" />
-		<voisin nom="TEMPLE" distance="0.5485858976908721" lignes="3" />
 		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4791387583992367" lignes="3" />
+		<voisin nom="TEMPLE" distance="0.5485858976908721" lignes="3" />
+		<voisin nom="REPUBLIQUE" distance="0.8513550905803795" lignes="11" />
+		<voisin nom="RAMBUTEAU" distance="0.6063510678782923" lignes="11" />
 	</gare>
 	<gare nom="ASSEMBLEE NATIONALE" coord="1166, 1593">
-		<voisin nom="SOLFERINO" distance="0.34887812075002345" lignes="12" />
 		<voisin nom="CONCORDE" distance="0.6456527490439167" lignes="12" />
+		<voisin nom="SOLFERINO" distance="0.34887812075002345" lignes="12" />
 	</gare>
 	<gare nom="ATHIS-MONS" coord="2302, 2789">
-		<voisin nom="ABLON" distance="2.281653617473967" lignes="RER C" />
 		<voisin nom="JUVISY" distance="3.4504007849374205" lignes="RER C" />
+		<voisin nom="ABLON" distance="2.281653617473967" lignes="RER C" />
 	</gare>
 	<gare nom="AUBER" coord="1390, 1230|1390, 1231">
 		<voisin nom="HAVRE-CAUMARTIN" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="OPERA" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="CHARLES DE GAULLE ETOILE" distance="3.951566720702521" lignes="RER A" />
 		<voisin nom="CHATELET-LES HALLES" distance="2.2223614735604498" lignes="RER A" />
+		<voisin nom="CHARLES DE GAULLE ETOILE" distance="3.951566720702521" lignes="RER A" />
+		<voisin nom="OPERA" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="AUBERVILLIERS-PANTIN (QUATRE CHEMINS)" coord="2242, 577">
-		<voisin nom="PORTE DE LA VILLETTE" distance="0.9482991561614377" lignes="7" />
 		<voisin nom="FORT D'AUBERVILLIERS" distance="1.8357137639912295" lignes="7" />
+		<voisin nom="PORTE DE LA VILLETTE" distance="0.9482991561614377" lignes="7" />
 	</gare>
 	<gare nom="AUGUSTE DELAUNE" coord="2631, 576">
 		<voisin nom="JEAN ROSTAND" distance="0.6979483936198226" lignes="T1" />
 		<voisin nom="PONT DE BONDY" distance="1.0749664121189195" lignes="T1" />
 	</gare>
 	<gare nom="AUGUSTE PERRET" coord="1672, 2670">
-		<voisin nom="PORTE DE THIAIS" distance="0.35024014173407436" lignes="T7" />
 		<voisin nom="BRETAGNE" distance="0.6142848432827354" lignes="T7" />
+		<voisin nom="PORTE DE THIAIS" distance="0.35024014173407436" lignes="T7" />
 	</gare>
 	<gare nom="AULNAY-SOUS-BOIS" coord="2304, 226">
+		<voisin nom="SEVRAN-BEAUDOTTES" distance="3.675044059720921" lignes="RER B" />
 		<voisin nom="BLANC-MESNIL" distance="2.208475339418161" lignes="RER B" />
 		<voisin nom="SEVRAN-LIVRY" distance="4.38750260122544" lignes="RER B" />
-		<voisin nom="SEVRAN-BEAUDOTTES" distance="3.675044059720921" lignes="RER B" />
 	</gare>
 	<gare nom="AUSTERLITZ" coord="1757, 1956|1822, 1963">
+		<voisin nom="JUSSIEU" distance="1.2379919783030409" lignes="10" />
+		<voisin nom="SAINT-MARCEL" distance="0.6746961110438994" lignes="5" />
 		<voisin nom="GARE DE LYON" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="2.4714643561295015" lignes="RER C" />
 		<voisin nom="QUAI DE LA RAPEE" distance="0.4461921231714056" lignes="5" />
 		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="1.8847807873858478" lignes="RER C" />
-		<voisin nom="SAINT-MARCEL" distance="0.6746961110438994" lignes="5" />
-		<voisin nom="JUSSIEU" distance="1.2379919783030409" lignes="10" />
 	</gare>
 	<gare nom="AVENUE DE FRANCE" coord="1981, 2358">
-		<voisin nom="MARYSE BASTIE" distance="0.42191315695024556" lignes="T3A" />
 		<voisin nom="BARON LE ROY" distance="1.4687238581297657" lignes="T3A" />
+		<voisin nom="MARYSE BASTIE" distance="0.42191315695024556" lignes="T3A" />
 	</gare>
 	<gare nom="AVENUE DU PRESIDENT KENNEDY" coord="668, 1562">
 		<voisin nom="CHAMP DE MARS-TOUR EIFFEL" distance="1.2798129256195316" lignes="RER C" />
@@ -135,26 +135,26 @@
 	</gare>
 	<gare nom="AVENUE FOCH" coord="730, 1209|730, 1209">
 		<voisin nom="PORTE DAUPHINE" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="PORTE MAILLOT" distance="1.2517847059390876" lignes="RER C" />
 		<voisin nom="AVENUE HENRI MARTIN" distance="0.8200999926147343" lignes="RER C" />
+		<voisin nom="PORTE MAILLOT" distance="1.2517847059390876" lignes="RER C" />
 	</gare>
 	<gare nom="AVENUE HENRI MARTIN" coord="655, 1339">
 		<voisin nom="AVENUE FOCH" distance="0.8200999926147343" lignes="RER C" />
 		<voisin nom="BOULAINVILLIERS" distance="0.9450389420978381" lignes="RER C" />
 	</gare>
 	<gare nom="AVRON" coord="2287, 1637">
-		<voisin nom="ALEXANDRE DUMAS" distance="0.6829396925633447" lignes="2" />
 		<voisin nom="NATION" distance="0.45680499167244587" lignes="2" />
+		<voisin nom="ALEXANDRE DUMAS" distance="0.6829396925633447" lignes="2" />
 	</gare>
 	<gare nom="BAGNEUX" coord="1249, 2605">
-		<voisin nom="BOURG-LA-REINE" distance="1.8196492862591882" lignes="RER B" />
 		<voisin nom="ARCUEIL-CACHAN" distance="0.9046943199114091" lignes="RER B" />
+		<voisin nom="BOURG-LA-REINE" distance="1.8196492862591882" lignes="RER B" />
 	</gare>
 	<gare nom="BALARD" coord="775, 1992|775, 2021">
-		<voisin nom="SUZANNE LENGLEN" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="DESNOUETTES" distance="0.6842206963612486" lignes="T3A" />
-		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="0.9144325134943169" lignes="T3A" />
 		<voisin nom="LOURMEL" distance="0.5997368423922744" lignes="8" />
+		<voisin nom="SUZANNE LENGLEN" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="0.9144325134943169" lignes="T3A" />
 	</gare>
 	<gare nom="BALLANCOURT" coord="2483, 2900">
 		<voisin nom="LA FERTE-ALAIS" distance="5.578119554122005" lignes="RER D" />
@@ -162,8 +162,8 @@
 	</gare>
 	<gare nom="BARBES-ROCHECHOUART" coord="1764, 761|1774, 767">
 		<voisin nom="ANVERS" distance="0.7290737524361272" lignes="2" />
-		<voisin nom="GARE DU NORD" distance="0.7986810083971859" lignes="4" />
 		<voisin nom="LA CHAPELLE" distance="1.1016379261262181" lignes="2" />
+		<voisin nom="GARE DU NORD" distance="0.7986810083971859" lignes="4" />
 		<voisin nom="CHATEAU ROUGE" distance="0.410145212846445" lignes="4" />
 	</gare>
 	<gare nom="BARON LE ROY" coord="2089, 2299">
@@ -173,59 +173,59 @@
 	<gare nom="BASILIQUE DE SAINT-DENIS" coord="1825, 222|1840, 247">
 		<voisin nom="CIMETIERE DE SAINT-DENIS" distance="0.3732442931297929" lignes="T1" />
 		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="0.9965676203500912" lignes="13" />
-		<voisin nom="SAINT-DENIS-UNIVERSITE" distance="0.9612868618733166" lignes="13" />
 		<voisin nom="MARCHE DE SAINT-DENIS" distance="0.501860713259446" lignes="T1,pedestre" />
+		<voisin nom="SAINT-DENIS-UNIVERSITE" distance="0.9612868618733166" lignes="13" />
 	</gare>
 	<gare nom="BASTILLE" coord="1941, 1633|1941, 1657">
 		<voisin nom="BREGUET-SABIN" distance="0.3102708205063323" lignes="5" />
 		<voisin nom="LEDRU-ROLLIN" distance="0.7738281259943098" lignes="8" />
-		<voisin nom="CHEMIN VERT" distance="0.4695650304903711" lignes="8" />
-		<voisin nom="QUAI DE LA RAPEE" distance="0.8702208922417545" lignes="5" />
 		<voisin nom="GARE DE LYON" distance="1.1153020607054365" lignes="1" />
+		<voisin nom="QUAI DE LA RAPEE" distance="0.8702208922417545" lignes="5" />
 		<voisin nom="SAINT-PAUL (LE MARAIS)" distance="0.9733087434811182" lignes="1" />
+		<voisin nom="CHEMIN VERT" distance="0.4695650304903711" lignes="8" />
 	</gare>
 	<gare nom="BEL-AIR" coord="2165, 1860">
 		<voisin nom="PICPUS" distance="0.4161637492776608" lignes="6" />
 		<voisin nom="DAUMESNIL" distance="0.5676518886376153" lignes="6" />
 	</gare>
 	<gare nom="BELLEVILLE" coord="2227, 1147|2238, 1154">
-		<voisin nom="GONCOURT (HOPITAL SAINT-LOUIS)" distance="0.6472640369160513" lignes="11" />
-		<voisin nom="COURONNES" distance="0.5360153865597505" lignes="2" />
-		<voisin nom="PYRENEES" distance="0.9969701268434923" lignes="11" />
 		<voisin nom="COLONEL FABIEN" distance="0.9082713073954369" lignes="2" />
+		<voisin nom="GONCOURT (HOPITAL SAINT-LOUIS)" distance="0.6472640369160513" lignes="11" />
+		<voisin nom="PYRENEES" distance="0.9969701268434923" lignes="11" />
+		<voisin nom="COURONNES" distance="0.5360153865597505" lignes="2" />
 	</gare>
 	<gare nom="BELVEDERE" coord="556, 1127">
-		<voisin nom="PUTEAUX" distance="1.2005235566602268" lignes="T2" />
 		<voisin nom="SURESNES-LONGCHAMP" distance="1.000975582915236" lignes="T2" />
+		<voisin nom="PUTEAUX" distance="1.2005235566602268" lignes="T2" />
 	</gare>
 	<gare nom="BERAULT" coord="2483, 2086">
 		<voisin nom="SAINT-MANDE" distance="1.0870899016288331" lignes="1" />
 		<voisin nom="CHATEAU DE VINCENNES" distance="1.255731068839912" lignes="1" />
 	</gare>
 	<gare nom="BERCY" coord="1982, 2035|1982, 2047">
+		<voisin nom="COUR SAINT-EMILION" distance="1.0838243510614631" lignes="14" />
 		<voisin nom="DUGOMMIER" distance="1.0911157131713491" lignes="6" />
 		<voisin nom="GARE DE LYON" distance="0.8498464645690921" lignes="14" />
 		<voisin nom="QUAI DE LA GARE" distance="0.8720349090994284" lignes="6" />
-		<voisin nom="COUR SAINT-EMILION" distance="1.0838243510614631" lignes="14" />
 	</gare>
 	<gare nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" coord="1957, 2234|1982, 2262">
-		<voisin nom="OLYMPIADES" distance="1.0069466697620792" lignes="14" />
-		<voisin nom="AUSTERLITZ" distance="1.8847807873858478" lignes="RER C" />
 		<voisin nom="COUR SAINT-EMILION" distance="1.1712876556624803" lignes="14" />
 		<voisin nom="IVRY-SUR-SEINE" distance="2.4303889198734647" lignes="RER C" />
+		<voisin nom="AUSTERLITZ" distance="1.8847807873858478" lignes="RER C" />
+		<voisin nom="OLYMPIADES" distance="1.0069466697620792" lignes="14" />
 	</gare>
 	<gare nom="BIEVRES" coord="747, 2731">
-		<voisin nom="IGNY" distance="2.0688201675634157" lignes="RER C" />
 		<voisin nom="VAUBOYEN" distance="2.7928950481168315" lignes="RER C" />
+		<voisin nom="IGNY" distance="2.0688201675634157" lignes="RER C" />
 	</gare>
 	<gare nom="BILLANCOURT" coord="402, 1850">
-		<voisin nom="MARCEL SEMBAT" distance="0.6056798992128674" lignes="9" />
 		<voisin nom="PONT DE SEVRES" distance="0.9138068239354616" lignes="9" />
+		<voisin nom="MARCEL SEMBAT" distance="0.6056798992128674" lignes="9" />
 	</gare>
 	<gare nom="BIR-HAKEIM (GRENELLE)" coord="874, 1503|874, 1504">
-		<voisin nom="PASSY" distance="0.5530030177851432" lignes="6" />
-		<voisin nom="DUPLEIX" distance="0.6156610793724385" lignes="6" />
 		<voisin nom="CHAMP DE MARS-TOUR EIFFEL" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="DUPLEIX" distance="0.6156610793724385" lignes="6" />
+		<voisin nom="PASSY" distance="0.5530030177851432" lignes="6" />
 	</gare>
 	<gare nom="BLANC-MESNIL" coord="2240, 227">
 		<voisin nom="DRANCY" distance="2.327893406623102" lignes="RER B" />
@@ -236,9 +236,9 @@
 		<voisin nom="PIGALLE" distance="0.6225281677188588" lignes="2" />
 	</gare>
 	<gare nom="BOBIGNY-PABLO PICASSO" coord="2557, 528|2585, 528">
-		<voisin nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance="3.0107883413213847" lignes="5" />
 		<voisin nom="HOTEL DE VILLE - MAISON DE LA CULTURE" distance="0.6692894367084494" lignes="T1" />
 		<voisin nom="JEAN ROSTAND" distance="0.5045123002776793" lignes="T1" />
+		<voisin nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance="3.0107883413213847" lignes="5" />
 	</gare>
 	<gare nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" coord="2475, 720">
 		<voisin nom="BOBIGNY-PABLO PICASSO" distance="3.0107883413213847" lignes="5" />
@@ -253,8 +253,8 @@
 		<voisin nom="KLEBER" distance="0.646729458792945" lignes="6" />
 	</gare>
 	<gare nom="BOISSISE-LE-ROI" coord="2614, 2898">
-		<voisin nom="VOSVES" distance="3.438492882318539" lignes="RER D" />
 		<voisin nom="PONTHIERRY-PRINGY" distance="3.1440305512483446" lignes="RER D" />
+		<voisin nom="VOSVES" distance="3.438492882318539" lignes="RER D" />
 	</gare>
 	<gare nom="BOISSY-SAINT-LEGER" coord="2864, 2273">
 		<voisin nom="VINCENNES" distance="13.22292287741732" lignes="RER A" />
@@ -276,17 +276,17 @@
 		<voisin nom="BUTTES-CHAUMONT" distance="0.8419476233634656" lignes="7b" />
 	</gare>
 	<gare nom="BOUCICAUT" coord="830, 1896">
-		<voisin nom="FELIX FAURE" distance="0.47830372729706233" lignes="8" />
 		<voisin nom="LOURMEL" distance="0.6303154186382481" lignes="8" />
+		<voisin nom="FELIX FAURE" distance="0.47830372729706233" lignes="8" />
 	</gare>
 	<gare nom="BOULAINVILLIERS" coord="614, 1434|614, 1434">
-		<voisin nom="LA MUETTE" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="AVENUE DU PRESIDENT KENNEDY" distance="0.5780370186464859" lignes="RER C" />
 		<voisin nom="AVENUE HENRI MARTIN" distance="0.9450389420978381" lignes="RER C" />
+		<voisin nom="LA MUETTE" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="BOULOGNE-JEAN JAURES" coord="394, 1710">
-		<voisin nom="MICHEL-ANGE-MOLITOR" distance="2.55654376833224" lignes="10" />
 		<voisin nom="BOULOGNE-PONT DE SAINT CLOUD" distance="1.1606926854735364" lignes="10" />
+		<voisin nom="MICHEL-ANGE-MOLITOR" distance="2.55654376833224" lignes="10" />
 	</gare>
 	<gare nom="BOULOGNE-PONT DE SAINT CLOUD" coord="315, 1710|316, 1710">
 		<voisin nom="PARC DE SAINT-CLOUD" distance="4.6096306961911235" lignes="pedestre" />
@@ -302,24 +302,24 @@
 		<voisin nom="SCEAUX" distance="1.636065691864461" lignes="RER B" />
 	</gare>
 	<gare nom="BOURSE" coord="1648, 1308">
-		<voisin nom="SENTIER" distance="0.7720297854944664" lignes="3" />
 		<voisin nom="QUATRE SEPTEMBRE" distance="0.5108141533048836" lignes="3" />
+		<voisin nom="SENTIER" distance="0.7720297854944664" lignes="3" />
 	</gare>
 	<gare nom="BOUSSY-SAINT-ANTOINE" coord="2565, 2784">
-		<voisin nom="BRUNOY" distance="3.6607744217195837" lignes="RER D" />
 		<voisin nom="COMBS-LA-VILLE-QUINCY" distance="2.16863800287234" lignes="RER D" />
+		<voisin nom="BRUNOY" distance="3.6607744217195837" lignes="RER D" />
 	</gare>
 	<gare nom="BOUTIGNY-SUR-ESSONNE" coord="2465, 2914">
 		<voisin nom="LA FERTE-ALAIS" distance="6.256030857541489" lignes="RER D" />
 		<voisin nom="MAISSE" distance="4.910582414087924" lignes="RER D" />
 	</gare>
 	<gare nom="BREGUET-SABIN" coord="1998, 1545">
-		<voisin nom="BASTILLE" distance="0.3102708205063323" lignes="5" />
 		<voisin nom="RICHARD LENOIR" distance="0.45649962669547867" lignes="5" />
+		<voisin nom="BASTILLE" distance="0.3102708205063323" lignes="5" />
 	</gare>
 	<gare nom="BRETAGNE" coord="1677, 2663">
-		<voisin nom="AUGUSTE PERRET" distance="0.6142848432827354" lignes="T7" />
 		<voisin nom="MOULIN VERT" distance="0.421946607838478" lignes="T7" />
+		<voisin nom="AUGUSTE PERRET" distance="0.6142848432827354" lignes="T7" />
 	</gare>
 	<gare nom="BRETIGNY" coord="2326, 2833">
 		<voisin nom="LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON" distance="4.263360423268333" lignes="RER C" />
@@ -327,8 +327,8 @@
 		<voisin nom="MAROLLES-EN-HUREPOIX" distance="4.74211411049157" lignes="RER C" />
 	</gare>
 	<gare nom="BREUILLET-BRUYERES-LE-CHATEL" coord="2298, 2878">
-		<voisin nom="BREUILLET-VILLAGE" distance="2.751906093209876" lignes="RER C" />
 		<voisin nom="EGLY" distance="3.425832032282323" lignes="RER C" />
+		<voisin nom="BREUILLET-VILLAGE" distance="2.751906093209876" lignes="RER C" />
 	</gare>
 	<gare nom="BREUILLET-VILLAGE" coord="2293, 2885">
 		<voisin nom="SAINT-CHERON" distance="5.2584904543100635" lignes="RER C" />
@@ -343,12 +343,16 @@
 		<voisin nom="PORTE DE CLICHY" distance="0.8210827369729077" lignes="13" />
 	</gare>
 	<gare nom="BRUNOY" coord="2530, 2784">
-		<voisin nom="BOUSSY-SAINT-ANTOINE" distance="3.6607744217195837" lignes="RER D" />
 		<voisin nom="YERRES" distance="2.547987435469526" lignes="RER D" />
+		<voisin nom="BOUSSY-SAINT-ANTOINE" distance="3.6607744217195837" lignes="RER D" />
 	</gare>
 	<gare nom="BUNO-GIRONVILLE" coord="2451, 2928">
 		<voisin nom="BOIGNEVILLE" distance="3.435070543591077" lignes="RER D" />
 		<voisin nom="MAISSE" distance="2.570057819740068" lignes="RER D" />
+	</gare>
+	<gare nom="BURES-SUR-YVETTE" coord="1022, 2942">
+		<voisin nom="LA HACQUINIERE" distance="1.4220466538153294" lignes="RER B" />
+		<voisin nom="ORSAY-VILLE" distance="1.8616101812427817" lignes="RER B" />
 	</gare>
 	<gare nom="BUTTE DU CHAPEAU ROUGE" coord="2422, 926">
 		<voisin nom="PORTE DE PANTIN" distance="0.4595821197493928" lignes="T3B" />
@@ -367,28 +371,28 @@
 		<voisin nom="LE PELETIER" distance="0.4514391921071786" lignes="7" />
 	</gare>
 	<gare nom="CAMBRONNE" coord="976, 1835">
-		<voisin nom="SEVRES-LECOURBE" distance="0.75995086883394" lignes="6" />
 		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.5585182563923615" lignes="6" />
+		<voisin nom="SEVRES-LECOURBE" distance="0.75995086883394" lignes="6" />
 	</gare>
 	<gare nom="CAMPO-FORMIO" coord="1699, 2062">
-		<voisin nom="SAINT-MARCEL" distance="0.40409227373682177" lignes="5" />
 		<voisin nom="PLACE D'ITALIE" distance="0.5739285505704393" lignes="5" />
+		<voisin nom="SAINT-MARCEL" distance="0.40409227373682177" lignes="5" />
 	</gare>
 	<gare nom="CANAL SAINT-DENIS" coord="2147, 641">
-		<voisin nom="PORTE DE LA VILLETTE" distance="0.6883423986610189" lignes="T3B" />
 		<voisin nom="ROSA PARKS" distance="0.7498770577599428" lignes="T3B" />
+		<voisin nom="PORTE DE LA VILLETTE" distance="0.6883423986610189" lignes="T3B" />
 	</gare>
 	<gare nom="CARDINAL-LEMOINE" coord="1664, 1874">
-		<voisin nom="MAUBERT-MUTUALITE" distance="0.5539355568248165" lignes="10" />
 		<voisin nom="JUSSIEU" distance="0.3710557379976225" lignes="10" />
+		<voisin nom="MAUBERT-MUTUALITE" distance="0.5539355568248165" lignes="10" />
 	</gare>
 	<gare nom="CAROLINE AIGLE" coord="1647, 2738">
-		<voisin nom="COEUR D'ORLY" distance="0.5195668531497997" lignes="T7" />
 		<voisin nom="HELENE BOUCHER" distance="1.173184621028566" lignes="T7" />
+		<voisin nom="COEUR D'ORLY" distance="0.5195668531497997" lignes="T7" />
 	</gare>
 	<gare nom="CARREFOUR PLEYEL" coord="1600, 378">
-		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="1.929272922376672" lignes="13" />
 		<voisin nom="MAIRIE DE SAINT-OUEN" distance="1.3441194760941797" lignes="13" />
+		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="1.929272922376672" lignes="13" />
 	</gare>
 	<gare nom="CENSIER-DAUBENTON" coord="1652, 2047">
 		<voisin nom="LES GOBELINS" distance="0.5228370869610934" lignes="7" />
@@ -398,65 +402,65 @@
 		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="2.6006265477359882" lignes="RER A" />
 	</gare>
 	<gare nom="CERGY-PREFECTURE" coord="130, 681">
-		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="5.245344668146213" lignes="RER A" />
 		<voisin nom="CERGY LE HAUT" distance="7.734216598548846" lignes="RER A" />
+		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="5.245344668146213" lignes="RER A" />
 	</gare>
 	<gare nom="CERGY-SAINT-CHRISTOPHE" coord="144, 675">
-		<voisin nom="CERGY LE HAUT" distance="2.6006265477359882" lignes="RER A" />
 		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="28.56728568006489" lignes="RER A" />
+		<voisin nom="CERGY LE HAUT" distance="2.6006265477359882" lignes="RER A" />
 		<voisin nom="CERGY-PREFECTURE" distance="5.245344668146213" lignes="RER A" />
 	</gare>
 	<gare nom="CERNAY" coord="1186, 207">
-		<voisin nom="ERMONT-EAUBONNE" distance="1.6971669390627229" lignes="RER C" />
 		<voisin nom="FRANCONVILLE-LE-PLESSIS-BOUCHARD" distance="2.7580797884285917" lignes="RER C" />
+		<voisin nom="ERMONT-EAUBONNE" distance="1.6971669390627229" lignes="RER C" />
 	</gare>
 	<gare nom="CESSON" coord="2674, 2836">
-		<voisin nom="SAVIGNY-LE-TEMPLE-NANDY" distance="3.6033351416119315" lignes="RER D" />
 		<voisin nom="LE MEE" distance="4.511986460481487" lignes="RER D" />
+		<voisin nom="SAVIGNY-LE-TEMPLE-NANDY" distance="3.6033351416119315" lignes="RER D" />
 	</gare>
 	<gare nom="CHAMARANDE" coord="2347, 2868">
-		<voisin nom="LARDY" distance="4.419561096177126" lignes="RER C" />
 		<voisin nom="ETRECHY" distance="3.2685228527039083" lignes="RER C" />
+		<voisin nom="LARDY" distance="4.419561096177126" lignes="RER C" />
 	</gare>
 	<gare nom="CHAMP DE MARS-TOUR EIFFEL" coord="905, 1486|905, 1486">
+		<voisin nom="BIR-HAKEIM (GRENELLE)" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="AVENUE DU PRESIDENT KENNEDY" distance="1.2798129256195316" lignes="RER C" />
 		<voisin nom="PONT DE L'ALMA" distance="1.3223459257122305" lignes="RER C" />
 		<voisin nom="JAVEL" distance="1.9562970964956665" lignes="RER C" />
-		<voisin nom="AVENUE DU PRESIDENT KENNEDY" distance="1.2798129256195316" lignes="RER C" />
-		<voisin nom="BIR-HAKEIM (GRENELLE)" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="CHAMPS-ELYSEES-CLEMENCEAU" coord="1127, 1361|1138, 1361">
-		<voisin nom="INVALIDES" distance="0.5228066012835954" lignes="13" />
-		<voisin nom="CONCORDE" distance="1.0454740176930073" lignes="1" />
-		<voisin nom="MIROMESNIL" distance="0.6888869461512018" lignes="13" />
 		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.7559740682335936" lignes="1" />
+		<voisin nom="CONCORDE" distance="1.0454740176930073" lignes="1" />
+		<voisin nom="INVALIDES" distance="0.5228066012835954" lignes="13" />
+		<voisin nom="MIROMESNIL" distance="0.6888869461512018" lignes="13" />
 	</gare>
 	<gare nom="CHANTILLY-GOUVIEUX" coord="1564, 165">
-		<voisin nom="ORRY-LA-VILLE-COYE" distance="6.434523567350733" lignes="RER D" />
 		<voisin nom="CREIL" distance="8.584301536333307" lignes="RER D" />
+		<voisin nom="ORRY-LA-VILLE-COYE" distance="6.434523567350733" lignes="RER D" />
 	</gare>
 	<gare nom="CHARDON-LAGACHE" coord="619, 1708">
 		<voisin nom="MIRABEAU" distance="0.7356792831624194" lignes="10" />
 	</gare>
 	<gare nom="CHARENTON-ECOLES" coord="2312, 2275">
-		<voisin nom="LIBERTE" distance="0.9232383955630453" lignes="8" />
 		<voisin nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" distance="1.2229210162817468" lignes="8" />
+		<voisin nom="LIBERTE" distance="0.9232383955630453" lignes="8" />
 	</gare>
 	<gare nom="CHARLEBOURG" coord="570, 559">
-		<voisin nom="LES FAUVELLES" distance="0.5616873486154645" lignes="T2" />
 		<voisin nom="JACQUELINE AURIOL" distance="0.5942891297950336" lignes="T2" />
+		<voisin nom="LES FAUVELLES" distance="0.5616873486154645" lignes="T2" />
 	</gare>
 	<gare nom="CHARLES DE GAULLE ETOILE" coord="935, 1121|1001, 1133">
-		<voisin nom="GEORGE V" distance="0.7191967138893545" lignes="1" />
-		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="6.702081565307414" lignes="RER A" />
-		<voisin nom="VICTOR HUGO" distance="1.1325332624213873" lignes="2" />
+		<voisin nom="TERNES" distance="0.5944167085461393" lignes="2" />
 		<voisin nom="ARGENTINE" distance="0.5947305349821552" lignes="1" />
 		<voisin nom="KLEBER" distance="0.3073791028233411" lignes="6" />
-		<voisin nom="TERNES" distance="0.5944167085461393" lignes="2" />
+		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="6.702081565307414" lignes="RER A" />
+		<voisin nom="GEORGE V" distance="0.7191967138893545" lignes="1" />
 		<voisin nom="AUBER" distance="3.951566720702521" lignes="RER A" />
+		<voisin nom="VICTOR HUGO" distance="1.1325332624213873" lignes="2" />
 	</gare>
 	<gare nom="CHARLES MICHELS" coord="815, 1633|829, 1678">
-		<voisin nom="JAVEL" distance="1.0291033420167592" lignes="10,pedestre" />
 		<voisin nom="AVENUE EMILE ZOLA" distance="1.050155498222349" lignes="10" />
+		<voisin nom="JAVEL" distance="1.0291033420167592" lignes="10,pedestre" />
 	</gare>
 	<gare nom="CHARONNE" coord="2203, 1581">
 		<voisin nom="RUE DES BOULETS" distance="0.49375155842642415" lignes="9" />
@@ -473,36 +477,36 @@
 		<voisin nom="MARCADET-POISSONNIERS" distance="0.45512444235605026" lignes="4" />
 	</gare>
 	<gare nom="CHATEAU-LANDON" coord="1975, 1029|1975, 1029">
-		<voisin nom="LOUIS BLANC" distance="0.4643840619986508" lignes="7" />
 		<voisin nom="GARE DE L'EST" distance="0.5558124773402453" lignes="7,pedestre" />
+		<voisin nom="LOUIS BLANC" distance="0.4643840619986508" lignes="7" />
 	</gare>
 	<gare nom="CHATELET" coord="1659, 1518|1679, 1579">
-		<voisin nom="GARE DE LYON" distance="3.2697627146777575" lignes="14" />
 		<voisin nom="CITE" distance="0.3842417681353836" lignes="4" />
-		<voisin nom="PONT-NEUF (LA MONNAIE)" distance="0.5938696343371513" lignes="7" />
+		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="LOUVRE-RIVOLI" distance="0.7676088196339472" lignes="1" />
 		<voisin nom="HOTEL DE VILLE" distance="0.3970696833423217" lignes="11,1" />
+		<voisin nom="PONT-MARIE (CITE DES ARTS)" distance="1.1947231181206037" lignes="7" />
+		<voisin nom="PONT-NEUF (LA MONNAIE)" distance="0.5938696343371513" lignes="7" />
 		<voisin nom="PYRAMIDES" distance="1.6984274897754712" lignes="14" />
 		<voisin nom="LES HALLES" distance="0.4855569133176489" lignes="4" />
-		<voisin nom="LOUVRE-RIVOLI" distance="0.7676088196339472" lignes="1" />
-		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="PONT-MARIE (CITE DES ARTS)" distance="1.1947231181206037" lignes="7" />
+		<voisin nom="GARE DE LYON" distance="3.2697627146777575" lignes="14" />
 	</gare>
 	<gare nom="CHATELET-LES HALLES" coord="1669, 1449|1696, 1464">
-		<voisin nom="GARE DE LYON" distance="3.5221243476667636" lignes="RER A,RER D" />
 		<voisin nom="CHATELET" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="0.9501722307634991" lignes="RER B" />
-		<voisin nom="LES HALLES" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="GARE DU NORD" distance="2.388667536492601" lignes="RER D,RER B" />
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="0.9501722307634991" lignes="RER B" />
 		<voisin nom="AUBER" distance="2.2223614735604498" lignes="RER A" />
+		<voisin nom="LES HALLES" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="GARE DE LYON" distance="3.5221243476667636" lignes="RER D,RER A" />
 	</gare>
 	<gare nom="CHATILLON-MONTROUGE" coord="918, 2457">
 		<voisin nom="MALAKOFF-RUE ÉTIENNE DOLET" distance="0.7208879462059425" lignes="13" />
 	</gare>
 	<gare nom="CHAUSSEE D'ANTIN (LA FAYETTE)" coord="1521, 1153|1530, 1159">
 		<voisin nom="HAVRE-CAUMARTIN" distance="0.6638938624982967" lignes="9" />
-		<voisin nom="OPERA" distance="0.29757553511449575" lignes="7" />
 		<voisin nom="RICHELIEU-DROUOT" distance="0.6311033200047417" lignes="9" />
 		<voisin nom="LE PELETIER" distance="0.7785446018222454" lignes="7" />
+		<voisin nom="OPERA" distance="0.29757553511449575" lignes="7" />
 	</gare>
 	<gare nom="CHAVILLE-VELIZY" coord="453, 2259">
 		<voisin nom="MEUDON-VAL-FLEURY" distance="6.425659150277346" lignes="RER C" />
@@ -512,77 +516,77 @@
 		<voisin nom="LE CHENAY-GAGNY" distance="3.4061530590355655" lignes="RER E" />
 	</gare>
 	<gare nom="CHEMIN D'ANTONY" coord="1439, 2698">
-		<voisin nom="RUNGIS-LA FRATERNELLE" distance="4.417637572042561" lignes="RER C" />
 		<voisin nom="MASSY-VERRIERES" distance="4.607913705076098" lignes="RER C" />
+		<voisin nom="RUNGIS-LA FRATERNELLE" distance="4.417637572042561" lignes="RER C" />
 	</gare>
 	<gare nom="CHEMIN DES RENIERS" coord="1377, 222">
-		<voisin nom="PARC DES CHANTERAINES" distance="0.9339521330588328" lignes="T1" />
 		<voisin nom="LA NOUE" distance="0.5911963223975778" lignes="T1" />
+		<voisin nom="PARC DES CHANTERAINES" distance="0.9339521330588328" lignes="T1" />
 	</gare>
 	<gare nom="CHEMIN VERT" coord="1948, 1532">
-		<voisin nom="BASTILLE" distance="0.4695650304903711" lignes="8" />
 		<voisin nom="SAINT-SEBASTIEN FROISSART" distance="0.42876211478090626" lignes="8" />
+		<voisin nom="BASTILLE" distance="0.4695650304903711" lignes="8" />
 	</gare>
 	<gare nom="CHESSY - MARNE-LA-VALLEE" coord="2859, 2000">
 		<voisin nom="VINCENNES" distance="38.923897849358326" lignes="RER A" />
 	</gare>
 	<gare nom="CHEVALERET" coord="1850, 2118">
-		<voisin nom="QUAI DE LA GARE" distance="0.5727908810461314" lignes="6" />
 		<voisin nom="NATIONALE" distance="0.6174311565007109" lignes="6" />
+		<voisin nom="QUAI DE LA GARE" distance="0.5727908810461314" lignes="6" />
 	</gare>
 	<gare nom="CHILLY-MAZARIN" coord="1709, 2884">
-		<voisin nom="LONGJUMEAU" distance="1.488833136634403" lignes="RER C" />
 		<voisin nom="GRAVIGNY-BALIZY" distance="1.989482319078679" lignes="RER C" />
+		<voisin nom="LONGJUMEAU" distance="1.488833136634403" lignes="RER C" />
 	</gare>
 	<gare nom="CHOISY-LE-ROI" coord="2179, 2576">
-		<voisin nom="LES SAULES" distance="2.1906061622372386" lignes="RER C" />
 		<voisin nom="LES ARDOINES" distance="2.0920111834543835" lignes="RER C" />
+		<voisin nom="LES SAULES" distance="2.1906061622372386" lignes="RER C" />
 		<voisin nom="VILLENEUVE-LE-ROI" distance="3.1451765102261695" lignes="RER C" />
 	</gare>
 	<gare nom="CIMETIERE DE SAINT-DENIS" coord="1867, 252">
-		<voisin nom="HOPITAL DELAFONTAINE" distance="0.8851986964631057" lignes="T1" />
 		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="0.3732442931297929" lignes="T1" />
+		<voisin nom="HOPITAL DELAFONTAINE" distance="0.8851986964631057" lignes="T1" />
 	</gare>
 	<gare nom="CITE" coord="1612, 1639">
 		<voisin nom="SAINT-MICHEL" distance="0.4903862500234093" lignes="4" />
 		<voisin nom="CHATELET" distance="0.3842417681353836" lignes="4" />
 	</gare>
 	<gare nom="CITE UNIVERSITAIRE" coord="1368, 2398|1383, 2423">
-		<voisin nom="DENFERT-ROCHEREAU" distance="1.6191846945313169" lignes="RER B" />
-		<voisin nom="GENTILLY" distance="0.6856529081253984" lignes="RER B" />
-		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.780056949955889" lignes="T3A" />
 		<voisin nom="MONTSOURIS" distance="0.6294203630207341" lignes="T3A" />
+		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.780056949955889" lignes="T3A" />
+		<voisin nom="GENTILLY" distance="0.6856529081253984" lignes="RER B" />
+		<voisin nom="DENFERT-ROCHEREAU" distance="1.6191846945313169" lignes="RER B" />
 	</gare>
 	<gare nom="CLUNY-LA-SORBONNE" coord="1545, 1808|1545, 1808">
+		<voisin nom="ODEON" distance="0.5298477406812769" lignes="10" />
 		<voisin nom="MAUBERT-MUTUALITE" distance="0.4332312414465248" lignes="10" />
 		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="ODEON" distance="0.5298477406812769" lignes="10" />
 	</gare>
 	<gare nom="COEUR D'ORLY" coord="1654, 2762">
-		<voisin nom="CAROLINE AIGLE" distance="0.5195668531497997" lignes="T7" />
 		<voisin nom="AEROPORT D ORLY" distance="0.5957194094758976" lignes="T7" />
+		<voisin nom="CAROLINE AIGLE" distance="0.5195668531497997" lignes="T7" />
 	</gare>
 	<gare nom="COLETTE BESSON" coord="2066, 591">
-		<voisin nom="PORTE D AUBERVILLIERS" distance="0.5996435820876416" lignes="T3B" />
 		<voisin nom="PORTE DE LA CHAPELLE" distance="0.4816175544441079" lignes="T3B" />
+		<voisin nom="PORTE D AUBERVILLIERS" distance="0.5996435820876416" lignes="T3B" />
 	</gare>
 	<gare nom="COLONEL FABIEN" coord="2191, 1070">
 		<voisin nom="JAURES" distance="0.5448772552464384" lignes="2" />
 		<voisin nom="BELLEVILLE" distance="0.9082713073954369" lignes="2" />
 	</gare>
 	<gare nom="COMBS-LA-VILLE-QUINCY" coord="2603, 2785">
-		<voisin nom="BOUSSY-SAINT-ANTOINE" distance="2.16863800287234" lignes="RER D" />
 		<voisin nom="LIEUSAINT-MOISSY" distance="5.033791869781199" lignes="RER D" />
+		<voisin nom="BOUSSY-SAINT-ANTOINE" distance="2.16863800287234" lignes="RER D" />
 	</gare>
 	<gare nom="COMMERCE" coord="881, 1809">
 		<voisin nom="FELIX FAURE" distance="0.3216207387557161" lignes="8" />
 		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.7008665724764712" lignes="8" />
 	</gare>
 	<gare nom="CONCORDE" coord="1238, 1394|1238, 1418">
+		<voisin nom="MADELEINE" distance="0.5768942673895434" lignes="12,8" />
+		<voisin nom="INVALIDES" distance="1.09341066607153" lignes="8" />
 		<voisin nom="TUILERIES" distance="0.8002618814397798" lignes="1" />
 		<voisin nom="ASSEMBLEE NATIONALE" distance="0.6456527490439167" lignes="12" />
-		<voisin nom="INVALIDES" distance="1.09341066607153" lignes="8" />
-		<voisin nom="MADELEINE" distance="0.5768942673895434" lignes="8,12" />
 		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="1.0454740176930073" lignes="1" />
 	</gare>
 	<gare nom="CONVENTION" coord="896, 2107">
@@ -590,30 +594,34 @@
 		<voisin nom="PORTE DE VERSAILLES" distance="1.0832772079933843" lignes="12" />
 	</gare>
 	<gare nom="CORBEIL-ESSONNES" coord="2495, 2859">
-		<voisin nom="EVRY" distance="3.280613455241077" lignes="RER D" />
 		<voisin nom="LE BRAS-DE-FER" distance="2.6371704047746025" lignes="RER D" />
-		<voisin nom="MOULIN-GALANT" distance="2.9227418843861637" lignes="RER D" />
+		<voisin nom="EVRY" distance="3.280613455241077" lignes="RER D" />
 		<voisin nom="ESSONNES-ROBINSON" distance="1.4583519550001127" lignes="RER D" />
+		<voisin nom="MOULIN-GALANT" distance="2.9227418843861637" lignes="RER D" />
 	</gare>
 	<gare nom="CORENTIN CARIOU" coord="2128, 773">
 		<voisin nom="CRIMEE" distance="0.7338863957888517" lignes="7" />
 		<voisin nom="PORTE DE LA VILLETTE" distance="0.5360056713114675" lignes="7" />
 	</gare>
 	<gare nom="CORENTIN-CELTON" coord="746, 2152">
-		<voisin nom="MAIRIE D'ISSY" distance="0.7827888007301458" lignes="12" />
 		<voisin nom="PORTE DE VERSAILLES" distance="1.1470307844169212" lignes="12" />
+		<voisin nom="MAIRIE D'ISSY" distance="0.7827888007301458" lignes="12" />
 	</gare>
 	<gare nom="CORVISART" coord="1504, 2169">
-		<voisin nom="GLACIERE" distance="0.7827618442225133" lignes="6" />
 		<voisin nom="PLACE D'ITALIE" distance="0.610080886457167" lignes="6" />
+		<voisin nom="GLACIERE" distance="0.7827618442225133" lignes="6" />
 	</gare>
 	<gare nom="COSMONAUTES" coord="1944, 268">
 		<voisin nom="SIX ROUTES" distance="0.7532847201730944" lignes="T1" />
 		<voisin nom="HOPITAL DELAFONTAINE" distance="0.8213173980444245" lignes="T1" />
 	</gare>
 	<gare nom="COUR SAINT-EMILION" coord="2048, 2150">
-		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="1.1712876556624803" lignes="14" />
 		<voisin nom="BERCY" distance="1.0838243510614631" lignes="14" />
+		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="1.1712876556624803" lignes="14" />
+	</gare>
+	<gare nom="COURCELLE-SUR-YVETTE" coord="975, 2955">
+		<voisin nom="GIF-SUR-YVETTE" distance="4.309037906917572" lignes="RER B" />
+		<voisin nom="SAINT-REMY-LES-CHEVREUSE" distance="2.980789285965428" lignes="RER B" />
 	</gare>
 	<gare nom="COURCELLES" coord="1030, 986">
 		<voisin nom="TERNES" distance="0.59709029913709" lignes="2" />
@@ -627,19 +635,19 @@
 		<voisin nom="CHANTILLY-GOUVIEUX" distance="8.584301536333307" lignes="RER D" />
 	</gare>
 	<gare nom="CRETEIL POMPADOUR" coord="2338, 2591">
-		<voisin nom="VILLENEUVE-TRIAGE" distance="2.915287408818031" lignes="RER D" />
 		<voisin nom="LE VERT-DE-MAISONS" distance="1.9956753487913326" lignes="RER D" />
+		<voisin nom="VILLENEUVE-TRIAGE" distance="2.915287408818031" lignes="RER D" />
 	</gare>
 	<gare nom="CRETEIL-L'ECHAT (HOPITAL MONDOR)" coord="2402, 2430">
-		<voisin nom="MAISONS-ALFORT-LES JUILLIOTTES" distance="0.7126947681323532" lignes="8" />
 		<voisin nom="CRETEIL-UNIVERSITE" distance="0.7606279013684668" lignes="8" />
+		<voisin nom="MAISONS-ALFORT-LES JUILLIOTTES" distance="0.7126947681323532" lignes="8" />
 	</gare>
 	<gare nom="CRETEIL-POINTE DU LAC" coord="2478, 2562">
 		<voisin nom="CRETEIL-PREFECTURE (HOTEL DE VILLE)" distance="1.372411539175169" lignes="8" />
 	</gare>
 	<gare nom="CRETEIL-PREFECTURE (HOTEL DE VILLE)" coord="2458, 2528">
-		<voisin nom="CRETEIL-POINTE DU LAC" distance="1.372411539175169" lignes="8" />
 		<voisin nom="CRETEIL-UNIVERSITE" distance="1.496657975745172" lignes="8" />
+		<voisin nom="CRETEIL-POINTE DU LAC" distance="1.372411539175169" lignes="8" />
 	</gare>
 	<gare nom="CRETEIL-UNIVERSITE" coord="2434, 2486">
 		<voisin nom="CRETEIL-PREFECTURE (HOTEL DE VILLE)" distance="1.496657975745172" lignes="8" />
@@ -661,25 +669,25 @@
 		<voisin nom="BOTZARIS" distance="0.5536846362261075" lignes="7b" />
 	</gare>
 	<gare nom="DAUMESNIL" coord="2116, 1924|2116, 1936">
-		<voisin nom="MONTGALLET" distance="0.8757932192337096" lignes="8" />
-		<voisin nom="BEL-AIR" distance="0.5676518886376153" lignes="6" />
-		<voisin nom="MICHEL BIZOT" distance="0.7319879407503421" lignes="8" />
 		<voisin nom="DUGOMMIER" distance="0.7319583729121862" lignes="6" />
+		<voisin nom="MICHEL BIZOT" distance="0.7319879407503421" lignes="8" />
+		<voisin nom="BEL-AIR" distance="0.5676518886376153" lignes="6" />
+		<voisin nom="MONTGALLET" distance="0.8757932192337096" lignes="8" />
 	</gare>
 	<gare nom="DELPHINE SEYRIG" coord="2335, 810">
-		<voisin nom="ELLA FITZGERALD" distance="0.4962530164455904" lignes="T3B" />
 		<voisin nom="PORTE DE PANTIN" distance="0.5883682520799091" lignes="T3B" />
+		<voisin nom="ELLA FITZGERALD" distance="0.4962530164455904" lignes="T3B" />
 	</gare>
 	<gare nom="DENFERT-ROCHEREAU" coord="1346, 2138|1376, 2170">
-		<voisin nom="MOUTON-DUVERNET" distance="0.4978754871380969" lignes="4" />
 		<voisin nom="CITE UNIVERSITAIRE" distance="1.6191846945313169" lignes="RER B" />
+		<voisin nom="RASPAIL" distance="0.5696580946638384" lignes="4,6" />
 		<voisin nom="PORT ROYAL" distance="0.7943151628020526" lignes="RER B" />
+		<voisin nom="MOUTON-DUVERNET" distance="0.4978754871380969" lignes="4" />
 		<voisin nom="SAINT-JACQUES" distance="0.5012835542959755" lignes="6" />
-		<voisin nom="RASPAIL" distance="0.5696580946638384" lignes="6,4" />
 	</gare>
 	<gare nom="DESNOUETTES" coord="820, 2081">
-		<voisin nom="BALARD" distance="0.6842206963612486" lignes="T3A" />
 		<voisin nom="PORTE DE VERSAILLES" distance="0.4893480682257747" lignes="T3A" />
+		<voisin nom="BALARD" distance="0.6842206963612486" lignes="T3A" />
 	</gare>
 	<gare nom="DIDOT" coord="1086, 2310">
 		<voisin nom="PORTE DE VANVES" distance="0.8979039024471506" lignes="T3A" />
@@ -697,54 +705,54 @@
 		<voisin nom="DOURDAN" distance="1.4479744350604402" lignes="RER C" />
 	</gare>
 	<gare nom="DRANCY" coord="2174, 228">
-		<voisin nom="BLANC-MESNIL" distance="2.327893406623102" lignes="RER B" />
 		<voisin nom="LE BOURGET" distance="3.232885058593989" lignes="RER B" />
+		<voisin nom="BLANC-MESNIL" distance="2.327893406623102" lignes="RER B" />
 	</gare>
 	<gare nom="DRANCY-AVENIR" coord="2317, 398">
-		<voisin nom="MAURICE LACHATRE" distance="0.4562203616498537" lignes="T1" />
 		<voisin nom="HOPITAL AVICENNE" distance="0.8429785840892108" lignes="T1" />
+		<voisin nom="MAURICE LACHATRE" distance="0.4562203616498537" lignes="T1" />
 	</gare>
 	<gare nom="DUGOMMIER" coord="2041, 2000">
 		<voisin nom="DAUMESNIL" distance="0.7319583729121862" lignes="6" />
 		<voisin nom="BERCY" distance="1.0911157131713491" lignes="6" />
 	</gare>
 	<gare nom="DUPLEIX" coord="885, 1599">
-		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.5357177234117823" lignes="6" />
 		<voisin nom="BIR-HAKEIM (GRENELLE)" distance="0.6156610793724385" lignes="6" />
+		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.5357177234117823" lignes="6" />
 	</gare>
 	<gare nom="DUROC" coord="1133, 1790|1143, 1795">
 		<voisin nom="MONTPARNASSE" distance="0.7307189293278293" lignes="13" />
-		<voisin nom="SEGUR" distance="1.004337995454423" lignes="10" />
 		<voisin nom="VANEAU" distance="0.5727145806823628" lignes="10" />
+		<voisin nom="SEGUR" distance="1.004337995454423" lignes="10" />
 		<voisin nom="SAINT-FRANCOIS-XAVIER" distance="0.53732142398527" lignes="13" />
 	</gare>
 	<gare nom="ECOLE MILITAIRE" coord="970, 1653">
-		<voisin nom="LA TOUR MAUBOURG" distance="0.6016855743145114" lignes="8" />
 		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="1.0511163968982677" lignes="8" />
+		<voisin nom="LA TOUR MAUBOURG" distance="0.6016855743145114" lignes="8" />
 	</gare>
 	<gare nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" coord="2335, 2316">
-		<voisin nom="CHARENTON-ECOLES" distance="1.2229210162817468" lignes="8" />
 		<voisin nom="MAISONS-ALFORT-STADE" distance="1.4901466326493267" lignes="8" />
+		<voisin nom="CHARENTON-ECOLES" distance="1.2229210162817468" lignes="8" />
 	</gare>
 	<gare nom="EDGAR QUINET" coord="1229, 2080">
-		<voisin nom="MONTPARNASSE" distance="0.628956190035156" lignes="6" />
 		<voisin nom="RASPAIL" distance="0.5218367835730199" lignes="6" />
+		<voisin nom="MONTPARNASSE" distance="0.628956190035156" lignes="6" />
 	</gare>
 	<gare nom="EGLISE D'AUTEUIL" coord="629, 1638">
 		<voisin nom="MICHEL-ANGE-AUTEUIL" distance="0.5542850235538179" lignes="10" />
 	</gare>
 	<gare nom="EGLISE DE PANTIN" coord="2434, 790">
-		<voisin nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance="1.3595056286964584" lignes="5" />
 		<voisin nom="HOCHE" distance="1.2408654157880008" lignes="5" />
+		<voisin nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance="1.3595056286964584" lignes="5" />
 	</gare>
 	<gare nom="EGLY" coord="2302, 2870">
 		<voisin nom="ARPAJON" distance="2.1113081072178064" lignes="RER C" />
 		<voisin nom="BREUILLET-BRUYERES-LE-CHATEL" distance="3.425832032282323" lignes="RER C" />
 	</gare>
 	<gare nom="ELLA FITZGERALD" coord="2274, 746|2275, 746">
-		<voisin nom="PORTE DE LA VILLETTE" distance="0.9417982443168175" lignes="T3B" />
-		<voisin nom="DELPHINE SEYRIG" distance="0.4962530164455904" lignes="T3B" />
 		<voisin nom="PANTIN" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="DELPHINE SEYRIG" distance="0.4962530164455904" lignes="T3B" />
+		<voisin nom="PORTE DE LA VILLETTE" distance="0.9417982443168175" lignes="T3B" />
 	</gare>
 	<gare nom="EMERAINVILLE-PONTAULT-COMBAULT" coord="2880, 690">
 		<voisin nom="LES YVRIS-NOISY-LE-GRAND" distance="4.809170931278256" lignes="RER E" />
@@ -752,16 +760,16 @@
 	</gare>
 	<gare nom="EPINAY-SUR-ORGE" coord="2316, 2813">
 		<voisin nom="PETIT-VAUX" distance="0.7703644879133238" lignes="RER C" />
-		<voisin nom="SAVIGNY-SUR-ORGE" distance="2.342370305391709" lignes="RER C" />
 		<voisin nom="SAINTE-GENEVIEVE-DES-BOIS" distance="2.887855513599678" lignes="RER C" />
+		<voisin nom="SAVIGNY-SUR-ORGE" distance="2.342370305391709" lignes="RER C" />
 	</gare>
 	<gare nom="EPINAY-SUR-SEINE" coord="1201, 232">
-		<voisin nom="SAINT-GRATIEN" distance="2.149975751734069" lignes="RER C" />
 		<voisin nom="GENNEVILLIERS" distance="2.363996655583583" lignes="RER C" />
+		<voisin nom="SAINT-GRATIEN" distance="2.149975751734069" lignes="RER C" />
 	</gare>
 	<gare nom="ERMONT-EAUBONNE" coord="1190, 213">
-		<voisin nom="SAINT-GRATIEN" distance="2.444398278108905" lignes="RER C" />
 		<voisin nom="CERNAY" distance="1.6971669390627229" lignes="RER C" />
+		<voisin nom="SAINT-GRATIEN" distance="2.444398278108905" lignes="RER C" />
 	</gare>
 	<gare nom="ESCADRILLE NORMANDIE-NIEMEN" coord="2423, 451">
 		<voisin nom="LA FERME" distance="0.40883466905505483" lignes="T1" />
@@ -772,48 +780,48 @@
 		<voisin nom="PONT DE NEUILLY (AVENUE DE MADRID)" distance="1.4670926658994425" lignes="1" />
 	</gare>
 	<gare nom="ESSONNES-ROBINSON" coord="2493, 2880">
-		<voisin nom="CORBEIL-ESSONNES" distance="1.4583519550001127" lignes="RER D" />
 		<voisin nom="VILLABE" distance="1.439639393154048" lignes="RER D" />
+		<voisin nom="CORBEIL-ESSONNES" distance="1.4583519550001127" lignes="RER D" />
 	</gare>
 	<gare nom="ETAMPES" coord="2354, 2884">
-		<voisin nom="SAINT-MARTIN-D'ETAMPES" distance="1.9130215748493946" lignes="RER C" />
 		<voisin nom="ETRECHY" distance="7.418564028837585" lignes="RER C" />
+		<voisin nom="SAINT-MARTIN-D'ETAMPES" distance="1.9130215748493946" lignes="RER C" />
 	</gare>
 	<gare nom="ETIENNE-MARCEL" coord="1750, 1400">
-		<voisin nom="LES HALLES" distance="0.39362969031752565" lignes="4" />
 		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4712256515383505" lignes="4" />
+		<voisin nom="LES HALLES" distance="0.39362969031752565" lignes="4" />
 	</gare>
 	<gare nom="ETRECHY" coord="2351, 2877">
-		<voisin nom="ETAMPES" distance="7.418564028837585" lignes="RER C" />
 		<voisin nom="CHAMARANDE" distance="3.2685228527039083" lignes="RER C" />
+		<voisin nom="ETAMPES" distance="7.418564028837585" lignes="RER C" />
 	</gare>
 	<gare nom="EUROPE" coord="1221, 1023">
-		<voisin nom="SAINT-LAZARE" distance="0.4011086331013056" lignes="3" />
 		<voisin nom="VILLIERS" distance="0.8323064121354629" lignes="3" />
+		<voisin nom="SAINT-LAZARE" distance="0.4011086331013056" lignes="3" />
 	</gare>
 	<gare nom="EVRY" coord="2496, 2832">
-		<voisin nom="GRAND-BOURG" distance="2.4478789825770915" lignes="RER D" />
 		<voisin nom="CORBEIL-ESSONNES" distance="3.280613455241077" lignes="RER D" />
+		<voisin nom="GRAND-BOURG" distance="2.4478789825770915" lignes="RER D" />
 	</gare>
 	<gare nom="EVRY-COURCOURONNES" coord="2461, 2842">
-		<voisin nom="LE BRAS-DE-FER" distance="2.541299379927673" lignes="RER D" />
 		<voisin nom="ORANGIS-BOIS DE L'EPINE" distance="2.5990031512923037" lignes="RER D" />
+		<voisin nom="LE BRAS-DE-FER" distance="2.541299379927673" lignes="RER D" />
 	</gare>
 	<gare nom="EXELMANS" coord="485, 1732">
-		<voisin nom="MICHEL-ANGE-MOLITOR" distance="0.3119441632392116" lignes="9" />
 		<voisin nom="PORTE DE SAINT-CLOUD" distance="0.6415023265107743" lignes="9" />
+		<voisin nom="MICHEL-ANGE-MOLITOR" distance="0.3119441632392116" lignes="9" />
 	</gare>
 	<gare nom="FAIDHERBE-CHALIGNY" coord="1998, 1731">
-		<voisin nom="LEDRU-ROLLIN" distance="0.8958892697618103" lignes="8" />
 		<voisin nom="REUILLY-DIDEROT" distance="0.470762042158219" lignes="8" />
+		<voisin nom="LEDRU-ROLLIN" distance="0.8958892697618103" lignes="8" />
 	</gare>
 	<gare nom="FALGUIERE" coord="1150, 1957">
-		<voisin nom="MONTPARNASSE" distance="0.42233114005052025" lignes="12" />
 		<voisin nom="PASTEUR" distance="0.5954546950331941" lignes="12" />
+		<voisin nom="MONTPARNASSE" distance="0.42233114005052025" lignes="12" />
 	</gare>
 	<gare nom="FAUBOURG DE L ARCHE" coord="621, 612">
-		<voisin nom="LES FAUVELLES" distance="0.681562507931524" lignes="T2" />
 		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="0.6034576889727682" lignes="T2" />
+		<voisin nom="LES FAUVELLES" distance="0.681562507931524" lignes="T2" />
 	</gare>
 	<gare nom="FELIX FAURE" coord="860, 1846">
 		<voisin nom="BOUCICAUT" distance="0.47830372729706233" lignes="8" />
@@ -823,27 +831,31 @@
 		<voisin nom="REPUBLIQUE" distance="0.49787365469987654" lignes="8" />
 		<voisin nom="SAINT-SEBASTIEN FROISSART" distance="0.24028145058851386" lignes="8" />
 	</gare>
+	<gare nom="FONTAINE-MICHALON" coord="1128, 2814">
+		<voisin nom="ANTONY" distance="1.38512853229755" lignes="RER B" />
+		<voisin nom="LES BACONNETS" distance="1.0545950818207" lignes="RER B" />
+	</gare>
 	<gare nom="FONTENAY-AUX-ROSES" coord="1014, 2703">
-		<voisin nom="ROBINSON" distance="1.4798186237072375" lignes="RER B" />
 		<voisin nom="SCEAUX" distance="0.9021012650999254" lignes="RER B" />
+		<voisin nom="ROBINSON" distance="1.4798186237072375" lignes="RER B" />
 	</gare>
 	<gare nom="FORT D'AUBERVILLIERS" coord="2285, 495">
 		<voisin nom="AUBERVILLIERS-PANTIN (QUATRE CHEMINS)" distance="1.8357137639912295" lignes="7" />
 		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.9466185558598356" lignes="7" />
 	</gare>
 	<gare nom="FRANCONVILLE-LE-PLESSIS-BOUCHARD" coord="1180, 197">
-		<voisin nom="MONTIGNY-BEAUCHAMP" distance="4.35625311847048" lignes="RER C" />
 		<voisin nom="CERNAY" distance="2.7580797884285917" lignes="RER C" />
+		<voisin nom="MONTIGNY-BEAUCHAMP" distance="4.35625311847048" lignes="RER C" />
 	</gare>
 	<gare nom="FRANKLIN-D.ROOSEVELT" coord="1035, 1267|1035, 1279">
+		<voisin nom="SAINT-PHILIPPE-DU-ROULE" distance="0.4077254667748662" lignes="9" />
 		<voisin nom="GEORGE V" distance="0.8077664051397424" lignes="1" />
 		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="0.7559740682335936" lignes="1" />
-		<voisin nom="SAINT-PHILIPPE-DU-ROULE" distance="0.4077254667748662" lignes="9" />
 		<voisin nom="ALMA-MARCEAU" distance="0.9136479445008243" lignes="9" />
 	</gare>
 	<gare nom="FRATERNELLE" coord="1651, 2708">
-		<voisin nom="ROBERT SCHUMAN" distance="0.5620154651877614" lignes="T7" />
 		<voisin nom="HELENE BOUCHER" distance="0.7587838193459108" lignes="T7" />
+		<voisin nom="ROBERT SCHUMAN" distance="0.5620154651877614" lignes="T7" />
 	</gare>
 	<gare nom="FRONT POPULAIRE" coord="2060, 494">
 		<voisin nom="PORTE DE LA CHAPELLE" distance="1.2587909962206965" lignes="12" />
@@ -857,8 +869,8 @@
 		<voisin nom="LE RAINCY-VILLEMOMBLE-MONTFERMEIL" distance="1.550723905890387" lignes="RER E" />
 	</gare>
 	<gare nom="GAITE" coord="1111, 2122">
-		<voisin nom="PERNETY" distance="0.7170214328476644" lignes="13" />
 		<voisin nom="MONTPARNASSE" distance="0.4439854570073834" lignes="13" />
+		<voisin nom="PERNETY" distance="0.7170214328476644" lignes="13" />
 	</gare>
 	<gare nom="GALLIENI (PARC DE BAGNOLET)" coord="2733, 1446">
 		<voisin nom="PORTE DE BAGNOLET" distance="0.9006894314690848" lignes="3" />
@@ -873,63 +885,67 @@
 		<voisin nom="PARC DES CHANTERAINES" distance="0.6748368925558729" lignes="T1" />
 	</gare>
 	<gare nom="GARE DE L'EST" coord="1905, 1029|1925, 1041">
-		<voisin nom="POISSONNIERE" distance="0.9658681686273776" lignes="7" />
 		<voisin nom="CHATEAU-LANDON" distance="0.5558124773402453" lignes="7,pedestre" />
+		<voisin nom="POISSONNIERE" distance="0.9658681686273776" lignes="7" />
+		<voisin nom="GARE DU NORD" distance="0.5382102601312939" lignes="4,5" />
 		<voisin nom="JACQUES BONSERGENT" distance="0.6743777801722611" lignes="5" />
-		<voisin nom="GARE DU NORD" distance="0.5382102601312939" lignes="5,4" />
 		<voisin nom="CHATEAU D'EAU" distance="0.4461997957525393" lignes="4" />
 	</gare>
 	<gare nom="GARE DE LYON" coord="1867, 1815|1905, 1859">
-		<voisin nom="BASTILLE" distance="1.1153020607054365" lignes="1" />
-		<voisin nom="CHATELET" distance="3.2697627146777575" lignes="14" />
-		<voisin nom="NATION" distance="2.5527847314554535" lignes="RER A" />
 		<voisin nom="MAISONS-ALFORT-ALFORTVILLE" distance="7.550946732138042" lignes="RER D" />
+		<voisin nom="CHATELET-LES HALLES" distance="3.5221243476667636" lignes="RER D,RER A" />
+		<voisin nom="NATION" distance="2.5527847314554535" lignes="RER A" />
+		<voisin nom="AUSTERLITZ" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="REUILLY-DIDEROT" distance="1.5679991849320218" lignes="1" />
 		<voisin nom="BERCY" distance="0.8498464645690921" lignes="14" />
-		<voisin nom="AUSTERLITZ" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="CHATELET-LES HALLES" distance="3.5221243476667636" lignes="RER A,RER D" />
+		<voisin nom="CHATELET" distance="3.2697627146777575" lignes="14" />
+		<voisin nom="BASTILLE" distance="1.1153020607054365" lignes="1" />
 	</gare>
 	<gare nom="GARE DE SAINT-DENIS" coord="1651, 223">
-		<voisin nom="L ILE-SAINT-DENIS" distance="0.9759660710809661" lignes="T1" />
 		<voisin nom="THEATRE GERARD PHILIPE" distance="0.37693487470035747" lignes="T1" />
+		<voisin nom="L ILE-SAINT-DENIS" distance="0.9759660710809661" lignes="T1" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="1753, 868|1860, 895">
-		<voisin nom="STALINGRAD" distance="1.0510248921445704" lignes="5" />
-		<voisin nom="LA CHAPELLE" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="GARE DE L'EST" distance="0.5382102601312939" lignes="5,4" />
 		<voisin nom="BARBES-ROCHECHOUART" distance="0.7986810083971859" lignes="4" />
-		<voisin nom="MAGENTA" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="STADE DE FRANCE-SAINT-DENIS" distance="4.160819990863272" lignes="RER D" />
-		<voisin nom="CHATELET-LES HALLES" distance="2.388667536492601" lignes="RER D,RER B" />
 		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="4.199384286748224" lignes="RER B" />
+		<voisin nom="CHATELET-LES HALLES" distance="2.388667536492601" lignes="RER D,RER B" />
+		<voisin nom="LA CHAPELLE" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="GARE DE L'EST" distance="0.5382102601312939" lignes="4,5" />
+		<voisin nom="STALINGRAD" distance="1.0510248921445704" lignes="5" />
+		<voisin nom="STADE DE FRANCE-SAINT-DENIS" distance="4.160819990863272" lignes="RER D" />
+		<voisin nom="MAGENTA" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="GARGES-SARCELLES" coord="1607, 239">
 		<voisin nom="PIERREFITTE-STAINS" distance="2.5149597887507267" lignes="RER D" />
 		<voisin nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" distance="3.421207765939391" lignes="RER D" />
 	</gare>
 	<gare nom="GARIBALDI" coord="1443, 430">
-		<voisin nom="PORTE DE SAINT-OUEN" distance="1.0217188422630084" lignes="13" />
 		<voisin nom="MAIRIE DE SAINT-OUEN" distance="0.6933586990685603" lignes="13" />
+		<voisin nom="PORTE DE SAINT-OUEN" distance="1.0217188422630084" lignes="13" />
 	</gare>
 	<gare nom="GASTON ROULAUD" coord="2388, 433">
-		<voisin nom="HOPITAL AVICENNE" distance="0.7242396679862515" lignes="T1" />
 		<voisin nom="ESCADRILLE NORMANDIE-NIEMEN" distance="0.4863557846816012" lignes="T1" />
+		<voisin nom="HOPITAL AVICENNE" distance="0.7242396679862515" lignes="T1" />
 	</gare>
 	<gare nom="GENNEVILLIERS" coord="1211, 248">
 		<voisin nom="LES GRESILLONS" distance="1.4895347084807102" lignes="RER C" />
 		<voisin nom="EPINAY-SUR-SEINE" distance="2.363996655583583" lignes="RER C" />
 	</gare>
 	<gare nom="GENTILLY" coord="1329, 2467">
-		<voisin nom="CITE UNIVERSITAIRE" distance="0.6856529081253984" lignes="RER B" />
 		<voisin nom="LAPLACE" distance="1.0602937540097466" lignes="RER B" />
+		<voisin nom="CITE UNIVERSITAIRE" distance="0.6856529081253984" lignes="RER B" />
 	</gare>
 	<gare nom="GEORGE V" coord="1009, 1234">
-		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.7191967138893545" lignes="1" />
 		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.8077664051397424" lignes="1" />
+		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.7191967138893545" lignes="1" />
 	</gare>
 	<gare nom="GEORGES BRASSENS" coord="905, 2175">
 		<voisin nom="PORTE DE BRANCION" distance="0.5918289107277932" lignes="T3A" />
 		<voisin nom="PORTE DE VERSAILLES" distance="0.9027094767421593" lignes="T3A" />
+	</gare>
+	<gare nom="GIF-SUR-YVETTE" coord="987, 2954">
+		<voisin nom="LA HACQUINIERE" distance="1.7095967157111982" lignes="RER B" />
+		<voisin nom="COURCELLE-SUR-YVETTE" distance="4.309037906917572" lignes="RER B" />
 	</gare>
 	<gare nom="GLACIERE" coord="1464, 2163">
 		<voisin nom="CORVISART" distance="0.7827618442225133" lignes="6" />
@@ -940,24 +956,24 @@
 		<voisin nom="BELLEVILLE" distance="0.6472640369160513" lignes="11" />
 	</gare>
 	<gare nom="GOUSSAINVILLE" coord="1597, 221">
-		<voisin nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" distance="6.072987499791814" lignes="RER D" />
 		<voisin nom="LES NOUES" distance="2.0882674194015247" lignes="RER D" />
+		<voisin nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" distance="6.072987499791814" lignes="RER D" />
 	</gare>
 	<gare nom="GRAND-BOURG" coord="2486, 2816">
 		<voisin nom="EVRY" distance="2.4478789825770915" lignes="RER D" />
 		<voisin nom="RIS-ORANGIS" distance="2.525576011170486" lignes="RER D" />
 	</gare>
 	<gare nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" coord="1719, 1159|1719, 1171">
-		<voisin nom="RICHELIEU-DROUOT" distance="0.46022964712741976" lignes="8,9" />
 		<voisin nom="BONNE NOUVELLE" distance="0.8307888607560595" lignes="8,9" />
+		<voisin nom="RICHELIEU-DROUOT" distance="0.46022964712741976" lignes="8,9" />
 	</gare>
 	<gare nom="GRAVIGNY-BALIZY" coord="1945, 2883">
-		<voisin nom="CHILLY-MAZARIN" distance="1.989482319078679" lignes="RER C" />
 		<voisin nom="PETIT-VAUX" distance="2.0253670804715385" lignes="RER C" />
+		<voisin nom="CHILLY-MAZARIN" distance="1.989482319078679" lignes="RER C" />
 	</gare>
 	<gare nom="GRETZ-ARMAINVILLIERS" coord="2910, 690">
-		<voisin nom="TOURNAN" distance="3.6014167990455936" lignes="RER E" />
 		<voisin nom="OZOIR-LA-FERRIERE" distance="4.92546912109668" lignes="RER E" />
+		<voisin nom="TOURNAN" distance="3.6014167990455936" lignes="RER E" />
 	</gare>
 	<gare nom="GRIGNY-CENTRE" coord="2451, 2819">
 		<voisin nom="VIRY-CHATILLON" distance="2.6734977371593844" lignes="RER D" />
@@ -968,25 +984,25 @@
 		<voisin nom="PORTE DE SAINT-OUEN" distance="0.5329955255425709" lignes="13" />
 	</gare>
 	<gare nom="HAUSSMANN-SAINT-LAZARE" coord="1379, 1092|1379, 1093">
-		<voisin nom="SAINT-LAZARE" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="MAGENTA" distance="3.6344825013985966" lignes="RER E" />
 		<voisin nom="HAVRE-CAUMARTIN" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="MAGENTA" distance="3.6344825013985966" lignes="RER E" />
+		<voisin nom="SAINT-LAZARE" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="HAVRE-CAUMARTIN" coord="1396, 1160|1402, 1169">
-		<voisin nom="SAINT-LAZARE" distance="0.4433850851724998" lignes="3" />
-		<voisin nom="OPERA" distance="0.6376125264060309" lignes="3" />
-		<voisin nom="HAUSSMANN-SAINT-LAZARE" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="SAINT-AUGUSTIN" distance="0.6978308241927572" lignes="9" />
-		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.6638938624982967" lignes="9" />
+		<voisin nom="SAINT-LAZARE" distance="0.4433850851724998" lignes="3" />
 		<voisin nom="AUBER" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="HAUSSMANN-SAINT-LAZARE" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.6638938624982967" lignes="9" />
+		<voisin nom="OPERA" distance="0.6376125264060309" lignes="3" />
 	</gare>
 	<gare nom="HELENE BOUCHER" coord="1647, 2726">
-		<voisin nom="FRATERNELLE" distance="0.7587838193459108" lignes="T7" />
 		<voisin nom="CAROLINE AIGLE" distance="1.173184621028566" lignes="T7" />
+		<voisin nom="FRATERNELLE" distance="0.7587838193459108" lignes="T7" />
 	</gare>
 	<gare nom="HENRI FARMANN" coord="701, 1992">
-		<voisin nom="SUZANNE LENGLEN" distance="0.6281579813859699" lignes="T2" />
 		<voisin nom="ISSY-VAL DE SEINE" distance="0.9858989002951176" lignes="T2" />
+		<voisin nom="SUZANNE LENGLEN" distance="0.6281579813859699" lignes="T2" />
 	</gare>
 	<gare nom="HOCHE" coord="2403, 842">
 		<voisin nom="EGLISE DE PANTIN" distance="1.2408654157880008" lignes="5" />
@@ -1001,14 +1017,14 @@
 		<voisin nom="COSMONAUTES" distance="0.8213173980444245" lignes="T1" />
 	</gare>
 	<gare nom="HOPITAL ROBERT DEBRE" coord="2465, 997|2465, 997">
+		<voisin nom="PRE SAINT-GERVAIS" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="BUTTE DU CHAPEAU ROUGE" distance="0.7925916531769888" lignes="T3B" />
 		<voisin nom="PORTE DES LILAS" distance="0.7231250113029224" lignes="T3B" />
-		<voisin nom="PRE SAINT-GERVAIS" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="HOTEL DE VILLE" coord="1807, 1517|1813, 1528">
-		<voisin nom="RAMBUTEAU" distance="0.5009255758078393" lignes="11" />
 		<voisin nom="CHATELET" distance="0.3970696833423217" lignes="11,1" />
 		<voisin nom="SAINT-PAUL (LE MARAIS)" distance="1.1344966025516285" lignes="1" />
+		<voisin nom="RAMBUTEAU" distance="0.5009255758078393" lignes="11" />
 	</gare>
 	<gare nom="HOTEL DE VILLE - MAISON DE LA CULTURE" coord="2527, 509">
 		<voisin nom="BOBIGNY-PABLO PICASSO" distance="0.6692894367084494" lignes="T1" />
@@ -1027,22 +1043,22 @@
 		<voisin nom="MASSY-PALAISEAU" distance="3.582748933691625" lignes="RER C" />
 	</gare>
 	<gare nom="INVALIDES" coord="1072, 1455|1119, 1461">
-		<voisin nom="MUSEE D'ORSAY" distance="1.3261048818033585" lignes="RER C" />
+		<voisin nom="PONT DE L'ALMA" distance="1.438617836052831" lignes="RER C" />
 		<voisin nom="LA TOUR MAUBOURG" distance="0.685696691114523" lignes="8" />
+		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="0.5228066012835954" lignes="13" />
 		<voisin nom="CONCORDE" distance="1.09341066607153" lignes="8" />
 		<voisin nom="VARENNE" distance="0.68278040685985" lignes="13" />
-		<voisin nom="PONT DE L'ALMA" distance="1.438617836052831" lignes="RER C" />
-		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="0.5228066012835954" lignes="13" />
+		<voisin nom="MUSEE D'ORSAY" distance="1.3261048818033585" lignes="RER C" />
 	</gare>
 	<gare nom="ISSY" coord="538, 2111">
-		<voisin nom="MEUDON-VAL-FLEURY" distance="2.407553767011187" lignes="RER C" />
 		<voisin nom="ISSY-VAL DE SEINE" distance="1.2849330247438042" lignes="RER C" />
+		<voisin nom="MEUDON-VAL-FLEURY" distance="2.407553767011187" lignes="RER C" />
 	</gare>
 	<gare nom="ISSY-VAL DE SEINE" coord="602, 1971|602, 2001">
-		<voisin nom="JACQUES-HENRI LARTIGUE" distance="0.6909584648391092" lignes="T2" />
-		<voisin nom="ISSY" distance="1.2849330247438042" lignes="RER C" />
-		<voisin nom="HENRI FARMANN" distance="0.9858989002951176" lignes="T2" />
 		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="1.2503064738376" lignes="RER C" />
+		<voisin nom="ISSY" distance="1.2849330247438042" lignes="RER C" />
+		<voisin nom="JACQUES-HENRI LARTIGUE" distance="0.6909584648391092" lignes="T2" />
+		<voisin nom="HENRI FARMANN" distance="0.9858989002951176" lignes="T2" />
 	</gare>
 	<gare nom="IVRY-SUR-SEINE" coord="2062, 2372">
 		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="2.4303889198734647" lignes="RER C" />
@@ -1053,8 +1069,8 @@
 		<voisin nom="CHARLEBOURG" distance="0.5942891297950336" lignes="T2" />
 	</gare>
 	<gare nom="JACQUES BONSERGENT" coord="1965, 1121">
-		<voisin nom="REPUBLIQUE" distance="0.5527998063118952" lignes="5" />
 		<voisin nom="GARE DE L'EST" distance="0.6743777801722611" lignes="5" />
+		<voisin nom="REPUBLIQUE" distance="0.5527998063118952" lignes="5" />
 	</gare>
 	<gare nom="JACQUES-HENRI LARTIGUE" coord="554, 1971">
 		<voisin nom="ISSY-VAL DE SEINE" distance="0.6909584648391092" lignes="T2" />
@@ -1065,61 +1081,61 @@
 		<voisin nom="MICHEL-ANGE-AUTEUIL" distance="0.6726428567541197" lignes="9" />
 	</gare>
 	<gare nom="JAURES" coord="2102, 951|2108, 973">
-		<voisin nom="BOLIVAR" distance="0.4802466207592226" lignes="7b" />
-		<voisin nom="LOUIS BLANC" distance="0.5623371819314776" lignes="7b" />
-		<voisin nom="STALINGRAD" distance="0.5170454921962901" lignes="2,5" />
-		<voisin nom="LAUMIERE" distance="1.1014549301835599" lignes="5" />
 		<voisin nom="COLONEL FABIEN" distance="0.5448772552464384" lignes="2" />
+		<voisin nom="LOUIS BLANC" distance="0.5623371819314776" lignes="7b" />
+		<voisin nom="LAUMIERE" distance="1.1014549301835599" lignes="5" />
+		<voisin nom="STALINGRAD" distance="0.5170454921962901" lignes="2,5" />
+		<voisin nom="BOLIVAR" distance="0.4802466207592226" lignes="7b" />
 	</gare>
 	<gare nom="JAVEL" coord="785, 1633|815, 1655">
-		<voisin nom="EGLISE D'AUTEUIL" distance="0.855483058371443" lignes="10" />
 		<voisin nom="CHARLES MICHELS" distance="1.0291033420167592" lignes="10,pedestre" />
+		<voisin nom="EGLISE D'AUTEUIL" distance="0.855483058371443" lignes="10" />
 		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="1.05659032923362" lignes="RER C" />
 		<voisin nom="CHAMP DE MARS-TOUR EIFFEL" distance="1.9562970964956665" lignes="RER C" />
 	</gare>
 	<gare nom="JEAN MOULIN" coord="1141, 2339">
-		<voisin nom="DIDOT" distance="0.6213856717487176" lignes="T3A" />
 		<voisin nom="PORTE D'ORLEANS" distance="0.7647366348244937" lignes="T3A" />
+		<voisin nom="DIDOT" distance="0.6213856717487176" lignes="T3A" />
 	</gare>
 	<gare nom="JEAN ROSTAND" coord="2601, 556">
-		<voisin nom="AUGUSTE DELAUNE" distance="0.6979483936198226" lignes="T1" />
 		<voisin nom="BOBIGNY-PABLO PICASSO" distance="0.5045123002776793" lignes="T1" />
+		<voisin nom="AUGUSTE DELAUNE" distance="0.6979483936198226" lignes="T1" />
 	</gare>
 	<gare nom="JOURDAIN" coord="2355, 1148">
 		<voisin nom="PLACE DES FETES" distance="0.44699875290177205" lignes="11" />
 		<voisin nom="PYRENEES" distance="0.4763444615137447" lignes="11" />
 	</gare>
 	<gare nom="JOUY-EN-JOSAS" coord="652, 2574">
-		<voisin nom="VAUBOYEN" distance="3.198908723349465" lignes="RER C" />
 		<voisin nom="PETIT-JOUY-LES-LOGES" distance="2.0062432120847995" lignes="RER C" />
+		<voisin nom="VAUBOYEN" distance="3.198908723349465" lignes="RER C" />
 	</gare>
 	<gare nom="JULES JOFFRIN" coord="1639, 624">
 		<voisin nom="LAMARCK-CAULAINCOURT" distance="0.7248799297313994" lignes="12" />
 		<voisin nom="MARCADET-POISSONNIERS" distance="0.5843776655038435" lignes="12" />
 	</gare>
 	<gare nom="JUSSIEU" coord="1723, 1912|1723, 1923">
-		<voisin nom="SULLY-MORLAND" distance="0.9690165906955824" lignes="7" />
-		<voisin nom="CARDINAL-LEMOINE" distance="0.3710557379976225" lignes="10" />
 		<voisin nom="PLACE MONGE (JARDIN DES PLANTES)" distance="0.47257728262925836" lignes="7" />
+		<voisin nom="SULLY-MORLAND" distance="0.9690165906955824" lignes="7" />
 		<voisin nom="AUSTERLITZ" distance="1.2379919783030409" lignes="10" />
+		<voisin nom="CARDINAL-LEMOINE" distance="0.3710557379976225" lignes="10" />
 	</gare>
 	<gare nom="JUVISY" coord="2308, 2792|2453, 2799">
-		<voisin nom="VIGNEUX-SUR-SEINE" distance="4.084937548034563" lignes="RER D" />
-		<voisin nom="ATHIS-MONS" distance="3.4504007849374205" lignes="RER C" />
 		<voisin nom="SAVIGNY-SUR-ORGE" distance="3.6784663683188006" lignes="RER C" />
 		<voisin nom="VIRY-CHATILLON" distance="1.5782363059696798" lignes="RER D" />
+		<voisin nom="ATHIS-MONS" distance="3.4504007849374205" lignes="RER C" />
+		<voisin nom="VIGNEUX-SUR-SEINE" distance="4.084937548034563" lignes="RER D" />
 	</gare>
 	<gare nom="KLEBER" coord="901, 1273">
-		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.3073791028233411" lignes="6" />
 		<voisin nom="BOISSIERE" distance="0.646729458792945" lignes="6" />
+		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.3073791028233411" lignes="6" />
 	</gare>
 	<gare nom="L ILE-SAINT-DENIS" coord="1512, 223">
 		<voisin nom="GARE DE SAINT-DENIS" distance="0.9759660710809661" lignes="T1" />
 		<voisin nom="MAIRIE DE VILLENEUVE-LA-GARENNE" distance="0.5318389885538838" lignes="T1" />
 	</gare>
 	<gare nom="LA BELLE EPINE" coord="1664, 2683">
-		<voisin nom="PORTE DE THIAIS" distance="0.3948994523987573" lignes="T7" />
 		<voisin nom="PLACE DE LA LOGISTIQUE" distance="0.8369288701541912" lignes="T7" />
+		<voisin nom="PORTE DE THIAIS" distance="0.3948994523987573" lignes="T7" />
 	</gare>
 	<gare nom="LA BORNE BLANCHE" coord="1575, 182">
 		<voisin nom="ORRY-LA-VILLE-COYE" distance="2.1898987685642286" lignes="RER D" />
@@ -1127,17 +1143,17 @@
 	</gare>
 	<gare nom="LA CHAPELLE" coord="1877, 801|1877, 801">
 		<voisin nom="BARBES-ROCHECHOUART" distance="1.1016379261262181" lignes="2" />
-		<voisin nom="STALINGRAD" distance="0.6001645258404625" lignes="2" />
 		<voisin nom="GARE DU NORD" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="STALINGRAD" distance="0.6001645258404625" lignes="2" />
 	</gare>
 	<gare nom="LA COURNEUVE 8 MAI 1945" coord="2247, 368|2247, 398">
-		<voisin nom="MAURICE LACHATRE" distance="0.40238580727619433" lignes="T1" />
 		<voisin nom="FORT D'AUBERVILLIERS" distance="0.9466185558598356" lignes="7" />
+		<voisin nom="MAURICE LACHATRE" distance="0.40238580727619433" lignes="T1" />
 		<voisin nom="DANTON" distance="0.4916667759180686" lignes="T1" />
 	</gare>
 	<gare nom="LA COURNEUVE-AUBERVILLIERS" coord="2056, 374">
-		<voisin nom="LE BOURGET" distance="4.443463996145351" lignes="RER B" />
 		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="2.730478468598848" lignes="RER B" />
+		<voisin nom="LE BOURGET" distance="4.443463996145351" lignes="RER B" />
 	</gare>
 	<gare nom="LA CROIX-DE-BERNY-FRESNES" coord="1168, 2744">
 		<voisin nom="ANTONY" distance="0.8326780834203604" lignes="RER B" />
@@ -1146,11 +1162,11 @@
 	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="694, 678|710, 738">
 		<voisin nom="FAUBOURG DE L ARCHE" distance="0.6034576889727682" lignes="T2" />
 		<voisin nom="PUTEAUX" distance="1.0451201836207782" lignes="T2" />
-		<voisin nom="CHARLES DE GAULLE ETOILE" distance="6.702081565307414" lignes="RER A" />
-		<voisin nom="SAINT-GERMAIN-EN-LAYE" distance="15.84111681718807" lignes="RER A" />
-		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="28.56728568006489" lignes="RER A" />
-		<voisin nom="ESPLANADE DE LA DEFENSE" distance="1.2777442913601547" lignes="1" />
 		<voisin nom="POISSY" distance="22.286100948334347" lignes="RER A" />
+		<voisin nom="ESPLANADE DE LA DEFENSE" distance="1.2777442913601547" lignes="1" />
+		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="28.56728568006489" lignes="RER A" />
+		<voisin nom="SAINT-GERMAIN-EN-LAYE" distance="15.84111681718807" lignes="RER A" />
+		<voisin nom="CHARLES DE GAULLE ETOILE" distance="6.702081565307414" lignes="RER A" />
 	</gare>
 	<gare nom="LA FERME" coord="2459, 470">
 		<voisin nom="ESCADRILLE NORMANDIE-NIEMEN" distance="0.40883466905505483" lignes="T1" />
@@ -1161,68 +1177,72 @@
 		<voisin nom="BALLANCOURT" distance="5.578119554122005" lignes="RER D" />
 	</gare>
 	<gare nom="LA FOURCHE" coord="1287, 739">
-		<voisin nom="BROCHANT" distance="0.7297850688902946" lignes="13" />
 		<voisin nom="PLACE DE CLICHY" distance="0.4584356899574821" lignes="13" />
+		<voisin nom="BROCHANT" distance="0.7297850688902946" lignes="13" />
 		<voisin nom="GUY MOQUET" distance="0.6541471228152986" lignes="13" />
 	</gare>
+	<gare nom="LA HACQUINIERE" coord="1007, 2950">
+		<voisin nom="BURES-SUR-YVETTE" distance="1.4220466538153294" lignes="RER B" />
+		<voisin nom="GIF-SUR-YVETTE" distance="1.7095967157111982" lignes="RER B" />
+	</gare>
 	<gare nom="LA MOTTE-PICQUET-GRENELLE" coord="919, 1719|920, 1742">
-		<voisin nom="COMMERCE" distance="0.7008665724764712" lignes="8" />
 		<voisin nom="CAMBRONNE" distance="0.5585182563923615" lignes="6" />
-		<voisin nom="DUPLEIX" distance="0.5357177234117823" lignes="6" />
 		<voisin nom="SEGUR" distance="1.0444795235293522" lignes="10" />
-		<voisin nom="FELIX FAURE" distance="1.0224382427310577" lignes="8" />
 		<voisin nom="AVENUE EMILE ZOLA" distance="0.41239962859136053" lignes="10" />
+		<voisin nom="FELIX FAURE" distance="1.0224382427310577" lignes="8" />
+		<voisin nom="COMMERCE" distance="0.7008665724764712" lignes="8" />
+		<voisin nom="DUPLEIX" distance="0.5357177234117823" lignes="6" />
 	</gare>
 	<gare nom="LA MUETTE" coord="649, 1448|649, 1448">
 		<voisin nom="RANELAGH" distance="0.5328757020791287" lignes="9" />
-		<voisin nom="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" distance="0.7930727035874588" lignes="9" />
 		<voisin nom="BOULAINVILLIERS" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" distance="0.7930727035874588" lignes="9" />
 	</gare>
 	<gare nom="LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON" coord="2309, 2856">
 		<voisin nom="ARPAJON" distance="2.9427875464236237" lignes="RER C" />
 		<voisin nom="BRETIGNY" distance="4.263360423268333" lignes="RER C" />
 	</gare>
 	<gare nom="LA NOUE" coord="1421, 224">
-		<voisin nom="MAIRIE DE VILLENEUVE-LA-GARENNE" distance="0.8422235605157388" lignes="T1" />
 		<voisin nom="CHEMIN DES RENIERS" distance="0.5911963223975778" lignes="T1" />
+		<voisin nom="MAIRIE DE VILLENEUVE-LA-GARENNE" distance="0.8422235605157388" lignes="T1" />
 	</gare>
 	<gare nom="LA PLAINE-STADE DE FRANCE" coord="2012, 449|2012, 450">
 		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="LA COURNEUVE-AUBERVILLIERS" distance="2.730478468598848" lignes="RER B" />
 		<voisin nom="GARE DU NORD" distance="4.199384286748224" lignes="RER B" />
 		<voisin nom="STADE DE FRANCE-SAINT-DENIS" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="LA COURNEUVE-AUBERVILLIERS" distance="2.730478468598848" lignes="RER B" />
 	</gare>
 	<gare nom="LA TOUR MAUBOURG" coord="1043, 1528">
 		<voisin nom="INVALIDES" distance="0.685696691114523" lignes="8" />
 		<voisin nom="ECOLE MILITAIRE" distance="0.6016855743145114" lignes="8" />
 	</gare>
 	<gare nom="LAMARCK-CAULAINCOURT" coord="1576, 653">
-		<voisin nom="JULES JOFFRIN" distance="0.7248799297313994" lignes="12" />
 		<voisin nom="ABBESSES" distance="0.5721818192870329" lignes="12" />
+		<voisin nom="JULES JOFFRIN" distance="0.7248799297313994" lignes="12" />
 	</gare>
 	<gare nom="LAMARTINE" coord="1693, 2637">
 		<voisin nom="DOMAINE CHERIOUX" distance="0.4843541775647487" lignes="T7" />
 		<voisin nom="VILLEJUIF-LOUIS ARAGON" distance="0.4431634164273239" lignes="T7" />
 	</gare>
 	<gare nom="LAPLACE" coord="1308, 2503">
-		<voisin nom="GENTILLY" distance="1.0602937540097466" lignes="RER B" />
 		<voisin nom="ARCUEIL-CACHAN" distance="1.2542421010721265" lignes="RER B" />
+		<voisin nom="GENTILLY" distance="1.0602937540097466" lignes="RER B" />
 	</gare>
 	<gare nom="LARDY" coord="2343, 2861">
-		<voisin nom="BOURAY" distance="4.172301877923698" lignes="RER C" />
 		<voisin nom="CHAMARANDE" distance="4.419561096177126" lignes="RER C" />
+		<voisin nom="BOURAY" distance="4.172301877923698" lignes="RER C" />
 	</gare>
 	<gare nom="LAUMIERE" coord="2229, 958">
 		<voisin nom="JAURES" distance="1.1014549301835599" lignes="5" />
 		<voisin nom="OURCQ" distance="0.8398561037885656" lignes="5" />
 	</gare>
 	<gare nom="LE BOURGET" coord="2130, 252">
-		<voisin nom="LA COURNEUVE-AUBERVILLIERS" distance="4.443463996145351" lignes="RER B" />
 		<voisin nom="DRANCY" distance="3.232885058593989" lignes="RER B" />
+		<voisin nom="LA COURNEUVE-AUBERVILLIERS" distance="4.443463996145351" lignes="RER B" />
 	</gare>
 	<gare nom="LE BRAS-DE-FER" coord="2470, 2850">
-		<voisin nom="EVRY-COURCOURONNES" distance="2.541299379927673" lignes="RER D" />
 		<voisin nom="CORBEIL-ESSONNES" distance="2.6371704047746025" lignes="RER D" />
+		<voisin nom="EVRY-COURCOURONNES" distance="2.541299379927673" lignes="RER D" />
 	</gare>
 	<gare nom="LE CHENAY-GAGNY" coord="2819, 665">
 		<voisin nom="GAGNY" distance="3.1417437391055905" lignes="RER E" />
@@ -1232,41 +1252,45 @@
 		<voisin nom="SAINT-FARGEAU RER" distance="5.562125692570871" lignes="RER D" />
 		<voisin nom="LE PLESSIS-CHENET" distance="1.7044012228250518" lignes="RER D" />
 	</gare>
+	<gare nom="LE GUICHET" coord="1047, 2927">
+		<voisin nom="ORSAY-VILLE" distance="1.569267025613315" lignes="RER B" />
+		<voisin nom="LOZERE" distance="2.174699156943439" lignes="RER B" />
+	</gare>
 	<gare nom="LE KREMLIN-BICETRE" coord="1595, 2479">
 		<voisin nom="MAISON BLANCHE" distance="1.4324670465167335" lignes="7" />
 		<voisin nom="VILLEJUIF-LEO LAGRANGE" distance="0.63382441075326" lignes="7" />
 	</gare>
 	<gare nom="LE LUTH" coord="1040, 223">
-		<voisin nom="LES COURTILLES" distance="0.5772981294628696" lignes="T1" />
 		<voisin nom="LE VILLAGE" distance="0.6838558675792121" lignes="T1" />
+		<voisin nom="LES COURTILLES" distance="0.5772981294628696" lignes="T1" />
 	</gare>
 	<gare nom="LE MEE" coord="2681, 2848">
-		<voisin nom="CESSON" distance="4.511986460481487" lignes="RER D" />
 		<voisin nom="MELUN" distance="3.522121293201435" lignes="RER D" />
+		<voisin nom="CESSON" distance="4.511986460481487" lignes="RER D" />
 	</gare>
 	<gare nom="LE PELETIER" coord="1576, 1074">
-		<voisin nom="CADET" distance="0.4514391921071786" lignes="7" />
 		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.7785446018222454" lignes="7" />
+		<voisin nom="CADET" distance="0.4514391921071786" lignes="7" />
 	</gare>
 	<gare nom="LE PLESSIS-CHENET" coord="2517, 2893">
-		<voisin nom="LE COUDRAY-MONTCEAUX" distance="1.7044012228250518" lignes="RER D" />
 		<voisin nom="VILLABE" distance="2.8717540068081697" lignes="RER D" />
+		<voisin nom="LE COUDRAY-MONTCEAUX" distance="1.7044012228250518" lignes="RER D" />
 	</gare>
 	<gare nom="LE RAINCY-VILLEMOMBLE-MONTFERMEIL" coord="2764, 667">
-		<voisin nom="BONDY" distance="3.689395996621775" lignes="RER E" />
 		<voisin nom="GAGNY" distance="1.550723905890387" lignes="RER E" />
+		<voisin nom="BONDY" distance="3.689395996621775" lignes="RER E" />
 	</gare>
 	<gare nom="LE VERT-DE-MAISONS" coord="2282, 2495">
 		<voisin nom="MAISONS-ALFORT-ALFORTVILLE" distance="1.587726678027997" lignes="RER D" />
 		<voisin nom="CRETEIL POMPADOUR" distance="1.9956753487913326" lignes="RER D" />
 	</gare>
 	<gare nom="LE VILLAGE" coord="1096, 221">
-		<voisin nom="TIMBAUD" distance="0.7471877187869103" lignes="T1" />
 		<voisin nom="LE LUTH" distance="0.6838558675792121" lignes="T1" />
+		<voisin nom="TIMBAUD" distance="0.7471877187869103" lignes="T1" />
 	</gare>
 	<gare nom="LEDRU-ROLLIN" coord="1972, 1685">
-		<voisin nom="BASTILLE" distance="0.7738281259943098" lignes="8" />
 		<voisin nom="FAIDHERBE-CHALIGNY" distance="0.8958892697618103" lignes="8" />
+		<voisin nom="BASTILLE" distance="0.7738281259943098" lignes="8" />
 	</gare>
 	<gare nom="LES AGNETTES-ASNIERES-GENNEVILLIERS" coord="1029, 295">
 		<voisin nom="GABRIEL PERI-ASNIERES-GENNEVILLIERS" distance="1.1977014989550796" lignes="13" />
@@ -1276,21 +1300,25 @@
 		<voisin nom="CHOISY-LE-ROI" distance="2.0920111834543835" lignes="RER C" />
 		<voisin nom="VITRY-SUR-SEINE" distance="2.1107035004963857" lignes="RER C" />
 	</gare>
+	<gare nom="LES BACONNETS" coord="1113, 2841">
+		<voisin nom="FONTAINE-MICHALON" distance="1.0545950818207" lignes="RER B" />
+		<voisin nom="MASSY-VERRIERES" distance="1.6727343193567576" lignes="RER B" />
+	</gare>
 	<gare nom="LES BOULLEREAUX-CHAMPIGNY" coord="2832, 689">
-		<voisin nom="VILLIERS-SUR-MARNE-PLESSIS-TREVISE" distance="3.435846155824978" lignes="RER E" />
 		<voisin nom="NOGENT-LE-PERREUX" distance="2.5428586286482413" lignes="RER E" />
+		<voisin nom="VILLIERS-SUR-MARNE-PLESSIS-TREVISE" distance="3.435846155824978" lignes="RER E" />
 	</gare>
 	<gare nom="LES COTEAUX" coord="383, 1429">
-		<voisin nom="LES MILONS" distance="0.8506077677505358" lignes="T2" />
 		<voisin nom="SURESNES-LONGCHAMP" distance="1.2010830534732482" lignes="T2" />
+		<voisin nom="LES MILONS" distance="0.8506077677505358" lignes="T2" />
 	</gare>
 	<gare nom="LES COURTILLES" coord="959, 222|959, 223">
 		<voisin nom="LE LUTH" distance="0.5772981294628696" lignes="T1" />
 		<voisin nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" coord="973, 198|974, 198">
-		<voisin nom="LES COURTILLES" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="LES AGNETTES-ASNIERES-GENNEVILLIERS" distance="0.8829416432003799" lignes="13" />
+		<voisin nom="LES COURTILLES" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="LES FAUVELLES" coord="602, 580">
 		<voisin nom="FAUBOURG DE L ARCHE" distance="0.681562507931524" lignes="T2" />
@@ -1301,53 +1329,53 @@
 		<voisin nom="PLACE D'ITALIE" distance="0.5986648862936322" lignes="7" />
 	</gare>
 	<gare nom="LES GRESILLONS" coord="1232, 293">
-		<voisin nom="SAINT-OUEN" distance="1.942720059610136" lignes="RER C" />
 		<voisin nom="GENNEVILLIERS" distance="1.4895347084807102" lignes="RER C" />
+		<voisin nom="SAINT-OUEN" distance="1.942720059610136" lignes="RER C" />
 	</gare>
 	<gare nom="LES HALLES" coord="1721, 1450|1721, 1450">
-		<voisin nom="ETIENNE-MARCEL" distance="0.39362969031752565" lignes="4" />
 		<voisin nom="CHATELET" distance="0.4855569133176489" lignes="4" />
 		<voisin nom="CHATELET-LES HALLES" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="ETIENNE-MARCEL" distance="0.39362969031752565" lignes="4" />
 	</gare>
 	<gare nom="LES MILONS" coord="296, 1576">
 		<voisin nom="PARC DE SAINT-CLOUD" distance="0.7513464358372235" lignes="T2" />
 		<voisin nom="LES COTEAUX" distance="0.8506077677505358" lignes="T2" />
 	</gare>
 	<gare nom="LES MOULINEAUX" coord="487, 1971">
-		<voisin nom="JACQUES-HENRI LARTIGUE" distance="1.0864466367493606" lignes="T2" />
 		<voisin nom="MEUDON-SUR-SEINE" distance="1.4417234264199315" lignes="T2" />
+		<voisin nom="JACQUES-HENRI LARTIGUE" distance="1.0864466367493606" lignes="T2" />
 	</gare>
 	<gare nom="LES NOUES" coord="1591, 210">
 		<voisin nom="GOUSSAINVILLE" distance="2.0882674194015247" lignes="RER D" />
 		<voisin nom="LOUVRES" distance="3.193454537460819" lignes="RER D" />
 	</gare>
 	<gare nom="LES SABLONS (JARDIN D'ACCLIMATATION)" coord="813, 896">
-		<voisin nom="PORTE MAILLOT" distance="1.4649571048078627" lignes="1" />
 		<voisin nom="PONT DE NEUILLY (AVENUE DE MADRID)" distance="1.3036901133525252" lignes="1" />
+		<voisin nom="PORTE MAILLOT" distance="1.4649571048078627" lignes="1" />
 	</gare>
 	<gare nom="LES SAULES" coord="2111, 2694">
-		<voisin nom="CHOISY-LE-ROI" distance="2.1906061622372386" lignes="RER C" />
 		<voisin nom="ORLY VILLE" distance="1.6649672286038946" lignes="RER C" />
+		<voisin nom="CHOISY-LE-ROI" distance="2.1906061622372386" lignes="RER C" />
 	</gare>
 	<gare nom="LES YVRIS-NOISY-LE-GRAND" coord="2864, 690">
-		<voisin nom="VILLIERS-SUR-MARNE-PLESSIS-TREVISE" distance="4.136369209596741" lignes="RER E" />
 		<voisin nom="EMERAINVILLE-PONTAULT-COMBAULT" distance="4.809170931278256" lignes="RER E" />
+		<voisin nom="VILLIERS-SUR-MARNE-PLESSIS-TREVISE" distance="4.136369209596741" lignes="RER E" />
 	</gare>
 	<gare nom="LIBERATION" coord="2493, 490">
-		<voisin nom="HOTEL DE VILLE - MAISON DE LA CULTURE" distance="0.59916001969406" lignes="T1" />
 		<voisin nom="LA FERME" distance="0.3294043141692188" lignes="T1" />
+		<voisin nom="HOTEL DE VILLE - MAISON DE LA CULTURE" distance="0.59916001969406" lignes="T1" />
 	</gare>
 	<gare nom="LIBERTE" coord="2288, 2234">
-		<voisin nom="CHARENTON-ECOLES" distance="0.9232383955630453" lignes="8" />
 		<voisin nom="PORTE DE CHARENTON" distance="1.1440841794012175" lignes="8" />
+		<voisin nom="CHARENTON-ECOLES" distance="0.9232383955630453" lignes="8" />
 	</gare>
 	<gare nom="LIEGE" coord="1365, 876">
-		<voisin nom="SAINT-LAZARE" distance="0.5292678550255328" lignes="13" />
 		<voisin nom="PLACE DE CLICHY" distance="0.4519651563853218" lignes="13" />
+		<voisin nom="SAINT-LAZARE" distance="0.5292678550255328" lignes="13" />
 	</gare>
 	<gare nom="LIEUSAINT-MOISSY" coord="2640, 2795">
-		<voisin nom="SAVIGNY-LE-TEMPLE-NANDY" distance="3.983871870044321" lignes="RER D" />
 		<voisin nom="COMBS-LA-VILLE-QUINCY" distance="5.033791869781199" lignes="RER D" />
+		<voisin nom="SAVIGNY-LE-TEMPLE-NANDY" distance="3.983871870044321" lignes="RER D" />
 	</gare>
 	<gare nom="LONGJUMEAU" coord="1477, 2884">
 		<voisin nom="CHILLY-MAZARIN" distance="1.488833136634403" lignes="RER C" />
@@ -1355,43 +1383,47 @@
 	</gare>
 	<gare nom="LOUIS BLANC" coord="2017, 966|2028, 967">
 		<voisin nom="JAURES" distance="0.5623371819314776" lignes="7b" />
-		<voisin nom="CHATEAU-LANDON" distance="0.4643840619986508" lignes="7" />
 		<voisin nom="STALINGRAD" distance="0.3280815785620994" lignes="7" />
+		<voisin nom="CHATEAU-LANDON" distance="0.4643840619986508" lignes="7" />
 	</gare>
 	<gare nom="LOUISE MICHEL" coord="988, 622">
 		<voisin nom="PORTE DE CHAMPERRET" distance="0.5964652823286221" lignes="3" />
 		<voisin nom="ANATOLE FRANCE" distance="0.5081180166504264" lignes="3" />
 	</gare>
 	<gare nom="LOURMEL" coord="802, 1946">
-		<voisin nom="BALARD" distance="0.5997368423922744" lignes="8" />
 		<voisin nom="BOUCICAUT" distance="0.6303154186382481" lignes="8" />
+		<voisin nom="BALARD" distance="0.5997368423922744" lignes="8" />
 	</gare>
 	<gare nom="LOUVRE-RIVOLI" coord="1559, 1518">
-		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.5219186181120502" lignes="1" />
 		<voisin nom="CHATELET" distance="0.7676088196339472" lignes="1" />
+		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.5219186181120502" lignes="1" />
 	</gare>
 	<gare nom="LOUVRES" coord="1585, 201">
 		<voisin nom="SURVILLIERS-FOSSES" distance="6.184525986464617" lignes="RER D" />
 		<voisin nom="LES NOUES" distance="3.193454537460819" lignes="RER D" />
+	</gare>
+	<gare nom="LOZERE" coord="1057, 2918">
+		<voisin nom="LE GUICHET" distance="2.174699156943439" lignes="RER B" />
+		<voisin nom="PALAISEAU-VILLEBON" distance="2.7992165668386284" lignes="RER B" />
 	</gare>
 	<gare nom="LUXEMBOURG" coord="1512, 1911">
 		<voisin nom="PORT ROYAL" distance="0.7089528165419349" lignes="RER B" />
 		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="1.0841418954594721" lignes="RER B" />
 	</gare>
 	<gare nom="MABILLON" coord="1456, 1789">
-		<voisin nom="SEVRES-BABYLONE" distance="0.976222757801733" lignes="10" />
 		<voisin nom="ODEON" distance="0.47091620094277065" lignes="10" />
+		<voisin nom="SEVRES-BABYLONE" distance="0.976222757801733" lignes="10" />
 	</gare>
 	<gare nom="MADELEINE" coord="1292, 1300|1292, 1324">
+		<voisin nom="CONCORDE" distance="0.5768942673895434" lignes="12,8" />
 		<voisin nom="PYRAMIDES" distance="1.087898752494706" lignes="14" />
 		<voisin nom="OPERA" distance="0.74107718382362" lignes="8" />
-		<voisin nom="CONCORDE" distance="0.5768942673895434" lignes="8,12" />
 		<voisin nom="SAINT-LAZARE" distance="0.5909618800946986" lignes="14,12" />
 	</gare>
 	<gare nom="MAGENTA" coord="1822, 991|1822, 991">
 		<voisin nom="HAUSSMANN-SAINT-LAZARE" distance="3.6344825013985966" lignes="RER E" />
-		<voisin nom="GARE DU NORD" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="ROSA PARKS" distance="2.443302127303336" lignes="RER E" />
+		<voisin nom="GARE DU NORD" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="MAIRIE D'ISSY" coord="646, 2152">
 		<voisin nom="CORENTIN-CELTON" distance="0.7827888007301458" lignes="12" />
@@ -1414,32 +1446,32 @@
 		<voisin nom="GARIBALDI" distance="0.6933586990685603" lignes="13" />
 	</gare>
 	<gare nom="MAIRIE DE VILLENEUVE-LA-GARENNE" coord="1465, 223">
-		<voisin nom="L ILE-SAINT-DENIS" distance="0.5318389885538838" lignes="T1" />
 		<voisin nom="LA NOUE" distance="0.8422235605157388" lignes="T1" />
+		<voisin nom="L ILE-SAINT-DENIS" distance="0.5318389885538838" lignes="T1" />
 	</gare>
 	<gare nom="MAIRIE DES LILAS" coord="2651, 1148">
 		<voisin nom="PORTE DES LILAS" distance="1.1097198799483396" lignes="11" />
 	</gare>
 	<gare nom="MAISON BLANCHE" coord="1512, 2289">
+		<voisin nom="PORTE D'ITALIE" distance="0.4193302761427581" lignes="7" />
 		<voisin nom="LE KREMLIN-BICETRE" distance="1.4324670465167335" lignes="7" />
 		<voisin nom="TOLBIAC" distance="0.46417937855804225" lignes="7" />
-		<voisin nom="PORTE D'ITALIE" distance="0.4193302761427581" lignes="7" />
 	</gare>
 	<gare nom="MAISONS-ALFORT-ALFORTVILLE" coord="2222, 2391">
-		<voisin nom="GARE DE LYON" distance="7.550946732138042" lignes="RER D" />
 		<voisin nom="LE VERT-DE-MAISONS" distance="1.587726678027997" lignes="RER D" />
+		<voisin nom="GARE DE LYON" distance="7.550946732138042" lignes="RER D" />
 	</gare>
 	<gare nom="MAISONS-ALFORT-LES JUILLIOTTES" coord="2383, 2398">
-		<voisin nom="CRETEIL-L'ECHAT (HOPITAL MONDOR)" distance="0.7126947681323532" lignes="8" />
 		<voisin nom="CRETEIL-UNIVERSITE" distance="1.4616291115694933" lignes="8" />
+		<voisin nom="CRETEIL-L'ECHAT (HOPITAL MONDOR)" distance="0.7126947681323532" lignes="8" />
 	</gare>
 	<gare nom="MAISONS-ALFORT-STADE" coord="2359, 2357">
-		<voisin nom="MAISONS-ALFORT-LES JUILLIOTTES" distance="1.5602866293612165" lignes="8" />
 		<voisin nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" distance="1.4901466326493267" lignes="8" />
+		<voisin nom="MAISONS-ALFORT-LES JUILLIOTTES" distance="1.5602866293612165" lignes="8" />
 	</gare>
 	<gare nom="MAISSE" coord="2456, 2921">
-		<voisin nom="BUNO-GIRONVILLE" distance="2.570057819740068" lignes="RER D" />
 		<voisin nom="BOUTIGNY-SUR-ESSONNE" distance="4.910582414087924" lignes="RER D" />
+		<voisin nom="BUNO-GIRONVILLE" distance="2.570057819740068" lignes="RER D" />
 	</gare>
 	<gare nom="MALAKOFF-PLATEAU DE VANVES" coord="993, 2326">
 		<voisin nom="MALAKOFF-RUE ÉTIENNE DOLET" distance="0.8239125184755068" lignes="13" />
@@ -1462,17 +1494,17 @@
 	</gare>
 	<gare nom="MARCADET-POISSONNIERS" coord="1687, 617|1699, 623">
 		<voisin nom="MARX DORMOY" distance="1.1384925558134418" lignes="12" />
-		<voisin nom="JULES JOFFRIN" distance="0.5843776655038435" lignes="12" />
 		<voisin nom="SIMPLON" distance="0.3576889722954373" lignes="4" />
+		<voisin nom="JULES JOFFRIN" distance="0.5843776655038435" lignes="12" />
 		<voisin nom="CHATEAU ROUGE" distance="0.45512444235605026" lignes="4" />
 	</gare>
 	<gare nom="MARCEL SEMBAT" coord="438, 1813">
-		<voisin nom="BILLANCOURT" distance="0.6056798992128674" lignes="9" />
 		<voisin nom="PORTE DE SAINT-CLOUD" distance="1.5523247066168973" lignes="9" />
+		<voisin nom="BILLANCOURT" distance="0.6056798992128674" lignes="9" />
 	</gare>
 	<gare nom="MARCHE DE SAINT-DENIS" coord="1776, 227|1778, 232">
-		<voisin nom="THEATRE GERARD PHILIPE" distance="0.6784021077038127" lignes="T1" />
 		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="0.501860713259446" lignes="T1,pedestre" />
+		<voisin nom="THEATRE GERARD PHILIPE" distance="0.6784021077038127" lignes="T1" />
 	</gare>
 	<gare nom="MARIE DE MIRIBEL" coord="2572, 1596">
 		<voisin nom="PORTE DE MONTREUIL" distance="0.6465851978012861" lignes="T3B" />
@@ -1490,53 +1522,53 @@
 		<voisin nom="AVENUE DE FRANCE" distance="0.42191315695024556" lignes="T3A" />
 		<voisin nom="PORTE D'IVRY" distance="0.9806699696913449" lignes="T3A" />
 	</gare>
-	<gare nom="MASSY-PALAISEAU" coord="1115, 2836|1319, 2860">
-		<voisin nom="ANTONY" distance="5.787395921511515" lignes="RER B" />
+	<gare nom="MASSY-PALAISEAU" coord="1086, 2860|1319, 2884">
+		<voisin nom="PALAISEAU" distance="1.6913979986621697" lignes="RER B" />
+		<voisin nom="MASSY-VERRIERES" distance="1.9878679793387275" lignes="RER C,RER B" />
 		<voisin nom="IGNY" distance="3.582748933691625" lignes="RER C" />
-		<voisin nom="MASSY-VERRIERES" distance="1.9878679793387275" lignes="RER C" />
-		<voisin nom="SAINT-REMY-LES-CHEVREUSE" distance="21.0344486940553" lignes="RER B" />
 	</gare>
-	<gare nom="MASSY-VERRIERES" coord="1348, 2813">
-		<voisin nom="LONGJUMEAU" distance="4.307386432468327" lignes="RER C" />
+	<gare nom="MASSY-VERRIERES" coord="1098, 2813|1348, 2867">
 		<voisin nom="CHEMIN D'ANTONY" distance="4.607913705076098" lignes="RER C" />
-		<voisin nom="MASSY-PALAISEAU" distance="1.9878679793387275" lignes="RER C" />
+		<voisin nom="LES BACONNETS" distance="1.6727343193567576" lignes="RER B" />
+		<voisin nom="LONGJUMEAU" distance="4.307386432468327" lignes="RER C" />
+		<voisin nom="MASSY-PALAISEAU" distance="1.9878679793387275" lignes="RER C,RER B" />
 	</gare>
 	<gare nom="MAUBERT-MUTUALITE" coord="1591, 1832">
 		<voisin nom="CLUNY-LA-SORBONNE" distance="0.4332312414465248" lignes="10" />
 		<voisin nom="CARDINAL-LEMOINE" distance="0.5539355568248165" lignes="10" />
 	</gare>
 	<gare nom="MAURICE LACHATRE" coord="2280, 383">
-		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.40238580727619433" lignes="T1" />
 		<voisin nom="DRANCY-AVENIR" distance="0.4562203616498537" lignes="T1" />
+		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.40238580727619433" lignes="T1" />
 	</gare>
 	<gare nom="MELUN" coord="2689, 2863">
-		<voisin nom="VOSVES" distance="6.343100202341966" lignes="RER D" />
 		<voisin nom="LE MEE" distance="3.522121293201435" lignes="RER D" />
+		<voisin nom="VOSVES" distance="6.343100202341966" lignes="RER D" />
 	</gare>
 	<gare nom="MENILMONTANT" coord="2297, 1346">
 		<voisin nom="PERE LACHAISE" distance="0.4946094358785079" lignes="2" />
 		<voisin nom="COURONNES" distance="0.40611898770204413" lignes="2" />
 	</gare>
 	<gare nom="MENNECY" coord="2492, 2893">
-		<voisin nom="MOULIN-GALANT" distance="4.9620499290032605" lignes="RER D" />
 		<voisin nom="BALLANCOURT" distance="8.117799072874591" lignes="RER D" />
+		<voisin nom="MOULIN-GALANT" distance="4.9620499290032605" lignes="RER D" />
 	</gare>
 	<gare nom="MEUDON-SUR-SEINE" coord="389, 1955">
-		<voisin nom="BRIMBORION" distance="0.8817829872694144" lignes="T2" />
 		<voisin nom="LES MOULINEAUX" distance="1.4417234264199315" lignes="T2" />
+		<voisin nom="BRIMBORION" distance="0.8817829872694144" lignes="T2" />
 	</gare>
 	<gare nom="MEUDON-VAL-FLEURY" coord="489, 2196">
-		<voisin nom="ISSY" distance="2.407553767011187" lignes="RER C" />
 		<voisin nom="CHAVILLE-VELIZY" distance="6.425659150277346" lignes="RER C" />
+		<voisin nom="ISSY" distance="2.407553767011187" lignes="RER C" />
 	</gare>
 	<gare nom="MICHEL BIZOT" coord="2173, 2034">
-		<voisin nom="PORTE DOREE" distance="0.4272512039011221" lignes="8" />
 		<voisin nom="DAUMESNIL" distance="0.7319879407503421" lignes="8" />
+		<voisin nom="PORTE DOREE" distance="0.4272512039011221" lignes="8" />
 	</gare>
 	<gare nom="MICHEL-ANGE-AUTEUIL" coord="531, 1634|542, 1638">
-		<voisin nom="MICHEL-ANGE-MOLITOR" distance="0.4157081140366649" lignes="9" />
-		<voisin nom="JASMIN" distance="0.6726428567541197" lignes="9" />
 		<voisin nom="PORTE D'AUTEUIL" distance="0.7207047304941147" lignes="10" />
+		<voisin nom="JASMIN" distance="0.6726428567541197" lignes="9" />
+		<voisin nom="MICHEL-ANGE-MOLITOR" distance="0.4157081140366649" lignes="9" />
 	</gare>
 	<gare nom="MICHEL-ANGE-MOLITOR" coord="504, 1700|510, 1710">
 		<voisin nom="EXELMANS" distance="0.3119441632392116" lignes="9" />
@@ -1547,10 +1579,10 @@
 		<voisin nom="JAVEL" distance="0.457058415652574" lignes="10" />
 	</gare>
 	<gare nom="MIROMESNIL" coord="1231, 1160|1236, 1169">
+		<voisin nom="SAINT-PHILIPPE-DU-ROULE" distance="0.5141114769403066" lignes="9" />
+		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="0.6888869461512018" lignes="13" />
 		<voisin nom="SAINT-AUGUSTIN" distance="0.7737456925400363" lignes="9" />
 		<voisin nom="SAINT-LAZARE" distance="1.1132609471887156" lignes="13" />
-		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="0.6888869461512018" lignes="13" />
-		<voisin nom="SAINT-PHILIPPE-DU-ROULE" distance="0.5141114769403066" lignes="9" />
 	</gare>
 	<gare nom="MITRY-CLAYE" coord="2786, 362">
 		<voisin nom="VILLEPARISIS-MITRY-LE-NEUF" distance="5.048669964742313" lignes="RER B" />
@@ -1576,50 +1608,50 @@
 		<voisin nom="FRANCONVILLE-LE-PLESSIS-BOUCHARD" distance="4.35625311847048" lignes="RER C" />
 	</gare>
 	<gare nom="MONTPARNASSE" coord="1142, 1957|1255, 2030">
-		<voisin nom="DUROC" distance="0.7307189293278293" lignes="13" />
 		<voisin nom="NOTRE-DAME-DES-CHAMPS" distance="0.9150016495754854" lignes="12" />
-		<voisin nom="EDGAR QUINET" distance="0.628956190035156" lignes="6" />
+		<voisin nom="DUROC" distance="0.7307189293278293" lignes="13" />
+		<voisin nom="SAINT-PLACIDE" distance="0.8211124397394136" lignes="4" />
+		<voisin nom="GAITE" distance="0.4439854570073834" lignes="13" />
 		<voisin nom="VAVIN" distance="0.8933199862531167" lignes="4" />
 		<voisin nom="FALGUIERE" distance="0.42233114005052025" lignes="12" />
 		<voisin nom="PASTEUR" distance="0.9105394604628723" lignes="6" />
-		<voisin nom="GAITE" distance="0.4439854570073834" lignes="13" />
-		<voisin nom="SAINT-PLACIDE" distance="0.8211124397394136" lignes="4" />
+		<voisin nom="EDGAR QUINET" distance="0.628956190035156" lignes="6" />
 	</gare>
 	<gare nom="MONTSOURIS" coord="1288, 2400">
-		<voisin nom="CITE UNIVERSITAIRE" distance="0.6294203630207341" lignes="T3A" />
 		<voisin nom="PORTE D'ORLEANS" distance="0.8898395706323893" lignes="T3A" />
+		<voisin nom="CITE UNIVERSITAIRE" distance="0.6294203630207341" lignes="T3A" />
 	</gare>
 	<gare nom="MOULIN VERT" coord="1681, 2657">
-		<voisin nom="DOMAINE CHERIOUX" distance="0.7889711259215125" lignes="T7" />
 		<voisin nom="BRETAGNE" distance="0.421946607838478" lignes="T7" />
+		<voisin nom="DOMAINE CHERIOUX" distance="0.7889711259215125" lignes="T7" />
 	</gare>
 	<gare nom="MOULIN-GALANT" coord="2516, 2876">
 		<voisin nom="CORBEIL-ESSONNES" distance="2.9227418843861637" lignes="RER D" />
 		<voisin nom="MENNECY" distance="4.9620499290032605" lignes="RER D" />
 	</gare>
 	<gare nom="MOUTON-DUVERNET" coord="1313, 2257">
-		<voisin nom="DENFERT-ROCHEREAU" distance="0.4978754871380969" lignes="4" />
 		<voisin nom="ALESIA" distance="0.430997419891832" lignes="4" />
+		<voisin nom="DENFERT-ROCHEREAU" distance="0.4978754871380969" lignes="4" />
 	</gare>
 	<gare nom="MUSEE D'ORSAY" coord="1338, 1581|1338, 1581">
-		<voisin nom="SOLFERINO" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="INVALIDES" distance="1.3261048818033585" lignes="RER C" />
 		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="2.4159711942059854" lignes="RER C" />
+		<voisin nom="SOLFERINO" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="MUSEE DE SEVRES" coord="295, 1889|296, 1890">
-		<voisin nom="BRIMBORION" distance="1.0015880920453393" lignes="T2" />
-		<voisin nom="PONT DE SEVRES" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="PARC DE SAINT-CLOUD" distance="1.6165614737658258" lignes="T2" />
+		<voisin nom="PONT DE SEVRES" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="BRIMBORION" distance="1.0015880920453393" lignes="T2" />
 	</gare>
 	<gare nom="NATION" coord="2241, 1711|2279, 1754">
+		<voisin nom="PICPUS" distance="0.7034939869755849" lignes="6" />
+		<voisin nom="VINCENNES" distance="4.173102211761431" lignes="RER A" />
 		<voisin nom="AVRON" distance="0.45680499167244587" lignes="2" />
-		<voisin nom="GARE DE LYON" distance="2.5527847314554535" lignes="RER A" />
+		<voisin nom="RUE DES BOULETS" distance="0.848862388747213" lignes="9" />
+		<voisin nom="PORTE DE VINCENNES" distance="1.5426766120484594" lignes="1" />
 		<voisin nom="BUZENVAL" distance="0.7021489103108459" lignes="9" />
 		<voisin nom="REUILLY-DIDEROT" distance="0.9871553199519724" lignes="1" />
-		<voisin nom="VINCENNES" distance="4.173102211761431" lignes="RER A" />
-		<voisin nom="RUE DES BOULETS" distance="0.848862388747213" lignes="9" />
-		<voisin nom="PICPUS" distance="0.7034939869755849" lignes="6" />
-		<voisin nom="PORTE DE VINCENNES" distance="1.5426766120484594" lignes="1" />
+		<voisin nom="GARE DE LYON" distance="2.5527847314554535" lignes="RER A" />
 	</gare>
 	<gare nom="NATIONALE" coord="1721, 2158">
 		<voisin nom="CHEVALERET" distance="0.6174311565007109" lignes="6" />
@@ -1630,72 +1662,84 @@
 		<voisin nom="LES BOULLEREAUX-CHAMPIGNY" distance="2.5428586286482413" lignes="RER E" />
 	</gare>
 	<gare nom="NOISY-LE-SEC" coord="2716, 657|2739, 676">
-		<voisin nom="BONDY" distance="2.4035674079024107" lignes="RER E" />
-		<voisin nom="PETIT NOISY" distance="0.894141390316188" lignes="T1" />
 		<voisin nom="PANTIN" distance="6.458761363668077" lignes="RER E" />
 		<voisin nom="ROSNY-BOIS-PERRIER" distance="3.022400890677801" lignes="RER E" />
+		<voisin nom="PETIT NOISY" distance="0.894141390316188" lignes="T1" />
+		<voisin nom="BONDY" distance="2.4035674079024107" lignes="RER E" />
 	</gare>
 	<gare nom="NOTRE-DAME-DE-LORETTE" coord="1446, 877">
-		<voisin nom="TRINITE-D'ESTIENNE D'ORVES" distance="0.5957159371305603" lignes="12" />
 		<voisin nom="SAINT-GEORGES" distance="0.26880289963758985" lignes="12" />
+		<voisin nom="TRINITE-D'ESTIENNE D'ORVES" distance="0.5957159371305603" lignes="12" />
 	</gare>
 	<gare nom="NOTRE-DAME-DES-CHAMPS" coord="1321, 1949">
-		<voisin nom="MONTPARNASSE" distance="0.9150016495754854" lignes="12" />
 		<voisin nom="RENNES" distance="0.40640253033598284" lignes="12" />
+		<voisin nom="MONTPARNASSE" distance="0.9150016495754854" lignes="12" />
 	</gare>
 	<gare nom="OBERKAMPF" coord="2085, 1395|2096, 1396">
-		<voisin nom="SAINT-AMBROISE" distance="0.8075775371908392" lignes="9" />
-		<voisin nom="REPUBLIQUE" distance="0.5376397553977783" lignes="9,5" />
 		<voisin nom="RICHARD LENOIR" distance="0.6604626266901703" lignes="5" />
+		<voisin nom="REPUBLIQUE" distance="0.5376397553977783" lignes="5,9" />
+		<voisin nom="SAINT-AMBROISE" distance="0.8075775371908392" lignes="9" />
 	</gare>
 	<gare nom="ODEON" coord="1496, 1778|1497, 1793">
-		<voisin nom="CLUNY-LA-SORBONNE" distance="0.5298477406812769" lignes="10" />
-		<voisin nom="SAINT-GERMAIN-DES-PRES" distance="0.6758745554793487" lignes="4" />
 		<voisin nom="SAINT-MICHEL" distance="0.4201743621263969" lignes="4" />
+		<voisin nom="CLUNY-LA-SORBONNE" distance="0.5298477406812769" lignes="10" />
 		<voisin nom="MABILLON" distance="0.47091620094277065" lignes="10" />
+		<voisin nom="SAINT-GERMAIN-DES-PRES" distance="0.6758745554793487" lignes="4" />
 	</gare>
 	<gare nom="OLYMPIADES" coord="1736, 2262">
 		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="1.0069466697620792" lignes="14" />
 	</gare>
 	<gare nom="OPERA" coord="1446, 1277|1466, 1289">
+		<voisin nom="MADELEINE" distance="0.74107718382362" lignes="8" />
 		<voisin nom="PYRAMIDES" distance="0.5449834097084085" lignes="7" />
-		<voisin nom="RICHELIEU-DROUOT" distance="0.7513275425499268" lignes="8" />
 		<voisin nom="QUATRE SEPTEMBRE" distance="0.43597415648678567" lignes="3" />
 		<voisin nom="HAVRE-CAUMARTIN" distance="0.6376125264060309" lignes="3" />
-		<voisin nom="MADELEINE" distance="0.74107718382362" lignes="8" />
-		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.29757553511449575" lignes="7" />
 		<voisin nom="AUBER" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="RICHELIEU-DROUOT" distance="0.7513275425499268" lignes="8" />
+		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.29757553511449575" lignes="7" />
 	</gare>
 	<gare nom="ORANGIS-BOIS DE L'EPINE" coord="2457, 2832">
-		<voisin nom="EVRY-COURCOURONNES" distance="2.5990031512923037" lignes="RER D" />
 		<voisin nom="GRIGNY-CENTRE" distance="2.3479565717293474" lignes="RER D" />
+		<voisin nom="EVRY-COURCOURONNES" distance="2.5990031512923037" lignes="RER D" />
 	</gare>
 	<gare nom="ORLY VILLE" coord="2009, 2694">
-		<voisin nom="LES SAULES" distance="1.6649672286038946" lignes="RER C" />
 		<voisin nom="PONT DE RUNGIS" distance="3.3941350819975664" lignes="RER C" />
+		<voisin nom="LES SAULES" distance="1.6649672286038946" lignes="RER C" />
 	</gare>
 	<gare nom="ORRY-LA-VILLE-COYE" coord="1569, 173">
 		<voisin nom="CHANTILLY-GOUVIEUX" distance="6.434523567350733" lignes="RER D" />
 		<voisin nom="LA BORNE BLANCHE" distance="2.1898987685642286" lignes="RER D" />
 	</gare>
+	<gare nom="ORSAY-VILLE" coord="1031, 2937">
+		<voisin nom="LE GUICHET" distance="1.569267025613315" lignes="RER B" />
+		<voisin nom="BURES-SUR-YVETTE" distance="1.8616101812427817" lignes="RER B" />
+	</gare>
 	<gare nom="OURCQ" coord="2348, 936">
-		<voisin nom="LAUMIERE" distance="0.8398561037885656" lignes="5" />
 		<voisin nom="PORTE DE PANTIN" distance="0.9929177238039926" lignes="5" />
+		<voisin nom="LAUMIERE" distance="0.8398561037885656" lignes="5" />
 	</gare>
 	<gare nom="OZOIR-LA-FERRIERE" coord="2904, 690">
 		<voisin nom="GRETZ-ARMAINVILLIERS" distance="4.92546912109668" lignes="RER E" />
 		<voisin nom="ROISSY-EN-BRIE" distance="5.229285236467176" lignes="RER E" />
 	</gare>
 	<gare nom="PALAIS ROYAL-MUSEE DU LOUVRE" coord="1490, 1506|1490, 1518">
-		<voisin nom="TUILERIES" distance="0.7698871118377809" lignes="1" />
-		<voisin nom="PYRAMIDES" distance="0.45087153577361194" lignes="7" />
 		<voisin nom="PONT-NEUF (LA MONNAIE)" distance="0.7625310855223442" lignes="7" />
+		<voisin nom="TUILERIES" distance="0.7698871118377809" lignes="1" />
 		<voisin nom="LOUVRE-RIVOLI" distance="0.5219186181120502" lignes="1" />
+		<voisin nom="PYRAMIDES" distance="0.45087153577361194" lignes="7" />
+	</gare>
+	<gare nom="PALAISEAU" coord="1077, 2895">
+		<voisin nom="MASSY-PALAISEAU" distance="1.6913979986621697" lignes="RER B" />
+		<voisin nom="PALAISEAU-VILLEBON" distance="1.350964091653999" lignes="RER B" />
+	</gare>
+	<gare nom="PALAISEAU-VILLEBON" coord="1068, 2907">
+		<voisin nom="PALAISEAU" distance="1.350964091653999" lignes="RER B" />
+		<voisin nom="LOZERE" distance="2.7992165668386284" lignes="RER B" />
 	</gare>
 	<gare nom="PANTIN" coord="2274, 675|2275, 675">
 		<voisin nom="NOISY-LE-SEC" distance="6.458761363668077" lignes="RER E" />
-		<voisin nom="ELLA FITZGERALD" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="ROSA PARKS" distance="2.9252607011409038" lignes="RER E" />
+		<voisin nom="ELLA FITZGERALD" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="PARC DE SAINT-CLOUD" coord="241, 1710|241, 1710">
 		<voisin nom="LES MILONS" distance="0.7513464358372235" lignes="T2" />
@@ -1707,46 +1751,46 @@
 		<voisin nom="GARE DE GENNEVILLIERS" distance="0.6748368925558729" lignes="T1" />
 	</gare>
 	<gare nom="PARC DES EXPOSITIONS" coord="2582, 226">
-		<voisin nom="AEROPORT CHARLES DE GAULLE 1" distance="6.599298961557208" lignes="RER B" />
 		<voisin nom="VILLEPINTE" distance="1.2068916912591818" lignes="RER B" />
+		<voisin nom="AEROPORT CHARLES DE GAULLE 1" distance="6.599298961557208" lignes="RER B" />
 	</gare>
 	<gare nom="PARC PIERRE LAGRAVERE" coord="419, 556">
-		<voisin nom="VICTOR BASCH" distance="0.6553270468717124" lignes="T2" />
 		<voisin nom="PONT DE BEZONS" distance="1.0276072509729102" lignes="T2" />
+		<voisin nom="VICTOR BASCH" distance="0.6553270468717124" lignes="T2" />
 	</gare>
 	<gare nom="PARC-DE-SCEAUX" coord="1191, 2705">
 		<voisin nom="LA CROIX-DE-BERNY-FRESNES" distance="1.2047006518531092" lignes="RER B" />
 		<voisin nom="BOURG-LA-REINE" distance="1.0922511207303678" lignes="RER B" />
 	</gare>
 	<gare nom="PARMENTIER" coord="2179, 1254">
-		<voisin nom="SAINT-MAUR" distance="0.7040365469389543" lignes="3" />
 		<voisin nom="REPUBLIQUE" distance="1.167153017434547" lignes="3" />
+		<voisin nom="SAINT-MAUR" distance="0.7040365469389543" lignes="3" />
 	</gare>
 	<gare nom="PASSY" coord="874, 1433">
-		<voisin nom="TROCADERO" distance="0.7131198011389025" lignes="6" />
 		<voisin nom="BIR-HAKEIM (GRENELLE)" distance="0.5530030177851432" lignes="6" />
+		<voisin nom="TROCADERO" distance="0.7131198011389025" lignes="6" />
 	</gare>
 	<gare nom="PASTEUR" coord="1056, 1948|1062, 1958">
-		<voisin nom="MONTPARNASSE" distance="0.9105394604628723" lignes="6" />
-		<voisin nom="VOLONTAIRES" distance="0.5569215103752672" lignes="12" />
 		<voisin nom="FALGUIERE" distance="0.5954546950331941" lignes="12" />
+		<voisin nom="VOLONTAIRES" distance="0.5569215103752672" lignes="12" />
 		<voisin nom="SEVRES-LECOURBE" distance="0.49101905686214836" lignes="6" />
+		<voisin nom="MONTPARNASSE" distance="0.9105394604628723" lignes="6" />
 	</gare>
 	<gare nom="PELLEPORT" coord="2465, 1344">
 		<voisin nom="GAMBETTA" distance="0.48568295227611147" lignes="3b" />
 		<voisin nom="SAINT-FARGEAU METRO" distance="0.5233550717804755" lignes="3b" />
 	</gare>
 	<gare nom="PERE LACHAISE" coord="2307, 1433|2314, 1444">
+		<voisin nom="PHILIPPE AUGUSTE" distance="0.6720729373759372" lignes="2" />
 		<voisin nom="GAMBETTA" distance="1.4720844106066895" lignes="3" />
 		<voisin nom="MENILMONTANT" distance="0.4946094358785079" lignes="2" />
-		<voisin nom="PHILIPPE AUGUSTE" distance="0.6720729373759372" lignes="2" />
 		<voisin nom="SAINT-MAUR" distance="0.5760525301121179" lignes="3" />
 	</gare>
 	<gare nom="PEREIRE-LEVALLOIS" coord="1010, 726|1048, 726">
-		<voisin nom="WAGRAM" distance="0.7602793794615426" lignes="3" />
 		<voisin nom="PORTE DE CHAMPERRET" distance="0.6083406354197045" lignes="3" />
-		<voisin nom="PORTE MAILLOT" distance="1.728553772513368" lignes="RER C" />
+		<voisin nom="WAGRAM" distance="0.7602793794615426" lignes="3" />
 		<voisin nom="PORTE-DE-CLICHY" distance="2.184945414400704" lignes="RER C" />
+		<voisin nom="PORTE MAILLOT" distance="1.728553772513368" lignes="RER C" />
 	</gare>
 	<gare nom="PERNETY" coord="1085, 2166">
 		<voisin nom="PLAISANCE" distance="0.49904908473989823" lignes="13" />
@@ -1757,16 +1801,16 @@
 		<voisin nom="PONT DE BONDY" distance="0.6923729233364677" lignes="T1" />
 	</gare>
 	<gare nom="PETIT-JOUY-LES-LOGES" coord="515, 2550">
-		<voisin nom="JOUY-EN-JOSAS" distance="2.0062432120847995" lignes="RER C" />
 		<voisin nom="VERSAILLES-CHANTIERS" distance="3.014156857696212" lignes="RER C" />
+		<voisin nom="JOUY-EN-JOSAS" distance="2.0062432120847995" lignes="RER C" />
 	</gare>
 	<gare nom="PETIT-VAUX" coord="2180, 2884">
-		<voisin nom="EPINAY-SUR-ORGE" distance="0.7703644879133238" lignes="RER C" />
 		<voisin nom="GRAVIGNY-BALIZY" distance="2.0253670804715385" lignes="RER C" />
+		<voisin nom="EPINAY-SUR-ORGE" distance="0.7703644879133238" lignes="RER C" />
 	</gare>
 	<gare nom="PHILIPPE AUGUSTE" coord="2307, 1511">
-		<voisin nom="ALEXANDRE DUMAS" distance="0.5859492006858485" lignes="2" />
 		<voisin nom="PERE LACHAISE" distance="0.6720729373759372" lignes="2" />
+		<voisin nom="ALEXANDRE DUMAS" distance="0.5859492006858485" lignes="2" />
 	</gare>
 	<gare nom="PICPUS" coord="2200, 1802">
 		<voisin nom="BEL-AIR" distance="0.4161637492776608" lignes="6" />
@@ -1785,22 +1829,22 @@
 		<voisin nom="MONTIGNY-BEAUCHAMP" distance="4.956222080420273" lignes="RER C" />
 	</gare>
 	<gare nom="PIGALLE" coord="1523, 739|1534, 745">
-		<voisin nom="BLANCHE" distance="0.6225281677188588" lignes="2" />
 		<voisin nom="ANVERS" distance="0.7628214636234819" lignes="2" />
-		<voisin nom="SAINT-GEORGES" distance="0.4422677774522207" lignes="12" />
 		<voisin nom="ABBESSES" distance="0.25576350144019494" lignes="12" />
+		<voisin nom="BLANCHE" distance="0.6225281677188588" lignes="2" />
+		<voisin nom="SAINT-GEORGES" distance="0.4422677774522207" lignes="12" />
 	</gare>
 	<gare nom="PLACE D'ITALIE" coord="1592, 2149|1593, 2172">
-		<voisin nom="NATIONALE" distance="0.8270511888842215" lignes="6" />
-		<voisin nom="LES GOBELINS" distance="0.5986648862936322" lignes="7" />
-		<voisin nom="CORVISART" distance="0.610080886457167" lignes="6" />
 		<voisin nom="CAMPO-FORMIO" distance="0.5739285505704393" lignes="5" />
+		<voisin nom="CORVISART" distance="0.610080886457167" lignes="6" />
+		<voisin nom="NATIONALE" distance="0.8270511888842215" lignes="6" />
 		<voisin nom="TOLBIAC" distance="0.5848278875716997" lignes="7" />
+		<voisin nom="LES GOBELINS" distance="0.5986648862936322" lignes="7" />
 	</gare>
 	<gare nom="PLACE DE CLICHY" coord="1318, 783|1324, 793">
-		<voisin nom="BLANCHE" distance="0.45656879800664757" lignes="2" />
-		<voisin nom="ROME" distance="0.7469030602066102" lignes="2" />
 		<voisin nom="LIEGE" distance="0.4519651563853218" lignes="13" />
+		<voisin nom="ROME" distance="0.7469030602066102" lignes="2" />
+		<voisin nom="BLANCHE" distance="0.45656879800664757" lignes="2" />
 		<voisin nom="LA FOURCHE" distance="0.4584356899574821" lignes="13" />
 	</gare>
 	<gare nom="PLACE DE LA LOGISTIQUE" coord="1657, 2692">
@@ -1808,21 +1852,21 @@
 		<voisin nom="PORTE DE RUNGIS" distance="0.7338831956164826" lignes="T7" />
 	</gare>
 	<gare nom="PLACE DES FETES" coord="2412, 1136|2412, 1148">
-		<voisin nom="PRE SAINT-GERVAIS" distance="0.7455359142619666" lignes="7b" />
 		<voisin nom="JOURDAIN" distance="0.44699875290177205" lignes="11" />
+		<voisin nom="PRE SAINT-GERVAIS" distance="0.7455359142619666" lignes="7b" />
 		<voisin nom="TELEGRAPHE" distance="0.6636778395060116" lignes="11" />
 	</gare>
 	<gare nom="PLACE MONGE (JARDIN DES PLANTES)" coord="1686, 1988">
-		<voisin nom="JUSSIEU" distance="0.47257728262925836" lignes="7" />
 		<voisin nom="CENSIER-DAUBENTON" distance="0.2701915862316188" lignes="7" />
+		<voisin nom="JUSSIEU" distance="0.47257728262925836" lignes="7" />
 	</gare>
 	<gare nom="PLAISANCE" coord="1061, 2209">
-		<voisin nom="PERNETY" distance="0.49904908473989823" lignes="13" />
 		<voisin nom="PORTE DE VANVES" distance="1.0558533177951483" lignes="13" />
+		<voisin nom="PERNETY" distance="0.49904908473989823" lignes="13" />
 	</gare>
 	<gare nom="POISSONNIERE" coord="1751, 1040">
-		<voisin nom="CADET" distance="0.5944357111737967" lignes="7" />
 		<voisin nom="GARE DE L'EST" distance="0.9658681686273776" lignes="7" />
+		<voisin nom="CADET" distance="0.5944357111737967" lignes="7" />
 	</gare>
 	<gare nom="POISSY" coord="110, 658">
 		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="22.286100948334347" lignes="RER A" />
@@ -1835,41 +1879,41 @@
 		<voisin nom="PETIT NOISY" distance="0.6923729233364677" lignes="T1" />
 	</gare>
 	<gare nom="PONT DE L'ALMA" coord="1034, 1432|1034, 1432">
+		<voisin nom="CHAMP DE MARS-TOUR EIFFEL" distance="1.3223459257122305" lignes="RER C" />
 		<voisin nom="INVALIDES" distance="1.438617836052831" lignes="RER C" />
 		<voisin nom="ALMA-MARCEAU" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="CHAMP DE MARS-TOUR EIFFEL" distance="1.3223459257122305" lignes="RER C" />
 	</gare>
 	<gare nom="PONT DE LEVALLOIS-BECON" coord="942, 543">
 		<voisin nom="ANATOLE FRANCE" distance="0.8616644291235673" lignes="3" />
 	</gare>
 	<gare nom="PONT DE NEUILLY (AVENUE DE MADRID)" coord="781, 839">
-		<voisin nom="ESPLANADE DE LA DEFENSE" distance="1.4670926658994425" lignes="1" />
 		<voisin nom="LES SABLONS (JARDIN D'ACCLIMATATION)" distance="1.3036901133525252" lignes="1" />
+		<voisin nom="ESPLANADE DE LA DEFENSE" distance="1.4670926658994425" lignes="1" />
 	</gare>
 	<gare nom="PONT DE RUNGIS" coord="1700, 2694">
 		<voisin nom="ORLY VILLE" distance="3.3941350819975664" lignes="RER C" />
 		<voisin nom="RUNGIS-LA FRATERNELLE" distance="2.5572364322759453" lignes="RER C" />
 	</gare>
 	<gare nom="PONT DE SEVRES" coord="357, 1853|358, 1853">
-		<voisin nom="BILLANCOURT" distance="0.9138068239354616" lignes="9" />
 		<voisin nom="MUSEE DE SEVRES" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="BILLANCOURT" distance="0.9138068239354616" lignes="9" />
 	</gare>
 	<gare nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" coord="691, 1846|692, 1875">
-		<voisin nom="BALARD" distance="0.9144325134943169" lignes="T3A" />
-		<voisin nom="JAVEL" distance="1.05659032923362" lignes="RER C" />
 		<voisin nom="ISSY-VAL DE SEINE" distance="1.2503064738376" lignes="RER C" />
+		<voisin nom="JAVEL" distance="1.05659032923362" lignes="RER C" />
+		<voisin nom="BALARD" distance="0.9144325134943169" lignes="T3A" />
 	</gare>
 	<gare nom="PONT-MARIE (CITE DES ARTS)" coord="1730, 1654">
-		<voisin nom="SULLY-MORLAND" distance="0.5965019601498146" lignes="7" />
 		<voisin nom="CHATELET" distance="1.1947231181206037" lignes="7" />
+		<voisin nom="SULLY-MORLAND" distance="0.5965019601498146" lignes="7" />
 	</gare>
 	<gare nom="PONT-NEUF (LA MONNAIE)" coord="1546, 1568">
-		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.7625310855223442" lignes="7" />
 		<voisin nom="CHATELET" distance="0.5938696343371513" lignes="7" />
+		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.7625310855223442" lignes="7" />
 	</gare>
 	<gare nom="PONTHIERRY-PRINGY" coord="2578, 2904">
-		<voisin nom="BOISSISE-LE-ROI" distance="3.1440305512483446" lignes="RER D" />
 		<voisin nom="SAINT-FARGEAU RER" distance="3.2690385426872477" lignes="RER D" />
+		<voisin nom="BOISSISE-LE-ROI" distance="3.1440305512483446" lignes="RER D" />
 	</gare>
 	<gare nom="PONTOISE" coord="1148, 140">
 		<voisin nom="SAINT-OUEN-L'AUMONE" distance="1.1137364108603192" lignes="RER C" />
@@ -1879,8 +1923,8 @@
 		<voisin nom="VIROFLAY RIVE GAUCHE" distance="2.167037388426807" lignes="RER C" />
 	</gare>
 	<gare nom="PORT ROYAL" coord="1441, 2035">
-		<voisin nom="DENFERT-ROCHEREAU" distance="0.7943151628020526" lignes="RER B" />
 		<voisin nom="LUXEMBOURG" distance="0.7089528165419349" lignes="RER B" />
+		<voisin nom="DENFERT-ROCHEREAU" distance="0.7943151628020526" lignes="RER B" />
 	</gare>
 	<gare nom="PORTE D AUBERVILLIERS" coord="2096, 609">
 		<voisin nom="COLETTE BESSON" distance="0.5996435820876416" lignes="T3B" />
@@ -1890,38 +1934,38 @@
 		<voisin nom="BOULOGNE-JEAN JAURES" distance="2.2015958862330205" lignes="10" />
 	</gare>
 	<gare nom="PORTE D'ISSY" coord="794, 2067">
-		<voisin nom="SUZANNE LENGLEN" distance="0.5612782729453819" lignes="T2" />
 		<voisin nom="PORTE DE VERSAILLES" distance="0.7426470053983476" lignes="T2" />
+		<voisin nom="SUZANNE LENGLEN" distance="0.5612782729453819" lignes="T2" />
 	</gare>
 	<gare nom="PORTE D'ITALIE" coord="1633, 2409|1633, 2442">
-		<voisin nom="PORTE DE CHOISY" distance="0.43970092525904375" lignes="7,T3A" />
+		<voisin nom="PORTE DE CHOISY" distance="0.43970092525904375" lignes="T3A,7" />
 		<voisin nom="MAISON BLANCHE" distance="0.4193302761427581" lignes="7" />
 		<voisin nom="POTERNE DES PEUPLIERS" distance="1.0436509654420567" lignes="T3A" />
 	</gare>
 	<gare nom="PORTE D'IVRY" coord="1843, 2402|1858, 2428">
-		<voisin nom="PORTE DE CHOISY" distance="0.6134208232568489" lignes="7,T3A" />
-		<voisin nom="PIERRE CURIE" distance="1.073565168433824" lignes="7" />
 		<voisin nom="MARYSE BASTIE" distance="0.9806699696913449" lignes="T3A" />
+		<voisin nom="PORTE DE CHOISY" distance="0.6134208232568489" lignes="T3A,7" />
+		<voisin nom="PIERRE CURIE" distance="1.073565168433824" lignes="7" />
 	</gare>
 	<gare nom="PORTE D'ORLEANS" coord="1226, 2363|1251, 2377">
 		<voisin nom="MAIRIE DE MONTROUGE" distance="0.8362788509574391" lignes="4" />
-		<voisin nom="JEAN MOULIN" distance="0.7647366348244937" lignes="T3A" />
-		<voisin nom="ALESIA" distance="0.5599894363372077" lignes="4" />
 		<voisin nom="MONTSOURIS" distance="0.8898395706323893" lignes="T3A" />
+		<voisin nom="ALESIA" distance="0.5599894363372077" lignes="4" />
+		<voisin nom="JEAN MOULIN" distance="0.7647366348244937" lignes="T3A" />
 	</gare>
 	<gare nom="PORTE DAUPHINE" coord="785, 1241|785, 1241">
 		<voisin nom="AVENUE FOCH" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="VICTOR HUGO" distance="0.9371664834341743" lignes="2" />
 	</gare>
 	<gare nom="PORTE DE BAGNOLET" coord="2581, 1446|2594, 1471">
-		<voisin nom="GAMBETTA" distance="1.1086149645167014" lignes="3" />
-		<voisin nom="SEVERINE" distance="0.45492145024146136" lignes="T3B" />
 		<voisin nom="MARIE DE MIRIBEL" distance="0.5345517411203323" lignes="T3B" />
+		<voisin nom="GAMBETTA" distance="1.1086149645167014" lignes="3" />
 		<voisin nom="GALLIENI (PARC DE BAGNOLET)" distance="0.9006894314690848" lignes="3" />
+		<voisin nom="SEVERINE" distance="0.45492145024146136" lignes="T3B" />
 	</gare>
 	<gare nom="PORTE DE BRANCION" coord="954, 2216">
-		<voisin nom="GEORGES BRASSENS" distance="0.5918289107277932" lignes="T3A" />
 		<voisin nom="PORTE DE VANVES" distance="0.5303278883714959" lignes="T3A" />
+		<voisin nom="GEORGES BRASSENS" distance="0.5918289107277932" lignes="T3A" />
 	</gare>
 	<gare nom="PORTE DE CHAMPERRET" coord="1016, 671">
 		<voisin nom="PEREIRE-LEVALLOIS" distance="0.6083406354197045" lignes="3" />
@@ -1930,11 +1974,11 @@
 	<gare nom="PORTE DE CHARENTON" coord="2231, 2193|2265, 2193">
 		<voisin nom="BARON LE ROY" distance="0.5739584297989813" lignes="T3A" />
 		<voisin nom="LIBERTE" distance="1.1440841794012175" lignes="8" />
-		<voisin nom="PORTE DOREE" distance="0.8422595155778977" lignes="8,T3A" />
+		<voisin nom="PORTE DOREE" distance="0.8422595155778977" lignes="T3A,8" />
 	</gare>
 	<gare nom="PORTE DE CHOISY" coord="1717, 2409|1732, 2433">
-		<voisin nom="PORTE D'IVRY" distance="0.6134208232568489" lignes="7,T3A" />
-		<voisin nom="PORTE D'ITALIE" distance="0.43970092525904375" lignes="7,T3A" />
+		<voisin nom="PORTE D'ITALIE" distance="0.43970092525904375" lignes="T3A,7" />
+		<voisin nom="PORTE D'IVRY" distance="0.6134208232568489" lignes="T3A,7" />
 	</gare>
 	<gare nom="PORTE DE CLICHY" coord="1160, 520">
 		<voisin nom="BROCHANT" distance="0.8210827369729077" lignes="13" />
@@ -1947,35 +1991,35 @@
 		<voisin nom="AEROPORT D ORLY" distance="1.700048976336542" lignes="T7" />
 	</gare>
 	<gare nom="PORTE DE LA CHAPELLE" coord="2032, 544|2032, 573">
+		<voisin nom="COLETTE BESSON" distance="0.4816175544441079" lignes="T3B" />
 		<voisin nom="MARX DORMOY" distance="0.7538223292243021" lignes="12" />
 		<voisin nom="FRONT POPULAIRE" distance="1.2587909962206965" lignes="12" />
-		<voisin nom="COLETTE BESSON" distance="0.4816175544441079" lignes="T3B" />
 	</gare>
 	<gare nom="PORTE DE LA VILLETTE" coord="2164, 711|2239, 712">
+		<voisin nom="CORENTIN CARIOU" distance="0.5360056713114675" lignes="7" />
 		<voisin nom="AUBERVILLIERS-PANTIN (QUATRE CHEMINS)" distance="0.9482991561614377" lignes="7" />
 		<voisin nom="CANAL SAINT-DENIS" distance="0.6883423986610189" lignes="T3B" />
 		<voisin nom="ELLA FITZGERALD" distance="0.9417982443168175" lignes="T3B" />
-		<voisin nom="CORENTIN CARIOU" distance="0.5360056713114675" lignes="7" />
 	</gare>
 	<gare nom="PORTE DE MONTREUIL" coord="2523, 1728|2547, 1745">
-		<voisin nom="MARAICHERS" distance="0.5186756135918416" lignes="9" />
-		<voisin nom="PORTE DE VINCENNES" distance="0.6337203737799328" lignes="T3B" />
 		<voisin nom="MARIE DE MIRIBEL" distance="0.6465851978012861" lignes="T3B" />
+		<voisin nom="PORTE DE VINCENNES" distance="0.6337203737799328" lignes="T3B" />
+		<voisin nom="MARAICHERS" distance="0.5186756135918416" lignes="9" />
 		<voisin nom="ROBESPIERRE" distance="1.3964191639861585" lignes="9" />
 	</gare>
 	<gare nom="PORTE DE PANTIN" coord="2377, 860|2377, 890">
 		<voisin nom="BUTTE DU CHAPEAU ROUGE" distance="0.4595821197493928" lignes="T3B" />
-		<voisin nom="HOCHE" distance="0.7826250625672502" lignes="5" />
 		<voisin nom="DELPHINE SEYRIG" distance="0.5883682520799091" lignes="T3B" />
 		<voisin nom="OURCQ" distance="0.9929177238039926" lignes="5" />
+		<voisin nom="HOCHE" distance="0.7826250625672502" lignes="5" />
 	</gare>
 	<gare nom="PORTE DE RUNGIS" coord="1657, 2691">
-		<voisin nom="SAARINEN" distance="0.2992916864333249" lignes="T7" />
 		<voisin nom="PLACE DE LA LOGISTIQUE" distance="0.7338831956164826" lignes="T7" />
+		<voisin nom="SAARINEN" distance="0.2992916864333249" lignes="T7" />
 	</gare>
 	<gare nom="PORTE DE SAINT-CLOUD" coord="461, 1773">
-		<voisin nom="MARCEL SEMBAT" distance="1.5523247066168973" lignes="9" />
 		<voisin nom="EXELMANS" distance="0.6415023265107743" lignes="9" />
+		<voisin nom="MARCEL SEMBAT" distance="1.5523247066168973" lignes="9" />
 	</gare>
 	<gare nom="PORTE DE SAINT-OUEN" coord="1408, 489">
 		<voisin nom="GARIBALDI" distance="1.0217188422630084" lignes="13" />
@@ -1986,49 +2030,49 @@
 		<voisin nom="AUGUSTE PERRET" distance="0.35024014173407436" lignes="T7" />
 	</gare>
 	<gare nom="PORTE DE VANVES" coord="1037, 2250|1037, 2279">
-		<voisin nom="PLAISANCE" distance="1.0558533177951483" lignes="13" />
 		<voisin nom="DIDOT" distance="0.8979039024471506" lignes="T3A" />
-		<voisin nom="MALAKOFF-PLATEAU DE VANVES" distance="0.9775288503244295" lignes="13" />
+		<voisin nom="PLAISANCE" distance="1.0558533177951483" lignes="13" />
 		<voisin nom="PORTE DE BRANCION" distance="0.5303278883714959" lignes="T3A" />
+		<voisin nom="MALAKOFF-PLATEAU DE VANVES" distance="0.9775288503244295" lignes="13" />
 	</gare>
 	<gare nom="PORTE DE VERSAILLES" coord="842, 2117|855, 2149">
-		<voisin nom="GEORGES BRASSENS" distance="0.9027094767421593" lignes="T3A" />
-		<voisin nom="CONVENTION" distance="1.0832772079933843" lignes="12" />
-		<voisin nom="PORTE D'ISSY" distance="0.7426470053983476" lignes="T2" />
-		<voisin nom="DESNOUETTES" distance="0.4893480682257747" lignes="T3A" />
 		<voisin nom="CORENTIN-CELTON" distance="1.1470307844169212" lignes="12" />
+		<voisin nom="PORTE D'ISSY" distance="0.7426470053983476" lignes="T2" />
+		<voisin nom="CONVENTION" distance="1.0832772079933843" lignes="12" />
+		<voisin nom="DESNOUETTES" distance="0.4893480682257747" lignes="T3A" />
+		<voisin nom="GEORGES BRASSENS" distance="0.9027094767421593" lignes="T3A" />
 	</gare>
 	<gare nom="PORTE DE VINCENNES" coord="2405, 1952|2444, 1952">
-		<voisin nom="PORTE DE MONTREUIL" distance="0.6337203737799328" lignes="T3B" />
-		<voisin nom="SAINT-MANDE" distance="1.0996493356364057" lignes="1" />
 		<voisin nom="ALEXANDRA DAVID-NEEL" distance="0.40632374079131023" lignes="T3A" />
+		<voisin nom="SAINT-MANDE" distance="1.0996493356364057" lignes="1" />
+		<voisin nom="PORTE DE MONTREUIL" distance="0.6337203737799328" lignes="T3B" />
 		<voisin nom="NATION" distance="1.5426766120484594" lignes="1" />
 	</gare>
 	<gare nom="PORTE DES LILAS" coord="2522, 1126|2549, 1158">
-		<voisin nom="SAINT-FARGEAU METRO" distance="0.5705837720337624" lignes="3b" />
-		<voisin nom="TELEGRAPHE" distance="0.9172933826368075" lignes="11" />
 		<voisin nom="MAIRIE DES LILAS" distance="1.1097198799483396" lignes="11" />
+		<voisin nom="SAINT-FARGEAU METRO" distance="0.5705837720337624" lignes="3b" />
 		<voisin nom="HOPITAL ROBERT DEBRE" distance="0.7231250113029224" lignes="T3B" />
+		<voisin nom="TELEGRAPHE" distance="0.9172933826368075" lignes="11" />
 		<voisin nom="ADRIENNE BOLLAND" distance="0.494009497725267" lignes="T3B" />
 	</gare>
 	<gare nom="PORTE DOREE" coord="2241, 2152|2274, 2152">
-		<voisin nom="PORTE DE CHARENTON" distance="0.8422595155778977" lignes="8,T3A" />
-		<voisin nom="MICHEL BIZOT" distance="0.4272512039011221" lignes="8" />
 		<voisin nom="MONTEMPOIVRE" distance="0.6830784973872391" lignes="T3A" />
+		<voisin nom="PORTE DE CHARENTON" distance="0.8422595155778977" lignes="T3A,8" />
+		<voisin nom="MICHEL BIZOT" distance="0.4272512039011221" lignes="8" />
 	</gare>
 	<gare nom="PORTE MAILLOT" coord="851, 961|851, 1000">
-		<voisin nom="AVENUE FOCH" distance="1.2517847059390876" lignes="RER C" />
-		<voisin nom="PEREIRE-LEVALLOIS" distance="1.728553772513368" lignes="RER C" />
-		<voisin nom="ARGENTINE" distance="0.6022925761966718" lignes="1" />
 		<voisin nom="LES SABLONS (JARDIN D'ACCLIMATATION)" distance="1.4649571048078627" lignes="1" />
+		<voisin nom="AVENUE FOCH" distance="1.2517847059390876" lignes="RER C" />
+		<voisin nom="ARGENTINE" distance="0.6022925761966718" lignes="1" />
+		<voisin nom="PEREIRE-LEVALLOIS" distance="1.728553772513368" lignes="RER C" />
 	</gare>
 	<gare nom="PORTE-DE-CLICHY" coord="1128, 520">
-		<voisin nom="PEREIRE-LEVALLOIS" distance="2.184945414400704" lignes="RER C" />
 		<voisin nom="SAINT-OUEN" distance="1.4851093259313006" lignes="RER C" />
+		<voisin nom="PEREIRE-LEVALLOIS" distance="2.184945414400704" lignes="RER C" />
 	</gare>
 	<gare nom="POTERNE DES PEUPLIERS" coord="1536, 2442">
-		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.5910555474416522" lignes="T3A" />
 		<voisin nom="PORTE D'ITALIE" distance="1.0436509654420567" lignes="T3A" />
+		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.5910555474416522" lignes="T3A" />
 	</gare>
 	<gare nom="PRE SAINT-GERVAIS" coord="2464, 1039|2465, 1039">
 		<voisin nom="DANUBE" distance="0.6491520626710238" lignes="7b" />
@@ -2039,10 +2083,10 @@
 		<voisin nom="BELVEDERE" distance="1.2005235566602268" lignes="T2" />
 	</gare>
 	<gare nom="PYRAMIDES" coord="1432, 1399|1442, 1405">
-		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.45087153577361194" lignes="7" />
-		<voisin nom="OPERA" distance="0.5449834097084085" lignes="7" />
 		<voisin nom="MADELEINE" distance="1.087898752494706" lignes="14" />
 		<voisin nom="CHATELET" distance="1.6984274897754712" lignes="14" />
+		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.45087153577361194" lignes="7" />
+		<voisin nom="OPERA" distance="0.5449834097084085" lignes="7" />
 	</gare>
 	<gare nom="PYRENEES" coord="2291, 1147">
 		<voisin nom="JOURDAIN" distance="0.4763444615137447" lignes="11" />
@@ -2053,12 +2097,12 @@
 		<voisin nom="BERCY" distance="0.8720349090994284" lignes="6" />
 	</gare>
 	<gare nom="QUAI DE LA RAPEE" coord="1833, 1832">
-		<voisin nom="BASTILLE" distance="0.8702208922417545" lignes="5" />
 		<voisin nom="AUSTERLITZ" distance="0.4461921231714056" lignes="5" />
+		<voisin nom="BASTILLE" distance="0.8702208922417545" lignes="5" />
 	</gare>
 	<gare nom="QUATRE SEPTEMBRE" coord="1522, 1309">
-		<voisin nom="OPERA" distance="0.43597415648678567" lignes="3" />
 		<voisin nom="BOURSE" distance="0.5108141533048836" lignes="3" />
+		<voisin nom="OPERA" distance="0.43597415648678567" lignes="3" />
 	</gare>
 	<gare nom="RAMBUTEAU" coord="1878, 1416">
 		<voisin nom="HOTEL DE VILLE" distance="0.5009255758078393" lignes="11" />
@@ -2069,44 +2113,44 @@
 		<voisin nom="JASMIN" distance="0.3952440812379853" lignes="9" />
 	</gare>
 	<gare nom="RASPAIL" coord="1314, 2113|1327, 2121">
-		<voisin nom="DENFERT-ROCHEREAU" distance="0.5696580946638384" lignes="6,4" />
 		<voisin nom="VAVIN" distance="0.4107950578664753" lignes="4" />
+		<voisin nom="DENFERT-ROCHEREAU" distance="0.5696580946638384" lignes="4,6" />
 		<voisin nom="EDGAR QUINET" distance="0.5218367835730199" lignes="6" />
 	</gare>
 	<gare nom="REAUMUR-SEBASTOPOL" coord="1797, 1303|1806, 1308">
+		<voisin nom="SENTIER" distance="0.5673252566370549" lignes="3" />
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.4370875475030512" lignes="4" />
 		<voisin nom="ETIENNE-MARCEL" distance="0.4712256515383505" lignes="4" />
-		<voisin nom="SENTIER" distance="0.5673252566370549" lignes="3" />
 		<voisin nom="ARTS ET METIERS" distance="0.4791387583992367" lignes="3" />
 	</gare>
 	<gare nom="RENNES" coord="1305, 1835">
-		<voisin nom="NOTRE-DAME-DES-CHAMPS" distance="0.40640253033598284" lignes="12" />
 		<voisin nom="SEVRES-BABYLONE" distance="0.3827272392597438" lignes="12" />
+		<voisin nom="NOTRE-DAME-DES-CHAMPS" distance="0.40640253033598284" lignes="12" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="1973, 1205|2027, 1205">
+		<voisin nom="OBERKAMPF" distance="0.5376397553977783" lignes="5,9" />
 		<voisin nom="GONCOURT (HOPITAL SAINT-LOUIS)" distance="0.8289662121538536" lignes="11" />
-		<voisin nom="FILLES DU CALVAIRE" distance="0.49787365469987654" lignes="8" />
 		<voisin nom="JACQUES BONSERGENT" distance="0.5527998063118952" lignes="5" />
+		<voisin nom="ARTS ET METIERS" distance="0.8513550905803795" lignes="11" />
+		<voisin nom="TEMPLE" distance="0.30370323141394867" lignes="3" />
+		<voisin nom="FILLES DU CALVAIRE" distance="0.49787365469987654" lignes="8" />
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="1.1308993077092573" lignes="8,9" />
 		<voisin nom="PARMENTIER" distance="1.167153017434547" lignes="3" />
-		<voisin nom="TEMPLE" distance="0.30370323141394867" lignes="3" />
-		<voisin nom="OBERKAMPF" distance="0.5376397553977783" lignes="9,5" />
-		<voisin nom="ARTS ET METIERS" distance="0.8513550905803795" lignes="11" />
 	</gare>
 	<gare nom="REUILLY-DIDEROT" coord="2040, 1802|2051, 1802">
-		<voisin nom="MONTGALLET" distance="0.45474425067898655" lignes="8" />
-		<voisin nom="GARE DE LYON" distance="1.5679991849320218" lignes="1" />
-		<voisin nom="NATION" distance="0.9871553199519724" lignes="1" />
 		<voisin nom="FAIDHERBE-CHALIGNY" distance="0.470762042158219" lignes="8" />
+		<voisin nom="NATION" distance="0.9871553199519724" lignes="1" />
+		<voisin nom="GARE DE LYON" distance="1.5679991849320218" lignes="1" />
+		<voisin nom="MONTGALLET" distance="0.45474425067898655" lignes="8" />
 	</gare>
 	<gare nom="RICHARD LENOIR" coord="2039, 1473">
 		<voisin nom="BREGUET-SABIN" distance="0.45649962669547867" lignes="5" />
 		<voisin nom="OBERKAMPF" distance="0.6604626266901703" lignes="5" />
 	</gare>
 	<gare nom="RICHELIEU-DROUOT" coord="1652, 1159|1652, 1171">
-		<voisin nom="OPERA" distance="0.7513275425499268" lignes="8" />
-		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.6311033200047417" lignes="9" />
 		<voisin nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance="0.46022964712741976" lignes="8,9" />
+		<voisin nom="CHAUSSEE D'ANTIN (LA FAYETTE)" distance="0.6311033200047417" lignes="9" />
+		<voisin nom="OPERA" distance="0.7513275425499268" lignes="8" />
 	</gare>
 	<gare nom="RIQUET" coord="2083, 852">
 		<voisin nom="CRIMEE" distance="0.44568468074540457" lignes="7" />
@@ -2117,8 +2161,8 @@
 		<voisin nom="GRAND-BOURG" distance="2.525576011170486" lignes="RER D" />
 	</gare>
 	<gare nom="ROBERT SCHUMAN" coord="1653, 2700">
-		<voisin nom="FRATERNELLE" distance="0.5620154651877614" lignes="T7" />
 		<voisin nom="SAARINEN" distance="0.42492576437154234" lignes="T7" />
+		<voisin nom="FRATERNELLE" distance="0.5620154651877614" lignes="T7" />
 	</gare>
 	<gare nom="ROBESPIERRE" coord="2605, 1745">
 		<voisin nom="PORTE DE MONTREUIL" distance="1.3964191639861585" lignes="9" />
@@ -2128,22 +2172,22 @@
 		<voisin nom="FONTENAY-AUX-ROSES" distance="1.4798186237072375" lignes="RER B" />
 	</gare>
 	<gare nom="ROISSY-EN-BRIE" coord="2896, 690">
-		<voisin nom="EMERAINVILLE-PONTAULT-COMBAULT" distance="3.6287512980485097" lignes="RER E" />
 		<voisin nom="OZOIR-LA-FERRIERE" distance="5.229285236467176" lignes="RER E" />
+		<voisin nom="EMERAINVILLE-PONTAULT-COMBAULT" distance="3.6287512980485097" lignes="RER E" />
 	</gare>
 	<gare nom="ROME" coord="1180, 856">
 		<voisin nom="PLACE DE CLICHY" distance="0.7469030602066102" lignes="2" />
 		<voisin nom="VILLIERS" distance="0.6893456726123098" lignes="2" />
 	</gare>
 	<gare nom="ROSA PARKS" coord="2127, 628|2128, 682">
-		<voisin nom="CANAL SAINT-DENIS" distance="0.7498770577599428" lignes="T3B" />
-		<voisin nom="MAGENTA" distance="2.443302127303336" lignes="RER E" />
 		<voisin nom="PANTIN" distance="2.9252607011409038" lignes="RER E" />
 		<voisin nom="PORTE D AUBERVILLIERS" distance="0.6053981590552509" lignes="T3B" />
+		<voisin nom="CANAL SAINT-DENIS" distance="0.7498770577599428" lignes="T3B" />
+		<voisin nom="MAGENTA" distance="2.443302127303336" lignes="RER E" />
 	</gare>
 	<gare nom="ROSNY-BOIS-PERRIER" coord="2741, 687">
-		<voisin nom="ROSNY-SOUS-BOIS" distance="1.460355705083972" lignes="RER E" />
 		<voisin nom="NOISY-LE-SEC" distance="3.022400890677801" lignes="RER E" />
+		<voisin nom="ROSNY-SOUS-BOIS" distance="1.460355705083972" lignes="RER E" />
 	</gare>
 	<gare nom="ROSNY-SOUS-BOIS" coord="2765, 688">
 		<voisin nom="VAL-DE-FONTENAY" distance="1.7806207476514866" lignes="RER E" />
@@ -2154,20 +2198,20 @@
 		<voisin nom="TROCADERO" distance="1.0547041808669053" lignes="9" />
 	</gare>
 	<gare nom="RUE DES BOULETS" coord="2239, 1644">
-		<voisin nom="CHARONNE" distance="0.49375155842642415" lignes="9" />
 		<voisin nom="NATION" distance="0.848862388747213" lignes="9" />
+		<voisin nom="CHARONNE" distance="0.49375155842642415" lignes="9" />
 	</gare>
 	<gare nom="RUE DU BAC" coord="1236, 1717">
-		<voisin nom="SOLFERINO" distance="0.4352784919746928" lignes="12" />
 		<voisin nom="SEVRES-BABYLONE" distance="0.43917541109243086" lignes="12" />
+		<voisin nom="SOLFERINO" distance="0.4352784919746928" lignes="12" />
 	</gare>
 	<gare nom="RUNGIS-LA FRATERNELLE" coord="1626, 2694">
 		<voisin nom="CHEMIN D'ANTONY" distance="4.417637572042561" lignes="RER C" />
 		<voisin nom="PONT DE RUNGIS" distance="2.5572364322759453" lignes="RER C" />
 	</gare>
 	<gare nom="SAARINEN" coord="1655, 2695">
-		<voisin nom="ROBERT SCHUMAN" distance="0.42492576437154234" lignes="T7" />
 		<voisin nom="PORTE DE RUNGIS" distance="0.2992916864333249" lignes="T7" />
+		<voisin nom="ROBERT SCHUMAN" distance="0.42492576437154234" lignes="T7" />
 	</gare>
 	<gare nom="SAINT-AMBROISE" coord="2144, 1479">
 		<voisin nom="OBERKAMPF" distance="0.8075775371908392" lignes="9" />
@@ -2187,21 +2231,21 @@
 		<voisin nom="VERSAILLES-CHANTIERS" distance="7.1572618019523055" lignes="RER C" />
 	</gare>
 	<gare nom="SAINT-DENIS" coord="1616, 253">
-		<voisin nom="PIERREFITTE-STAINS" distance="4.395658743155581" lignes="RER D" />
 		<voisin nom="STADE DE FRANCE-SAINT-DENIS" distance="1.9524945357567534" lignes="RER D" />
+		<voisin nom="PIERREFITTE-STAINS" distance="4.395658743155581" lignes="RER D" />
 	</gare>
 	<gare nom="SAINT-DENIS-PORTE DE PARIS" coord="1770, 316|1771, 316">
+		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="0.9965676203500912" lignes="13" />
+		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="CARREFOUR PLEYEL" distance="1.929272922376672" lignes="13" />
 		<voisin nom="STADE DE FRANCE-SAINT-DENIS" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="0.9965676203500912" lignes="13" />
 	</gare>
 	<gare nom="SAINT-DENIS-UNIVERSITE" coord="1851, 176">
 		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="0.9612868618733166" lignes="13" />
 	</gare>
 	<gare nom="SAINT-FARGEAU METRO" coord="2510, 1266">
-		<voisin nom="PORTE DES LILAS" distance="0.5705837720337624" lignes="3b" />
 		<voisin nom="PELLEPORT" distance="0.5233550717804755" lignes="3b" />
+		<voisin nom="PORTE DES LILAS" distance="0.5705837720337624" lignes="3b" />
 	</gare>
 	<gare nom="SAINT-FARGEAU RER" coord="2547, 2903">
 		<voisin nom="PONTHIERRY-PRINGY" distance="3.2690385426872477" lignes="RER D" />
@@ -2216,57 +2260,57 @@
 		<voisin nom="PIGALLE" distance="0.4422677774522207" lignes="12" />
 	</gare>
 	<gare nom="SAINT-GERMAIN-DES-PRES" coord="1414, 1777">
-		<voisin nom="SAINT-SULPICE" distance="0.36125904085851307" lignes="4" />
 		<voisin nom="ODEON" distance="0.6758745554793487" lignes="4" />
+		<voisin nom="SAINT-SULPICE" distance="0.36125904085851307" lignes="4" />
 	</gare>
 	<gare nom="SAINT-GERMAIN-EN-LAYE" coord="142, 913">
 		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="15.84111681718807" lignes="RER A" />
 	</gare>
 	<gare nom="SAINT-GRATIEN" coord="1196, 222">
-		<voisin nom="ERMONT-EAUBONNE" distance="2.444398278108905" lignes="RER C" />
 		<voisin nom="EPINAY-SUR-SEINE" distance="2.149975751734069" lignes="RER C" />
+		<voisin nom="ERMONT-EAUBONNE" distance="2.444398278108905" lignes="RER C" />
 	</gare>
 	<gare nom="SAINT-JACQUES" coord="1411, 2153">
-		<voisin nom="DENFERT-ROCHEREAU" distance="0.5012835542959755" lignes="6" />
 		<voisin nom="GLACIERE" distance="0.7366583014653211" lignes="6" />
+		<voisin nom="DENFERT-ROCHEREAU" distance="0.5012835542959755" lignes="6" />
 	</gare>
 	<gare nom="SAINT-LAZARE" coord="1285, 1087|1325, 1088">
-		<voisin nom="HAUSSMANN-SAINT-LAZARE" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="EUROPE" distance="0.4011086331013056" lignes="3" />
-		<voisin nom="LIEGE" distance="0.5292678550255328" lignes="13" />
-		<voisin nom="PLACE DE CLICHY" distance="0.9599902496214018" lignes="13" />
-		<voisin nom="SAINT-AUGUSTIN" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="HAVRE-CAUMARTIN" distance="0.4433850851724998" lignes="3" />
-		<voisin nom="TRINITE-D'ESTIENNE D'ORVES" distance="0.9245550607261842" lignes="12" />
 		<voisin nom="MADELEINE" distance="0.5909618800946986" lignes="14,12" />
+		<voisin nom="LIEGE" distance="0.5292678550255328" lignes="13" />
+		<voisin nom="TRINITE-D'ESTIENNE D'ORVES" distance="0.9245550607261842" lignes="12" />
+		<voisin nom="SAINT-AUGUSTIN" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="EUROPE" distance="0.4011086331013056" lignes="3" />
+		<voisin nom="HAVRE-CAUMARTIN" distance="0.4433850851724998" lignes="3" />
+		<voisin nom="PLACE DE CLICHY" distance="0.9599902496214018" lignes="13" />
+		<voisin nom="HAUSSMANN-SAINT-LAZARE" distance="4.6096306961911235" lignes="pedestre" />
 	</gare>
 	<gare nom="SAINT-MANDE" coord="2447, 2025">
 		<voisin nom="PORTE DE VINCENNES" distance="1.0996493356364057" lignes="1" />
 		<voisin nom="BERAULT" distance="1.0870899016288331" lignes="1" />
 	</gare>
 	<gare nom="SAINT-MARCEL" coord="1731, 2006">
-		<voisin nom="AUSTERLITZ" distance="0.6746961110438994" lignes="5" />
 		<voisin nom="CAMPO-FORMIO" distance="0.40409227373682177" lignes="5" />
+		<voisin nom="AUSTERLITZ" distance="0.6746961110438994" lignes="5" />
 	</gare>
 	<gare nom="SAINT-MARTIN-D'ETAMPES" coord="2358, 2891">
 		<voisin nom="ETAMPES" distance="1.9130215748493946" lignes="RER C" />
 	</gare>
 	<gare nom="SAINT-MAUR" coord="2212, 1311">
-		<voisin nom="PARMENTIER" distance="0.7040365469389543" lignes="3" />
 		<voisin nom="PERE LACHAISE" distance="0.5760525301121179" lignes="3" />
+		<voisin nom="PARMENTIER" distance="0.7040365469389543" lignes="3" />
 	</gare>
 	<gare nom="SAINT-MICHEL" coord="1559, 1731|1559, 1731">
+		<voisin nom="ODEON" distance="0.4201743621263969" lignes="4" />
 		<voisin nom="CITE" distance="0.4903862500234093" lignes="4" />
 		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="ODEON" distance="0.4201743621263969" lignes="4" />
 	</gare>
 	<gare nom="SAINT-MICHEL NOTRE DAME" coord="1605, 1735|1605, 1750">
-		<voisin nom="MUSEE D'ORSAY" distance="2.4159711942059854" lignes="RER C" />
-		<voisin nom="CLUNY-LA-SORBONNE" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="LUXEMBOURG" distance="1.0841418954594721" lignes="RER B" />
-		<voisin nom="SAINT-MICHEL" distance="4.6096306961911235" lignes="pedestre" />
-		<voisin nom="AUSTERLITZ" distance="2.4714643561295015" lignes="RER C" />
 		<voisin nom="CHATELET-LES HALLES" distance="0.9501722307634991" lignes="RER B" />
+		<voisin nom="AUSTERLITZ" distance="2.4714643561295015" lignes="RER C" />
+		<voisin nom="SAINT-MICHEL" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="LUXEMBOURG" distance="1.0841418954594721" lignes="RER B" />
+		<voisin nom="CLUNY-LA-SORBONNE" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="MUSEE D'ORSAY" distance="2.4159711942059854" lignes="RER C" />
 	</gare>
 	<gare nom="SAINT-MICHEL-SUR-ORGE" coord="2322, 2826">
 		<voisin nom="SAINTE-GENEVIEVE-DES-BOIS" distance="1.9950523090082573" lignes="RER C" />
@@ -2277,50 +2321,50 @@
 		<voisin nom="PORTE-DE-CLICHY" distance="1.4851093259313006" lignes="RER C" />
 	</gare>
 	<gare nom="SAINT-OUEN-L'AUMONE" coord="1159, 160">
-		<voisin nom="SAINT-OUEN-L'AUMONE-LIESSE" distance="2.8687782645574327" lignes="RER C" />
 		<voisin nom="PONTOISE" distance="1.1137364108603192" lignes="RER C" />
+		<voisin nom="SAINT-OUEN-L'AUMONE-LIESSE" distance="2.8687782645574327" lignes="RER C" />
 	</gare>
 	<gare nom="SAINT-OUEN-L'AUMONE-LIESSE" coord="1166, 171">
 		<voisin nom="PIERRELAYE" distance="3.371309762637187" lignes="RER C" />
 		<voisin nom="SAINT-OUEN-L'AUMONE" distance="2.8687782645574327" lignes="RER C" />
 	</gare>
 	<gare nom="SAINT-PAUL (LE MARAIS)" coord="1906, 1594">
-		<voisin nom="BASTILLE" distance="0.9733087434811182" lignes="1" />
 		<voisin nom="HOTEL DE VILLE" distance="1.1344966025516285" lignes="1" />
+		<voisin nom="BASTILLE" distance="0.9733087434811182" lignes="1" />
 	</gare>
 	<gare nom="SAINT-PHILIPPE-DU-ROULE" coord="1118, 1161">
-		<voisin nom="MIROMESNIL" distance="0.5141114769403066" lignes="9" />
 		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.4077254667748662" lignes="9" />
+		<voisin nom="MIROMESNIL" distance="0.5141114769403066" lignes="9" />
 	</gare>
 	<gare nom="SAINT-PLACIDE" coord="1294, 1913">
-		<voisin nom="MONTPARNASSE" distance="0.8211124397394136" lignes="4" />
 		<voisin nom="SAINT-SULPICE" distance="0.7288447075319701" lignes="4" />
+		<voisin nom="MONTPARNASSE" distance="0.8211124397394136" lignes="4" />
 	</gare>
 	<gare nom="SAINT-QUENTIN-EN-YVELINES" coord="139, 2607">
 		<voisin nom="SAINT-CYR" distance="3.2817920525715047" lignes="RER C" />
 	</gare>
-	<gare nom="SAINT-REMY-LES-CHEVREUSE" coord="1101, 2861">
-		<voisin nom="MASSY-PALAISEAU" distance="21.0344486940553" lignes="RER B" />
+	<gare nom="SAINT-REMY-LES-CHEVREUSE" coord="964, 2955">
+		<voisin nom="COURCELLE-SUR-YVETTE" distance="2.980789285965428" lignes="RER B" />
 	</gare>
 	<gare nom="SAINT-SEBASTIEN FROISSART" coord="1989, 1461">
 		<voisin nom="FILLES DU CALVAIRE" distance="0.24028145058851386" lignes="8" />
 		<voisin nom="CHEMIN VERT" distance="0.42876211478090626" lignes="8" />
 	</gare>
 	<gare nom="SAINT-SULPICE" coord="1343, 1826">
-		<voisin nom="SAINT-GERMAIN-DES-PRES" distance="0.36125904085851307" lignes="4" />
 		<voisin nom="SAINT-PLACIDE" distance="0.7288447075319701" lignes="4" />
+		<voisin nom="SAINT-GERMAIN-DES-PRES" distance="0.36125904085851307" lignes="4" />
 	</gare>
 	<gare nom="SAINTE-GENEVIEVE-DES-BOIS" coord="2319, 2820">
-		<voisin nom="EPINAY-SUR-ORGE" distance="2.887855513599678" lignes="RER C" />
 		<voisin nom="SAINT-MICHEL-SUR-ORGE" distance="1.9950523090082573" lignes="RER C" />
+		<voisin nom="EPINAY-SUR-ORGE" distance="2.887855513599678" lignes="RER C" />
 	</gare>
 	<gare nom="SAVIGNY-LE-TEMPLE-NANDY" coord="2667, 2824">
-		<voisin nom="CESSON" distance="3.6033351416119315" lignes="RER D" />
 		<voisin nom="LIEUSAINT-MOISSY" distance="3.983871870044321" lignes="RER D" />
+		<voisin nom="CESSON" distance="3.6033351416119315" lignes="RER D" />
 	</gare>
 	<gare nom="SAVIGNY-SUR-ORGE" coord="2312, 2806">
-		<voisin nom="EPINAY-SUR-ORGE" distance="2.342370305391709" lignes="RER C" />
 		<voisin nom="JUVISY" distance="3.6784663683188006" lignes="RER C" />
+		<voisin nom="EPINAY-SUR-ORGE" distance="2.342370305391709" lignes="RER C" />
 	</gare>
 	<gare nom="SCEAUX" coord="1092, 2694">
 		<voisin nom="FONTENAY-AUX-ROSES" distance="0.9021012650999254" lignes="RER B" />
@@ -2339,30 +2383,30 @@
 		<voisin nom="DOURDAN" distance="6.750984955014034" lignes="RER C" />
 	</gare>
 	<gare nom="SEVERINE" coord="2575, 1359">
-		<voisin nom="ADRIENNE BOLLAND" distance="0.5448984082224985" lignes="T3B" />
 		<voisin nom="PORTE DE BAGNOLET" distance="0.45492145024146136" lignes="T3B" />
+		<voisin nom="ADRIENNE BOLLAND" distance="0.5448984082224985" lignes="T3B" />
 	</gare>
 	<gare nom="SEVRAN-BEAUDOTTES" coord="2426, 227">
 		<voisin nom="VILLEPINTE" distance="2.1509624979229924" lignes="RER B" />
 		<voisin nom="AULNAY-SOUS-BOIS" distance="3.675044059720921" lignes="RER B" />
 	</gare>
 	<gare nom="SEVRAN-LIVRY" coord="2480, 284">
-		<voisin nom="VERT-GALANT" distance="3.6401406550165714" lignes="RER B" />
 		<voisin nom="AULNAY-SOUS-BOIS" distance="4.38750260122544" lignes="RER B" />
+		<voisin nom="VERT-GALANT" distance="3.6401406550165714" lignes="RER B" />
 	</gare>
 	<gare nom="SEVRES-BABYLONE" coord="1275, 1783|1285, 1789">
-		<voisin nom="VANEAU" distance="0.70077114168089" lignes="10" />
-		<voisin nom="RUE DU BAC" distance="0.43917541109243086" lignes="12" />
 		<voisin nom="RENNES" distance="0.3827272392597438" lignes="12" />
 		<voisin nom="MABILLON" distance="0.976222757801733" lignes="10" />
+		<voisin nom="RUE DU BAC" distance="0.43917541109243086" lignes="12" />
+		<voisin nom="VANEAU" distance="0.70077114168089" lignes="10" />
 	</gare>
 	<gare nom="SEVRES-LECOURBE" coord="1016, 1894">
-		<voisin nom="PASTEUR" distance="0.49101905686214836" lignes="6" />
 		<voisin nom="CAMBRONNE" distance="0.75995086883394" lignes="6" />
+		<voisin nom="PASTEUR" distance="0.49101905686214836" lignes="6" />
 	</gare>
 	<gare nom="SIMPLON" coord="1647, 545">
-		<voisin nom="PORTE DE CLIGNANCOURT" distance="0.5036587091875536" lignes="4" />
 		<voisin nom="MARCADET-POISSONNIERS" distance="0.3576889722954373" lignes="4" />
+		<voisin nom="PORTE DE CLIGNANCOURT" distance="0.5036587091875536" lignes="4" />
 	</gare>
 	<gare nom="SIX ROUTES" coord="1997, 281">
 		<voisin nom="COSMONAUTES" distance="0.7532847201730944" lignes="T1" />
@@ -2378,26 +2422,26 @@
 		<voisin nom="POTERNE DES PEUPLIERS" distance="0.5910555474416522" lignes="T3A" />
 	</gare>
 	<gare nom="STADE DE FRANCE-SAINT-DENIS" coord="1701, 401|1701, 402">
-		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="SAINT-DENIS" distance="1.9524945357567534" lignes="RER D" />
-		<voisin nom="GARE DU NORD" distance="4.160819990863272" lignes="RER D" />
 		<voisin nom="LA PLAINE-STADE DE FRANCE" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="4.6096306961911235" lignes="pedestre" />
+		<voisin nom="GARE DU NORD" distance="4.160819990863272" lignes="RER D" />
 	</gare>
 	<gare nom="STADE GEO ANDRE" coord="2156, 331">
 		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="1.0295608883599374" lignes="T1" />
 		<voisin nom="DANTON" distance="0.5391859089438369" lignes="T1" />
 	</gare>
 	<gare nom="STALINGRAD" coord="2038, 918|2059, 930">
-		<voisin nom="JAURES" distance="0.5170454921962901" lignes="2,5" />
-		<voisin nom="LOUIS BLANC" distance="0.3280815785620994" lignes="7" />
-		<voisin nom="GARE DU NORD" distance="1.0510248921445704" lignes="5" />
 		<voisin nom="LA CHAPELLE" distance="0.6001645258404625" lignes="2" />
+		<voisin nom="JAURES" distance="0.5170454921962901" lignes="2,5" />
+		<voisin nom="GARE DU NORD" distance="1.0510248921445704" lignes="5" />
+		<voisin nom="LOUIS BLANC" distance="0.3280815785620994" lignes="7" />
 		<voisin nom="RIQUET" distance="1.0272133551281248" lignes="7" />
 	</gare>
 	<gare nom="STRASBOURG-SAINT-DENIS" coord="1875, 1159|1876, 1183">
 		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4370875475030512" lignes="4" />
-		<voisin nom="REPUBLIQUE" distance="1.1308993077092573" lignes="8,9" />
 		<voisin nom="BONNE NOUVELLE" distance="0.43987951311879514" lignes="8,9" />
+		<voisin nom="REPUBLIQUE" distance="1.1308993077092573" lignes="8,9" />
 		<voisin nom="CHATEAU D'EAU" distance="0.37466092545067975" lignes="4" />
 	</gare>
 	<gare nom="SULLY-MORLAND" coord="1788, 1753">
@@ -2413,13 +2457,13 @@
 		<voisin nom="LOUVRES" distance="6.184525986464617" lignes="RER D" />
 	</gare>
 	<gare nom="SUZANNE LENGLEN" coord="738, 2013|739, 2013">
+		<voisin nom="PORTE D'ISSY" distance="0.5612782729453819" lignes="T2" />
 		<voisin nom="BALARD" distance="4.6096306961911235" lignes="pedestre" />
 		<voisin nom="HENRI FARMANN" distance="0.6281579813859699" lignes="T2" />
-		<voisin nom="PORTE D'ISSY" distance="0.5612782729453819" lignes="T2" />
 	</gare>
 	<gare nom="TELEGRAPHE" coord="2475, 1148">
-		<voisin nom="PORTE DES LILAS" distance="0.9172933826368075" lignes="11" />
 		<voisin nom="PLACE DES FETES" distance="0.6636778395060116" lignes="11" />
+		<voisin nom="PORTE DES LILAS" distance="0.9172933826368075" lignes="11" />
 	</gare>
 	<gare nom="TEMPLE" coord="1965, 1241">
 		<voisin nom="REPUBLIQUE" distance="0.30370323141394867" lignes="3" />
@@ -2434,12 +2478,12 @@
 		<voisin nom="MARCHE DE SAINT-DENIS" distance="0.6784021077038127" lignes="T1" />
 	</gare>
 	<gare nom="TIMBAUD" coord="1152, 224">
-		<voisin nom="LE VILLAGE" distance="0.7471877187869103" lignes="T1" />
 		<voisin nom="GARE DE GENNEVILLIERS" distance="0.6496272371706752" lignes="T1" />
+		<voisin nom="LE VILLAGE" distance="0.7471877187869103" lignes="T1" />
 	</gare>
 	<gare nom="TOLBIAC" coord="1545, 2231">
-		<voisin nom="MAISON BLANCHE" distance="0.46417937855804225" lignes="7" />
 		<voisin nom="PLACE D'ITALIE" distance="0.5848278875716997" lignes="7" />
+		<voisin nom="MAISON BLANCHE" distance="0.46417937855804225" lignes="7" />
 	</gare>
 	<gare nom="TOURNAN" coord="2926, 690">
 		<voisin nom="GRETZ-ARMAINVILLIERS" distance="3.6014167990455936" lignes="RER E" />
@@ -2449,22 +2493,22 @@
 		<voisin nom="SAINT-LAZARE" distance="0.9245550607261842" lignes="12" />
 	</gare>
 	<gare nom="TROCADERO" coord="874, 1360|879, 1370">
-		<voisin nom="PASSY" distance="0.7131198011389025" lignes="6" />
-		<voisin nom="IENA" distance="0.7444134910183765" lignes="9" />
 		<voisin nom="RUE DE LA POMPE (AVENUE GEORGES MANDEL)" distance="1.0547041808669053" lignes="9" />
 		<voisin nom="BOISSIERE" distance="0.46564596800978647" lignes="6" />
+		<voisin nom="PASSY" distance="0.7131198011389025" lignes="6" />
+		<voisin nom="IENA" distance="0.7444134910183765" lignes="9" />
 	</gare>
 	<gare nom="TUILERIES" coord="1328, 1470">
-		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.7698871118377809" lignes="1" />
 		<voisin nom="CONCORDE" distance="0.8002618814397798" lignes="1" />
+		<voisin nom="PALAIS ROYAL-MUSEE DU LOUVRE" distance="0.7698871118377809" lignes="1" />
 	</gare>
 	<gare nom="VAL-DE-FONTENAY" coord="2791, 689">
-		<voisin nom="ROSNY-SOUS-BOIS" distance="1.7806207476514866" lignes="RER E" />
 		<voisin nom="NOGENT-LE-PERREUX" distance="1.7516547172424843" lignes="RER E" />
+		<voisin nom="ROSNY-SOUS-BOIS" distance="1.7806207476514866" lignes="RER E" />
 	</gare>
 	<gare nom="VANEAU" coord="1211, 1789">
-		<voisin nom="DUROC" distance="0.5727145806823628" lignes="10" />
 		<voisin nom="SEVRES-BABYLONE" distance="0.70077114168089" lignes="10" />
+		<voisin nom="DUROC" distance="0.5727145806823628" lignes="10" />
 	</gare>
 	<gare nom="VARENNE" coord="1075, 1676">
 		<voisin nom="INVALIDES" distance="0.68278040685985" lignes="13" />
@@ -2475,44 +2519,44 @@
 		<voisin nom="JOUY-EN-JOSAS" distance="3.198908723349465" lignes="RER C" />
 	</gare>
 	<gare nom="VAUGIRARD (ADOLPHE CHERIOU)" coord="922, 2062">
-		<voisin nom="VOLONTAIRES" distance="0.7930371553221095" lignes="12" />
 		<voisin nom="CONVENTION" distance="0.555676043566533" lignes="12" />
+		<voisin nom="VOLONTAIRES" distance="0.7930371553221095" lignes="12" />
 	</gare>
 	<gare nom="VAVIN" coord="1300, 2067">
-		<voisin nom="MONTPARNASSE" distance="0.8933199862531167" lignes="4" />
 		<voisin nom="RASPAIL" distance="0.4107950578664753" lignes="4" />
+		<voisin nom="MONTPARNASSE" distance="0.8933199862531167" lignes="4" />
 	</gare>
 	<gare nom="VERSAILLES CHATEAU" coord="235, 2506">
 		<voisin nom="PORCHEFONTAINE" distance="2.629804666546846" lignes="RER C" />
 	</gare>
 	<gare nom="VERSAILLES-CHANTIERS" coord="322, 2549">
 		<voisin nom="SAINT-CYR" distance="7.1572618019523055" lignes="RER C" />
-		<voisin nom="PETIT-JOUY-LES-LOGES" distance="3.014156857696212" lignes="RER C" />
 		<voisin nom="VIROFLAY RIVE GAUCHE" distance="3.9801976798777545" lignes="RER C" />
+		<voisin nom="PETIT-JOUY-LES-LOGES" distance="3.014156857696212" lignes="RER C" />
 	</gare>
 	<gare nom="VERT-GALANT" coord="2569, 336">
 		<voisin nom="VILLEPARISIS-MITRY-LE-NEUF" distance="4.2039970936675894" lignes="RER B" />
 		<voisin nom="SEVRAN-LIVRY" distance="3.6401406550165714" lignes="RER B" />
 	</gare>
 	<gare nom="VICTOR BASCH" coord="455, 556">
-		<voisin nom="PARC PIERRE LAGRAVERE" distance="0.6553270468717124" lignes="T2" />
 		<voisin nom="JACQUELINE AURIOL" distance="0.6099701638439181" lignes="T2" />
+		<voisin nom="PARC PIERRE LAGRAVERE" distance="0.6553270468717124" lignes="T2" />
 	</gare>
 	<gare nom="VICTOR HUGO" coord="894, 1211">
 		<voisin nom="PORTE DAUPHINE" distance="0.9371664834341743" lignes="2" />
 		<voisin nom="CHARLES DE GAULLE ETOILE" distance="1.1325332624213873" lignes="2" />
 	</gare>
 	<gare nom="VIGNEUX-SUR-SEINE" coord="2447, 2781">
-		<voisin nom="VILLENEUVE-SAINT-GEORGES" distance="4.285444519373044" lignes="RER D" />
 		<voisin nom="JUVISY" distance="4.084937548034563" lignes="RER D" />
+		<voisin nom="VILLENEUVE-SAINT-GEORGES" distance="4.285444519373044" lignes="RER D" />
 	</gare>
 	<gare nom="VILLABE" coord="2498, 2888">
 		<voisin nom="ESSONNES-ROBINSON" distance="1.439639393154048" lignes="RER D" />
 		<voisin nom="LE PLESSIS-CHENET" distance="2.8717540068081697" lignes="RER D" />
 	</gare>
 	<gare nom="VILLEJUIF-LEO LAGRANGE" coord="1618, 2516">
-		<voisin nom="VILLEJUIF-PAUL VAILLANT-COUTURIER" distance="1.0313661415122428" lignes="7" />
 		<voisin nom="LE KREMLIN-BICETRE" distance="0.63382441075326" lignes="7" />
+		<voisin nom="VILLEJUIF-PAUL VAILLANT-COUTURIER" distance="1.0313661415122428" lignes="7" />
 	</gare>
 	<gare nom="VILLEJUIF-LOUIS ARAGON" coord="1673, 2613|1698, 2628">
 		<voisin nom="LAMARTINE" distance="0.4431634164273239" lignes="T7" />
@@ -2523,31 +2567,31 @@
 		<voisin nom="VILLEJUIF-LOUIS ARAGON" distance="1.0369779195482909" lignes="7" />
 	</gare>
 	<gare nom="VILLENEUVE-LE-ROI" coord="2263, 2720">
-		<voisin nom="CHOISY-LE-ROI" distance="3.1451765102261695" lignes="RER C" />
 		<voisin nom="ABLON" distance="1.7626043835534375" lignes="RER C" />
+		<voisin nom="CHOISY-LE-ROI" distance="3.1451765102261695" lignes="RER C" />
 	</gare>
 	<gare nom="VILLENEUVE-SAINT-GEORGES" coord="2406, 2710">
-		<voisin nom="VIGNEUX-SUR-SEINE" distance="4.285444519373044" lignes="RER D" />
 		<voisin nom="MONTGERON-CROSNE" distance="3.0251872747160666" lignes="RER D" />
 		<voisin nom="VILLENEUVE-TRIAGE" distance="1.8915364764983449" lignes="RER D" />
+		<voisin nom="VIGNEUX-SUR-SEINE" distance="4.285444519373044" lignes="RER D" />
 	</gare>
 	<gare nom="VILLENEUVE-TRIAGE" coord="2372, 2651">
 		<voisin nom="VILLENEUVE-SAINT-GEORGES" distance="1.8915364764983449" lignes="RER D" />
 		<voisin nom="CRETEIL POMPADOUR" distance="2.915287408818031" lignes="RER D" />
 	</gare>
 	<gare nom="VILLEPARISIS-MITRY-LE-NEUF" coord="2668, 362">
-		<voisin nom="VERT-GALANT" distance="4.2039970936675894" lignes="RER B" />
 		<voisin nom="MITRY-CLAYE" distance="5.048669964742313" lignes="RER B" />
+		<voisin nom="VERT-GALANT" distance="4.2039970936675894" lignes="RER B" />
 	</gare>
 	<gare nom="VILLEPINTE" coord="2504, 226">
-		<voisin nom="PARC DES EXPOSITIONS" distance="1.2068916912591818" lignes="RER B" />
 		<voisin nom="SEVRAN-BEAUDOTTES" distance="2.1509624979229924" lignes="RER B" />
+		<voisin nom="PARC DES EXPOSITIONS" distance="1.2068916912591818" lignes="RER B" />
 	</gare>
 	<gare nom="VILLIERS" coord="1135, 876|1135, 889">
 		<voisin nom="ROME" distance="0.6893456726123098" lignes="2" />
-		<voisin nom="EUROPE" distance="0.8323064121354629" lignes="3" />
 		<voisin nom="MALESHERBES METRO" distance="0.7087568233117338" lignes="3" />
 		<voisin nom="MONCEAU" distance="0.642100963177645" lignes="2" />
+		<voisin nom="EUROPE" distance="0.8323064121354629" lignes="3" />
 	</gare>
 	<gare nom="VILLIERS-LE-BEL-GONESSE-ARNOUVILLE" coord="1603, 231">
 		<voisin nom="GOUSSAINVILLE" distance="6.072987499791814" lignes="RER D" />
@@ -2558,8 +2602,8 @@
 		<voisin nom="LES BOULLEREAUX-CHAMPIGNY" distance="3.435846155824978" lignes="RER E" />
 	</gare>
 	<gare nom="VINCENNES" coord="2624, 1952">
-		<voisin nom="BOISSY-SAINT-LEGER" distance="13.22292287741732" lignes="RER A" />
 		<voisin nom="CHESSY - MARNE-LA-VALLEE" distance="38.923897849358326" lignes="RER A" />
+		<voisin nom="BOISSY-SAINT-LEGER" distance="13.22292287741732" lignes="RER A" />
 		<voisin nom="NATION" distance="4.173102211761431" lignes="RER A" />
 	</gare>
 	<gare nom="VIROFLAY RIVE GAUCHE" coord="367, 2406">
@@ -2569,8 +2613,8 @@
 	</gare>
 	<gare nom="VIRY-CHATILLON" coord="2458, 2800">
 		<voisin nom="GRIGNY-CENTRE" distance="2.6734977371593844" lignes="RER D" />
-		<voisin nom="RIS-ORANGIS" distance="3.6926324451459895" lignes="RER D" />
 		<voisin nom="JUVISY" distance="1.5782363059696798" lignes="RER D" />
+		<voisin nom="RIS-ORANGIS" distance="3.6926324451459895" lignes="RER D" />
 	</gare>
 	<gare nom="VITRY-SUR-SEINE" coord="2100, 2438">
 		<voisin nom="LES ARDOINES" distance="2.1107035004963857" lignes="RER C" />
@@ -2581,19 +2625,19 @@
 		<voisin nom="PASTEUR" distance="0.5569215103752672" lignes="12" />
 	</gare>
 	<gare nom="VOLTAIRE (LEON BLUM)" coord="2174, 1531">
-		<voisin nom="CHARONNE" distance="0.6268800678178358" lignes="9" />
 		<voisin nom="SAINT-AMBROISE" distance="0.7753755599714605" lignes="9" />
+		<voisin nom="CHARONNE" distance="0.6268800678178358" lignes="9" />
 	</gare>
 	<gare nom="VOSVES" coord="2658, 2890">
-		<voisin nom="BOISSISE-LE-ROI" distance="3.438492882318539" lignes="RER D" />
 		<voisin nom="MELUN" distance="6.343100202341966" lignes="RER D" />
+		<voisin nom="BOISSISE-LE-ROI" distance="3.438492882318539" lignes="RER D" />
 	</gare>
 	<gare nom="WAGRAM" coord="1074, 771">
-		<voisin nom="PEREIRE-LEVALLOIS" distance="0.7602793794615426" lignes="3" />
 		<voisin nom="MALESHERBES METRO" distance="0.49790297290212787" lignes="3" />
+		<voisin nom="PEREIRE-LEVALLOIS" distance="0.7602793794615426" lignes="3" />
 	</gare>
 	<gare nom="YERRES" coord="2497, 2785">
-		<voisin nom="BRUNOY" distance="2.547987435469526" lignes="RER D" />
 		<voisin nom="MONTGERON-CROSNE" distance="2.4515848151871102" lignes="RER D" />
+		<voisin nom="BRUNOY" distance="2.547987435469526" lignes="RER D" />
 	</gare>
 </data>

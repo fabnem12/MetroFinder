@@ -71,7 +71,7 @@ for compagnie in soup.find_all("folder"):
             compagnies[nomCompagnie].append((depart, arrivee))
             compagnies[nomCompagnie].append((arrivee, depart))
 
-with open("csv-data/TAE.csv", "w") as fichier:
+with open("csv-data/tae.csv", "w") as fichier:
     printF = lambda x: fichier.write(x+"\n")
 
     for aeroport in sorted(aeroports):

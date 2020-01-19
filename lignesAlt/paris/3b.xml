@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="GAMBETTA,PORTE DES LILAS" couleur="6ec4e8">
+<ligne terminus="PORTE DES LILAS,GAMBETTA" couleur="6ec4e8">
 	<gare nom="GAMBETTA" coord="2291, 1312">
 		<voisin nom="PELLEPORT" distance="0.48568295227611147" />
 	</gare>
@@ -11,7 +11,7 @@
 		<voisin nom="SAINT-FARGEAU METRO" distance="0.5705837720337624" />
 	</gare>
 	<gare nom="SAINT-FARGEAU METRO" coord="2419, 1133">
-		<voisin nom="PORTE DES LILAS" distance="0.5705837720337624" />
 		<voisin nom="PELLEPORT" distance="0.5233550717804755" />
+		<voisin nom="PORTE DES LILAS" distance="0.5705837720337624" />
 	</gare>
 </ligne>

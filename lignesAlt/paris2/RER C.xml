@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="DOURDAN-LA-FORET,PONTOISE,SAINT-QUENTIN-EN-YVELINES,SAINT-MARTIN-D'ETAMPES,VERSAILLES CHATEAU" couleur="f3d311">
+<ligne terminus="VERSAILLES CHATEAU,PONTOISE,SAINT-QUENTIN-EN-YVELINES,DOURDAN-LA-FORET,SAINT-MARTIN-D'ETAMPES" couleur="f3d311">
 	<gare nom="ABLON" coord="2298, 2780">
 		<voisin nom="ATHIS-MONS" distance="2.281653617473967" />
 		<voisin nom="VILLENEUVE-LE-ROI" distance="1.7626043835534375" />
 	</gare>
 	<gare nom="ARPAJON" coord="2306, 2863">
-		<voisin nom="LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON" distance="2.9427875464236237" />
 		<voisin nom="EGLY" distance="2.1113081072178064" />
+		<voisin nom="LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON" distance="2.9427875464236237" />
 	</gare>
 	<gare nom="ATHIS-MONS" coord="2302, 2789">
 		<voisin nom="ABLON" distance="2.281653617473967" />
 		<voisin nom="JUVISY" distance="3.4504007849374205" />
 	</gare>
 	<gare nom="AUSTERLITZ" coord="1821, 1956">
-		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="2.4714643561295015" />
 		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="1.8847807873858478" />
+		<voisin nom="SAINT-MICHEL NOTRE DAME" distance="2.4714643561295015" />
 	</gare>
 	<gare nom="AVENUE DU PRESIDENT KENNEDY" coord="668, 1562">
 		<voisin nom="BOULAINVILLIERS" distance="0.5780370186464859" />
 		<voisin nom="CHAMP DE MARS-TOUR EIFFEL" distance="1.2798129256195316" />
 	</gare>
 	<gare nom="AVENUE FOCH" coord="730, 1209">
-		<voisin nom="PORTE MAILLOT" distance="1.2517847059390876" />
 		<voisin nom="AVENUE HENRI MARTIN" distance="0.8200999926147343" />
+		<voisin nom="PORTE MAILLOT" distance="1.2517847059390876" />
 	</gare>
 	<gare nom="AVENUE HENRI MARTIN" coord="655, 1339">
 		<voisin nom="AVENUE FOCH" distance="0.8200999926147343" />
 		<voisin nom="BOULAINVILLIERS" distance="0.9450389420978381" />
 	</gare>
 	<gare nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" coord="1982, 2234">
-		<voisin nom="IVRY-SUR-SEINE" distance="2.4303889198734647" />
 		<voisin nom="AUSTERLITZ" distance="1.8847807873858478" />
+		<voisin nom="IVRY-SUR-SEINE" distance="2.4303889198734647" />
 	</gare>
 	<gare nom="BIEVRES" coord="747, 2731">
 		<voisin nom="IGNY" distance="2.0688201675634157" />
@@ -41,12 +41,12 @@
 		<voisin nom="AVENUE HENRI MARTIN" distance="0.9450389420978381" />
 	</gare>
 	<gare nom="BOURAY" coord="2339, 2854">
-		<voisin nom="MAROLLES-EN-HUREPOIX" distance="3.6388643232053006" />
 		<voisin nom="LARDY" distance="4.172301877923698" />
+		<voisin nom="MAROLLES-EN-HUREPOIX" distance="3.6388643232053006" />
 	</gare>
 	<gare nom="BRETIGNY" coord="2326, 2833">
-		<voisin nom="MAROLLES-EN-HUREPOIX" distance="4.74211411049157" />
 		<voisin nom="LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON" distance="4.263360423268333" />
+		<voisin nom="MAROLLES-EN-HUREPOIX" distance="4.74211411049157" />
 		<voisin nom="SAINT-MICHEL-SUR-ORGE" distance="3.283498318856885" />
 	</gare>
 	<gare nom="BREUILLET-BRUYERES-LE-CHATEL" coord="2298, 2878">
@@ -54,8 +54,8 @@
 		<voisin nom="EGLY" distance="3.425832032282323" />
 	</gare>
 	<gare nom="BREUILLET-VILLAGE" coord="2293, 2885">
-		<voisin nom="SAINT-CHERON" distance="5.2584904543100635" />
 		<voisin nom="BREUILLET-BRUYERES-LE-CHATEL" distance="2.751906093209876" />
+		<voisin nom="SAINT-CHERON" distance="5.2584904543100635" />
 	</gare>
 	<gare nom="CERNAY" coord="1186, 207">
 		<voisin nom="ERMONT-EAUBONNE" distance="1.6971669390627229" />
@@ -66,17 +66,17 @@
 		<voisin nom="LARDY" distance="4.419561096177126" />
 	</gare>
 	<gare nom="CHAMP DE MARS-TOUR EIFFEL" coord="905, 1486">
-		<voisin nom="JAVEL" distance="1.9562970964956665" />
 		<voisin nom="AVENUE DU PRESIDENT KENNEDY" distance="1.2798129256195316" />
+		<voisin nom="JAVEL" distance="1.9562970964956665" />
 		<voisin nom="PONT DE L'ALMA" distance="1.3223459257122305" />
 	</gare>
 	<gare nom="CHAVILLE-VELIZY" coord="453, 2259">
-		<voisin nom="VIROFLAY RIVE GAUCHE" distance="1.373015304696811" />
 		<voisin nom="MEUDON-VAL-FLEURY" distance="6.425659150277346" />
+		<voisin nom="VIROFLAY RIVE GAUCHE" distance="1.373015304696811" />
 	</gare>
 	<gare nom="CHEMIN D'ANTONY" coord="1439, 2698">
-		<voisin nom="RUNGIS-LA FRATERNELLE" distance="4.417637572042561" />
 		<voisin nom="MASSY-VERRIERES" distance="4.607913705076098" />
+		<voisin nom="RUNGIS-LA FRATERNELLE" distance="4.417637572042561" />
 	</gare>
 	<gare nom="CHILLY-MAZARIN" coord="1709, 2884">
 		<voisin nom="GRAVIGNY-BALIZY" distance="1.989482319078679" />
@@ -95,25 +95,25 @@
 		<voisin nom="DOURDAN" distance="1.4479744350604402" />
 	</gare>
 	<gare nom="EGLY" coord="2302, 2870">
-		<voisin nom="BREUILLET-BRUYERES-LE-CHATEL" distance="3.425832032282323" />
 		<voisin nom="ARPAJON" distance="2.1113081072178064" />
+		<voisin nom="BREUILLET-BRUYERES-LE-CHATEL" distance="3.425832032282323" />
 	</gare>
 	<gare nom="EPINAY-SUR-ORGE" coord="2316, 2813">
 		<voisin nom="PETIT-VAUX" distance="0.7703644879133238" />
-		<voisin nom="SAVIGNY-SUR-ORGE" distance="2.342370305391709" />
 		<voisin nom="SAINTE-GENEVIEVE-DES-BOIS" distance="2.887855513599678" />
+		<voisin nom="SAVIGNY-SUR-ORGE" distance="2.342370305391709" />
 	</gare>
 	<gare nom="EPINAY-SUR-SEINE" coord="1201, 232">
-		<voisin nom="SAINT-GRATIEN" distance="2.149975751734069" />
 		<voisin nom="GENNEVILLIERS" distance="2.363996655583583" />
+		<voisin nom="SAINT-GRATIEN" distance="2.149975751734069" />
 	</gare>
 	<gare nom="ERMONT-EAUBONNE" coord="1190, 213">
-		<voisin nom="SAINT-GRATIEN" distance="2.444398278108905" />
 		<voisin nom="CERNAY" distance="1.6971669390627229" />
+		<voisin nom="SAINT-GRATIEN" distance="2.444398278108905" />
 	</gare>
 	<gare nom="ETAMPES" coord="2354, 2884">
-		<voisin nom="SAINT-MARTIN-D'ETAMPES" distance="1.9130215748493946" />
 		<voisin nom="ETRECHY" distance="7.418564028837585" />
+		<voisin nom="SAINT-MARTIN-D'ETAMPES" distance="1.9130215748493946" />
 	</gare>
 	<gare nom="ETRECHY" coord="2351, 2877">
 		<voisin nom="CHAMARANDE" distance="3.2685228527039083" />
@@ -124,12 +124,12 @@
 		<voisin nom="MONTIGNY-BEAUCHAMP" distance="4.35625311847048" />
 	</gare>
 	<gare nom="GENNEVILLIERS" coord="1211, 248">
-		<voisin nom="LES GRESILLONS" distance="1.4895347084807102" />
 		<voisin nom="EPINAY-SUR-SEINE" distance="2.363996655583583" />
+		<voisin nom="LES GRESILLONS" distance="1.4895347084807102" />
 	</gare>
 	<gare nom="GRAVIGNY-BALIZY" coord="1945, 2883">
-		<voisin nom="PETIT-VAUX" distance="2.0253670804715385" />
 		<voisin nom="CHILLY-MAZARIN" distance="1.989482319078679" />
+		<voisin nom="PETIT-VAUX" distance="2.0253670804715385" />
 	</gare>
 	<gare nom="IGNY" coord="793, 2811">
 		<voisin nom="BIEVRES" distance="2.0688201675634157" />
@@ -144,20 +144,20 @@
 		<voisin nom="MEUDON-VAL-FLEURY" distance="2.407553767011187" />
 	</gare>
 	<gare nom="ISSY-VAL DE SEINE" coord="602, 2001">
-		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="1.2503064738376" />
 		<voisin nom="ISSY" distance="1.2849330247438042" />
+		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="1.2503064738376" />
 	</gare>
 	<gare nom="IVRY-SUR-SEINE" coord="2062, 2372">
 		<voisin nom="BIBLIOTHEQUE FRANCOIS MITTERRAND" distance="2.4303889198734647" />
 		<voisin nom="VITRY-SUR-SEINE" distance="1.963506564766693" />
 	</gare>
 	<gare nom="JAVEL" coord="815, 1633">
-		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="1.05659032923362" />
 		<voisin nom="CHAMP DE MARS-TOUR EIFFEL" distance="1.9562970964956665" />
+		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="1.05659032923362" />
 	</gare>
 	<gare nom="JOUY-EN-JOSAS" coord="652, 2574">
-		<voisin nom="VAUBOYEN" distance="3.198908723349465" />
 		<voisin nom="PETIT-JOUY-LES-LOGES" distance="2.0062432120847995" />
+		<voisin nom="VAUBOYEN" distance="3.198908723349465" />
 	</gare>
 	<gare nom="JUVISY" coord="2308, 2799">
 		<voisin nom="ATHIS-MONS" distance="3.4504007849374205" />
@@ -176,8 +176,8 @@
 		<voisin nom="VITRY-SUR-SEINE" distance="2.1107035004963857" />
 	</gare>
 	<gare nom="LES GRESILLONS" coord="1232, 293">
-		<voisin nom="SAINT-OUEN" distance="1.942720059610136" />
 		<voisin nom="GENNEVILLIERS" distance="1.4895347084807102" />
+		<voisin nom="SAINT-OUEN" distance="1.942720059610136" />
 	</gare>
 	<gare nom="LES SAULES" coord="2111, 2694">
 		<voisin nom="CHOISY-LE-ROI" distance="2.1906061622372386" />
@@ -201,12 +201,12 @@
 		<voisin nom="MASSY-PALAISEAU" distance="1.9878679793387275" />
 	</gare>
 	<gare nom="MEUDON-VAL-FLEURY" coord="489, 2196">
-		<voisin nom="ISSY" distance="2.407553767011187" />
 		<voisin nom="CHAVILLE-VELIZY" distance="6.425659150277346" />
+		<voisin nom="ISSY" distance="2.407553767011187" />
 	</gare>
 	<gare nom="MONTIGNY-BEAUCHAMP" coord="1175, 188">
-		<voisin nom="PIERRELAYE" distance="4.956222080420273" />
 		<voisin nom="FRANCONVILLE-LE-PLESSIS-BOUCHARD" distance="4.35625311847048" />
+		<voisin nom="PIERRELAYE" distance="4.956222080420273" />
 	</gare>
 	<gare nom="MUSEE D'ORSAY" coord="1338, 1581">
 		<voisin nom="INVALIDES" distance="1.3261048818033585" />
@@ -221,55 +221,55 @@
 		<voisin nom="PORTE-DE-CLICHY" distance="2.184945414400704" />
 	</gare>
 	<gare nom="PETIT-JOUY-LES-LOGES" coord="515, 2550">
-		<voisin nom="VERSAILLES-CHANTIERS" distance="3.014156857696212" />
 		<voisin nom="JOUY-EN-JOSAS" distance="2.0062432120847995" />
+		<voisin nom="VERSAILLES-CHANTIERS" distance="3.014156857696212" />
 	</gare>
 	<gare nom="PETIT-VAUX" coord="2180, 2884">
-		<voisin nom="GRAVIGNY-BALIZY" distance="2.0253670804715385" />
 		<voisin nom="EPINAY-SUR-ORGE" distance="0.7703644879133238" />
+		<voisin nom="GRAVIGNY-BALIZY" distance="2.0253670804715385" />
 	</gare>
 	<gare nom="PIERRELAYE" coord="1169, 177">
-		<voisin nom="SAINT-OUEN-L'AUMONE-LIESSE" distance="3.371309762637187" />
 		<voisin nom="MONTIGNY-BEAUCHAMP" distance="4.956222080420273" />
+		<voisin nom="SAINT-OUEN-L'AUMONE-LIESSE" distance="3.371309762637187" />
 	</gare>
 	<gare nom="PONT DE L'ALMA" coord="1034, 1432">
-		<voisin nom="INVALIDES" distance="1.438617836052831" />
 		<voisin nom="CHAMP DE MARS-TOUR EIFFEL" distance="1.3223459257122305" />
+		<voisin nom="INVALIDES" distance="1.438617836052831" />
 	</gare>
 	<gare nom="PONT DE RUNGIS" coord="1700, 2694">
-		<voisin nom="RUNGIS-LA FRATERNELLE" distance="2.5572364322759453" />
 		<voisin nom="ORLY VILLE" distance="3.3941350819975664" />
+		<voisin nom="RUNGIS-LA FRATERNELLE" distance="2.5572364322759453" />
 	</gare>
 	<gare nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" coord="692, 1846">
-		<voisin nom="JAVEL" distance="1.05659032923362" />
 		<voisin nom="ISSY-VAL DE SEINE" distance="1.2503064738376" />
+		<voisin nom="JAVEL" distance="1.05659032923362" />
 	</gare>
 	<gare nom="PONTOISE" coord="1148, 140">
 		<voisin nom="SAINT-OUEN-L'AUMONE" distance="1.1137364108603192" />
 	</gare>
 	<gare nom="PORCHEFONTAINE" coord="306, 2448">
-		<voisin nom="VIROFLAY RIVE GAUCHE" distance="2.167037388426807" />
 		<voisin nom="VERSAILLES CHATEAU" distance="2.629804666546846" />
+		<voisin nom="VIROFLAY RIVE GAUCHE" distance="2.167037388426807" />
 	</gare>
 	<gare nom="PORTE MAILLOT" coord="851, 1000">
 		<voisin nom="AVENUE FOCH" distance="1.2517847059390876" />
 		<voisin nom="PEREIRE-LEVALLOIS" distance="1.728553772513368" />
 	</gare>
 	<gare nom="PORTE-DE-CLICHY" coord="1128, 520">
-		<voisin nom="SAINT-OUEN" distance="1.4851093259313006" />
 		<voisin nom="PEREIRE-LEVALLOIS" distance="2.184945414400704" />
+		<voisin nom="SAINT-OUEN" distance="1.4851093259313006" />
 	</gare>
 	<gare nom="RUNGIS-LA FRATERNELLE" coord="1626, 2694">
 		<voisin nom="CHEMIN D'ANTONY" distance="4.417637572042561" />
 		<voisin nom="PONT DE RUNGIS" distance="2.5572364322759453" />
 	</gare>
 	<gare nom="SAINT-CHERON" coord="2289, 2893">
-		<voisin nom="SERMAISE" distance="6.496636454980468" />
 		<voisin nom="BREUILLET-VILLAGE" distance="5.2584904543100635" />
+		<voisin nom="SERMAISE" distance="6.496636454980468" />
 	</gare>
 	<gare nom="SAINT-CYR" coord="218, 2605">
-		<voisin nom="VERSAILLES-CHANTIERS" distance="7.1572618019523055" />
 		<voisin nom="SAINT-QUENTIN-EN-YVELINES" distance="3.2817920525715047" />
+		<voisin nom="VERSAILLES-CHANTIERS" distance="7.1572618019523055" />
 	</gare>
 	<gare nom="SAINT-GRATIEN" coord="1196, 222">
 		<voisin nom="EPINAY-SUR-SEINE" distance="2.149975751734069" />
@@ -279,8 +279,8 @@
 		<voisin nom="ETAMPES" distance="1.9130215748493946" />
 	</gare>
 	<gare nom="SAINT-MICHEL NOTRE DAME" coord="1605, 1735">
-		<voisin nom="MUSEE D'ORSAY" distance="2.4159711942059854" />
 		<voisin nom="AUSTERLITZ" distance="2.4714643561295015" />
+		<voisin nom="MUSEE D'ORSAY" distance="2.4159711942059854" />
 	</gare>
 	<gare nom="SAINT-MICHEL-SUR-ORGE" coord="2322, 2826">
 		<voisin nom="BRETIGNY" distance="3.283498318856885" />
@@ -302,12 +302,12 @@
 		<voisin nom="SAINT-CYR" distance="3.2817920525715047" />
 	</gare>
 	<gare nom="SAINTE-GENEVIEVE-DES-BOIS" coord="2319, 2820">
-		<voisin nom="SAINT-MICHEL-SUR-ORGE" distance="1.9950523090082573" />
 		<voisin nom="EPINAY-SUR-ORGE" distance="2.887855513599678" />
+		<voisin nom="SAINT-MICHEL-SUR-ORGE" distance="1.9950523090082573" />
 	</gare>
 	<gare nom="SAVIGNY-SUR-ORGE" coord="2312, 2806">
-		<voisin nom="JUVISY" distance="3.6784663683188006" />
 		<voisin nom="EPINAY-SUR-ORGE" distance="2.342370305391709" />
+		<voisin nom="JUVISY" distance="3.6784663683188006" />
 	</gare>
 	<gare nom="SERMAISE" coord="2285, 2901">
 		<voisin nom="DOURDAN" distance="6.750984955014034" />
@@ -321,18 +321,18 @@
 		<voisin nom="PORCHEFONTAINE" distance="2.629804666546846" />
 	</gare>
 	<gare nom="VERSAILLES-CHANTIERS" coord="322, 2549">
+		<voisin nom="PETIT-JOUY-LES-LOGES" distance="3.014156857696212" />
 		<voisin nom="SAINT-CYR" distance="7.1572618019523055" />
 		<voisin nom="VIROFLAY RIVE GAUCHE" distance="3.9801976798777545" />
-		<voisin nom="PETIT-JOUY-LES-LOGES" distance="3.014156857696212" />
 	</gare>
 	<gare nom="VILLENEUVE-LE-ROI" coord="2263, 2720">
 		<voisin nom="ABLON" distance="1.7626043835534375" />
 		<voisin nom="CHOISY-LE-ROI" distance="3.1451765102261695" />
 	</gare>
 	<gare nom="VIROFLAY RIVE GAUCHE" coord="367, 2406">
-		<voisin nom="VERSAILLES-CHANTIERS" distance="3.9801976798777545" />
-		<voisin nom="PORCHEFONTAINE" distance="2.167037388426807" />
 		<voisin nom="CHAVILLE-VELIZY" distance="1.373015304696811" />
+		<voisin nom="PORCHEFONTAINE" distance="2.167037388426807" />
+		<voisin nom="VERSAILLES-CHANTIERS" distance="3.9801976798777545" />
 	</gare>
 	<gare nom="VITRY-SUR-SEINE" coord="2100, 2438">
 		<voisin nom="IVRY-SUR-SEINE" distance="1.963506564766693" />

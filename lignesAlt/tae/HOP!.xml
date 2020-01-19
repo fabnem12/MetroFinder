@@ -1,331 +1,331 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="" couleur="E65100">
+<ligne terminus="Glasgow,Malaga,Helsinki,Séville,Gibraltar,Londres City,Rovaniemi,Bichkek,Darwin,Canberra,St Marin,Brunei,Guadeloupe,Reykjavik,Milan,Lyon,Maseru,Paris Orly,Biarritz,Perth,Belfast,Ottawa,Düsseldorf,La Paz,Tunis,Marseille,Kiev,Nantes,Kansai,Oulan Bator,Manille,Bangkok,Wellington,Beyrouth,Barcelone,Bucarest,EuroAirport,Hong Kong,Longyearbyen,Lima,Pretoria,Beauvais,Deauville,Francfort,Tallinn,Vancouver,Calgary,Lisbonne,Addis Abeba,Jakarta,Douvres,Dresde,Amsterdam,St Pierre,Vilnius,Nairobi,Malte,Saskatoon,Lourdes,Chisinau,Édimbourg,Tarbes Lyon,Keflavik,Venise,Melbourne,Bogota,Tokyo,Ivalo,Shanghai,Zagreb,Nice,Tahiti,Le Caire,Salzbourg,Ljubljana,Brisbane,Varsovie,Split,Funchal,Téhéran,Busan,Innsbruck,George,Ajaccio,Vagar,Montpellier,Riga,Taipei,Bruxelles,Buenos Aires,San José,Aberdeen,Ürümqi,Johannesbourg,El Calafate,Montréal,Hambourg,Toulouse,Maurice,Thessalonique,Sydney,Héraklion,Kangerlussuaq,Christchurch,Margrethe II,Bacau,Antananarivo,Xi'an,Rennes,Las Palmas,Sofia,Katmandou,Abidjan,Genève,Munich,Nuuk,Mumbai,Billund,Halifax,Casablanca,Lagos,Punta Cana,Ushuaia,Pékin,Kaliningrad,Marrakech,Chennai,Constanta,Bergen,Bergerac,Cagliari,Dar es salam,Lille,New Delhi,Singapour,Palerme,Prague,Stockholm,Göteborg,Erevan,Canton,Martinique,Larnaca,Hanovre,Upington,Séoul,Cancun,Podgorica,Trois Rivières,Dublin,Cracovie,Mexico,Catane,Skopje,Oslo,Toronto,Trondheim,Téhéran Mehrabad,Berlin,Dakar,Oulu,Le Cap,Zurich,Bilbao,Santiago Chili,Edimbourg,Polokwane,Jersey,Luxembourg,Valence,Tel Aviv,Doha,Cayenne,Sendai,Narsarsuaq,Adélaïde,Palma de Majorque,Port Moresby,St Jean,Alger,Paris,Bordeaux,Hamilton,Rome,Québec,Sisimiut,Vienne,Brest,Réunion,Panama,Moscou Vnukovo,Auckland,Almaty,Ilulissat,Ponta Delgada,Florence,Naples,Strasbourg,Madrid,Astana,Quito,St Martin,Seychelles,Djerba,Dalian,Dubrovnik,Nouméa,Winnipeg,Rotterdam,Copenhague,Athènes,Timisoara,Windhoek,Edmonton,Pistina,Tbilissi,Belgrade,Iasi,Porto,Lahore,Stavanger" couleur="E65100">
 	<gare nom="Aberdeen" coord="-2.2001619, 57.2036979">
-		<voisin nom="Edimbourg" distance="190.04813566247122" />
-		<voisin nom="Dublin" distance="615.6340062036245" />
+		<voisin nom="Dublin" distance="492.36894749880304" />
+		<voisin nom="Edimbourg" distance="156.59329096926345" />
 	</gare>
 	<gare nom="Amsterdam" coord="4.7674241, 52.3076865">
-		<voisin nom="Edimbourg" distance="991.4720049930223" />
-		<voisin nom="Paris Orly" distance="479.39358907887953" />
+		<voisin nom="Edimbourg" distance="666.836729827949" />
+		<voisin nom="Paris Orly" distance="433.36659219750237" />
 	</gare>
 	<gare nom="Antananarivo" coord="47.4752711, -18.7993016">
-		<voisin nom="Réunion" distance="906.2320866554506" />
+		<voisin nom="Réunion" distance="873.0362031617328" />
 	</gare>
 	<gare nom="Beauvais" coord="2.1115111, 49.4544677">
-		<voisin nom="Berlin" distance="1310.5130491993327" />
+		<voisin nom="Berlin" distance="863.4551348471622" />
 	</gare>
 	<gare nom="Belfast" coord="-5.8718304, 54.6176164">
-		<voisin nom="Londres City" distance="744.4107707467831" />
-		<voisin nom="Douvres" distance="885.7729338683484" />
+		<voisin nom="Douvres" distance="617.8566091664958" />
+		<voisin nom="Londres City" distance="525.9823930994372" />
 	</gare>
 	<gare nom="Berlin" coord="13.5216148, 52.3854411">
-		<voisin nom="Hanovre" distance="426.72694119825576" />
-		<voisin nom="Prague" distance="260.2168719012527" />
-		<voisin nom="Beauvais" distance="1310.5130491993327" />
-		<voisin nom="Lille" distance="1176.4862044969539" />
-		<voisin nom="Billund" distance="608.762900213606" />
+		<voisin nom="Beauvais" distance="863.4551348471622" />
+		<voisin nom="Billund" distance="469.9031564378565" />
+		<voisin nom="Hanovre" distance="260.28467099293385" />
+		<voisin nom="Lille" distance="749.0538341792886" />
+		<voisin nom="Prague" distance="259.4103009067292" />
 	</gare>
 	<gare nom="Billund" coord="9.1525999, 55.7408067">
-		<voisin nom="Berlin" distance="608.762900213606" />
-		<voisin nom="Edimbourg" distance="1393.252827122615" />
-		<voisin nom="Copenhague" distance="389.64485591933925" />
-		<voisin nom="Paris Orly" distance="1083.3936899919872" />
+		<voisin nom="Berlin" distance="469.9031564378565" />
+		<voisin nom="Copenhague" distance="219.96182908234184" />
+		<voisin nom="Edimbourg" distance="781.3742900284104" />
+		<voisin nom="Paris Orly" distance="906.700834709117" />
 	</gare>
 	<gare nom="Brest" coord="-4.4178324, 48.4476378">
-		<voisin nom="Edimbourg" distance="841.5644520165151" />
-		<voisin nom="Dublin" distance="588.2955342367381" />
+		<voisin nom="Dublin" distance="568.8933100655943" />
+		<voisin nom="Edimbourg" distance="838.3240346849927" />
 	</gare>
 	<gare nom="Brunei" coord="114.9330596, 4.9455663">
-		<voisin nom="Hong Kong" distance="804.5012493623979" />
+		<voisin nom="Hong Kong" distance="1935.8686551920437" />
 	</gare>
 	<gare nom="Bucarest" coord="26.0844123, 44.5707306">
-		<voisin nom="Sofia" distance="353.3181268613923" />
+		<voisin nom="Sofia" distance="300.308806598265" />
 	</gare>
 	<gare nom="Buenos Aires" coord="-58.5348284, -34.8150044">
-		<voisin nom="El Calafate" distance="1656.4050398855877" />
+		<voisin nom="El Calafate" distance="2040.9125825695958" />
 	</gare>
 	<gare nom="Busan" coord="128.9464591, 35.17322">
-		<voisin nom="Hong Kong" distance="1823.6584150769486" />
+		<voisin nom="Hong Kong" distance="2045.105411882289" />
 	</gare>
 	<gare nom="Copenhague" coord="12.6507628, 55.6180236">
-		<voisin nom="Vagar" distance="2329.9660783715976" />
-		<voisin nom="Hambourg" distance="366.26503048466395" />
-		<voisin nom="Billund" distance="389.64485591933925" />
+		<voisin nom="Billund" distance="219.96182908234184" />
+		<voisin nom="Hambourg" distance="279.30795553245207" />
+		<voisin nom="Vagar" distance="1345.2167233369337" />
 	</gare>
 	<gare nom="Dalian" coord="121.5383333, 38.9655556">
-		<voisin nom="Hong Kong" distance="1202.8321141481024" />
+		<voisin nom="Hong Kong" distance="1990.7713007291438" />
 	</gare>
 	<gare nom="Darwin" coord="130.877545, -12.4112158">
-		<voisin nom="Port Moresby" distance="1835.7235449186064" />
+		<voisin nom="Port Moresby" distance="1815.9788716967985" />
 	</gare>
 	<gare nom="Douvres" coord="1.277976, 51.1204417">
-		<voisin nom="Gibraltar" distance="1820.1557374931147" />
-		<voisin nom="Jersey" distance="441.3817785046152" />
-		<voisin nom="Keflavik" distance="3005.3931133207384" />
-		<voisin nom="Belfast" distance="885.7729338683484" />
+		<voisin nom="Belfast" distance="617.8566091664958" />
+		<voisin nom="Gibraltar" distance="1747.6862359749634" />
+		<voisin nom="Jersey" distance="326.5733716583792" />
+		<voisin nom="Keflavik" distance="1998.9935054185944" />
 	</gare>
 	<gare nom="Dublin" coord="-6.2499098, 53.4264481">
-		<voisin nom="Brest" distance="588.2955342367381" />
-		<voisin nom="Londres City" distance="733.0268903834368" />
-		<voisin nom="Paris Orly" distance="1092.0988028020195" />
-		<voisin nom="Jersey" distance="650.3981368827833" />
-		<voisin nom="Glasgow" distance="337.79347047194807" />
-		<voisin nom="Aberdeen" distance="615.6340062036245" />
+		<voisin nom="Aberdeen" distance="492.36894749880304" />
+		<voisin nom="Brest" distance="568.8933100655943" />
+		<voisin nom="Glasgow" distance="295.9479474573996" />
+		<voisin nom="Jersey" distance="547.6649823765631" />
+		<voisin nom="Londres City" distance="477.55784584616055" />
+		<voisin nom="Paris Orly" distance="797.0393938396259" />
 	</gare>
 	<gare nom="Düsseldorf" coord="6.7667912, 51.2876146">
-		<voisin nom="Edimbourg" distance="1240.852972088257" />
+		<voisin nom="Edimbourg" distance="845.1855604405918" />
 	</gare>
 	<gare nom="Edimbourg" coord="-3.3614532, 55.950785">
-		<voisin nom="Zurich" distance="1627.425477061201" />
-		<voisin nom="Oslo" distance="1677.203676828134" />
-		<voisin nom="Rotterdam" distance="975.5360481485592" />
-		<voisin nom="Aberdeen" distance="190.04813566247122" />
-		<voisin nom="Vienne" distance="2379.9030867772567" />
-		<voisin nom="Billund" distance="1393.252827122615" />
-		<voisin nom="Venise" distance="2095.89872576321" />
-		<voisin nom="Porto" distance="1731.957225863047" />
-		<voisin nom="Milan" distance="1826.4190612279763" />
-		<voisin nom="Vagar" distance="805.4067340279302" />
-		<voisin nom="Amsterdam" distance="991.4720049930223" />
-		<voisin nom="Riga" distance="3044.714401276411" />
-		<voisin nom="Hambourg" distance="1509.1328722396488" />
-		<voisin nom="Francfort" distance="1480.738954071664" />
-		<voisin nom="Varsovie" distance="2739.6148915742747" />
-		<voisin nom="Düsseldorf" distance="1240.852972088257" />
-		<voisin nom="Jersey" distance="760.9233998670101" />
-		<voisin nom="Brest" distance="841.5644520165151" />
-		<voisin nom="Rome" distance="2338.7277517037655" />
-		<voisin nom="Rennes" distance="894.9315747053924" />
+		<voisin nom="Aberdeen" distance="156.59329096926345" />
+		<voisin nom="Amsterdam" distance="666.836729827949" />
+		<voisin nom="Billund" distance="781.3742900284104" />
+		<voisin nom="Brest" distance="838.3240346849927" />
+		<voisin nom="Düsseldorf" distance="845.1855604405918" />
+		<voisin nom="Francfort" distance="1032.7055511943377" />
+		<voisin nom="Hambourg" distance="893.7043605013793" />
+		<voisin nom="Jersey" distance="754.7678454151958" />
+		<voisin nom="Milan" distance="1464.8136352945032" />
+		<voisin nom="Oslo" distance="970.8821024536446" />
+		<voisin nom="Porto" distance="1682.2664409488095" />
+		<voisin nom="Rennes" distance="884.2984588834361" />
+		<voisin nom="Riga" distance="1674.4947390479365" />
+		<voisin nom="Rome" distance="1936.446988842959" />
+		<voisin nom="Rotterdam" distance="676.7483714215309" />
+		<voisin nom="Vagar" distance="716.1587775910306" />
+		<voisin nom="Varsovie" distance="1635.0343449919603" />
+		<voisin nom="Venise" distance="1598.1692412028585" />
+		<voisin nom="Vienne" distance="1610.7105549182959" />
+		<voisin nom="Zurich" distance="1249.369838411582" />
 	</gare>
 	<gare nom="El Calafate" coord="-72.0536406, -50.283977">
-		<voisin nom="Santiago Chili" distance="613.0630975420283" />
-		<voisin nom="Ushuaia" distance="450.587372872833" />
-		<voisin nom="Buenos Aires" distance="1656.4050398855877" />
+		<voisin nom="Buenos Aires" distance="2040.9125825695958" />
+		<voisin nom="Santiago Chili" distance="1883.4005745779925" />
+		<voisin nom="Ushuaia" distance="566.959936662505" />
 	</gare>
 	<gare nom="Francfort" coord="8.5621518, 50.0379326">
-		<voisin nom="Edimbourg" distance="1480.738954071664" />
-		<voisin nom="Paris Orly" distance="704.9684022631751" />
+		<voisin nom="Edimbourg" distance="1032.7055511943377" />
+		<voisin nom="Paris Orly" distance="472.0655364350788" />
 	</gare>
 	<gare nom="George" coord="22.3809737, -34.0043643">
-		<voisin nom="Le Cap" distance="420.6779375694851" />
+		<voisin nom="Le Cap" distance="348.7952949015269" />
 	</gare>
 	<gare nom="Gibraltar" coord="-5.3464064, 36.153862">
-		<voisin nom="Londres City" distance="1809.026695641535" />
-		<voisin nom="Douvres" distance="1820.1557374931147" />
+		<voisin nom="Douvres" distance="1747.6862359749634" />
+		<voisin nom="Londres City" distance="1761.7242747184748" />
 	</gare>
 	<gare nom="Glasgow" coord="-4.4350529, 55.8690744">
-		<voisin nom="Dublin" distance="337.79347047194807" />
+		<voisin nom="Dublin" distance="295.9479474573996" />
 	</gare>
 	<gare nom="Hambourg" coord="9.9974128, 53.633622">
-		<voisin nom="Edimbourg" distance="1509.1328722396488" />
-		<voisin nom="Copenhague" distance="366.26503048466395" />
+		<voisin nom="Copenhague" distance="279.30795553245207" />
+		<voisin nom="Edimbourg" distance="893.7043605013793" />
 	</gare>
 	<gare nom="Hanovre" coord="9.6889919, 52.4618486">
-		<voisin nom="Berlin" distance="426.72694119825576" />
+		<voisin nom="Berlin" distance="260.28467099293385" />
 	</gare>
 	<gare nom="Hong Kong" coord="113.9184808, 22.308047">
-		<voisin nom="Taipei" distance="826.6108825041293" />
-		<voisin nom="Busan" distance="1823.6584150769486" />
-		<voisin nom="Brunei" distance="804.5012493623979" />
-		<voisin nom="Sendai" distance="3169.079195786025" />
-		<voisin nom="Dalian" distance="1202.8321141481024" />
+		<voisin nom="Brunei" distance="1935.8686551920437" />
+		<voisin nom="Busan" distance="2045.105411882289" />
+		<voisin nom="Dalian" distance="1990.7713007291438" />
+		<voisin nom="Sendai" distance="3119.3855572472653" />
+		<voisin nom="Taipei" distance="806.8593511760619" />
 	</gare>
 	<gare nom="Ilulissat" coord="-51.0986031, 69.2198118">
-		<voisin nom="Margrethe II" distance="1468.5444182438519" />
+		<voisin nom="Margrethe II" distance="595.6238508842682" />
 	</gare>
 	<gare nom="Jersey" coord="-2.1952207, 49.2074637">
-		<voisin nom="Londres City" distance="357.5120466051548" />
-		<voisin nom="Douvres" distance="441.3817785046152" />
-		<voisin nom="Edimbourg" distance="760.9233998670101" />
-		<voisin nom="Dublin" distance="650.3981368827833" />
+		<voisin nom="Douvres" distance="326.5733716583792" />
+		<voisin nom="Dublin" distance="547.6649823765631" />
+		<voisin nom="Edimbourg" distance="754.7678454151958" />
+		<voisin nom="Londres City" distance="301.33354126556407" />
 	</gare>
 	<gare nom="Kaliningrad" coord="20.585788, 54.882318">
-		<voisin nom="Londres City" distance="2315.470385096226" />
-		<voisin nom="Moscou Vnukovo" distance="1860.6687117139452" />
+		<voisin nom="Londres City" distance="1414.5292067684568" />
+		<voisin nom="Moscou Vnukovo" distance="1060.4541134130366" />
 	</gare>
 	<gare nom="Kangerlussuaq" coord="-50.6946193, 67.0192112">
-		<voisin nom="Margrethe II" distance="1413.1593706879037" />
+		<voisin nom="Margrethe II" distance="550.9940946533867" />
 	</gare>
 	<gare nom="Keflavik" coord="-22.635036, 63.9786029">
-		<voisin nom="Margrethe II" distance="1734.590228553246" />
-		<voisin nom="Douvres" distance="3005.3931133207384" />
+		<voisin nom="Douvres" distance="1998.9935054185944" />
+		<voisin nom="Margrethe II" distance="782.5299627609492" />
 	</gare>
 	<gare nom="Le Cap" coord="18.6020851, -33.971463">
-		<voisin nom="Pretoria" distance="1322.8486231704558" />
-		<voisin nom="Upington" distance="652.7465361261694" />
-		<voisin nom="Polokwane" distance="1584.4948435540728" />
-		<voisin nom="Maseru" distance="1098.806471934984" />
-		<voisin nom="George" distance="420.6779375694851" />
+		<voisin nom="George" distance="348.7952949015269" />
+		<voisin nom="Maseru" distance="985.3825106358611" />
+		<voisin nom="Polokwane" distance="1542.3085772486677" />
+		<voisin nom="Pretoria" distance="1267.0767848400437" />
+		<voisin nom="Upington" distance="668.7532989565873" />
 	</gare>
 	<gare nom="Lille" coord="3.106087, 50.57178">
-		<voisin nom="Berlin" distance="1176.4862044969539" />
+		<voisin nom="Berlin" distance="749.0538341792886" />
 	</gare>
 	<gare nom="Londres City" coord="0.049518, 51.5048437">
-		<voisin nom="Kaliningrad" distance="2315.470385096226" />
-		<voisin nom="Gibraltar" distance="1809.026695641535" />
-		<voisin nom="Zurich" distance="1047.8462543182022" />
-		<voisin nom="Oslo" distance="1561.3805177306965" />
-		<voisin nom="Belfast" distance="744.4107707467831" />
-		<voisin nom="Paris Orly" distance="402.58184501307244" />
-		<voisin nom="Dublin" distance="733.0268903834368" />
-		<voisin nom="Jersey" distance="357.5120466051548" />
+		<voisin nom="Belfast" distance="525.9823930994372" />
+		<voisin nom="Dublin" distance="477.55784584616055" />
+		<voisin nom="Gibraltar" distance="1761.7242747184748" />
+		<voisin nom="Jersey" distance="301.33354126556407" />
+		<voisin nom="Kaliningrad" distance="1414.5292067684568" />
+		<voisin nom="Oslo" distance="1185.4750653304" />
+		<voisin nom="Paris Orly" distance="350.66887278565076" />
+		<voisin nom="Zurich" distance="761.6848845014532" />
 	</gare>
 	<gare nom="Lyon" coord="5.0887768, 45.7234181">
-		<voisin nom="Paris Orly" distance="450.7374396804626" />
+		<voisin nom="Paris Orly" distance="392.53578798845217" />
 	</gare>
-	<gare nom="Margrethe II" coord="-38, 67">
-		<voisin nom="Ilulissat" distance="1468.5444182438519" />
-		<voisin nom="Nuuk" distance="1537.9758300785747" />
-		<voisin nom="Sisimiut" distance="1750.175443912878" />
-		<voisin nom="Narsarsuaq" distance="957.121847042961" />
-		<voisin nom="Keflavik" distance="1734.590228553246" />
-		<voisin nom="Reykjavik" distance="1807.7281487050002" />
-		<voisin nom="Kangerlussuaq" distance="1413.1593706879037" />
+	<gare nom="Margrethe II" coord="-38.0, 67.0">
+		<voisin nom="Ilulissat" distance="595.6238508842682" />
+		<voisin nom="Kangerlussuaq" distance="550.9940946533867" />
+		<voisin nom="Keflavik" distance="782.5299627609492" />
+		<voisin nom="Narsarsuaq" distance="742.3066880857266" />
+		<voisin nom="Nuuk" distance="700.3611503831829" />
+		<voisin nom="Reykjavik" distance="802.1109636710153" />
+		<voisin nom="Sisimiut" distance="682.7222990024605" />
 	</gare>
 	<gare nom="Maseru" coord="27.559059, -29.4554631">
-		<voisin nom="Le Cap" distance="1098.806471934984" />
+		<voisin nom="Le Cap" distance="985.3825106358611" />
 	</gare>
 	<gare nom="Maurice" coord="57.6789971, -20.4331335">
-		<voisin nom="Réunion" distance="242.84185713893277" />
+		<voisin nom="Réunion" distance="231.3974240498949" />
 	</gare>
 	<gare nom="Milan" coord="9.276308, 45.452176">
-		<voisin nom="Edimbourg" distance="1826.4190612279763" />
-		<voisin nom="Paris Orly" distance="850.4016784686996" />
+		<voisin nom="Edimbourg" distance="1464.8136352945032" />
+		<voisin nom="Paris Orly" distance="637.7304168626304" />
 	</gare>
 	<gare nom="Montpellier" coord="3.9652372, 43.5795991">
-		<voisin nom="Paris Orly" distance="599.1157931964615" />
+		<voisin nom="Paris Orly" distance="586.0194311828011" />
 	</gare>
 	<gare nom="Montréal" coord="-73.7454814, 45.4656851">
-		<voisin nom="St Pierre" distance="1956.467828700478" />
+		<voisin nom="St Pierre" distance="1360.4716009520282" />
 	</gare>
 	<gare nom="Moscou Vnukovo" coord="37.2886189, 55.6060388">
-		<voisin nom="Kaliningrad" distance="1860.6687117139452" />
+		<voisin nom="Kaliningrad" distance="1060.4541134130366" />
 	</gare>
 	<gare nom="Nantes" coord="-1.606232, 47.157419">
-		<voisin nom="Paris Orly" distance="475.3324415098682" />
+		<voisin nom="Paris Orly" distance="343.7498407884179" />
 	</gare>
 	<gare nom="Naples" coord="14.289243, 40.8847493">
-		<voisin nom="Paris Orly" distance="1582.724703706894" />
+		<voisin nom="Paris Orly" distance="1281.3415452029415" />
 	</gare>
 	<gare nom="Narsarsuaq" coord="-45.4178059, 61.1614002">
-		<voisin nom="Margrethe II" distance="957.121847042961" />
-		<voisin nom="Vagar" distance="4246.877324562427" />
+		<voisin nom="Margrethe II" distance="742.3066880857266" />
+		<voisin nom="Vagar" distance="1991.9744345525794" />
 	</gare>
 	<gare nom="Nuuk" coord="-51.6743553, 64.1917098">
-		<voisin nom="Margrethe II" distance="1537.9758300785747" />
+		<voisin nom="Margrethe II" distance="700.3611503831829" />
 	</gare>
 	<gare nom="Oslo" coord="11.1004152, 60.1975501">
-		<voisin nom="Londres City" distance="1561.3805177306965" />
-		<voisin nom="Edimbourg" distance="1677.203676828134" />
+		<voisin nom="Edimbourg" distance="970.8821024536446" />
+		<voisin nom="Londres City" distance="1185.4750653304" />
 	</gare>
 	<gare nom="Paris Orly" coord="2.3652472, 48.7262433">
-		<voisin nom="Vienne" distance="1582.2969146301998" />
-		<voisin nom="Amsterdam" distance="479.39358907887953" />
-		<voisin nom="Zurich" distance="703.2596458535207" />
-		<voisin nom="Naples" distance="1582.724703706894" />
-		<voisin nom="Francfort" distance="704.9684022631751" />
-		<voisin nom="Billund" distance="1083.3936899919872" />
-		<voisin nom="Lyon" distance="450.7374396804626" />
-		<voisin nom="Montpellier" distance="599.1157931964615" />
-		<voisin nom="Nantes" distance="475.3324415098682" />
-		<voisin nom="Rome" distance="1339.1176762014566" />
-		<voisin nom="Londres City" distance="402.58184501307244" />
-		<voisin nom="Dublin" distance="1092.0988028020195" />
-		<voisin nom="Milan" distance="850.4016784686996" />
-		<voisin nom="Toulouse" distance="577.8420296342471" />
+		<voisin nom="Amsterdam" distance="433.36659219750237" />
+		<voisin nom="Billund" distance="906.700834709117" />
+		<voisin nom="Dublin" distance="797.0393938396259" />
+		<voisin nom="Francfort" distance="472.0655364350788" />
+		<voisin nom="Londres City" distance="350.66887278565076" />
+		<voisin nom="Lyon" distance="392.53578798845217" />
+		<voisin nom="Milan" distance="637.7304168626304" />
+		<voisin nom="Montpellier" distance="586.0194311828011" />
+		<voisin nom="Nantes" distance="343.7498407884179" />
+		<voisin nom="Naples" distance="1281.3415452029415" />
+		<voisin nom="Rome" distance="1090.9510693505197" />
+		<voisin nom="Toulouse" distance="572.5515619179947" />
+		<voisin nom="Vienne" distance="1049.8278562857313" />
+		<voisin nom="Zurich" distance="481.26600640792975" />
 	</gare>
 	<gare nom="Polokwane" coord="29.4532849, -23.859682">
-		<voisin nom="Le Cap" distance="1584.4948435540728" />
+		<voisin nom="Le Cap" distance="1542.3085772486677" />
 	</gare>
 	<gare nom="Port Moresby" coord="147.2182728, -9.4410159">
-		<voisin nom="Darwin" distance="1835.7235449186064" />
+		<voisin nom="Darwin" distance="1815.9788716967985" />
 	</gare>
 	<gare nom="Porto" coord="-8.6785514, 41.2421186">
-		<voisin nom="Edimbourg" distance="1731.957225863047" />
+		<voisin nom="Edimbourg" distance="1682.2664409488095" />
 	</gare>
 	<gare nom="Prague" coord="14.2631811, 50.101791">
-		<voisin nom="Berlin" distance="260.2168719012527" />
+		<voisin nom="Berlin" distance="259.4103009067292" />
 	</gare>
 	<gare nom="Pretoria" coord="27.926416, -25.937751">
-		<voisin nom="Le Cap" distance="1322.8486231704558" />
+		<voisin nom="Le Cap" distance="1267.0767848400437" />
 	</gare>
 	<gare nom="Rennes" coord="-1.734365, 48.0697843">
-		<voisin nom="Edimbourg" distance="894.9315747053924" />
+		<voisin nom="Edimbourg" distance="884.2984588834361" />
 	</gare>
 	<gare nom="Reykjavik" coord="-21.949453, 64.132628">
-		<voisin nom="Margrethe II" distance="1807.7281487050002" />
+		<voisin nom="Margrethe II" distance="802.1109636710153" />
 	</gare>
 	<gare nom="Riga" coord="23.9733129, 56.9226554">
-		<voisin nom="Edimbourg" distance="3044.714401276411" />
+		<voisin nom="Edimbourg" distance="1674.4947390479365" />
 	</gare>
 	<gare nom="Rome" coord="12.2462384, 41.7998868">
-		<voisin nom="Edimbourg" distance="2338.7277517037655" />
-		<voisin nom="Paris Orly" distance="1339.1176762014566" />
-		<voisin nom="St Marin" distance="244.77436803751624" />
-		<voisin nom="Tarbes Lyon" distance="743.280043370362" />
+		<voisin nom="Edimbourg" distance="1936.446988842959" />
+		<voisin nom="Paris Orly" distance="1090.9510693505197" />
+		<voisin nom="St Marin" distance="248.94987453254552" />
+		<voisin nom="Tarbes Lyon" distance="694.2317499721186" />
 	</gare>
 	<gare nom="Rotterdam" coord="4.4398832, 51.9555086">
-		<voisin nom="Edimbourg" distance="975.5360481485592" />
+		<voisin nom="Edimbourg" distance="676.7483714215309" />
 	</gare>
 	<gare nom="Réunion" coord="55.5121669, -20.8918777">
-		<voisin nom="Maurice" distance="242.84185713893277" />
-		<voisin nom="Seychelles" distance="1020.1254588033745" />
-		<voisin nom="Antananarivo" distance="906.2320866554506" />
+		<voisin nom="Antananarivo" distance="873.0362031617328" />
+		<voisin nom="Maurice" distance="231.3974240498949" />
+		<voisin nom="Seychelles" distance="1805.693791695911" />
 	</gare>
 	<gare nom="Santiago Chili" coord="-70.7938043, -33.3905115">
-		<voisin nom="El Calafate" distance="613.0630975420283" />
+		<voisin nom="El Calafate" distance="1883.4005745779925" />
 	</gare>
 	<gare nom="Sendai" coord="140.9169444, 38.1397222">
-		<voisin nom="Hong Kong" distance="3169.079195786025" />
+		<voisin nom="Hong Kong" distance="3119.3855572472653" />
 	</gare>
 	<gare nom="Seychelles" coord="55.511444, -4.6710544">
-		<voisin nom="Réunion" distance="1020.1254588033745" />
+		<voisin nom="Réunion" distance="1805.693791695911" />
 	</gare>
 	<gare nom="Sisimiut" coord="-53.7220589, 66.9519901">
-		<voisin nom="Margrethe II" distance="1750.175443912878" />
+		<voisin nom="Margrethe II" distance="682.7222990024605" />
 	</gare>
 	<gare nom="Sofia" coord="23.4071233, 42.6934278">
-		<voisin nom="Bucarest" distance="353.3181268613923" />
+		<voisin nom="Bucarest" distance="300.308806598265" />
 	</gare>
 	<gare nom="St Marin" coord="12.6119908, 44.0201463">
-		<voisin nom="Rome" distance="244.77436803751624" />
+		<voisin nom="Rome" distance="248.94987453254552" />
 	</gare>
 	<gare nom="St Pierre" coord="-56.1778376, 46.7652581">
-		<voisin nom="Montréal" distance="1956.467828700478" />
+		<voisin nom="Montréal" distance="1360.4716009520282" />
 	</gare>
 	<gare nom="Taipei" coord="121.234217, 25.0796514">
-		<voisin nom="Hong Kong" distance="826.6108825041293" />
+		<voisin nom="Hong Kong" distance="806.8593511760619" />
 	</gare>
 	<gare nom="Tarbes Lyon" coord="8.5554755, 47.4582165">
-		<voisin nom="Rome" distance="743.280043370362" />
+		<voisin nom="Rome" distance="694.2317499721186" />
 	</gare>
 	<gare nom="Toulouse" coord="1.367682, 43.6293863">
-		<voisin nom="Paris Orly" distance="577.8420296342471" />
+		<voisin nom="Paris Orly" distance="572.5515619179947" />
 	</gare>
 	<gare nom="Upington" coord="21.2559067, -28.4086352">
-		<voisin nom="Le Cap" distance="652.7465361261694" />
+		<voisin nom="Le Cap" distance="668.7532989565873" />
 	</gare>
 	<gare nom="Ushuaia" coord="-68.309701, -54.8422373">
-		<voisin nom="El Calafate" distance="450.587372872833" />
+		<voisin nom="El Calafate" distance="566.959936662505" />
 	</gare>
 	<gare nom="Vagar" coord="-7.27546, 62.0633297">
-		<voisin nom="Narsarsuaq" distance="4246.877324562427" />
-		<voisin nom="Edimbourg" distance="805.4067340279302" />
-		<voisin nom="Copenhague" distance="2329.9660783715976" />
+		<voisin nom="Copenhague" distance="1345.2167233369337" />
+		<voisin nom="Edimbourg" distance="716.1587775910306" />
+		<voisin nom="Narsarsuaq" distance="1991.9744345525794" />
 	</gare>
 	<gare nom="Varsovie" coord="20.9678911, 52.1672369">
-		<voisin nom="Edimbourg" distance="2739.6148915742747" />
+		<voisin nom="Edimbourg" distance="1635.0343449919603" />
 	</gare>
 	<gare nom="Venise" coord="12.3460177, 45.5044899">
-		<voisin nom="Edimbourg" distance="2095.89872576321" />
+		<voisin nom="Edimbourg" distance="1598.1692412028585" />
 	</gare>
 	<gare nom="Vienne" coord="16.5665751, 48.1158333">
-		<voisin nom="Edimbourg" distance="2379.9030867772567" />
-		<voisin nom="Paris Orly" distance="1582.2969146301998" />
+		<voisin nom="Edimbourg" distance="1610.7105549182959" />
+		<voisin nom="Paris Orly" distance="1049.8278562857313" />
 	</gare>
 	<gare nom="Zurich" coord="8.5554755, 47.4582165">
-		<voisin nom="Londres City" distance="1047.8462543182022" />
-		<voisin nom="Edimbourg" distance="1627.425477061201" />
-		<voisin nom="Paris Orly" distance="703.2596458535207" />
+		<voisin nom="Edimbourg" distance="1249.369838411582" />
+		<voisin nom="Londres City" distance="761.6848845014532" />
+		<voisin nom="Paris Orly" distance="481.26600640792975" />
 	</gare>
 </ligne>

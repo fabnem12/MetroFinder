@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Escorts Mujesar,Kashmere Gate" couleur="8A2BE2">
+<ligne terminus="Kashmere Gate,Escorts Mujesar" couleur="8A2BE2">
 	<gare nom="Badarpur" coord="2850, 2284">
-		<voisin nom="Tughlakabad" distance="1.0767350771929236" />
 		<voisin nom="Sarai" distance="1.738001934990409" />
+		<voisin nom="Tughlakabad" distance="1.0767350771929236" />
 	</gare>
 	<gare nom="Badkal Mor" coord="2850, 2513">
-		<voisin nom="Sector 28 Faridabad" distance="1.734547907170244" />
 		<voisin nom="Old Faridabad" distance="1.3341529111577872" />
+		<voisin nom="Sector 28 Faridabad" distance="1.734547907170244" />
 	</gare>
 	<gare nom="Bata Chowk" coord="2850, 2649">
 		<voisin nom="Escorts Mujesar" distance="1.7840485817158536" />
-		<voisin nom="Neelam Chowk Ajronda" distance="1.3117487702985908" />
+		<voisin nom="Neelam Chowk Ajronda" distance="1.3117487668555097" />
 	</gare>
 	<gare nom="Central Secretariat" coord="2210, 1394">
-		<voisin nom="Khan Market" distance="2.079908194602669" />
 		<voisin nom="Janpath" distance="0.9305281934662611" />
+		<voisin nom="Khan Market" distance="2.079908194602669" />
 	</gare>
 	<gare nom="Delhi Gate" coord="2566, 1153">
 		<voisin nom="ITO" distance="1.2657551121796207" />
@@ -28,32 +28,32 @@
 		<voisin nom="Okhla" distance="1.0397053233336464" />
 	</gare>
 	<gare nom="ITO" coord="2565, 1235">
-		<voisin nom="Mandi House" distance="0.6901481748776146" />
 		<voisin nom="Delhi Gate" distance="1.2657551121796207" />
+		<voisin nom="Mandi House" distance="0.6901481814217997" />
 	</gare>
 	<gare nom="Jama Masjid" coord="2565, 1088">
-		<voisin nom="Lal Quila" distance="0.7324512260900735" />
 		<voisin nom="Delhi Gate" distance="1.1872990146915419" />
+		<voisin nom="Lal Quila" distance="0.7324512260900735" />
 	</gare>
 	<gare nom="Jangpura" coord="2265, 1615">
 		<voisin nom="Jawaharlal Nehru Stadium" distance="1.0170077159588218" />
 		<voisin nom="Lajpat Nagar" distance="1.444335625589932" />
 	</gare>
 	<gare nom="Janpath" coord="2321, 1372">
-		<voisin nom="Mandi House" distance="1.9983385183279063" />
 		<voisin nom="Central Secretariat" distance="0.9305281934662611" />
+		<voisin nom="Mandi House" distance="1.9983385183279063" />
 	</gare>
 	<gare nom="Jasola" coord="2850, 2064">
-		<voisin nom="Sarita Vihar" distance="1.1082970723454089" />
 		<voisin nom="Okhla" distance="0.9782148967971788" />
+		<voisin nom="Sarita Vihar" distance="1.1082970723454089" />
 	</gare>
 	<gare nom="Jawaharlal Nehru Stadium" coord="2223, 1572">
-		<voisin nom="Khan Market" distance="1.4363055398801383" />
 		<voisin nom="Jangpura" distance="1.0170077159588218" />
+		<voisin nom="Khan Market" distance="1.4363055398801383" />
 	</gare>
 	<gare nom="Kailash Colony" coord="2483, 1835">
-		<voisin nom="Nehru Place" distance="1.0487562972958175" />
 		<voisin nom="Moolchand" distance="1.237858979232124" />
+		<voisin nom="Nehru Place" distance="1.0487562972958175" />
 	</gare>
 	<gare nom="Kalkaji Mandir" coord="2557, 1909">
 		<voisin nom="Govind Puri" distance="0.7252072940189663" />
@@ -63,44 +63,44 @@
 		<voisin nom="Lal Quila" distance="1.4574474892312406" />
 	</gare>
 	<gare nom="Khan Market" coord="2193, 1480">
-		<voisin nom="Jawaharlal Nehru Stadium" distance="1.4363055398801383" />
 		<voisin nom="Central Secretariat" distance="2.079908194602669" />
+		<voisin nom="Jawaharlal Nehru Stadium" distance="1.4363055398801383" />
 	</gare>
 	<gare nom="Lajpat Nagar" coord="2399, 1749">
 		<voisin nom="Jangpura" distance="1.444335625589932" />
 		<voisin nom="Moolchand" distance="0.7713585331266783" />
 	</gare>
 	<gare nom="Lal Quila" coord="2542, 1034">
-		<voisin nom="Kashmere Gate" distance="1.4574474892312406" />
 		<voisin nom="Jama Masjid" distance="0.7324512260900735" />
+		<voisin nom="Kashmere Gate" distance="1.4574474892312406" />
 	</gare>
 	<gare nom="Mandi House" coord="2431, 1378">
-		<voisin nom="ITO" distance="0.6901481748776146" />
+		<voisin nom="ITO" distance="0.6901481814217997" />
 		<voisin nom="Janpath" distance="1.9983385183279063" />
 	</gare>
 	<gare nom="Mewala Maharajpur" coord="2849, 2423">
-		<voisin nom="N.H.P.C. Chowk" distance="0.9892771151732808" />
+		<voisin nom="N.H.P.C. Chowk" distance="0.989277110607869" />
 		<voisin nom="Sector 28 Faridabad" distance="1.1693441736305765" />
 	</gare>
 	<gare nom="Mohan Estate" coord="2850, 2175">
-		<voisin nom="Tughlakabad" distance="1.969818053231828" />
 		<voisin nom="Sarita Vihar" distance="1.2074022058225728" />
+		<voisin nom="Tughlakabad" distance="1.969818053231828" />
 	</gare>
 	<gare nom="Moolchand" coord="2442, 1794">
 		<voisin nom="Kailash Colony" distance="1.237858979232124" />
 		<voisin nom="Lajpat Nagar" distance="0.7713585331266783" />
 	</gare>
 	<gare nom="N.H.P.C. Chowk" coord="2850, 2379">
-		<voisin nom="Mewala Maharajpur" distance="0.9892771151732808" />
+		<voisin nom="Mewala Maharajpur" distance="0.989277110607869" />
 		<voisin nom="Sarai" distance="2.2851688495886386" />
 	</gare>
 	<gare nom="Neelam Chowk Ajronda" coord="2850, 2603">
-		<voisin nom="Bata Chowk" distance="1.3117487702985908" />
+		<voisin nom="Bata Chowk" distance="1.3117487668555097" />
 		<voisin nom="Old Faridabad" distance="1.4542003965105794" />
 	</gare>
 	<gare nom="Nehru Place" coord="2526, 1877">
-		<voisin nom="Kalkaji Mandir" distance="0.7527520251179168" />
 		<voisin nom="Kailash Colony" distance="1.0487562972958175" />
+		<voisin nom="Kalkaji Mandir" distance="0.7527520251179168" />
 	</gare>
 	<gare nom="Okhla" coord="2739, 1935">
 		<voisin nom="Govind Puri" distance="1.0397053233336464" />
@@ -115,8 +115,8 @@
 		<voisin nom="N.H.P.C. Chowk" distance="2.2851688495886386" />
 	</gare>
 	<gare nom="Sarita Vihar" coord="2849, 2119">
-		<voisin nom="Mohan Estate" distance="1.2074022058225728" />
 		<voisin nom="Jasola" distance="1.1082970723454089" />
+		<voisin nom="Mohan Estate" distance="1.2074022058225728" />
 	</gare>
 	<gare nom="Sector 28 Faridabad" coord="2850, 2470">
 		<voisin nom="Badkal Mor" distance="1.734547907170244" />

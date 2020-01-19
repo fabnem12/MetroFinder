@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ligne terminus="PLACE D'ITALIE,BOBIGNY-PABLO PICASSO" couleur="ff7e2e">
 	<gare nom="AUSTERLITZ" coord="2.36533865297, 48.8422653865">
-		<voisin nom="QUAI DE LA RAPEE" distance="0.47472941442746414" />
+		<voisin nom="QUAI DE LA RAPEE" distance="0.4747294049137132" />
 		<voisin nom="SAINT-MARCEL" distance="0.5339720243334939" />
 	</gare>
 	<gare nom="BASTILLE" coord="2.36951356952, 48.8534394276">
-		<voisin nom="QUAI DE LA RAPEE" distance="0.8155973392808282" />
 		<voisin nom="BREGUET-SABIN" distance="0.3049930155361984" />
+		<voisin nom="QUAI DE LA RAPEE" distance="0.8155973337432213" />
 	</gare>
 	<gare nom="BOBIGNY-PABLO PICASSO" coord="2.44918990449, 48.9063747703">
-		<voisin nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance="2.1276882332905074" />
+		<voisin nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance="2.127688231167801" />
 	</gare>
 	<gare nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" coord="2.4253268888, 48.895454673">
-		<voisin nom="BOBIGNY-PABLO PICASSO" distance="2.1276882332905074" />
+		<voisin nom="BOBIGNY-PABLO PICASSO" distance="2.127688231167801" />
 		<voisin nom="EGLISE DE PANTIN" distance="0.9126325901345811" />
 	</gare>
 	<gare nom="BREGUET-SABIN" coord="2.37020933841, 48.8561407093">
@@ -20,8 +20,8 @@
 		<voisin nom="RICHARD LENOIR" distance="0.4338959851807091" />
 	</gare>
 	<gare nom="CAMPO-FORMIO" coord="2.3588234891, 48.8354953554">
-		<voisin nom="SAINT-MARCEL" distance="0.3622100782050417" />
 		<voisin nom="PLACE D'ITALIE" distance="0.5086559277170877" />
+		<voisin nom="SAINT-MARCEL" distance="0.3622100782050417" />
 	</gare>
 	<gare nom="EGLISE DE PANTIN" coord="2.41331313951, 48.89325759">
 		<voisin nom="BOBIGNY-PANTIN (RAYMOND QUENEAU)" distance="0.9126325901345811" />
@@ -32,8 +32,8 @@
 		<voisin nom="JACQUES BONSERGENT" distance="0.621070311889098" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="2.35699516401, 48.8795512844">
-		<voisin nom="STALINGRAD" distance="0.8367445119993726" />
 		<voisin nom="GARE DE L'EST" distance="0.4015902916737711" />
+		<voisin nom="STALINGRAD" distance="0.8367445066017186" />
 	</gare>
 	<gare nom="HOCHE" coord="2.40235214254, 48.8912285932">
 		<voisin nom="EGLISE DE PANTIN" distance="0.8334254808383489" />
@@ -49,41 +49,41 @@
 	</gare>
 	<gare nom="LAUMIERE" coord="2.37966307748, 48.8852161821">
 		<voisin nom="JAURES" distance="0.7602049351189332" />
-		<voisin nom="OURCQ" distance="0.5752497846784983" />
+		<voisin nom="OURCQ" distance="0.5752497925297961" />
 	</gare>
 	<gare nom="OBERKAMPF" coord="2.36849638711, 48.8647276207">
-		<voisin nom="RICHARD LENOIR" distance="0.5954946660533406" />
 		<voisin nom="REPUBLIQUE" distance="0.40285487365633216" />
+		<voisin nom="RICHARD LENOIR" distance="0.5954946660533406" />
 	</gare>
 	<gare nom="OURCQ" coord="2.38696001714, 48.8871348691">
-		<voisin nom="LAUMIERE" distance="0.5752497846784983" />
-		<voisin nom="PORTE DE PANTIN" distance="0.6715284755810665" />
+		<voisin nom="LAUMIERE" distance="0.5752497925297961" />
+		<voisin nom="PORTE DE PANTIN" distance="0.6715284823067045" />
 	</gare>
 	<gare nom="PLACE D'ITALIE" coord="2.35564364302, 48.831433631">
 		<voisin nom="CAMPO-FORMIO" distance="0.5086559277170877" />
 	</gare>
 	<gare nom="PORTE DE PANTIN" coord="2.39568107471, 48.8890076495">
-		<voisin nom="OURCQ" distance="0.6715284755810665" />
 		<voisin nom="HOCHE" distance="0.5473012701227454" />
+		<voisin nom="OURCQ" distance="0.6715284823067045" />
 	</gare>
 	<gare nom="QUAI DE LA RAPEE" coord="2.36587346941, 48.8465154042">
-		<voisin nom="AUSTERLITZ" distance="0.47472941442746414" />
-		<voisin nom="BASTILLE" distance="0.8155973392808282" />
+		<voisin nom="AUSTERLITZ" distance="0.4747294049137132" />
+		<voisin nom="BASTILLE" distance="0.8155973337432213" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="2.36424799375, 48.8670267876">
-		<voisin nom="OBERKAMPF" distance="0.40285487365633216" />
 		<voisin nom="JACQUES BONSERGENT" distance="0.48267249511985155" />
+		<voisin nom="OBERKAMPF" distance="0.40285487365633216" />
 	</gare>
 	<gare nom="RICHARD LENOIR" coord="2.37191398009, 48.8598736244">
-		<voisin nom="OBERKAMPF" distance="0.5954946660533406" />
 		<voisin nom="BREGUET-SABIN" distance="0.4338959851807091" />
+		<voisin nom="OBERKAMPF" distance="0.5954946660533406" />
 	</gare>
 	<gare nom="SAINT-MARCEL" coord="2.3609671677, 48.838427297">
 		<voisin nom="AUSTERLITZ" distance="0.5339720243334939" />
 		<voisin nom="CAMPO-FORMIO" distance="0.3622100782050417" />
 	</gare>
 	<gare nom="STALINGRAD" coord="2.36588135817, 48.8842789443">
+		<voisin nom="GARE DU NORD" distance="0.8367445066017186" />
 		<voisin nom="JAURES" distance="0.3725189353841681" />
-		<voisin nom="GARE DU NORD" distance="0.8367445119993726" />
 	</gare>
 </ligne>

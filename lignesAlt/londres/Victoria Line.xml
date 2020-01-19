@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Brixton,Walthamstow Central" couleur="0076bd">
+<ligne terminus="Walthamstow Central,Brixton" couleur="0076bd">
 	<gare nom="Blackhorse Road" coord="1198, 234">
-		<voisin nom="Walthamstow Central" distance="2.5053810922072195" />
 		<voisin nom="Tottenham Hale" distance="1.9774177181187282" />
+		<voisin nom="Walthamstow Central" distance="2.5053810922072195" />
 	</gare>
 	<gare nom="Brixton" coord="800, 920">
 		<voisin nom="Stockwell" distance="1.427364206600495" />
 	</gare>
 	<gare nom="Euston" coord="841, 414">
 		<voisin nom="King's Cross St. Pancras" distance="1.1394351454091323" />
-		<voisin nom="Warren Street" distance="0.6523353578487535" />
+		<voisin nom="Warren Street" distance="0.6523353647722743" />
 	</gare>
 	<gare nom="Finsbury Park" coord="1063, 257">
 		<voisin nom="Highbury &amp; Islington" distance="2.0450359451652855" />
 		<voisin nom="Seven Sisters" distance="4.048356672522164" />
 	</gare>
 	<gare nom="Green Park" coord="685, 583">
-		<voisin nom="Victoria" distance="1.1549864977697537" />
 		<voisin nom="Oxford Circus" distance="0.9352134251120011" />
+		<voisin nom="Victoria" distance="1.1549864977697537" />
 	</gare>
 	<gare nom="Highbury &amp; Islington" coord="1032, 341">
-		<voisin nom="King's Cross St. Pancras" distance="2.7787072717855508" />
 		<voisin nom="Finsbury Park" distance="2.0450359451652855" />
+		<voisin nom="King's Cross St. Pancras" distance="2.7787072717855508" />
 	</gare>
 	<gare nom="King's Cross St. Pancras" coord="890, 406">
 		<voisin nom="Euston" distance="1.1394351454091323" />
@@ -48,8 +48,8 @@
 		<voisin nom="Seven Sisters" distance="1.850215500032975" />
 	</gare>
 	<gare nom="Vauxhall" coord="702, 821">
-		<voisin nom="Stockwell" distance="1.5573955034745801" />
 		<voisin nom="Pimlico" distance="0.9695023270463741" />
+		<voisin nom="Stockwell" distance="1.5573955034745801" />
 	</gare>
 	<gare nom="Victoria" coord="685, 661">
 		<voisin nom="Green Park" distance="1.1549864977697537" />
@@ -59,7 +59,7 @@
 		<voisin nom="Blackhorse Road" distance="2.5053810922072195" />
 	</gare>
 	<gare nom="Warren Street" coord="801, 454">
-		<voisin nom="Euston" distance="0.6523353578487535" />
+		<voisin nom="Euston" distance="0.6523353647722743" />
 		<voisin nom="Oxford Circus" distance="1.133598896863865" />
 	</gare>
 </ligne>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="MANTES-LA-JOLIE,SAINT-LAZARE,GISORS,ERMONT-EAUBONNE" couleur="b6bf00">
+<ligne terminus="ERMONT-EAUBONNE,GISORS,MANTES-LA-JOLIE,SAINT-LAZARE" couleur="b6bf00">
 	<gare nom="ANDRESY" coord="2.04908312149, 48.9748208646">
 		<voisin nom="CHANTELOUP-LES-VIGNES" distance="1.6519192908535345" />
-		<voisin nom="MAURECOURT" distance="1.570634927801586" />
+		<voisin nom="MAURECOURT" distance="1.5706349306771477" />
 	</gare>
 	<gare nom="ARGENTEUIL" coord="2.25789748266, 48.9467969421">
 		<voisin nom="LE STADE" distance="1.7635963465932827" />
@@ -10,17 +10,17 @@
 		<voisin nom="VAL D'ARGENTEUIL" distance="1.996907616401567" />
 	</gare>
 	<gare nom="ASNIERES" coord="2.28351732969, 48.9056221191">
-		<voisin nom="SAINT-LAZARE" distance="4.40115744845752" />
 		<voisin nom="BOIS-COLOMBES" distance="1.2969652120767716" />
 		<voisin nom="HOUILLES-CARRIERES-SUR-SEINE" distance="7.367131948865596" />
+		<voisin nom="SAINT-LAZARE" distance="4.40115744845752" />
 	</gare>
 	<gare nom="AUBERGENVILLE-ELISABETHVILLE" coord="1.84834880828, 48.9721416769">
 		<voisin nom="EPONE-MEZIERES" distance="3.031244964655416" />
 		<voisin nom="LES MUREAUX" distance="5.278218458772333" />
 	</gare>
 	<gare nom="BOIS-COLOMBES" coord="2.27159875039, 48.9142464743">
-		<voisin nom="COLOMBES" distance="1.400953025796225" />
 		<voisin nom="ASNIERES" distance="1.2969652120767716" />
+		<voisin nom="COLOMBES" distance="1.4009530193485322" />
 	</gare>
 	<gare nom="BOISSY-L'AILLERIE" coord="2.02495293138, 49.0758428848">
 		<voisin nom="MONTGEROULT-COURCELLES" distance="1.6328410011904049" />
@@ -28,27 +28,27 @@
 	</gare>
 	<gare nom="CHANTELOUP-LES-VIGNES" coord="2.02751877569, 48.9703669331">
 		<voisin nom="ANDRESY" distance="1.6519192908535345" />
-		<voisin nom="TRIEL-SUR-SEINE" distance="1.9769182316814997" />
+		<voisin nom="TRIEL-SUR-SEINE" distance="1.976918229396905" />
 	</gare>
 	<gare nom="CHARS" coord="1.93692863442, 49.1626705808">
-		<voisin nom="SANTEUIL-LE-PERCHAY" distance="4.458275136129499" />
 		<voisin nom="LA VILLETERTRE" distance="4.612027560076121" />
+		<voisin nom="SANTEUIL-LE-PERCHAY" distance="4.458275136129499" />
 	</gare>
 	<gare nom="CHAUMONT-EN-VEXIN" coord="1.87258946785, 49.2613222981">
 		<voisin nom="LIANCOURT-SAINT-PIERRE" distance="5.098307542804438" />
 		<voisin nom="TRIE-CHATEAU" distance="4.612868610846119" />
 	</gare>
 	<gare nom="COLOMBES" coord="2.25934570305, 48.9239186266">
+		<voisin nom="BOIS-COLOMBES" distance="1.4009530193485322" />
 		<voisin nom="LE STADE" distance="0.7996307601457004" />
-		<voisin nom="BOIS-COLOMBES" distance="1.400953025796225" />
 	</gare>
 	<gare nom="CONFLANS-FIN-D'OISE" coord="2.07376988648, 48.9910125487">
-		<voisin nom="CONFLANS-SAINTE-HONORINE" distance="1.8614709589867888" />
+		<voisin nom="CONFLANS-SAINTE-HONORINE" distance="1.8614709541342205" />
 		<voisin nom="MAURECOURT" distance="1.1122592910769251" />
 	</gare>
 	<gare nom="CONFLANS-SAINTE-HONORINE" coord="2.09777398846, 48.9966300907">
+		<voisin nom="CONFLANS-FIN-D'OISE" distance="1.8614709541342205" />
 		<voisin nom="ERAGNY-NEUVILLE" distance="2.469220715650879" />
-		<voisin nom="CONFLANS-FIN-D'OISE" distance="1.8614709589867888" />
 		<voisin nom="HERBLAY" distance="4.737228255313355" />
 		<voisin nom="MAURECOURT" distance="2.9722941859016117" />
 	</gare>
@@ -58,7 +58,7 @@
 	</gare>
 	<gare nom="EPONE-MEZIERES" coord="1.80909450877, 48.9633441128">
 		<voisin nom="AUBERGENVILLE-ELISABETHVILLE" distance="3.031244964655416" />
-		<voisin nom="MANTES-STATION" distance="7.223136317162722" />
+		<voisin nom="MANTES-STATION" distance="7.223136316537445" />
 	</gare>
 	<gare nom="ERAGNY-NEUVILLE" coord="2.09090606335, 49.0183491636">
 		<voisin nom="CONFLANS-SAINTE-HONORINE" distance="2.469220715650879" />
@@ -68,35 +68,35 @@
 		<voisin nom="SANNOIS" distance="1.1847002343734294" />
 	</gare>
 	<gare nom="GARGENVILLE" coord="1.80890782598, 48.9829797632">
-		<voisin nom="JUZIERS" distance="2.840103686661534" />
 		<voisin nom="ISSOU-PORCHEVILLE" distance="1.8673803100810156" />
+		<voisin nom="JUZIERS" distance="2.840103686661534" />
 	</gare>
 	<gare nom="GISORS" coord="1.78506622348, 49.2852635241">
 		<voisin nom="TRIE-CHATEAU" distance="2.4158718401300314" />
 	</gare>
 	<gare nom="HERBLAY" coord="2.16190660559, 48.9902899964">
-		<voisin nom="LA FRETTE-MONTIGNY" distance="1.7306919040660118" />
 		<voisin nom="CONFLANS-SAINTE-HONORINE" distance="4.737228255313355" />
+		<voisin nom="LA FRETTE-MONTIGNY" distance="1.7306919040660118" />
 	</gare>
 	<gare nom="HOUILLES-CARRIERES-SUR-SEINE" coord="2.18535337629, 48.9203793748">
-		<voisin nom="POISSY" distance="10.649680745838673" />
 		<voisin nom="ASNIERES" distance="7.367131948865596" />
+		<voisin nom="POISSY" distance="10.649680745838673" />
 	</gare>
 	<gare nom="ISSOU-PORCHEVILLE" coord="1.78397340775, 48.9792922476">
 		<voisin nom="GARGENVILLE" distance="1.8673803100810156" />
 		<voisin nom="LIMAY" distance="2.6990460944692756" />
 	</gare>
 	<gare nom="JUZIERS" coord="1.84513444487, 48.9922412813">
-		<voisin nom="MEULAN-HARDRICOURT" distance="4.4024738683889035" />
 		<voisin nom="GARGENVILLE" distance="2.840103686661534" />
+		<voisin nom="MEULAN-HARDRICOURT" distance="4.4024738683889035" />
 	</gare>
 	<gare nom="LA FRETTE-MONTIGNY" coord="2.18001238078, 48.9802635207">
-		<voisin nom="HERBLAY" distance="1.7306919040660118" />
 		<voisin nom="CORMEILLES-EN-PARISIS" distance="1.6367570605330333" />
+		<voisin nom="HERBLAY" distance="1.7306919040660118" />
 	</gare>
 	<gare nom="LA VILLETERTRE" coord="1.92054770607, 49.202693603">
-		<voisin nom="LIANCOURT-SAINT-PIERRE" distance="2.301183322714827" />
 		<voisin nom="CHARS" distance="4.612027560076121" />
+		<voisin nom="LIANCOURT-SAINT-PIERRE" distance="2.301183322714827" />
 	</gare>
 	<gare nom="LE STADE" coord="2.26060231561, 48.9310542278">
 		<voisin nom="ARGENTEUIL" distance="1.7635963465932827" />
@@ -116,20 +116,20 @@
 	</gare>
 	<gare nom="LIMAY" coord="1.74778618291, 48.9841727553">
 		<voisin nom="ISSOU-PORCHEVILLE" distance="2.6990460944692756" />
-		<voisin nom="MANTES-STATION" distance="2.3805042972510306" />
+		<voisin nom="MANTES-STATION" distance="2.3805042953537616" />
 	</gare>
 	<gare nom="MANTES-LA-JOLIE" coord="1.70301613419, 48.9895025071">
-		<voisin nom="MANTES-STATION" distance="1.1033681362604975" />
+		<voisin nom="MANTES-STATION" distance="1.1033681321671607" />
 	</gare>
 	<gare nom="MANTES-STATION" coord="1.71521098645, 48.9836545075">
-		<voisin nom="MANTES-LA-JOLIE" distance="1.1033681362604975" />
-		<voisin nom="EPONE-MEZIERES" distance="7.223136317162722" />
-		<voisin nom="LIMAY" distance="2.3805042972510306" />
+		<voisin nom="EPONE-MEZIERES" distance="7.223136316537445" />
+		<voisin nom="LIMAY" distance="2.3805042953537616" />
+		<voisin nom="MANTES-LA-JOLIE" distance="1.1033681321671607" />
 	</gare>
 	<gare nom="MAURECOURT" coord="2.05978782668, 48.9870565461">
+		<voisin nom="ANDRESY" distance="1.5706349306771477" />
 		<voisin nom="CONFLANS-FIN-D'OISE" distance="1.1122592910769251" />
 		<voisin nom="CONFLANS-SAINTE-HONORINE" distance="2.9722941859016117" />
-		<voisin nom="ANDRESY" distance="1.570634927801586" />
 	</gare>
 	<gare nom="MEULAN-HARDRICOURT" coord="1.90178197858, 49.0057625368">
 		<voisin nom="JUZIERS" distance="4.4024738683889035" />
@@ -144,12 +144,12 @@
 		<voisin nom="PONTOISE" distance="3.271597441637696" />
 	</gare>
 	<gare nom="POISSY" coord="2.04107228968, 48.9332654061">
-		<voisin nom="VILLENNES-SUR-SEINE" distance="3.1104949510794584" />
 		<voisin nom="HOUILLES-CARRIERES-SUR-SEINE" distance="10.649680745838673" />
+		<voisin nom="VILLENNES-SUR-SEINE" distance="3.1104949510794584" />
 	</gare>
 	<gare nom="PONTOISE" coord="2.09519506723, 49.0466457626">
-		<voisin nom="SAINT-OUEN-L'AUMONE-QUARTIER DE L'EGLISE" distance="0.9744129895740068" />
 		<voisin nom="OSNY" distance="3.271597441637696" />
+		<voisin nom="SAINT-OUEN-L'AUMONE-QUARTIER DE L'EGLISE" distance="0.9744129895740068" />
 	</gare>
 	<gare nom="SAINT-LAZARE" coord="2.32473804682, 48.8768369549">
 		<voisin nom="ASNIERES" distance="4.40115744845752" />
@@ -167,16 +167,16 @@
 		<voisin nom="US" distance="3.0671630194965016" />
 	</gare>
 	<gare nom="THUN-LE-PARADIS" coord="1.91923711175, 49.0067002768">
-		<voisin nom="VAUX-SUR-SEINE" distance="3.2362949248015287" />
 		<voisin nom="MEULAN-HARDRICOURT" distance="1.2788939727835567" />
+		<voisin nom="VAUX-SUR-SEINE" distance="3.2362949248015287" />
 	</gare>
 	<gare nom="TRIE-CHATEAU" coord="1.81808238251, 49.2825897349">
 		<voisin nom="CHAUMONT-EN-VEXIN" distance="4.612868610846119" />
 		<voisin nom="GISORS" distance="2.4158718401300314" />
 	</gare>
 	<gare nom="TRIEL-SUR-SEINE" coord="2.00593089169, 48.981071911">
-		<voisin nom="CHANTELOUP-LES-VIGNES" distance="1.9769182316814997" />
-		<voisin nom="VAUX-SUR-SEINE" distance="4.241961701601741" />
+		<voisin nom="CHANTELOUP-LES-VIGNES" distance="1.976918229396905" />
+		<voisin nom="VAUX-SUR-SEINE" distance="4.241961700537032" />
 	</gare>
 	<gare nom="US" coord="1.97053572369, 49.0996501217">
 		<voisin nom="MONTGEROULT-COURCELLES" distance="3.224601467140118" />
@@ -188,11 +188,11 @@
 	</gare>
 	<gare nom="VAUX-SUR-SEINE" coord="1.96355177166, 49.0071272463">
 		<voisin nom="THUN-LE-PARADIS" distance="3.2362949248015287" />
-		<voisin nom="TRIEL-SUR-SEINE" distance="4.241961701601741" />
+		<voisin nom="TRIEL-SUR-SEINE" distance="4.241961700537032" />
 	</gare>
 	<gare nom="VERNOUILLET-VERNEUIL" coord="1.98314335209, 48.9814459694">
-		<voisin nom="VILLENNES-SUR-SEINE" distance="4.823323836830564" />
 		<voisin nom="LES CLAIRIERES-DE-VERNEUIL" distance="2.372673512827495" />
+		<voisin nom="VILLENNES-SUR-SEINE" distance="4.823323836830564" />
 	</gare>
 	<gare nom="VILLENNES-SUR-SEINE" coord="1.99960360966, 48.9394868108">
 		<voisin nom="POISSY" distance="3.1104949510794584" />

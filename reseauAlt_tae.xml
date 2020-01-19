@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
 	<gare nom="Aberdeen" coord="-2.2001619, 57.2036979|-2.2001619, 57.2036979">
-		<voisin nom="Paris" distance="1053.996420430591" lignes="JOON" />
-		<voisin nom="Dublin" distance="615.6340062036245" lignes="JOON,HOP!" />
 		<voisin nom="Edimbourg" distance="190.04813566247122" lignes="HOP!" />
+		<voisin nom="Dublin" distance="615.6340062036245" lignes="HOP!,JOON" />
+		<voisin nom="Paris" distance="1053.996420430591" lignes="JOON" />
 	</gare>
 	<gare nom="Abidjan" coord="-3.9296293, 5.2544696">
+		<voisin nom="Madrid" distance="3914.8615508906273" lignes="Air 350" />
 		<voisin nom="Paris" distance="4920.932268598583" lignes="Air 350" />
-		<voisin nom="Madrid" distance="3914.861550890626" lignes="Air 350" />
 	</gare>
 	<gare nom="Addis Abeba" coord="38.7989319, 8.9800689">
 		<voisin nom="Darwin" distance="10025.990928706186" lignes="Air 350" />
@@ -21,232 +21,232 @@
 	</gare>
 	<gare nom="Alger" coord="3.2067834, 36.6975267|3.2067834, 36.6975267">
 		<voisin nom="Barcelone" distance="526.5742504600375" lignes="AirBaltic" />
-		<voisin nom="Paris" distance="1370.8051235016476" lignes="JOON" />
 		<voisin nom="Madrid" distance="864.5833808809556" lignes="JOON" />
+		<voisin nom="Paris" distance="1370.8051235016476" lignes="JOON" />
 	</gare>
 	<gare nom="Almaty" coord="77.0252894, 43.3499265">
 		<voisin nom="Bacau" distance="5581.293841674168" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Amsterdam" coord="4.7674241, 52.3076865|4.7674241, 52.3076865">
+		<voisin nom="Malte" distance="2102.765324922468" lignes="AirBaltic" />
 		<voisin nom="Nice" distance="995.3503298813398" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="2633.183390021013" lignes="AirBaltic" />
+		<voisin nom="Paris Orly" distance="479.39358907887953" lignes="HOP!" />
 		<voisin nom="Barcelone" distance="1259.3060887695901" lignes="AirBaltic" />
-		<voisin nom="Luxembourg" distance="337.7317480877546" lignes="AirBaltic" />
-		<voisin nom="Malte" distance="2102.765324922466" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="893.3125974653908" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="1668.4976449051596" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="2540.249281312573" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="4997.352236819074" lignes="JOON" />
 		<voisin nom="Berlin" distance="974.5494403130172" lignes="JOON" />
 		<voisin nom="Madrid" distance="1608.063283105993" lignes="JOON" />
+		<voisin nom="Bacau" distance="2540.249281312573" lignes="AirBaltic" />
+		<voisin nom="Luxembourg" distance="337.7317480877546" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="893.3125974653908" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="4997.352236819074" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="991.4720049930223" lignes="HOP!" />
+		<voisin nom="Dublin" distance="1232.7305692316645" lignes="JOON" />
 		<voisin nom="Paris" distance="441.8879796827912" lignes="JOON" />
 		<voisin nom="Bucarest" distance="2512.0779839694997" lignes="JOON" />
-		<voisin nom="Dublin" distance="1232.7305692316645" lignes="JOON" />
+		<voisin nom="Stockholm" distance="1668.4976449051596" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="2404.8134982046545" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="991.4720049930223" lignes="HOP!" />
-		<voisin nom="Paris Orly" distance="479.39358907887953" lignes="HOP!" />
+		<voisin nom="Athènes" distance="2633.183390021013" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Antananarivo" coord="47.4752711, -18.7993016|47.4752711, -18.7993016">
 		<voisin nom="Bucarest" distance="5945.042607227202" lignes="Air 350" />
 		<voisin nom="Réunion" distance="906.2320866554506" lignes="HOP!" />
 	</gare>
 	<gare nom="Astana" coord="71.4633028, 51.0280685|71.4633028, 51.0280685">
-		<voisin nom="Ürümqi" distance="1784.8184286958021" lignes="AirBaltic" />
 		<voisin nom="Bacau" distance="4967.501772994545" lignes="AirBaltic" />
-		<voisin nom="Oulan Bator" distance="3937.277334340308" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="6450.691939874823" lignes="JOON" />
+		<voisin nom="Ürümqi" distance="1784.8184286958021" lignes="AirBaltic" />
 		<voisin nom="Bucarest" distance="5067.767049771319" lignes="JOON" />
 		<voisin nom="Helsinki" distance="5210.694398724452" lignes="JOON" />
+		<voisin nom="Berlin" distance="6450.691939874823" lignes="JOON" />
+		<voisin nom="Oulan Bator" distance="3937.277334340308" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Athènes" coord="23.9484156, 37.9356467|23.9484156, 37.9356467">
-		<voisin nom="Vienne" distance="1342.7588263181028" lignes="AirBaltic" />
-		<voisin nom="Le Caire" distance="1131.8600116576379" lignes="AirBaltic" />
-		<voisin nom="Larnaca" distance="1117.2031269268048" lignes="AirBaltic" />
-		<voisin nom="Thessalonique" distance="285.4608865527165" lignes="AirBaltic" />
-		<voisin nom="Venise" distance="1518.6209880971637" lignes="AirBaltic" />
-		<voisin nom="Séville" distance="3322.4083086206433" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="2352.0127148408164" lignes="AirBaltic" />
-		<voisin nom="Amsterdam" distance="2633.183390021013" lignes="AirBaltic" />
-		<voisin nom="Zagreb" distance="1197.7552708300789" lignes="AirBaltic" />
-		<voisin nom="Beyrouth" distance="1344.7481278762862" lignes="AirBaltic" />
-		<voisin nom="Hambourg" distance="2277.310139717895" lignes="AirBaltic" />
-		<voisin nom="Düsseldorf" distance="2385.9711161941273" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="2574.594563763627" lignes="AirBaltic" />
-		<voisin nom="Tbilissi" distance="2363.7755830947794" lignes="AirBaltic" />
-		<voisin nom="Barcelone" distance="2460.7906587381394" lignes="AirBaltic" />
 		<voisin nom="Héraklion" distance="296.16981370334395" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1076.0638955297904" lignes="AirBaltic" />
-		<voisin nom="Tel Aviv" distance="1345.7062027886764" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="924.6230958685014" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="7535.486883526108" lignes="Air 350" />
-		<voisin nom="Darwin" distance="10496.0135782976" lignes="Air 350" />
-		<voisin nom="Berlin" distance="1912.5407293236922" lignes="JOON" />
+		<voisin nom="Vienne" distance="1342.7588263181028" lignes="AirBaltic" />
+		<voisin nom="Tbilissi" distance="2363.7755830947794" lignes="AirBaltic" />
 		<voisin nom="Madrid" distance="3075.63875904656" lignes="JOON" />
+		<voisin nom="Margrethe II" distance="7535.486883526108" lignes="Air 350" />
 		<voisin nom="Paris" distance="2663.7089831662984" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="2633.183390021013" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="2352.0127148408164" lignes="AirBaltic" />
+		<voisin nom="Bruxelles" distance="2574.594563763627" lignes="AirBaltic" />
+		<voisin nom="Tel Aviv" distance="1345.7062027886764" lignes="AirBaltic" />
 		<voisin nom="Bucarest" distance="710.1797912430493" lignes="JOON" />
-		<voisin nom="Dublin" distance="3759.1232026096673" lignes="JOON" />
+		<voisin nom="Thessalonique" distance="285.4608865527165" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="2268.6572096808895" lignes="JOON" />
+		<voisin nom="Zagreb" distance="1197.7552708300789" lignes="AirBaltic" />
+		<voisin nom="Berlin" distance="1912.5407293236922" lignes="JOON" />
+		<voisin nom="Düsseldorf" distance="2385.9711161941273" lignes="AirBaltic" />
+		<voisin nom="Venise" distance="1518.6209880971637" lignes="AirBaltic" />
+		<voisin nom="Larnaca" distance="1117.2031269268048" lignes="AirBaltic" />
+		<voisin nom="Bacau" distance="924.6230958685014" lignes="AirBaltic" />
+		<voisin nom="Barcelone" distance="2460.7906587381394" lignes="AirBaltic" />
+		<voisin nom="Darwin" distance="10496.0135782976" lignes="Air 350" />
+		<voisin nom="Beyrouth" distance="1344.7481278762862" lignes="AirBaltic" />
+		<voisin nom="Hambourg" distance="2277.310139717895" lignes="AirBaltic" />
+		<voisin nom="Le Caire" distance="1131.8600116576379" lignes="AirBaltic" />
+		<voisin nom="Séville" distance="3322.4083086206433" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="3759.1232026096673" lignes="JOON" />
 	</gare>
 	<gare nom="Auckland" coord="174.7850358, -37.0082476">
-		<voisin nom="Darwin" distance="5410.054282157869" lignes="Air 350" />
+		<voisin nom="Darwin" distance="5410.054282157868" lignes="Air 350" />
 	</gare>
 	<gare nom="Bacau" coord="26.9107054, 46.5310502|26.9107054, 46.5310502">
-		<voisin nom="Timisoara" distance="626.6221403849643" lignes="AirBaltic" />
-		<voisin nom="Lyon" distance="2430.719541679672" lignes="AirBaltic" />
-		<voisin nom="Lisbonne" distance="4099.114962375764" lignes="AirBaltic" />
+		<voisin nom="Malte" distance="1772.751754488195" lignes="AirBaltic" />
+		<voisin nom="Singapour" distance="8161.005808309874" lignes="Air 350" />
+		<voisin nom="Tbilissi" distance="2055.9223559038687" lignes="AirBaltic" />
+		<voisin nom="Nice" distance="2213.457717066728" lignes="AirBaltic" />
 		<voisin nom="Vienne" distance="1163.0586784214372" lignes="AirBaltic" />
 		<voisin nom="Athènes" distance="924.6230958685014" lignes="AirBaltic" />
-		<voisin nom="Milan" distance="1966.3341839742293" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="1678.25766350836" lignes="AirBaltic" />
-		<voisin nom="Constanta" distance="277.11137364688346" lignes="AirBaltic" />
-		<voisin nom="Erevan" distance="2028.8933983576392" lignes="AirBaltic" />
-		<voisin nom="Amsterdam" distance="2540.249281312573" lignes="AirBaltic" />
-		<voisin nom="Riga" distance="1094.1496044432984" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1849.1073242311918" lignes="AirBaltic" />
-		<voisin nom="Belgrade" distance="757.1688839533339" lignes="AirBaltic" />
-		<voisin nom="Beyrouth" distance="1539.478985682368" lignes="AirBaltic" />
-		<voisin nom="Francfort" distance="2075.7457075025063" lignes="AirBaltic" />
-		<voisin nom="Varsovie" distance="875.2000612793604" lignes="AirBaltic" />
-		<voisin nom="Düsseldorf" distance="2298.226901948735" lignes="AirBaltic" />
-		<voisin nom="Almaty" distance="5581.293841674168" lignes="AirBaltic" />
 		<voisin nom="Bruxelles" distance="2539.2157347721823" lignes="AirBaltic" />
-		<voisin nom="Nice" distance="2213.457717066728" lignes="AirBaltic" />
-		<voisin nom="Astana" distance="4967.501772994545" lignes="AirBaltic" />
-		<voisin nom="Tbilissi" distance="2055.9223559038687" lignes="AirBaltic" />
-		<voisin nom="Barcelone" distance="2819.6778675616742" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="1695.6504367538357" lignes="AirBaltic" />
-		<voisin nom="Malte" distance="1772.751754488195" lignes="AirBaltic" />
-		<voisin nom="Rome" distance="1705.6446801690383" lignes="AirBaltic" />
-		<voisin nom="Kiev" distance="578.060368990235" lignes="AirBaltic" />
-		<voisin nom="Mumbai" distance="5373.021594292579" lignes="Air 350" />
-		<voisin nom="Pékin" distance="9968.385579204141" lignes="Air 350" />
-		<voisin nom="Singapour" distance="8161.005808309874" lignes="Air 350" />
-		<voisin nom="Jakarta" distance="8232.547954672238" lignes="Air 350" />
-		<voisin nom="New Delhi" distance="5667.30042794169" lignes="Air 350" />
+		<voisin nom="Lisbonne" distance="4099.114962375764" lignes="AirBaltic" />
+		<voisin nom="Belgrade" distance="757.1688839533339" lignes="AirBaltic" />
+		<voisin nom="Lyon" distance="2430.719541679672" lignes="AirBaltic" />
 		<voisin nom="Bangkok" distance="8042.504806417924" lignes="Air 350" />
-		<voisin nom="Berlin" distance="1610.297461967056" lignes="JOON" />
 		<voisin nom="Madrid" distance="3454.3046428136718" lignes="JOON" />
+		<voisin nom="Mumbai" distance="5373.021594292579" lignes="Air 350" />
+		<voisin nom="Varsovie" distance="875.2000612793604" lignes="AirBaltic" />
+		<voisin nom="Almaty" distance="5581.293841674168" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="1695.6504367538357" lignes="AirBaltic" />
+		<voisin nom="Pékin" distance="9968.38557920414" lignes="Air 350" />
+		<voisin nom="Rome" distance="1705.6446801690383" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="2724.9102837068535" lignes="JOON" />
-		<voisin nom="Bucarest" distance="215.87108057063813" lignes="JOON" />
-		<voisin nom="Dublin" distance="3765.5260173037486" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="2540.249281312573" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="1849.1073242311918" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="1678.25766350836" lignes="AirBaltic" />
+		<voisin nom="Beyrouth" distance="1539.478985682368" lignes="AirBaltic" />
+		<voisin nom="Milan" distance="1966.3341839742293" lignes="AirBaltic" />
+		<voisin nom="Barcelone" distance="2819.6778675616742" lignes="AirBaltic" />
+		<voisin nom="New Delhi" distance="5667.30042794169" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="1396.8862639056545" lignes="JOON" />
+		<voisin nom="Constanta" distance="277.11137364688346" lignes="AirBaltic" />
+		<voisin nom="Berlin" distance="1610.297461967056" lignes="JOON" />
+		<voisin nom="Astana" distance="4967.501772994545" lignes="AirBaltic" />
+		<voisin nom="Jakarta" distance="8232.547954672238" lignes="Air 350" />
+		<voisin nom="Düsseldorf" distance="2298.226901948735" lignes="AirBaltic" />
+		<voisin nom="Francfort" distance="2075.7457075025063" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="3765.5260173037486" lignes="JOON" />
+		<voisin nom="Erevan" distance="2028.8933983576349" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="215.87108057063813" lignes="JOON" />
+		<voisin nom="Riga" distance="1094.1496044432984" lignes="AirBaltic" />
+		<voisin nom="Timisoara" distance="626.6221403849643" lignes="AirBaltic" />
+		<voisin nom="Kiev" distance="578.060368990235" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Bangkok" coord="100.7501124, 13.6899991">
-		<voisin nom="Darwin" distance="3508.7357735551136" lignes="Air 350" />
 		<voisin nom="Bacau" distance="8042.504806417924" lignes="Air 350" />
+		<voisin nom="Darwin" distance="3508.7357735551136" lignes="Air 350" />
 	</gare>
 	<gare nom="Barcelone" coord="2.0832941, 41.297445|2.0832941, 41.297445">
-		<voisin nom="Vienne" distance="1776.8378390817504" lignes="AirBaltic" />
-		<voisin nom="Amsterdam" distance="1259.3060887695901" lignes="AirBaltic" />
-		<voisin nom="Valence" distance="348.9968820988338" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="2460.7906587381394" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1968.686408646468" lignes="AirBaltic" />
-		<voisin nom="Alger" distance="526.5742504600375" lignes="AirBaltic" />
-		<voisin nom="Hambourg" distance="1624.1789952345882" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1504.475705092559" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="2819.6778675616742" lignes="AirBaltic" />
-		<voisin nom="Edimbourg" distance="1739.4964737352363" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="1100.2181727240652" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5186.561299560924" lignes="JOON" />
+		<voisin nom="Vienne" distance="1776.8378390817504" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="3263.7728709852627" lignes="JOON" />
 		<voisin nom="Berlin" distance="1763.920415973293" lignes="JOON" />
 		<voisin nom="Madrid" distance="635.307073380562" lignes="JOON" />
-		<voisin nom="Paris" distance="859.3766765198073" lignes="JOON" />
-		<voisin nom="Bucarest" distance="2694.6615150494795" lignes="JOON" />
+		<voisin nom="Valence" distance="348.9968820988338" lignes="AirBaltic" />
+		<voisin nom="Bacau" distance="2819.6778675616742" lignes="AirBaltic" />
+		<voisin nom="Alger" distance="526.5742504600375" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="1968.686408646468" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="5186.561299560924" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1739.4964737352363" lignes="AirBaltic" />
 		<voisin nom="Dublin" distance="1636.432723325391" lignes="JOON" />
-		<voisin nom="Helsinki" distance="3263.7728709852627" lignes="JOON" />
+		<voisin nom="Paris" distance="859.3766765198073" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="1259.3060887695901" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="2694.6615150494795" lignes="JOON" />
+		<voisin nom="Bruxelles" distance="1100.2181727240652" lignes="AirBaltic" />
+		<voisin nom="Hambourg" distance="1624.1789952345882" lignes="AirBaltic" />
+		<voisin nom="Athènes" distance="2460.7906587381394" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Beauvais" coord="2.1115111, 49.4544677">
 		<voisin nom="Berlin" distance="1310.5130491993327" lignes="HOP!" />
 	</gare>
 	<gare nom="Belfast" coord="-5.8718304, 54.6176164">
-		<voisin nom="Londres City" distance="744.4107707467831" lignes="HOP!" />
 		<voisin nom="Douvres" distance="885.7729338683484" lignes="HOP!" />
+		<voisin nom="Londres City" distance="744.4107707467831" lignes="HOP!" />
 	</gare>
 	<gare nom="Belgrade" coord="20.291691, 44.820498|20.291691, 44.820498">
-		<voisin nom="Zagreb" distance="480.20259001399415" lignes="AirBaltic" />
 		<voisin nom="Bacau" distance="757.1688839533339" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="645.3484029355388" lignes="JOON" />
+		<voisin nom="Zagreb" distance="480.20259001399415" lignes="AirBaltic" />
 		<voisin nom="Berlin" distance="1102.7823723717709" lignes="JOON" />
 		<voisin nom="Paris" distance="2026.9646784131132" lignes="JOON" />
-		<voisin nom="Bucarest" distance="645.3484029355388" lignes="JOON" />
 	</gare>
 	<gare nom="Bergen" coord="5.2220173, 60.29183|5.2220173, 60.29183">
-		<voisin nom="Copenhague" distance="973.4648750822273" lignes="AirBaltic" />
-		<voisin nom="Oslo" distance="654.4626456808382" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="2196.4296237843023" lignes="JOON" />
+		<voisin nom="Copenhague" distance="973.4648750822273" lignes="AirBaltic" />
 		<voisin nom="Dublin" distance="1487.5931100946893" lignes="JOON" />
+		<voisin nom="Oslo" distance="654.4626456808382" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Bergerac" coord="0.5186379, 44.8240252">
 		<voisin nom="Paris" distance="517.6465901493502" lignes="JOON" />
 	</gare>
 	<gare nom="Berlin" coord="13.5216148, 52.3854411|13.5216148, 52.3854411">
-		<voisin nom="Darwin" distance="10620.281969655303" lignes="Air 350" />
-		<voisin nom="Zurich" distance="771.5107908527508" lignes="JOON" />
 		<voisin nom="Naples" distance="1245.5345364979305" lignes="JOON" />
-		<voisin nom="Oslo" distance="891.2703787730732" lignes="JOON" />
-		<voisin nom="Prague" distance="260.2168719012527" lignes="JOON,HOP!" />
-		<voisin nom="Luxembourg" distance="867.683399521897" lignes="JOON" />
-		<voisin nom="Ljubljana" distance="673.3901651968952" lignes="JOON" />
-		<voisin nom="Lyon" distance="1189.86577564198" lignes="JOON" />
-		<voisin nom="Paris" distance="1276.8236219835233" lignes="JOON" />
-		<voisin nom="Bucarest" distance="1619.2034782080934" lignes="JOON" />
-		<voisin nom="Dublin" distance="2203.961910638273" lignes="JOON" />
-		<voisin nom="Lisbonne" distance="2936.5244512486474" lignes="JOON" />
 		<voisin nom="Vienne" distance="570.5355941260324" lignes="JOON" />
-		<voisin nom="Athènes" distance="1912.5407293236922" lignes="JOON" />
-		<voisin nom="Hanovre" distance="426.72694119825576" lignes="JOON,HOP!" />
-		<voisin nom="Thessalonique" distance="1635.5018069745836" lignes="JOON" />
-		<voisin nom="Madrid" distance="2311.6193853576506" lignes="JOON" />
-		<voisin nom="Iasi" distance="1659.7190013243621" lignes="JOON" />
-		<voisin nom="Narsarsuaq" distance="6620.432648819389" lignes="JOON" />
-		<voisin nom="Venise" distance="757.8966857489636" lignes="JOON" />
-		<voisin nom="Nantes" distance="1780.1614376381829" lignes="JOON" />
-		<voisin nom="Porto" distance="2761.160081632814" lignes="JOON" />
-		<voisin nom="Milan" distance="891.8711817358364" lignes="JOON" />
-		<voisin nom="Séville" distance="2721.5809006587933" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="1920.2414931811081" lignes="JOON" />
-		<voisin nom="Stockholm" distance="919.5814307902652" lignes="JOON" />
-		<voisin nom="Bordeaux" distance="1790.1704085547815" lignes="JOON" />
-		<voisin nom="Helsinki" distance="1520.4238068935474" lignes="JOON" />
-		<voisin nom="Margrethe II" distance="5934.880800546666" lignes="JOON" />
-		<voisin nom="Amsterdam" distance="974.5494403130172" lignes="JOON" />
+		<voisin nom="Lisbonne" distance="2936.5244512486474" lignes="JOON" />
 		<voisin nom="Belgrade" distance="1102.7823723717709" lignes="JOON" />
-		<voisin nom="Riga" distance="1257.6040901909591" lignes="JOON" />
-		<voisin nom="Genève" distance="1065.370476078648" lignes="JOON" />
-		<voisin nom="Zagreb" distance="769.1761810113662" lignes="JOON" />
-		<voisin nom="Hambourg" distance="415.2188541125165" lignes="JOON" />
-		<voisin nom="Innsbruck" distance="607.4901986978177" lignes="JOON" />
+		<voisin nom="Tbilissi" distance="3644.223150622806" lignes="JOON" />
+		<voisin nom="Madrid" distance="2311.6193853576506" lignes="JOON" />
+		<voisin nom="Prague" distance="260.2168719012527" lignes="HOP!,JOON" />
 		<voisin nom="Varsovie" distance="829.2396553121366" lignes="JOON" />
-		<voisin nom="Düsseldorf" distance="761.4936208908271" lignes="JOON" />
-		<voisin nom="Paris Orly" distance="1305.5954361848248" lignes="JOON" />
-		<voisin nom="Keflavik" distance="4218.849151930234" lignes="JOON" />
-		<voisin nom="Malaga" distance="2652.2941303616444" lignes="JOON" />
-		<voisin nom="Marseille" distance="1348.6931509187054" lignes="JOON" />
-		<voisin nom="Dubrovnik" distance="1176.4640095505122" lignes="JOON" />
 		<voisin nom="Glasgow" distance="2035.6578744012481" lignes="JOON" />
-		<voisin nom="Bruxelles" distance="1019.0132317512324" lignes="JOON" />
-		<voisin nom="Cracovie" distance="739.7018439031357" lignes="JOON" />
-		<voisin nom="Nice" distance="1185.2276482678158" lignes="JOON" />
-		<voisin nom="Salzbourg" distance="500.96175076727155" lignes="JOON" />
 		<voisin nom="Casablanca" distance="3152.502563964413" lignes="JOON" />
 		<voisin nom="Astana" distance="6450.691939874823" lignes="JOON" />
-		<voisin nom="Vilnius" distance="1330.7506285570564" lignes="JOON" />
-		<voisin nom="Tbilissi" distance="3644.223150622806" lignes="JOON" />
-		<voisin nom="Barcelone" distance="1763.920415973293" lignes="JOON" />
-		<voisin nom="Malte" distance="1788.3929387612532" lignes="JOON" />
-		<voisin nom="Rome" distance="1157.3436338311847" lignes="JOON" />
+		<voisin nom="Helsinki" distance="1520.4238068935474" lignes="JOON" />
+		<voisin nom="Ljubljana" distance="673.3901651968952" lignes="JOON" />
+		<voisin nom="Stockholm" distance="919.5814307902652" lignes="JOON" />
 		<voisin nom="Tel Aviv" distance="3138.416273120814" lignes="JOON" />
-		<voisin nom="Kiev" distance="1945.22052227996" lignes="JOON" />
-		<voisin nom="Ivalo" distance="2287.777418748957" lignes="JOON" />
-		<voisin nom="Toulouse" distance="1661.6068884731728" lignes="JOON" />
-		<voisin nom="EuroAirport" distance="848.3982574814664" lignes="JOON" />
+		<voisin nom="Porto" distance="2761.160081632814" lignes="JOON" />
 		<voisin nom="Bacau" distance="1610.297461967056" lignes="JOON" />
+		<voisin nom="Milan" distance="891.8711817358364" lignes="JOON" />
+		<voisin nom="Keflavik" distance="4218.849151930234" lignes="JOON" />
+		<voisin nom="Séville" distance="2721.5809006587933" lignes="JOON" />
+		<voisin nom="Bordeaux" distance="1790.1704085547815" lignes="JOON" />
+		<voisin nom="Zagreb" distance="769.1761810113662" lignes="JOON" />
+		<voisin nom="Marseille" distance="1348.6931509187054" lignes="JOON" />
+		<voisin nom="Nice" distance="1185.2276482678158" lignes="JOON" />
+		<voisin nom="Narsarsuaq" distance="6620.432648819389" lignes="JOON" />
+		<voisin nom="Düsseldorf" distance="761.4936208908271" lignes="JOON" />
+		<voisin nom="Luxembourg" distance="867.683399521897" lignes="JOON" />
+		<voisin nom="Zurich" distance="771.5107908527508" lignes="JOON" />
+		<voisin nom="Dublin" distance="2203.961910638273" lignes="JOON" />
+		<voisin nom="Malaga" distance="2652.2941303616444" lignes="JOON" />
+		<voisin nom="Bucarest" distance="1619.2034782080934" lignes="JOON" />
+		<voisin nom="Hambourg" distance="415.2188541125165" lignes="JOON" />
+		<voisin nom="EuroAirport" distance="848.3982574814664" lignes="JOON" />
 		<voisin nom="Beauvais" distance="1310.5130491993327" lignes="HOP!" />
-		<voisin nom="Lille" distance="1176.4862044969539" lignes="HOP!" />
+		<voisin nom="Toulouse" distance="1661.6068884731728" lignes="JOON" />
+		<voisin nom="Malte" distance="1788.3929387612532" lignes="JOON" />
+		<voisin nom="Paris Orly" distance="1305.5954361848248" lignes="JOON" />
+		<voisin nom="Iasi" distance="1659.7190013243621" lignes="JOON" />
+		<voisin nom="Lyon" distance="1189.86577564198" lignes="JOON" />
+		<voisin nom="Innsbruck" distance="607.4901986978177" lignes="JOON" />
+		<voisin nom="Riga" distance="1257.6040901909591" lignes="JOON" />
+		<voisin nom="Rome" distance="1157.3436338311847" lignes="JOON" />
+		<voisin nom="Vilnius" distance="1330.7506285570564" lignes="JOON" />
+		<voisin nom="Cracovie" distance="739.7018439031357" lignes="JOON" />
+		<voisin nom="Margrethe II" distance="5934.880800546666" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1920.2414931811081" lignes="JOON" />
+		<voisin nom="Athènes" distance="1912.5407293236922" lignes="JOON" />
+		<voisin nom="Paris" distance="1276.8236219835233" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="974.5494403130172" lignes="JOON" />
 		<voisin nom="Billund" distance="608.762900213606" lignes="HOP!" />
+		<voisin nom="Hanovre" distance="426.72694119825576" lignes="HOP!,JOON" />
+		<voisin nom="Nantes" distance="1780.1614376381829" lignes="JOON" />
+		<voisin nom="Salzbourg" distance="500.96175076727155" lignes="JOON" />
+		<voisin nom="Dubrovnik" distance="1176.4640095505122" lignes="JOON" />
+		<voisin nom="Genève" distance="1065.370476078648" lignes="JOON" />
+		<voisin nom="Lille" distance="1176.4862044969539" lignes="HOP!" />
+		<voisin nom="Venise" distance="757.8966857489636" lignes="JOON" />
+		<voisin nom="Barcelone" distance="1763.920415973293" lignes="JOON" />
+		<voisin nom="Darwin" distance="10620.281969655303" lignes="Air 350" />
+		<voisin nom="Bruxelles" distance="1019.0132317512324" lignes="JOON" />
+		<voisin nom="Thessalonique" distance="1635.5018069745836" lignes="JOON" />
+		<voisin nom="Ivalo" distance="2287.777418748957" lignes="JOON" />
+		<voisin nom="Oslo" distance="891.2703787730732" lignes="JOON" />
+		<voisin nom="Kiev" distance="1945.22052227996" lignes="JOON" />
 	</gare>
 	<gare nom="Beyrouth" coord="35.4912043, 33.8193756|35.4912043, 33.8193756">
-		<voisin nom="Athènes" distance="1344.7481278762862" lignes="AirBaltic" />
 		<voisin nom="Bacau" distance="1539.478985682368" lignes="AirBaltic" />
+		<voisin nom="Athènes" distance="1344.7481278762862" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="3988.2247109405535" lignes="Air 350" />
 	</gare>
 	<gare nom="Biarritz" coord="-1.533334, 43.4707503">
@@ -256,27 +256,27 @@
 		<voisin nom="Tbilissi" distance="2055.9223958688985" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Bilbao" coord="-2.911116, 43.302494">
-		<voisin nom="Paris" distance="878.9887358733433" lignes="JOON" />
 		<voisin nom="Madrid" distance="320.110659389108" lignes="JOON" />
+		<voisin nom="Paris" distance="878.9887358733433" lignes="JOON" />
 	</gare>
 	<gare nom="Billund" coord="9.1525999, 55.7408067">
-		<voisin nom="Berlin" distance="608.762900213606" lignes="HOP!" />
-		<voisin nom="Edimbourg" distance="1393.252827122615" lignes="HOP!" />
 		<voisin nom="Copenhague" distance="389.64485591933925" lignes="HOP!" />
+		<voisin nom="Edimbourg" distance="1393.252827122615" lignes="HOP!" />
 		<voisin nom="Paris Orly" distance="1083.3936899919872" lignes="HOP!" />
+		<voisin nom="Berlin" distance="608.762900213606" lignes="HOP!" />
 	</gare>
 	<gare nom="Bogota" coord="-74.1444969, 4.7014128">
 		<voisin nom="Dublin" distance="8182.862777376894" lignes="Air 350" />
 	</gare>
 	<gare nom="Bordeaux" coord="-0.7103052, 44.8305935">
+		<voisin nom="Helsinki" distance="3308.860555063089" lignes="JOON" />
 		<voisin nom="Berlin" distance="1790.1704085547815" lignes="JOON" />
 		<voisin nom="Paris" distance="589.8011999355177" lignes="JOON" />
-		<voisin nom="Helsinki" distance="3308.860555063089" lignes="JOON" />
 	</gare>
 	<gare nom="Brest" coord="-4.4178324, 48.4476378|-4.4178324, 48.4476378">
-		<voisin nom="Paris" distance="777.9408641048612" lignes="JOON" />
 		<voisin nom="Edimbourg" distance="841.5644520165151" lignes="HOP!" />
 		<voisin nom="Dublin" distance="588.2955342367381" lignes="HOP!" />
+		<voisin nom="Paris" distance="777.9408641048612" lignes="JOON" />
 	</gare>
 	<gare nom="Brisbane" coord="153.1218303, -27.3942144">
 		<voisin nom="Darwin" distance="2791.6575817639023" lignes="Air 350" />
@@ -285,97 +285,97 @@
 		<voisin nom="Hong Kong" distance="804.5012493623979" lignes="HOP!" />
 	</gare>
 	<gare nom="Bruxelles" coord="4.4855744, 50.900999|4.4855744, 50.900999">
-		<voisin nom="Zurich" distance="591.7637593697348" lignes="AirBaltic" />
-		<voisin nom="Lyon" distance="578.2628562748505" lignes="AirBaltic" />
-		<voisin nom="Lisbonne" distance="2027.1665475944542" lignes="AirBaltic" />
-		<voisin nom="Vienne" distance="1378.826176532243" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="2574.594563763627" lignes="AirBaltic" />
-		<voisin nom="Venise" distance="1057.4588047478803" lignes="AirBaltic" />
-		<voisin nom="Porto" distance="1815.7398646729152" lignes="AirBaltic" />
-		<voisin nom="Séville" distance="1892.1802737711523" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="1773.6264410068995" lignes="AirBaltic" />
-		<voisin nom="Edimbourg" distance="1038.5210063658287" lignes="AirBaltic" />
-		<voisin nom="Riga" distance="2263.5016328796337" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1046.5637443753512" lignes="AirBaltic" />
-		<voisin nom="Hambourg" distance="683.7135720242009" lignes="AirBaltic" />
-		<voisin nom="Francfort" distance="463.7285770583148" lignes="AirBaltic" />
-		<voisin nom="Rovaniemi" distance="2904.5151625598733" lignes="AirBaltic" />
-		<voisin nom="Dubrovnik" distance="1782.126264702666" lignes="AirBaltic" />
-		<voisin nom="Cracovie" distance="1705.8144158197506" lignes="AirBaltic" />
-		<voisin nom="Nice" distance="857.4390029032646" lignes="AirBaltic" />
-		<voisin nom="Barcelone" distance="1100.2181727240652" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1990.0173123467396" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="2539.2157347721823" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5013.591273667821" lignes="JOON" />
-		<voisin nom="Berlin" distance="1019.0132317512324" lignes="JOON" />
+		<voisin nom="Vienne" distance="1378.826176532243" lignes="AirBaltic" />
+		<voisin nom="Lisbonne" distance="2027.1665475944542" lignes="AirBaltic" />
+		<voisin nom="Lyon" distance="578.2628562748505" lignes="AirBaltic" />
 		<voisin nom="Madrid" distance="1463.6873538968919" lignes="JOON" />
+		<voisin nom="Dubrovnik" distance="1782.126264702666" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="1046.5637443753512" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="5013.591273667821" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1038.5210063658287" lignes="AirBaltic" />
+		<voisin nom="Athènes" distance="2574.594563763627" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="301.13374439480776" lignes="JOON" />
-		<voisin nom="Bucarest" distance="2497.2604932614086" lignes="JOON" />
-		<voisin nom="Dublin" distance="1227.588637159439" lignes="JOON" />
+		<voisin nom="Rovaniemi" distance="2904.5151625598733" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="1773.6264410068995" lignes="AirBaltic" />
+		<voisin nom="Francfort" distance="463.7285770583148" lignes="AirBaltic" />
+		<voisin nom="Zurich" distance="591.7637593697348" lignes="AirBaltic" />
+		<voisin nom="Porto" distance="1815.7398646729152" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="2491.260316144878" lignes="JOON" />
+		<voisin nom="Berlin" distance="1019.0132317512324" lignes="JOON" />
+		<voisin nom="Nice" distance="857.4390029032646" lignes="AirBaltic" />
+		<voisin nom="Bacau" distance="2539.2157347721823" lignes="AirBaltic" />
+		<voisin nom="Venise" distance="1057.4588047478803" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="1227.588637159439" lignes="JOON" />
+		<voisin nom="Barcelone" distance="1100.2181727240652" lignes="AirBaltic" />
+		<voisin nom="Cracovie" distance="1705.8144158197506" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="2497.2604932614086" lignes="JOON" />
+		<voisin nom="Riga" distance="2263.5016328796337" lignes="AirBaltic" />
+		<voisin nom="Hambourg" distance="683.7135720242009" lignes="AirBaltic" />
+		<voisin nom="Séville" distance="1892.1802737711523" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Bucarest" coord="26.0844123, 44.5707306|26.0844123, 44.5707306">
-		<voisin nom="Margrethe II" distance="7508.385032799048" lignes="Air 350" />
-		<voisin nom="Mumbai" distance="5429.359059230601" lignes="Air 350" />
-		<voisin nom="Darwin" distance="9941.128316113767" lignes="Air 350" />
-		<voisin nom="Antananarivo" distance="5945.042607227202" lignes="Air 350" />
-		<voisin nom="Nairobi" distance="4474.228782254206" lignes="Air 350" />
-		<voisin nom="Chennai" distance="6197.894360709992" lignes="Air 350" />
-		<voisin nom="Doha" distance="3275.7121592264457" lignes="Air 350" />
-		<voisin nom="Johannesbourg" distance="6901.787173973736" lignes="Air 350" />
-		<voisin nom="Maurice" distance="6115.492519367224" lignes="Air 350" />
-		<voisin nom="Singapour" distance="8285.819802586211" lignes="Air 350" />
-		<voisin nom="Téhéran Mehrabad" distance="2907.329116107598" lignes="Air 350" />
-		<voisin nom="Téhéran" distance="2897.181637613242" lignes="Air 350" />
-		<voisin nom="New Delhi" distance="5742.619235539824" lignes="Air 350" />
-		<voisin nom="Addis Abeba" distance="3602.0674130785205" lignes="Air 350" />
-		<voisin nom="Dar es salam" distance="4967.659436459114" lignes="Air 350" />
-		<voisin nom="Seychelles" distance="5122.615228021643" lignes="Air 350" />
-		<voisin nom="Timisoara" distance="545.1781492676795" lignes="JOON" />
-		<voisin nom="Zurich" distance="1975.051568493995" lignes="JOON" />
 		<voisin nom="Naples" distance="1368.073414125748" lignes="JOON" />
-		<voisin nom="Oslo" distance="2340.5523744605553" lignes="JOON" />
-		<voisin nom="Prague" distance="1436.662256633301" lignes="JOON" />
-		<voisin nom="Luxembourg" distance="2276.234469340161" lignes="JOON" />
-		<voisin nom="Paris" distance="2662.7305429304347" lignes="JOON" />
-		<voisin nom="Dublin" distance="3724.4309509787236" lignes="JOON" />
-		<voisin nom="Vienne" distance="1121.279691217924" lignes="JOON" />
-		<voisin nom="Larnaca" distance="1255.982932756748" lignes="JOON" />
-		<voisin nom="Athènes" distance="710.1797912430493" lignes="JOON" />
-		<voisin nom="Thessalonique" distance="536.8841461603954" lignes="JOON" />
-		<voisin nom="Madrid" distance="3329.9096227270247" lignes="JOON" />
-		<voisin nom="Iasi" distance="310.0307759805409" lignes="JOON" />
-		<voisin nom="Venise" distance="1532.477071097248" lignes="JOON" />
-		<voisin nom="Milan" distance="1873.3817930928465" lignes="JOON" />
-		<voisin nom="Stockholm" distance="1799.8032898148717" lignes="JOON" />
-		<voisin nom="Helsinki" distance="1586.3076999507136" lignes="JOON" />
-		<voisin nom="Amsterdam" distance="2512.0779839694997" lignes="JOON" />
-		<voisin nom="Belgrade" distance="645.3484029355388" lignes="JOON" />
-		<voisin nom="Copenhague" distance="1890.3436883015484" lignes="JOON" />
-		<voisin nom="Zagreb" distance="1121.6637368321385" lignes="JOON" />
-		<voisin nom="Francfort" distance="2034.4159365005485" lignes="JOON" />
-		<voisin nom="Varsovie" distance="961.6679204275107" lignes="JOON" />
-		<voisin nom="Düsseldorf" distance="2265.503808781718" lignes="JOON" />
-		<voisin nom="Paris Orly" distance="2677.5663335660684" lignes="JOON" />
-		<voisin nom="Dubrovnik" distance="895.0350414581131" lignes="JOON" />
-		<voisin nom="Chisinau" distance="393.9641695558559" lignes="JOON" />
-		<voisin nom="Bruxelles" distance="2497.2604932614086" lignes="JOON" />
-		<voisin nom="Nice" distance="2102.773098958886" lignes="JOON" />
-		<voisin nom="Astana" distance="5067.767049771319" lignes="JOON" />
-		<voisin nom="Berlin" distance="1619.2034782080934" lignes="JOON" />
-		<voisin nom="Tbilissi" distance="2117.6998434035277" lignes="JOON" />
-		<voisin nom="Barcelone" distance="2694.6615150494795" lignes="JOON" />
-		<voisin nom="Malte" distance="1578.6041231743204" lignes="JOON" />
-		<voisin nom="Munich" distance="1641.6219667292667" lignes="JOON" />
-		<voisin nom="Rome" distance="1567.5885542032693" lignes="JOON" />
-		<voisin nom="Kiev" distance="777.5946222564935" lignes="JOON" />
-		<voisin nom="Bacau" distance="215.87108057063813" lignes="JOON" />
 		<voisin nom="Sofia" distance="353.3181268613923" lignes="HOP!" />
+		<voisin nom="Vienne" distance="1121.279691217924" lignes="JOON" />
+		<voisin nom="Timisoara" distance="545.1781492676795" lignes="JOON" />
+		<voisin nom="Malte" distance="1578.6041231743204" lignes="JOON" />
+		<voisin nom="Belgrade" distance="645.3484029355388" lignes="JOON" />
+		<voisin nom="Tbilissi" distance="2117.6998434035277" lignes="JOON" />
+		<voisin nom="Madrid" distance="3329.9096227270247" lignes="JOON" />
+		<voisin nom="Prague" distance="1436.662256633301" lignes="JOON" />
+		<voisin nom="Dubrovnik" distance="895.0350414581131" lignes="JOON" />
+		<voisin nom="Copenhague" distance="1890.3436883015484" lignes="JOON" />
+		<voisin nom="Doha" distance="3275.7121592264457" lignes="Air 350" />
+		<voisin nom="Astana" distance="5067.767049771319" lignes="JOON" />
+		<voisin nom="Téhéran" distance="2897.181637613242" lignes="Air 350" />
+		<voisin nom="Stockholm" distance="1799.8032898148717" lignes="JOON" />
+		<voisin nom="Paris" distance="2662.7305429304347" lignes="JOON" />
+		<voisin nom="Bacau" distance="215.87108057063813" lignes="JOON" />
+		<voisin nom="Milan" distance="1873.3817930928465" lignes="JOON" />
+		<voisin nom="Luxembourg" distance="2276.234469340161" lignes="JOON" />
+		<voisin nom="New Delhi" distance="5742.619235539824" lignes="Air 350" />
+		<voisin nom="Oslo" distance="2340.5523744605553" lignes="JOON" />
+		<voisin nom="Zagreb" distance="1121.6637368321385" lignes="JOON" />
+		<voisin nom="Berlin" distance="1619.2034782080934" lignes="JOON" />
+		<voisin nom="Nice" distance="2102.773098958886" lignes="JOON" />
+		<voisin nom="Antananarivo" distance="5945.042607227202" lignes="Air 350" />
+		<voisin nom="Düsseldorf" distance="2265.503808781718" lignes="JOON" />
+		<voisin nom="Mumbai" distance="5429.359059230601" lignes="Air 350" />
+		<voisin nom="Zurich" distance="1975.051568493995" lignes="JOON" />
+		<voisin nom="Addis Abeba" distance="3602.0674130785205" lignes="Air 350" />
+		<voisin nom="Venise" distance="1532.477071097248" lignes="JOON" />
+		<voisin nom="Seychelles" distance="5122.615228021643" lignes="Air 350" />
+		<voisin nom="Chennai" distance="6197.894360709992" lignes="Air 350" />
+		<voisin nom="Dar es salam" distance="4967.659436459114" lignes="Air 350" />
+		<voisin nom="Singapour" distance="8285.819802586211" lignes="Air 350" />
+		<voisin nom="Paris Orly" distance="2677.5663335660684" lignes="JOON" />
+		<voisin nom="Iasi" distance="310.0307759805409" lignes="JOON" />
+		<voisin nom="Téhéran Mehrabad" distance="2907.329116107598" lignes="Air 350" />
+		<voisin nom="Rome" distance="1567.5885542032693" lignes="JOON" />
+		<voisin nom="Margrethe II" distance="7508.385032799048" lignes="Air 350" />
+		<voisin nom="Athènes" distance="710.1797912430493" lignes="JOON" />
+		<voisin nom="Johannesbourg" distance="6901.787173973736" lignes="Air 350" />
+		<voisin nom="Amsterdam" distance="2512.0779839694997" lignes="JOON" />
+		<voisin nom="Dublin" distance="3724.4309509787236" lignes="JOON" />
+		<voisin nom="Maurice" distance="6115.492519367224" lignes="Air 350" />
+		<voisin nom="Bruxelles" distance="2497.2604932614086" lignes="JOON" />
+		<voisin nom="Varsovie" distance="961.6679204275107" lignes="JOON" />
+		<voisin nom="Nairobi" distance="4474.228782254206" lignes="Air 350" />
+		<voisin nom="Larnaca" distance="1255.982932756748" lignes="JOON" />
+		<voisin nom="Munich" distance="1641.6219667292667" lignes="JOON" />
+		<voisin nom="Chisinau" distance="393.9641695558559" lignes="JOON" />
+		<voisin nom="Barcelone" distance="2694.6615150494795" lignes="JOON" />
+		<voisin nom="Darwin" distance="9941.128316113767" lignes="Air 350" />
+		<voisin nom="Francfort" distance="2034.4159365005485" lignes="JOON" />
+		<voisin nom="Thessalonique" distance="536.8841461603954" lignes="JOON" />
+		<voisin nom="Helsinki" distance="1586.3076999507136" lignes="JOON" />
+		<voisin nom="Kiev" distance="777.5946222564935" lignes="JOON" />
 	</gare>
 	<gare nom="Buenos Aires" coord="-58.5348284, -34.8150044|-58.5348284, -34.8150044">
-		<voisin nom="Paris" distance="9902.818133053614" lignes="Air 350" />
-		<voisin nom="Madrid" distance="8830.93130598376" lignes="Air 350" />
 		<voisin nom="El Calafate" distance="1656.4050398855877" lignes="HOP!" />
+		<voisin nom="Madrid" distance="8830.93130598376" lignes="Air 350" />
+		<voisin nom="Paris" distance="9902.818133053614" lignes="Air 350" />
 	</gare>
 	<gare nom="Busan" coord="128.9464591, 35.17322">
 		<voisin nom="Hong Kong" distance="1823.6584150769486" lignes="HOP!" />
@@ -387,12 +387,12 @@
 		<voisin nom="Margrethe II" distance="8380.589747852931" lignes="Air 350" />
 	</gare>
 	<gare nom="Canberra" coord="149.1933934, -35.3052327">
-		<voisin nom="Nouméa" distance="2332.667663952749" lignes="Air 350" />
 		<voisin nom="Darwin" distance="2801.7669612491445" lignes="Air 350" />
+		<voisin nom="Nouméa" distance="2332.667663952749" lignes="Air 350" />
 	</gare>
 	<gare nom="Cancun" coord="-86.873564, 21.0403409">
-		<voisin nom="Paris" distance="9994.946035819348" lignes="Air 350" />
 		<voisin nom="Dublin" distance="9029.460115901651" lignes="Air 350" />
+		<voisin nom="Paris" distance="9994.946035819348" lignes="Air 350" />
 	</gare>
 	<gare nom="Canton" coord="113.3079699, 23.3959079">
 		<voisin nom="Helsinki" distance="9375.639842358521" lignes="Air 350" />
@@ -405,60 +405,60 @@
 		<voisin nom="Paris" distance="1883.3540083292382" lignes="JOON" />
 	</gare>
 	<gare nom="Cayenne" coord="-52.3638975, 4.8222247|-52.3638975, 4.8222247">
-		<voisin nom="Martinique" distance="1129.6468464338864" lignes="AirBaltic" />
-		<voisin nom="Guadeloupe" distance="1230.4489371556654" lignes="AirBaltic" />
 		<voisin nom="Panama" distance="3012.566668349995" lignes="AirBaltic" />
 		<voisin nom="Réunion" distance="12239.57926455975" lignes="Air 350" />
+		<voisin nom="Guadeloupe" distance="1230.4489371556654" lignes="AirBaltic" />
+		<voisin nom="Martinique" distance="1129.6468464338864" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="7378.4922861479445" lignes="Air 350" />
 	</gare>
 	<gare nom="Chennai" coord="80.1708668, 12.994112">
-		<voisin nom="Margrethe II" distance="13563.29145883779" lignes="Air 350" />
 		<voisin nom="Bucarest" distance="6197.894360709992" lignes="Air 350" />
+		<voisin nom="Margrethe II" distance="13563.29145883779" lignes="Air 350" />
 	</gare>
 	<gare nom="Chisinau" coord="28.935516, 46.935168">
 		<voisin nom="Bucarest" distance="393.9641695558559" lignes="JOON" />
 	</gare>
 	<gare nom="Christchurch" coord="172.5368705, -43.4863981">
-		<voisin nom="Nouméa" distance="2450.6426505041472" lignes="Air 350" />
 		<voisin nom="Darwin" distance="5472.14506966343" lignes="Air 350" />
+		<voisin nom="Nouméa" distance="2450.6426505041472" lignes="Air 350" />
 	</gare>
 	<gare nom="Constanta" coord="28.481816, 44.350128">
 		<voisin nom="Bacau" distance="277.11137364688346" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Copenhague" coord="12.6507628, 55.6180236|12.6507628, 55.6180236">
-		<voisin nom="Zurich" distance="1002.2805712794585" lignes="AirBaltic" />
-		<voisin nom="Oslo" distance="527.8664857549027" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="1849.1073242311918" lignes="AirBaltic" />
-		<voisin nom="Vienne" distance="918.0087941530502" lignes="AirBaltic" />
-		<voisin nom="Trondheim" distance="875.6979135301125" lignes="AirBaltic" />
-		<voisin nom="Thessalonique" distance="1967.1953833961459" lignes="AirBaltic" />
-		<voisin nom="Milan" distance="1172.5694412366995" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="729.2586600731034" lignes="AirBaltic" />
-		<voisin nom="Edimbourg" distance="1782.8515325641877" lignes="AirBaltic" />
-		<voisin nom="Riga" distance="1267.9066923774835" lignes="AirBaltic" />
-		<voisin nom="Zagreb" distance="1130.7968786154415" lignes="AirBaltic" />
-		<voisin nom="Francfort" distance="761.4150320815776" lignes="AirBaltic" />
-		<voisin nom="Tallinn" distance="729.2586740192576" lignes="AirBaltic" />
-		<voisin nom="Varsovie" distance="996.0575221654938" lignes="AirBaltic" />
-		<voisin nom="Keflavik" distance="4032.466899680778" lignes="AirBaltic" />
-		<voisin nom="Stavanger" distance="859.6294635745444" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="1046.5637443753512" lignes="AirBaltic" />
-		<voisin nom="Nice" distance="1443.5769407328592" lignes="AirBaltic" />
-		<voisin nom="Tbilissi" distance="3833.1733618692847" lignes="AirBaltic" />
-		<voisin nom="Barcelone" distance="1968.686408646468" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="796.3207748325057" lignes="AirBaltic" />
-		<voisin nom="Rome" distance="1502.5657249879107" lignes="AirBaltic" />
 		<voisin nom="Toulouse" distance="1823.7662653826128" lignes="AirBaltic" />
-		<voisin nom="Bergen" distance="973.4648750822273" lignes="AirBaltic" />
+		<voisin nom="Vienne" distance="918.0087941530502" lignes="AirBaltic" />
+		<voisin nom="Tbilissi" distance="3833.1733618692847" lignes="AirBaltic" />
+		<voisin nom="Rome" distance="1502.5657249879107" lignes="AirBaltic" />
+		<voisin nom="Varsovie" distance="996.0575221654938" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="796.3207748325057" lignes="AirBaltic" />
 		<voisin nom="Margrethe II" distance="5762.161348838052" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1782.8515325641877" lignes="AirBaltic" />
 		<voisin nom="Madrid" distance="2460.7626410650823" lignes="JOON" />
 		<voisin nom="Paris" distance="1339.796702861686" lignes="JOON" />
-		<voisin nom="Bucarest" distance="1890.3436883015484" lignes="JOON" />
-		<voisin nom="Dublin" distance="2117.937919835454" lignes="JOON" />
-		<voisin nom="Helsinki" distance="1455.9401656713305" lignes="JOON" />
+		<voisin nom="Milan" distance="1172.5694412366995" lignes="AirBaltic" />
 		<voisin nom="Vagar" distance="2329.9660783715976" lignes="HOP!" />
-		<voisin nom="Hambourg" distance="366.26503048466395" lignes="HOP!" />
+		<voisin nom="Stavanger" distance="859.6294635745444" lignes="AirBaltic" />
 		<voisin nom="Billund" distance="389.64485591933925" lignes="HOP!" />
+		<voisin nom="Bruxelles" distance="1046.5637443753512" lignes="AirBaltic" />
+		<voisin nom="Tallinn" distance="729.2586740192576" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="729.2586600731034" lignes="AirBaltic" />
+		<voisin nom="Keflavik" distance="4032.466899680778" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="1455.9401656713305" lignes="JOON" />
+		<voisin nom="Zagreb" distance="1130.7968786154415" lignes="AirBaltic" />
+		<voisin nom="Nice" distance="1443.5769407328592" lignes="AirBaltic" />
+		<voisin nom="Trondheim" distance="875.6979135301125" lignes="AirBaltic" />
+		<voisin nom="Bacau" distance="1849.1073242311918" lignes="AirBaltic" />
+		<voisin nom="Francfort" distance="761.4150320815776" lignes="AirBaltic" />
+		<voisin nom="Bergen" distance="973.4648750822273" lignes="AirBaltic" />
+		<voisin nom="Zurich" distance="1002.2805712794585" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="2117.937919835454" lignes="JOON" />
+		<voisin nom="Barcelone" distance="1968.686408646468" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="1890.3436883015484" lignes="JOON" />
+		<voisin nom="Riga" distance="1267.9066923774835" lignes="AirBaltic" />
+		<voisin nom="Hambourg" distance="366.26503048466395" lignes="HOP!" />
+		<voisin nom="Oslo" distance="527.8664857549027" lignes="AirBaltic" />
+		<voisin nom="Thessalonique" distance="1967.1953833961459" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Cracovie" coord="19.7881188, 50.0769776|19.7881188, 50.0769776">
 		<voisin nom="Malte" distance="1623.1957635959955" lignes="AirBaltic" />
@@ -467,8 +467,8 @@
 		<voisin nom="Paris" distance="1922.67616199123" lignes="JOON" />
 	</gare>
 	<gare nom="Dakar" coord="-17.0673475, 14.6708543">
-		<voisin nom="Paris" distance="4357.870190665062" lignes="Air 350" />
 		<voisin nom="Madrid" distance="3195.946528525758" lignes="Air 350" />
+		<voisin nom="Paris" distance="4357.870190665062" lignes="Air 350" />
 	</gare>
 	<gare nom="Dalian" coord="121.5383333, 38.9655556">
 		<voisin nom="Hong Kong" distance="1202.8321141481024" lignes="HOP!" />
@@ -477,39 +477,39 @@
 		<voisin nom="Bucarest" distance="4967.659436459114" lignes="Air 350" />
 	</gare>
 	<gare nom="Darwin" coord="130.877545, -12.4112158|130.877545, -12.4112158">
+		<voisin nom="Brisbane" distance="2791.6575817639023" lignes="Air 350" />
+		<voisin nom="Singapour" distance="3056.5073453504656" lignes="Air 350" />
 		<voisin nom="Doha" distance="8268.332150938419" lignes="Air 350" />
-		<voisin nom="Auckland" distance="5410.054282157869" lignes="Air 350" />
+		<voisin nom="Xi'an" distance="3417.1450541968597" lignes="Air 350" />
+		<voisin nom="Vienne" distance="10613.03278993174" lignes="Air 350" />
+		<voisin nom="Adélaïde" distance="1949.2709083839775" lignes="Air 350" />
+		<voisin nom="Bangkok" distance="3508.7357735551136" lignes="Air 350" />
 		<voisin nom="Nouméa" distance="4030.7724942316527" lignes="Air 350" />
-		<voisin nom="Kansai" distance="3535.093485674646" lignes="Air 350" />
+		<voisin nom="Rome" distance="11391.895624471108" lignes="Air 350" />
+		<voisin nom="Berlin" distance="10620.281969655303" lignes="Air 350" />
+		<voisin nom="Perth" distance="2028.5479438074317" lignes="Air 350" />
+		<voisin nom="Pékin" distance="3483.7499156749413" lignes="Air 350" />
+		<voisin nom="Athènes" distance="10496.0135782976" lignes="Air 350" />
+		<voisin nom="Séoul" distance="3430.5670238004604" lignes="Air 350" />
+		<voisin nom="Paris" distance="11823.15344042531" lignes="Air 350" />
+		<voisin nom="Port Moresby" distance="1835.7235449186064" lignes="HOP!" />
+		<voisin nom="Manille" distance="2052.340275986019" lignes="Air 350" />
+		<voisin nom="Auckland" distance="5410.054282157868" lignes="Air 350" />
+		<voisin nom="Hong Kong" distance="2737.9236868579997" lignes="Air 350" />
+		<voisin nom="Bucarest" distance="9941.128316113767" lignes="Air 350" />
+		<voisin nom="Wellington" distance="5598.024751179433" lignes="Air 350" />
+		<voisin nom="Tokyo" distance="3854.656355287299" lignes="Air 350" />
+		<voisin nom="Helsinki" distance="9104.497267724131" lignes="Air 350" />
+		<voisin nom="Mumbai" distance="6241.863545526271" lignes="Air 350" />
 		<voisin nom="Jakarta" distance="2687.2106478002997" lignes="Air 350" />
 		<voisin nom="Sydney" distance="2907.263480017091" lignes="Air 350" />
-		<voisin nom="Paris" distance="11823.15344042531" lignes="Air 350" />
-		<voisin nom="Bucarest" distance="9941.128316113767" lignes="Air 350" />
-		<voisin nom="Perth" distance="2028.5479438074317" lignes="Air 350" />
-		<voisin nom="Vienne" distance="10613.03278993174" lignes="Air 350" />
-		<voisin nom="Mumbai" distance="6241.863545526271" lignes="Air 350" />
-		<voisin nom="Athènes" distance="10496.0135782976" lignes="Air 350" />
-		<voisin nom="Xi'an" distance="3417.1450541968597" lignes="Air 350" />
-		<voisin nom="Bangkok" distance="3508.7357735551136" lignes="Air 350" />
+		<voisin nom="Melbourne" distance="2579.9811557022153" lignes="Air 350" />
 		<voisin nom="Shanghai" distance="2984.0422197946746" lignes="Air 350" />
-		<voisin nom="Manille" distance="2052.340275986019" lignes="Air 350" />
-		<voisin nom="Helsinki" distance="9104.497267724131" lignes="Air 350" />
-		<voisin nom="Adélaïde" distance="1949.2709083839775" lignes="Air 350" />
-		<voisin nom="Pékin" distance="3483.7499156749413" lignes="Air 350" />
+		<voisin nom="Addis Abeba" distance="10025.990928706186" lignes="Air 350" />
+		<voisin nom="Kansai" distance="3535.093485674646" lignes="Air 350" />
 		<voisin nom="Canberra" distance="2801.7669612491445" lignes="Air 350" />
 		<voisin nom="Taipei" distance="2636.469299217999" lignes="Air 350" />
-		<voisin nom="Séoul" distance="3430.5670238004604" lignes="Air 350" />
-		<voisin nom="Singapour" distance="3056.5073453504656" lignes="Air 350" />
-		<voisin nom="Brisbane" distance="2791.6575817639023" lignes="Air 350" />
-		<voisin nom="Melbourne" distance="2579.981155702217" lignes="Air 350" />
-		<voisin nom="Tokyo" distance="3854.656355287299" lignes="Air 350" />
-		<voisin nom="Wellington" distance="5598.024751179433" lignes="Air 350" />
-		<voisin nom="Berlin" distance="10620.281969655303" lignes="Air 350" />
 		<voisin nom="Christchurch" distance="5472.14506966343" lignes="Air 350" />
-		<voisin nom="Rome" distance="11391.895624471108" lignes="Air 350" />
-		<voisin nom="Addis Abeba" distance="10025.990928706186" lignes="Air 350" />
-		<voisin nom="Hong Kong" distance="2737.9236868579997" lignes="Air 350" />
-		<voisin nom="Port Moresby" distance="1835.7235449186064" lignes="HOP!" />
 	</gare>
 	<gare nom="Deauville" coord="0.159204, 49.363936">
 		<voisin nom="Nice" distance="1008.9201857897248" lignes="AirBaltic" />
@@ -518,168 +518,168 @@
 		<voisin nom="Paris" distance="1906.6894774272948" lignes="JOON" />
 	</gare>
 	<gare nom="Doha" coord="51.6137665, 25.2605946">
-		<voisin nom="Darwin" distance="8268.332150938419" lignes="Air 350" />
 		<voisin nom="Bucarest" distance="3275.7121592264457" lignes="Air 350" />
+		<voisin nom="Darwin" distance="8268.332150938419" lignes="Air 350" />
 	</gare>
 	<gare nom="Douvres" coord="1.277976, 51.1204417">
-		<voisin nom="Gibraltar" distance="1820.1557374931147" lignes="HOP!" />
-		<voisin nom="Jersey" distance="441.3817785046152" lignes="HOP!" />
 		<voisin nom="Keflavik" distance="3005.3931133207384" lignes="HOP!" />
+		<voisin nom="Jersey" distance="441.3817785046152" lignes="HOP!" />
 		<voisin nom="Belfast" distance="885.7729338683484" lignes="HOP!" />
+		<voisin nom="Gibraltar" distance="1820.1557374931147" lignes="HOP!" />
 	</gare>
 	<gare nom="Dresde" coord="13.767207, 51.132153">
 		<voisin nom="Luxembourg" distance="856.7115352328974" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Dublin" coord="-6.2499098, 53.4264481|-6.2499098, 53.4264481">
-		<voisin nom="San José" distance="8856.534239412054" lignes="Air 350" />
-		<voisin nom="Montréal" distance="7532.073388292387" lignes="Air 350" />
-		<voisin nom="Cancun" distance="9029.460115901651" lignes="Air 350" />
-		<voisin nom="Ottawa" distance="7744.461344343183" lignes="Air 350" />
-		<voisin nom="Toronto" distance="8185.258282270525" lignes="Air 350" />
-		<voisin nom="Bogota" distance="8182.862777376894" lignes="Air 350" />
-		<voisin nom="Mexico" distance="10161.967357906047" lignes="Air 350" />
-		<voisin nom="Halifax" distance="6411.316007023524" lignes="Air 350" />
-		<voisin nom="Punta Cana" distance="7380.999890778349" lignes="Air 350" />
-		<voisin nom="Hamilton" distance="8220.35711639966" lignes="Air 350" />
-		<voisin nom="Québec" distance="7266.134024590563" lignes="Air 350" />
 		<voisin nom="Panama" distance="8486.744592099303" lignes="Air 350" />
-		<voisin nom="Zurich" distance="1776.2564821551657" lignes="JOON" />
-		<voisin nom="Oslo" distance="2071.9998393974015" lignes="JOON" />
-		<voisin nom="Prague" distance="2312.8396204299484" lignes="JOON" />
-		<voisin nom="Luxembourg" distance="1450.2842854626367" lignes="JOON" />
-		<voisin nom="Bergen" distance="1487.5931100946893" lignes="JOON" />
-		<voisin nom="St Jean" distance="5202.611939880163" lignes="JOON" />
-		<voisin nom="Lyon" distance="1525.127835300391" lignes="JOON" />
-		<voisin nom="Paris" distance="1095.5265721931305" lignes="JOON" />
-		<voisin nom="Bucarest" distance="3724.4309509787236" lignes="JOON" />
-		<voisin nom="Lisbonne" distance="1647.6019464433848" lignes="JOON" />
-		<voisin nom="Aberdeen" distance="615.6340062036245" lignes="JOON,HOP!" />
 		<voisin nom="Vienne" distance="2606.3660779413294" lignes="JOON" />
-		<voisin nom="Athènes" distance="3759.1232026096673" lignes="JOON" />
-		<voisin nom="Madrid" distance="1464.4797662339342" lignes="JOON" />
-		<voisin nom="Venise" distance="2248.083303170937" lignes="JOON" />
-		<voisin nom="Édimbourg" distance="426.3603127147699" lignes="JOON" />
-		<voisin nom="Porto" distance="1371.6192362637762" lignes="JOON" />
-		<voisin nom="Milan" distance="1941.6166953042336" lignes="JOON" />
-		<voisin nom="Séville" distance="1772.1937097495888" lignes="JOON" />
-		<voisin nom="Stockholm" distance="2776.540008647712" lignes="JOON" />
-		<voisin nom="Helsinki" distance="3552.899719711095" lignes="JOON" />
-		<voisin nom="Margrethe II" distance="3791.3016007036117" lignes="JOON" />
-		<voisin nom="Amsterdam" distance="1232.7305692316645" lignes="JOON" />
-		<voisin nom="Copenhague" distance="2117.937919835454" lignes="JOON" />
-		<voisin nom="Zagreb" distance="2624.7347527077927" lignes="JOON" />
-		<voisin nom="Hambourg" distance="1808.7895647251619" lignes="JOON" />
-		<voisin nom="Francfort" distance="1691.215498912289" lignes="JOON" />
-		<voisin nom="Varsovie" distance="3032.996203868191" lignes="JOON" />
-		<voisin nom="Düsseldorf" distance="1468.3598971681486" lignes="JOON" />
-		<voisin nom="Paris Orly" distance="1092.0988028020195" lignes="JOON,HOP!" />
-		<voisin nom="Marseille" distance="1691.3600337159312" lignes="JOON" />
 		<voisin nom="Bruxelles" distance="1227.588637159439" lignes="JOON" />
-		<voisin nom="Nice" distance="1850.1840269675597" lignes="JOON" />
-		<voisin nom="Berlin" distance="2203.961910638273" lignes="JOON" />
-		<voisin nom="Barcelone" distance="1636.432723325391" lignes="JOON" />
-		<voisin nom="Malte" distance="3015.1570006185457" lignes="JOON" />
-		<voisin nom="Munich" distance="2083.6621317329827" lignes="JOON" />
-		<voisin nom="Rome" distance="2428.015809445099" lignes="JOON" />
-		<voisin nom="Toulouse" distance="1380.0634515621384" lignes="JOON" />
-		<voisin nom="EuroAirport" distance="1664.4495139888688" lignes="JOON" />
-		<voisin nom="Bacau" distance="3765.5260173037486" lignes="JOON" />
-		<voisin nom="Brest" distance="588.2955342367381" lignes="HOP!" />
-		<voisin nom="Londres City" distance="733.0268903834368" lignes="HOP!" />
-		<voisin nom="Jersey" distance="650.3981368827833" lignes="HOP!" />
+		<voisin nom="Lisbonne" distance="1647.6019464433848" lignes="JOON" />
+		<voisin nom="Marseille" distance="1691.3600337159312" lignes="JOON" />
+		<voisin nom="Madrid" distance="1464.4797662339342" lignes="JOON" />
+		<voisin nom="Édimbourg" distance="426.3603127147699" lignes="JOON" />
+		<voisin nom="Ottawa" distance="7744.461344343183" lignes="Air 350" />
 		<voisin nom="Glasgow" distance="337.79347047194807" lignes="HOP!" />
+		<voisin nom="Montréal" distance="7532.073388292387" lignes="Air 350" />
+		<voisin nom="Mexico" distance="10161.967357906047" lignes="Air 350" />
+		<voisin nom="Québec" distance="7266.134024590563" lignes="Air 350" />
+		<voisin nom="Copenhague" distance="2117.937919835454" lignes="JOON" />
+		<voisin nom="Stockholm" distance="2776.540008647712" lignes="JOON" />
+		<voisin nom="Porto" distance="1371.6192362637762" lignes="JOON" />
+		<voisin nom="Düsseldorf" distance="1468.3598971681486" lignes="JOON" />
+		<voisin nom="Milan" distance="1941.6166953042336" lignes="JOON" />
+		<voisin nom="Cancun" distance="9029.460115901651" lignes="Air 350" />
+		<voisin nom="Halifax" distance="6411.316007023524" lignes="Air 350" />
+		<voisin nom="Séville" distance="1772.1937097495888" lignes="JOON" />
+		<voisin nom="Zagreb" distance="2624.7347527077927" lignes="JOON" />
+		<voisin nom="Berlin" distance="2203.961910638273" lignes="JOON" />
+		<voisin nom="Nice" distance="1850.1840269675597" lignes="JOON" />
+		<voisin nom="St Jean" distance="5202.611939880163" lignes="JOON" />
+		<voisin nom="Luxembourg" distance="1450.2842854626367" lignes="JOON" />
+		<voisin nom="Zurich" distance="1776.2564821551657" lignes="JOON" />
+		<voisin nom="Brest" distance="588.2955342367381" lignes="HOP!" />
+		<voisin nom="Punta Cana" distance="7380.999890778349" lignes="Air 350" />
+		<voisin nom="Bucarest" distance="3724.4309509787236" lignes="JOON" />
+		<voisin nom="Hamilton" distance="8220.35711639966" lignes="Air 350" />
+		<voisin nom="Hambourg" distance="1808.7895647251619" lignes="JOON" />
+		<voisin nom="EuroAirport" distance="1664.4495139888688" lignes="JOON" />
+		<voisin nom="Bogota" distance="8182.862777376894" lignes="Air 350" />
+		<voisin nom="Toulouse" distance="1380.0634515621384" lignes="JOON" />
+		<voisin nom="Malte" distance="3015.1570006185457" lignes="JOON" />
+		<voisin nom="Toronto" distance="8185.258282270524" lignes="Air 350" />
+		<voisin nom="Lyon" distance="1525.127835300391" lignes="JOON" />
+		<voisin nom="Rome" distance="2428.015809445099" lignes="JOON" />
+		<voisin nom="Londres City" distance="733.0268903834368" lignes="HOP!" />
+		<voisin nom="Margrethe II" distance="3791.3016007036117" lignes="JOON" />
+		<voisin nom="Athènes" distance="3759.1232026096673" lignes="JOON" />
+		<voisin nom="Paris" distance="1095.5265721931305" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="1232.7305692316645" lignes="JOON" />
+		<voisin nom="Jersey" distance="650.3981368827833" lignes="HOP!" />
+		<voisin nom="Prague" distance="2312.8396204299484" lignes="JOON" />
+		<voisin nom="Helsinki" distance="3552.899719711095" lignes="JOON" />
+		<voisin nom="Varsovie" distance="3032.996203868191" lignes="JOON" />
+		<voisin nom="Oslo" distance="2071.9998393974015" lignes="JOON" />
+		<voisin nom="Munich" distance="2083.6621317329827" lignes="JOON" />
+		<voisin nom="Bergen" distance="1487.5931100946893" lignes="JOON" />
+		<voisin nom="Venise" distance="2248.0833031709394" lignes="JOON" />
+		<voisin nom="Barcelone" distance="1636.432723325391" lignes="JOON" />
+		<voisin nom="Francfort" distance="1691.215498912289" lignes="JOON" />
+		<voisin nom="Aberdeen" distance="615.6340062036245" lignes="HOP!,JOON" />
+		<voisin nom="San José" distance="8856.534239412054" lignes="Air 350" />
+		<voisin nom="Paris Orly" distance="1092.0988028020195" lignes="HOP!,JOON" />
+		<voisin nom="Bacau" distance="3765.5260173037486" lignes="JOON" />
 	</gare>
 	<gare nom="Dubrovnik" coord="18.2621926, 42.5602173|18.2621926, 42.5602173">
-		<voisin nom="Zagreb" distance="417.2630276407042" lignes="AirBaltic" />
 		<voisin nom="Bruxelles" distance="1782.126264702666" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="1176.4640095505122" lignes="JOON" />
-		<voisin nom="Ljubljana" distance="576.8588354906705" lignes="JOON" />
-		<voisin nom="Madrid" distance="2440.5851708631835" lignes="JOON" />
 		<voisin nom="Paris" distance="1885.5348200697365" lignes="JOON" />
 		<voisin nom="Bucarest" distance="895.0350414581131" lignes="JOON" />
+		<voisin nom="Ljubljana" distance="576.8588354906705" lignes="JOON" />
+		<voisin nom="Zagreb" distance="417.2630276407042" lignes="AirBaltic" />
+		<voisin nom="Berlin" distance="1176.4640095505122" lignes="JOON" />
+		<voisin nom="Madrid" distance="2440.5851708631835" lignes="JOON" />
 	</gare>
 	<gare nom="Düsseldorf" coord="6.7667912, 51.2876146|6.7667912, 51.2876146">
-		<voisin nom="Nice" distance="844.2781602674656" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="2385.9711161941273" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="643.9357043414731" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1893.10774304769" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="2298.226901948735" lignes="AirBaltic" />
+		<voisin nom="Nice" distance="844.2781602674656" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="2241.4768017317397" lignes="JOON" />
 		<voisin nom="Berlin" distance="761.4936208908271" lignes="JOON" />
 		<voisin nom="Madrid" distance="1661.6118458864896" lignes="JOON" />
+		<voisin nom="Bacau" distance="2298.226901948735" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="643.9357043414731" lignes="AirBaltic" />
+		<voisin nom="Edimbourg" distance="1240.852972088257" lignes="HOP!" />
+		<voisin nom="Dublin" distance="1468.3598971681486" lignes="JOON" />
 		<voisin nom="Paris" distance="533.3026662018364" lignes="JOON" />
 		<voisin nom="Bucarest" distance="2265.503808781718" lignes="JOON" />
-		<voisin nom="Dublin" distance="1468.3598971681486" lignes="JOON" />
-		<voisin nom="Helsinki" distance="2241.4768017317397" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="1240.852972088257" lignes="HOP!" />
+		<voisin nom="Athènes" distance="2385.9711161941273" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Edimbourg" coord="-3.3614532, 55.950785|-3.3614532, 55.950785">
-		<voisin nom="Nice" distance="1802.9796866310821" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1782.8515325641877" lignes="AirBaltic" />
-		<voisin nom="Barcelone" distance="1739.4964737352363" lignes="AirBaltic" />
-		<voisin nom="Luxembourg" distance="1276.7902953152" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="1883.1707727165253" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="2976.9170877122147" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="2403.9878725380822" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="1038.5210063658287" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="4016.663161784265" lignes="JOON" />
-		<voisin nom="Berlin" distance="1920.2414931811081" lignes="JOON" />
-		<voisin nom="Paris" distance="1014.5009701348888" lignes="JOON" />
-		<voisin nom="Madrid" distance="1717.148688413263" lignes="JOON" />
-		<voisin nom="Zurich" distance="1627.425477061201" lignes="HOP!" />
-		<voisin nom="Oslo" distance="1677.203676828134" lignes="HOP!" />
-		<voisin nom="Rotterdam" distance="975.5360481485592" lignes="HOP!" />
-		<voisin nom="Aberdeen" distance="190.04813566247122" lignes="HOP!" />
 		<voisin nom="Vienne" distance="2379.9030867772567" lignes="HOP!" />
+		<voisin nom="Bruxelles" distance="1038.5210063658287" lignes="AirBaltic" />
+		<voisin nom="Barcelone" distance="1739.4964737352363" lignes="AirBaltic" />
+		<voisin nom="Rome" distance="2338.7277517037655" lignes="HOP!" />
+		<voisin nom="Varsovie" distance="2739.6148915742747" lignes="HOP!" />
+		<voisin nom="Copenhague" distance="1782.8515325641877" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="4016.663161784265" lignes="JOON" />
+		<voisin nom="Madrid" distance="1717.148688413263" lignes="JOON" />
+		<voisin nom="Paris" distance="1014.5009701348888" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="991.4720049930223" lignes="HOP!" />
+		<voisin nom="Jersey" distance="760.9233998670101" lignes="HOP!" />
+		<voisin nom="Vagar" distance="805.4067340279302" lignes="HOP!" />
+		<voisin nom="Stockholm" distance="2403.9878725380822" lignes="AirBaltic" />
 		<voisin nom="Billund" distance="1393.252827122615" lignes="HOP!" />
-		<voisin nom="Venise" distance="2095.89872576321" lignes="HOP!" />
+		<voisin nom="Francfort" distance="1480.738954071664" lignes="HOP!" />
+		<voisin nom="Aberdeen" distance="190.04813566247122" lignes="HOP!" />
 		<voisin nom="Porto" distance="1731.957225863047" lignes="HOP!" />
 		<voisin nom="Milan" distance="1826.4190612279763" lignes="HOP!" />
-		<voisin nom="Vagar" distance="805.4067340279302" lignes="HOP!" />
-		<voisin nom="Amsterdam" distance="991.4720049930223" lignes="HOP!" />
+		<voisin nom="Rennes" distance="894.9315747053924" lignes="HOP!" />
+		<voisin nom="Rotterdam" distance="975.5360481485592" lignes="HOP!" />
+		<voisin nom="Oslo" distance="1677.203676828134" lignes="HOP!" />
+		<voisin nom="Berlin" distance="1920.2414931811081" lignes="JOON" />
+		<voisin nom="Nice" distance="1802.9796866310821" lignes="AirBaltic" />
+		<voisin nom="Düsseldorf" distance="1240.852972088257" lignes="HOP!" />
+		<voisin nom="Luxembourg" distance="1276.7902953152" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="1883.1707727165253" lignes="AirBaltic" />
+		<voisin nom="Zurich" distance="1627.425477061201" lignes="HOP!" />
+		<voisin nom="Brest" distance="841.5644520165151" lignes="HOP!" />
+		<voisin nom="Venise" distance="2095.89872576321" lignes="HOP!" />
 		<voisin nom="Riga" distance="3044.714401276411" lignes="HOP!" />
 		<voisin nom="Hambourg" distance="1509.1328722396488" lignes="HOP!" />
-		<voisin nom="Francfort" distance="1480.738954071664" lignes="HOP!" />
-		<voisin nom="Varsovie" distance="2739.6148915742747" lignes="HOP!" />
-		<voisin nom="Düsseldorf" distance="1240.852972088257" lignes="HOP!" />
-		<voisin nom="Jersey" distance="760.9233998670101" lignes="HOP!" />
-		<voisin nom="Brest" distance="841.5644520165151" lignes="HOP!" />
-		<voisin nom="Rome" distance="2338.7277517037655" lignes="HOP!" />
-		<voisin nom="Rennes" distance="894.9315747053924" lignes="HOP!" />
 	</gare>
 	<gare nom="Edmonton" coord="-113.5898222, 53.3066108">
-		<voisin nom="Margrethe II" distance="8355.522483335018" lignes="Air 350" />
+		<voisin nom="Margrethe II" distance="8355.522483335017" lignes="Air 350" />
 	</gare>
 	<gare nom="El Calafate" coord="-72.0536406, -50.283977|-72.0536406, -50.283977">
-		<voisin nom="Buenos Aires" distance="1656.4050398855877" lignes="Air 350,HOP!" />
 		<voisin nom="Santiago Chili" distance="613.0630975420283" lignes="HOP!" />
+		<voisin nom="Buenos Aires" distance="1656.4050398855877" lignes="HOP!,Air 350" />
 		<voisin nom="Ushuaia" distance="450.587372872833" lignes="HOP!" />
 	</gare>
 	<gare nom="Erevan" coord="44.398857, 40.149178">
-		<voisin nom="Bacau" distance="2028.8933983576392" lignes="AirBaltic" />
+		<voisin nom="Bacau" distance="2028.8933983576349" lignes="AirBaltic" />
 	</gare>
 	<gare nom="EuroAirport" coord="7.5254958, 47.5981804">
 		<voisin nom="Berlin" distance="848.3982574814664" lignes="JOON" />
-		<voisin nom="Paris" distance="575.7698363507399" lignes="JOON" />
 		<voisin nom="Dublin" distance="1664.4495139888688" lignes="JOON" />
+		<voisin nom="Paris" distance="575.7698363507399" lignes="JOON" />
 	</gare>
 	<gare nom="Florence" coord="11.2012247, 43.8086534">
 		<voisin nom="Paris" distance="1121.4555831668617" lignes="JOON" />
 	</gare>
 	<gare nom="Francfort" coord="8.5621518, 50.0379326|8.5621518, 50.0379326">
-		<voisin nom="Copenhague" distance="761.4150320815776" lignes="AirBaltic" />
-		<voisin nom="Zagreb" distance="957.126754360096" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1680.8123476470598" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="2075.7457075025063" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="1472.3695906039854" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="463.7285770583148" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5474.822277145314" lignes="JOON" />
+		<voisin nom="Paris Orly" distance="704.9684022631751" lignes="HOP!" />
+		<voisin nom="Zagreb" distance="957.126754360096" lignes="AirBaltic" />
 		<voisin nom="Madrid" distance="1715.9820585561208" lignes="JOON" />
+		<voisin nom="Bacau" distance="2075.7457075025063" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="761.4150320815776" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="5474.822277145314" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1480.738954071664" lignes="HOP!" />
+		<voisin nom="Dublin" distance="1691.215498912289" lignes="JOON" />
 		<voisin nom="Paris" distance="679.1156348753128" lignes="JOON" />
 		<voisin nom="Bucarest" distance="2034.4159365005485" lignes="JOON" />
-		<voisin nom="Dublin" distance="1691.215498912289" lignes="JOON" />
+		<voisin nom="Bruxelles" distance="463.7285770583148" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="1472.3695906039854" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="2126.0038497157207" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="1480.738954071664" lignes="HOP!" />
-		<voisin nom="Paris Orly" distance="704.9684022631751" lignes="HOP!" />
 	</gare>
 	<gare nom="Funchal" coord="-16.7758737, 32.6957983">
 		<voisin nom="Madrid" distance="1699.7640148623739" lignes="JOON" />
@@ -691,126 +691,126 @@
 		<voisin nom="Paris" distance="501.8500243143159" lignes="JOON" />
 	</gare>
 	<gare nom="George" coord="22.3809737, -34.0043643">
-		<voisin nom="Le Cap" distance="420.6779375694851" lignes="HOP!" />
+		<voisin nom="Le Cap" distance="420.6779375694744" lignes="HOP!" />
 	</gare>
 	<gare nom="Gibraltar" coord="-5.3464064, 36.153862">
-		<voisin nom="Londres City" distance="1809.026695641535" lignes="HOP!" />
 		<voisin nom="Douvres" distance="1820.1557374931147" lignes="HOP!" />
+		<voisin nom="Londres City" distance="1809.026695641535" lignes="HOP!" />
 	</gare>
 	<gare nom="Glasgow" coord="-4.4350529, 55.8690744|-4.4350529, 55.8690744">
-		<voisin nom="Berlin" distance="2035.6578744012481" lignes="JOON" />
 		<voisin nom="Paris" distance="1089.2374367051198" lignes="JOON" />
 		<voisin nom="Dublin" distance="337.79347047194807" lignes="HOP!" />
+		<voisin nom="Berlin" distance="2035.6578744012481" lignes="JOON" />
 	</gare>
 	<gare nom="Guadeloupe" coord="-61.527249, 16.2676129|-61.527249, 16.2676129">
 		<voisin nom="Cayenne" distance="1230.4489371556654" lignes="AirBaltic" />
-		<voisin nom="Paris" distance="7659.503918575637" lignes="Air 350" />
 		<voisin nom="Madrid" distance="6762.836410429486" lignes="Air 350" />
+		<voisin nom="Paris" distance="7659.503918575637" lignes="Air 350" />
 	</gare>
 	<gare nom="Göteborg" coord="12.292314, 57.668799">
-		<voisin nom="Munich" distance="1015.750415964775" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="662.0228559715626" lignes="AirBaltic" />
 		<voisin nom="Oslo" distance="305.9182976498543" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="662.0228559715626" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="1015.750415964775" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Halifax" coord="-63.5094457, 44.8859455">
 		<voisin nom="Dublin" distance="6411.316007023524" lignes="Air 350" />
 	</gare>
 	<gare nom="Hambourg" coord="9.9974128, 53.633622|9.9974128, 53.633622">
-		<voisin nom="Nice" distance="1140.5063984725373" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="2277.310139717895" lignes="AirBaltic" />
-		<voisin nom="Luxembourg" distance="609.9385206354551" lignes="AirBaltic" />
+		<voisin nom="Malte" distance="1996.745997249057" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="1808.897511528846" lignes="JOON" />
 		<voisin nom="Barcelone" distance="1624.1789952345882" lignes="AirBaltic" />
 		<voisin nom="Munich" distance="610.1330795255366" lignes="AirBaltic" />
-		<voisin nom="Malte" distance="1996.745997249057" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="683.7135720242009" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5521.258153068542" lignes="JOON" />
+		<voisin nom="Nice" distance="1140.5063984725373" lignes="AirBaltic" />
 		<voisin nom="Berlin" distance="415.2188541125165" lignes="JOON" />
-		<voisin nom="Paris" distance="974.216578062995" lignes="JOON" />
-		<voisin nom="Dublin" distance="1808.7895647251619" lignes="JOON" />
-		<voisin nom="Helsinki" distance="1808.897511528846" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="1509.1328722396488" lignes="HOP!" />
+		<voisin nom="Luxembourg" distance="609.9385206354551" lignes="AirBaltic" />
 		<voisin nom="Copenhague" distance="366.26503048466395" lignes="HOP!" />
+		<voisin nom="Margrethe II" distance="5521.258153068542" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1509.1328722396488" lignes="HOP!" />
+		<voisin nom="Dublin" distance="1808.7895647251619" lignes="JOON" />
+		<voisin nom="Paris" distance="974.216578062995" lignes="JOON" />
+		<voisin nom="Bruxelles" distance="683.7135720242009" lignes="AirBaltic" />
+		<voisin nom="Athènes" distance="2277.310139717895" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Hamilton" coord="-79.9288234, 43.1685644">
 		<voisin nom="Dublin" distance="8220.35711639966" lignes="Air 350" />
 	</gare>
 	<gare nom="Hanovre" coord="9.6889919, 52.4618486|9.6889919, 52.4618486">
-		<voisin nom="Berlin" distance="426.72694119825576" lignes="JOON,HOP!" />
+		<voisin nom="Berlin" distance="426.72694119825576" lignes="HOP!,JOON" />
 	</gare>
 	<gare nom="Helsinki" coord="24.9528604, 60.3210416|24.9528604, 60.3210416">
-		<voisin nom="Tokyo" distance="12341.508772141116" lignes="Air 350" />
-		<voisin nom="Darwin" distance="9104.497267724131" lignes="Air 350" />
-		<voisin nom="Canton" distance="9375.639842358521" lignes="Air 350" />
-		<voisin nom="Pékin" distance="10042.514077233935" lignes="Air 350" />
-		<voisin nom="Séoul" distance="11023.412573711654" lignes="Air 350" />
-		<voisin nom="Kansai" distance="11841.921049833636" lignes="Air 350" />
 		<voisin nom="Xi'an" distance="9141.10130021467" lignes="Air 350" />
-		<voisin nom="Shanghai" distance="10393.565642678761" lignes="Air 350" />
-		<voisin nom="Manille" distance="9789.740960333977" lignes="Air 350" />
-		<voisin nom="Hong Kong" distance="9405.322540034462" lignes="Air 350" />
-		<voisin nom="Zurich" distance="2279.2049939830313" lignes="JOON" />
-		<voisin nom="Oslo" distance="1542.1021963051105" lignes="JOON" />
-		<voisin nom="Prague" distance="1599.8351927318672" lignes="JOON" />
-		<voisin nom="Luxembourg" distance="2377.1214084676326" lignes="JOON" />
-		<voisin nom="Lyon" distance="2705.8969893630683" lignes="JOON" />
-		<voisin nom="Paris" distance="2773.7397549605257" lignes="JOON" />
-		<voisin nom="Bucarest" distance="1586.3076999507136" lignes="JOON" />
-		<voisin nom="Dublin" distance="3552.899719711095" lignes="JOON" />
-		<voisin nom="Lisbonne" distance="4456.910796020018" lignes="JOON" />
-		<voisin nom="Bacau" distance="1396.8862639056545" lignes="JOON" />
 		<voisin nom="Vienne" distance="1575.0271858985964" lignes="JOON" />
-		<voisin nom="Athènes" distance="2268.6572096808895" lignes="JOON" />
-		<voisin nom="Madrid" distance="3830.352940105801" lignes="JOON" />
-		<voisin nom="Venise" distance="2096.920729005757" lignes="JOON" />
-		<voisin nom="Porto" distance="4277.838144146587" lignes="JOON" />
-		<voisin nom="Milan" distance="2350.840005370933" lignes="JOON" />
-		<voisin nom="Stockholm" distance="785.5533592630803" lignes="JOON" />
-		<voisin nom="Bordeaux" distance="3308.860555063089" lignes="JOON" />
-		<voisin nom="Séville" distance="4235.80225746008" lignes="JOON" />
-		<voisin nom="Margrethe II" distance="7042.555620926831" lignes="JOON" />
-		<voisin nom="Amsterdam" distance="2404.8134982046545" lignes="JOON" />
-		<voisin nom="Riga" distance="361.1833456106756" lignes="JOON" />
-		<voisin nom="Copenhague" distance="1455.9401656713305" lignes="JOON" />
-		<voisin nom="Zagreb" distance="1811.4056441087396" lignes="JOON" />
-		<voisin nom="Hambourg" distance="1808.897511528846" lignes="JOON" />
-		<voisin nom="Francfort" distance="2126.0038497157207" lignes="JOON" />
-		<voisin nom="Varsovie" distance="945.8740385671342" lignes="JOON" />
-		<voisin nom="Oulu" distance="466.6358665040579" lignes="JOON" />
-		<voisin nom="Düsseldorf" distance="2241.4768017317397" lignes="JOON" />
-		<voisin nom="Paris Orly" distance="2805.5458343293335" lignes="JOON" />
-		<voisin nom="Rovaniemi" distance="635.2221735237231" lignes="JOON" />
-		<voisin nom="Bruxelles" distance="2491.260316144878" lignes="JOON" />
-		<voisin nom="Nice" distance="2653.564074983028" lignes="JOON" />
-		<voisin nom="Astana" distance="5210.694398724452" lignes="JOON" />
-		<voisin nom="Berlin" distance="1520.4238068935474" lignes="JOON" />
+		<voisin nom="Lisbonne" distance="4456.910796020018" lignes="JOON" />
 		<voisin nom="Tbilissi" distance="2788.6307503368844" lignes="JOON" />
-		<voisin nom="Barcelone" distance="3263.7728709852627" lignes="JOON" />
-		<voisin nom="Vilnius" distance="573.9566080431432" lignes="JOON" />
+		<voisin nom="Madrid" distance="3830.352940105801" lignes="JOON" />
+		<voisin nom="Prague" distance="1599.8351927318672" lignes="JOON" />
+		<voisin nom="Varsovie" distance="945.8740385671342" lignes="JOON" />
+		<voisin nom="Copenhague" distance="1455.9401656713305" lignes="JOON" />
+		<voisin nom="Pékin" distance="10042.514077233935" lignes="Air 350" />
+		<voisin nom="Astana" distance="5210.694398724452" lignes="JOON" />
+		<voisin nom="Rovaniemi" distance="635.2221735237231" lignes="JOON" />
+		<voisin nom="Stockholm" distance="785.5533592630803" lignes="JOON" />
+		<voisin nom="Hong Kong" distance="9405.322540034462" lignes="Air 350" />
+		<voisin nom="Porto" distance="4277.838144146587" lignes="JOON" />
+		<voisin nom="Düsseldorf" distance="2241.4768017317397" lignes="JOON" />
+		<voisin nom="Milan" distance="2350.840005370933" lignes="JOON" />
+		<voisin nom="Tokyo" distance="12341.508772141116" lignes="Air 350" />
+		<voisin nom="Séville" distance="4235.80225746008" lignes="JOON" />
+		<voisin nom="Bordeaux" distance="3308.860555063089" lignes="JOON" />
+		<voisin nom="Zagreb" distance="1811.4056441087396" lignes="JOON" />
+		<voisin nom="Berlin" distance="1520.4238068935474" lignes="JOON" />
+		<voisin nom="Nice" distance="2653.564074983028" lignes="JOON" />
+		<voisin nom="Bacau" distance="1396.8862639056545" lignes="JOON" />
+		<voisin nom="Luxembourg" distance="2377.1214084676326" lignes="JOON" />
+		<voisin nom="Shanghai" distance="10393.565642678761" lignes="Air 350" />
+		<voisin nom="Zurich" distance="2279.2049939830313" lignes="JOON" />
+		<voisin nom="Dublin" distance="3552.899719711095" lignes="JOON" />
+		<voisin nom="Bucarest" distance="1586.3076999507136" lignes="JOON" />
+		<voisin nom="Hambourg" distance="1808.897511528846" lignes="JOON" />
+		<voisin nom="Canton" distance="9375.639842358521" lignes="Air 350" />
+		<voisin nom="Kansai" distance="11841.921049833636" lignes="Air 350" />
 		<voisin nom="Malte" distance="2809.821703445655" lignes="JOON" />
-		<voisin nom="Munich" distance="1934.0540058008326" lignes="JOON" />
+		<voisin nom="Lyon" distance="2705.8969893630683" lignes="JOON" />
+		<voisin nom="Oulu" distance="466.6358665040579" lignes="JOON" />
 		<voisin nom="Rome" distance="2407.23207023217" lignes="JOON" />
-		<voisin nom="Kiev" distance="1182.9590536714982" lignes="JOON" />
-		<voisin nom="Ivalo" distance="872.002607225588" lignes="JOON" />
+		<voisin nom="Vilnius" distance="573.9566080431432" lignes="JOON" />
+		<voisin nom="Margrethe II" distance="7042.555620926831" lignes="JOON" />
+		<voisin nom="Athènes" distance="2268.6572096808895" lignes="JOON" />
+		<voisin nom="Séoul" distance="11023.412573711654" lignes="Air 350" />
+		<voisin nom="Paris" distance="2773.7397549605257" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="2404.8134982046545" lignes="JOON" />
+		<voisin nom="Manille" distance="9789.740960333977" lignes="Air 350" />
+		<voisin nom="Bruxelles" distance="2491.260316144878" lignes="JOON" />
+		<voisin nom="Oslo" distance="1542.1021963051105" lignes="JOON" />
+		<voisin nom="Munich" distance="1934.0540058008326" lignes="JOON" />
+		<voisin nom="Francfort" distance="2126.0038497157207" lignes="JOON" />
 		<voisin nom="Bergen" distance="2196.4296237843023" lignes="JOON" />
+		<voisin nom="Venise" distance="2096.920729005757" lignes="JOON" />
+		<voisin nom="Barcelone" distance="3263.7728709852627" lignes="JOON" />
+		<voisin nom="Darwin" distance="9104.497267724131" lignes="Air 350" />
+		<voisin nom="Riga" distance="361.1833456106756" lignes="JOON" />
+		<voisin nom="Ivalo" distance="872.002607225588" lignes="JOON" />
+		<voisin nom="Paris Orly" distance="2805.5458343293335" lignes="JOON" />
+		<voisin nom="Kiev" distance="1182.9590536714982" lignes="JOON" />
 	</gare>
 	<gare nom="Hong Kong" coord="113.9184808, 22.308047|113.9184808, 22.308047">
+		<voisin nom="Brunei" distance="804.5012493623979" lignes="HOP!" />
 		<voisin nom="Paris" distance="12104.413188964329" lignes="Air 350" />
 		<voisin nom="Darwin" distance="2737.9236868579997" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="9405.322540034462" lignes="Air 350" />
-		<voisin nom="Taipei" distance="826.6108825041293" lignes="HOP!" />
-		<voisin nom="Busan" distance="1823.6584150769486" lignes="HOP!" />
-		<voisin nom="Brunei" distance="804.5012493623979" lignes="HOP!" />
 		<voisin nom="Sendai" distance="3169.079195786025" lignes="HOP!" />
 		<voisin nom="Dalian" distance="1202.8321141481024" lignes="HOP!" />
+		<voisin nom="Taipei" distance="826.6108825041293" lignes="HOP!" />
+		<voisin nom="Busan" distance="1823.6584150769486" lignes="HOP!" />
 	</gare>
 	<gare nom="Héraklion" coord="25.1747483, 35.3395798|25.1747483, 35.3395798">
 		<voisin nom="Athènes" distance="296.16981370334395" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="2914.2524556480803" lignes="JOON" />
 	</gare>
 	<gare nom="Iasi" coord="27.6173117, 47.1771449">
+		<voisin nom="Bucarest" distance="310.0307759805409" lignes="JOON" />
 		<voisin nom="Berlin" distance="1659.7190013243621" lignes="JOON" />
 		<voisin nom="Paris" distance="2797.518438308005" lignes="JOON" />
-		<voisin nom="Bucarest" distance="310.0307759805409" lignes="JOON" />
 	</gare>
 	<gare nom="Ilulissat" coord="-51.0986031, 69.2198118">
 		<voisin nom="Margrethe II" distance="1468.5444182438519" lignes="HOP!" />
@@ -819,52 +819,52 @@
 		<voisin nom="Berlin" distance="607.4901986978177" lignes="JOON" />
 	</gare>
 	<gare nom="Ivalo" coord="27.4200372, 68.6085648">
-		<voisin nom="Berlin" distance="2287.777418748957" lignes="JOON" />
 		<voisin nom="Helsinki" distance="872.002607225588" lignes="JOON" />
+		<voisin nom="Berlin" distance="2287.777418748957" lignes="JOON" />
 	</gare>
 	<gare nom="Jakarta" coord="106.8915848, -6.2636226">
-		<voisin nom="Darwin" distance="2687.2106478002997" lignes="Air 350" />
 		<voisin nom="Bacau" distance="8232.547954672238" lignes="Air 350" />
+		<voisin nom="Darwin" distance="2687.2106478002997" lignes="Air 350" />
 	</gare>
 	<gare nom="Jersey" coord="-2.1952207, 49.2074637|-2.1952207, 49.2074637">
 		<voisin nom="Paris" distance="528.4630391667856" lignes="JOON" />
-		<voisin nom="Londres City" distance="357.5120466051548" lignes="HOP!" />
-		<voisin nom="Douvres" distance="441.3817785046152" lignes="HOP!" />
 		<voisin nom="Edimbourg" distance="760.9233998670101" lignes="HOP!" />
 		<voisin nom="Dublin" distance="650.3981368827833" lignes="HOP!" />
+		<voisin nom="Douvres" distance="441.3817785046152" lignes="HOP!" />
+		<voisin nom="Londres City" distance="357.5120466051548" lignes="HOP!" />
 	</gare>
 	<gare nom="Johannesbourg" coord="28.2411459, -26.1366728">
-		<voisin nom="Paris" distance="8429.19677121672" lignes="Air 350" />
 		<voisin nom="Bucarest" distance="6901.787173973736" lignes="Air 350" />
+		<voisin nom="Paris" distance="8429.19677121672" lignes="Air 350" />
 	</gare>
 	<gare nom="Kaliningrad" coord="20.585788, 54.882318">
-		<voisin nom="Londres City" distance="2315.470385096226" lignes="HOP!" />
 		<voisin nom="Moscou Vnukovo" distance="1860.6687117139452" lignes="HOP!" />
+		<voisin nom="Londres City" distance="2315.470385096226" lignes="HOP!" />
 	</gare>
 	<gare nom="Kangerlussuaq" coord="-50.6946193, 67.0192112">
 		<voisin nom="Margrethe II" distance="1413.1593706879037" lignes="HOP!" />
 	</gare>
 	<gare nom="Kansai" coord="135.2303939, 34.4320024">
-		<voisin nom="Paris" distance="14574.77244021347" lignes="Air 350" />
 		<voisin nom="Darwin" distance="3535.093485674646" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="11841.921049833636" lignes="Air 350" />
+		<voisin nom="Paris" distance="14574.77244021347" lignes="Air 350" />
 	</gare>
 	<gare nom="Katmandou" coord="85.3592231, 27.6980899">
 		<voisin nom="Tbilissi" distance="4513.379611244899" lignes="JOON" />
 	</gare>
 	<gare nom="Keflavik" coord="-22.635036, 63.9786029|-22.635036, 63.9786029">
 		<voisin nom="Copenhague" distance="4032.466899680778" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="4218.849151930234" lignes="JOON" />
-		<voisin nom="Paris" distance="3240.8100305530093" lignes="JOON" />
 		<voisin nom="Margrethe II" distance="1734.590228553246" lignes="HOP!" />
+		<voisin nom="Berlin" distance="4218.849151930234" lignes="JOON" />
 		<voisin nom="Douvres" distance="3005.3931133207384" lignes="HOP!" />
+		<voisin nom="Paris" distance="3240.8100305530093" lignes="JOON" />
 	</gare>
 	<gare nom="Kiev" coord="30.8939274, 50.338222|30.8939274, 50.338222">
 		<voisin nom="Bacau" distance="578.060368990235" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="777.5946222564935" lignes="JOON" />
 		<voisin nom="Helsinki" distance="1182.9590536714982" lignes="JOON" />
 		<voisin nom="Berlin" distance="1945.22052227996" lignes="JOON" />
 		<voisin nom="Paris" distance="3158.556888433209" lignes="JOON" />
-		<voisin nom="Bucarest" distance="777.5946222564935" lignes="JOON" />
 	</gare>
 	<gare nom="La Paz" coord="-68.188295, -16.5102483">
 		<voisin nom="Madrid" distance="8343.161774735232" lignes="Air 350" />
@@ -877,8 +877,8 @@
 		<voisin nom="Tbilissi" distance="3316.3300532973067" lignes="JOON" />
 	</gare>
 	<gare nom="Larnaca" coord="33.6203516, 34.8723402|33.6203516, 34.8723402">
-		<voisin nom="Athènes" distance="1117.2031269268048" lignes="AirBaltic" />
 		<voisin nom="Bucarest" distance="1255.982932756748" lignes="JOON" />
+		<voisin nom="Athènes" distance="1117.2031269268048" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Las Palmas" coord="-15.3877066, 27.9331848">
 		<voisin nom="Madrid" distance="1904.535948340924" lignes="JOON" />
@@ -888,13 +888,13 @@
 		<voisin nom="Paris" distance="3774.890763194462" lignes="Air 350" />
 	</gare>
 	<gare nom="Le Cap" coord="18.6020851, -33.971463|18.6020851, -33.971463">
+		<voisin nom="Upington" distance="652.7465361261624" lignes="HOP!" />
 		<voisin nom="Paris" distance="9188.025828355174" lignes="Air 350" />
-		<voisin nom="Madrid" distance="8516.127700390962" lignes="Air 350" />
-		<voisin nom="Pretoria" distance="1322.8486231704558" lignes="HOP!" />
-		<voisin nom="Upington" distance="652.7465361261694" lignes="HOP!" />
-		<voisin nom="Polokwane" distance="1584.4948435540728" lignes="HOP!" />
+		<voisin nom="George" distance="420.6779375694744" lignes="HOP!" />
+		<voisin nom="Pretoria" distance="1322.8486231704521" lignes="HOP!" />
 		<voisin nom="Maseru" distance="1098.806471934984" lignes="HOP!" />
-		<voisin nom="George" distance="420.6779375694851" lignes="HOP!" />
+		<voisin nom="Polokwane" distance="1584.4948435540728" lignes="HOP!" />
+		<voisin nom="Madrid" distance="8516.127700390962" lignes="Air 350" />
 	</gare>
 	<gare nom="Lille" coord="3.106087, 50.57178">
 		<voisin nom="Berlin" distance="1176.4862044969539" lignes="HOP!" />
@@ -903,227 +903,227 @@
 		<voisin nom="Madrid" distance="8759.79265531788" lignes="Air 350" />
 	</gare>
 	<gare nom="Lisbonne" coord="-9.1353667, 38.7755936|-9.1353667, 38.7755936">
-		<voisin nom="Nice" distance="1899.0168757600666" lignes="AirBaltic" />
-		<voisin nom="Malte" distance="2648.9248050751116" lignes="AirBaltic" />
 		<voisin nom="Bacau" distance="4099.114962375764" lignes="AirBaltic" />
+		<voisin nom="Malte" distance="2648.9248050751116" lignes="AirBaltic" />
 		<voisin nom="Bruxelles" distance="2027.1665475944542" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="1647.6019464433848" lignes="JOON" />
+		<voisin nom="Paris" distance="1726.4343317440628" lignes="JOON" />
+		<voisin nom="Nice" distance="1899.0168757600666" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="4456.910796020018" lignes="JOON" />
 		<voisin nom="Berlin" distance="2936.5244512486474" lignes="JOON" />
 		<voisin nom="Madrid" distance="648.4220067445353" lignes="JOON" />
-		<voisin nom="Paris" distance="1726.4343317440628" lignes="JOON" />
-		<voisin nom="Dublin" distance="1647.6019464433848" lignes="JOON" />
-		<voisin nom="Helsinki" distance="4456.910796020018" lignes="JOON" />
 	</gare>
 	<gare nom="Ljubljana" coord="14.4559143, 46.2259433">
-		<voisin nom="Berlin" distance="673.3901651968952" lignes="JOON" />
 		<voisin nom="Dubrovnik" distance="576.8588354906705" lignes="JOON" />
+		<voisin nom="Berlin" distance="673.3901651968952" lignes="JOON" />
 		<voisin nom="Paris" distance="1360.4267390439097" lignes="JOON" />
 	</gare>
 	<gare nom="Londres City" coord="0.049518, 51.5048437">
-		<voisin nom="Kaliningrad" distance="2315.470385096226" lignes="HOP!" />
-		<voisin nom="Gibraltar" distance="1809.026695641535" lignes="HOP!" />
 		<voisin nom="Zurich" distance="1047.8462543182022" lignes="HOP!" />
-		<voisin nom="Oslo" distance="1561.3805177306965" lignes="HOP!" />
-		<voisin nom="Belfast" distance="744.4107707467831" lignes="HOP!" />
-		<voisin nom="Paris Orly" distance="402.58184501307244" lignes="HOP!" />
 		<voisin nom="Dublin" distance="733.0268903834368" lignes="HOP!" />
+		<voisin nom="Gibraltar" distance="1809.026695641535" lignes="HOP!" />
 		<voisin nom="Jersey" distance="357.5120466051548" lignes="HOP!" />
+		<voisin nom="Kaliningrad" distance="2315.470385096226" lignes="HOP!" />
+		<voisin nom="Oslo" distance="1561.3805177306965" lignes="HOP!" />
+		<voisin nom="Paris Orly" distance="402.58184501307244" lignes="HOP!" />
+		<voisin nom="Belfast" distance="744.4107707467831" lignes="HOP!" />
 	</gare>
 	<gare nom="Longyearbyen" coord="15.4655628, 78.2460841">
 		<voisin nom="Oslo" distance="2013.9207802784886" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Lourdes" coord="-0.0046043, 43.1796783">
-		<voisin nom="Paris" distance="708.2760113747555" lignes="JOON" />
 		<voisin nom="Madrid" distance="496.28065646449437" lignes="JOON" />
+		<voisin nom="Paris" distance="708.2760113747555" lignes="JOON" />
 	</gare>
 	<gare nom="Luxembourg" coord="6.2147446, 49.6289002|6.2147446, 49.6289002">
+		<voisin nom="Zurich" distance="353.99516262840575" lignes="AirBaltic" />
+		<voisin nom="Genève" distance="375.5853022709331" lignes="AirBaltic" />
 		<voisin nom="Nice" distance="669.234593554874" lignes="AirBaltic" />
 		<voisin nom="Vienne" distance="1164.0939738248514" lignes="AirBaltic" />
-		<voisin nom="Dresde" distance="856.7115352328974" lignes="AirBaltic" />
-		<voisin nom="Amsterdam" distance="337.7317480877546" lignes="AirBaltic" />
-		<voisin nom="Genève" distance="375.5853022709331" lignes="AirBaltic" />
-		<voisin nom="Zurich" distance="353.99516262840575" lignes="AirBaltic" />
-		<voisin nom="Hambourg" distance="609.9385206354551" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="634.637192378229" lignes="AirBaltic" />
-		<voisin nom="Lyon" distance="450.4260154676086" lignes="AirBaltic" />
 		<voisin nom="Paris Orly" distance="440.0789125776317" lignes="AirBaltic" />
-		<voisin nom="Venise" distance="819.1148589819818" lignes="AirBaltic" />
-		<voisin nom="Edimbourg" distance="1276.7902953152" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5240.699439666724" lignes="JOON" />
+		<voisin nom="Lyon" distance="450.4260154676086" lignes="AirBaltic" />
 		<voisin nom="Berlin" distance="867.683399521897" lignes="JOON" />
 		<voisin nom="Madrid" distance="1488.5793349352252" lignes="JOON" />
-		<voisin nom="Paris" distance="413.9322135314054" lignes="JOON" />
-		<voisin nom="Bucarest" distance="2276.234469340161" lignes="JOON" />
+		<voisin nom="Munich" distance="634.637192378229" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="5240.699439666724" lignes="JOON" />
+		<voisin nom="Venise" distance="819.1148589819818" lignes="AirBaltic" />
 		<voisin nom="Dublin" distance="1450.2842854626367" lignes="JOON" />
+		<voisin nom="Paris" distance="413.9322135314054" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="337.7317480877546" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="2276.234469340161" lignes="JOON" />
+		<voisin nom="Hambourg" distance="609.9385206354551" lignes="AirBaltic" />
+		<voisin nom="Edimbourg" distance="1276.7902953152" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="2377.1214084676326" lignes="JOON" />
+		<voisin nom="Dresde" distance="856.7115352328974" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Lyon" coord="5.0887768, 45.7234181|5.0887768, 45.7234181">
 		<voisin nom="Bacau" distance="2430.719541679672" lignes="AirBaltic" />
 		<voisin nom="Luxembourg" distance="450.4260154676086" lignes="AirBaltic" />
 		<voisin nom="Bruxelles" distance="578.2628562748505" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="1189.86577564198" lignes="JOON" />
-		<voisin nom="Madrid" distance="1125.2498769613703" lignes="JOON" />
-		<voisin nom="Paris" distance="461.7521975628229" lignes="JOON" />
 		<voisin nom="Dublin" distance="1525.127835300391" lignes="JOON" />
 		<voisin nom="Helsinki" distance="2705.8969893630683" lignes="JOON" />
 		<voisin nom="Paris Orly" distance="450.7374396804626" lignes="HOP!" />
+		<voisin nom="Paris" distance="461.7521975628229" lignes="JOON" />
+		<voisin nom="Berlin" distance="1189.86577564198" lignes="JOON" />
+		<voisin nom="Madrid" distance="1125.2498769613703" lignes="JOON" />
 	</gare>
 	<gare nom="Madrid" coord="-3.5675982, 40.4983322|-3.5675982, 40.4983322">
-		<voisin nom="Quito" distance="8644.683958460846" lignes="Air 350" />
-		<voisin nom="Lima" distance="8759.79265531788" lignes="Air 350" />
-		<voisin nom="Windhoek" distance="7297.939980116489" lignes="Air 350" />
-		<voisin nom="Le Cap" distance="8516.127700390962" lignes="Air 350" />
-		<voisin nom="Abidjan" distance="3914.861550890626" lignes="Air 350" />
-		<voisin nom="La Paz" distance="8343.161774735232" lignes="Air 350" />
-		<voisin nom="Buenos Aires" distance="8830.93130598376" lignes="Air 350" />
-		<voisin nom="Santiago Chili" distance="9059.214577096192" lignes="Air 350" />
-		<voisin nom="Guadeloupe" distance="6762.836410429486" lignes="Air 350" />
-		<voisin nom="Dakar" distance="3195.946528525758" lignes="Air 350" />
-		<voisin nom="Lagos" distance="3850.4072113884336" lignes="Air 350" />
-		<voisin nom="El Calafate" distance="9667.781544061554" lignes="Air 350" />
-		<voisin nom="Zurich" distance="1555.03203463112" lignes="JOON" />
 		<voisin nom="Naples" distance="1988.271938911145" lignes="JOON" />
-		<voisin nom="Oslo" distance="2725.3371823026673" lignes="JOON" />
-		<voisin nom="Prague" distance="2250.1993558009676" lignes="JOON" />
-		<voisin nom="Luxembourg" distance="1488.5793349352252" lignes="JOON" />
-		<voisin nom="Lyon" distance="1125.2498769613703" lignes="JOON" />
-		<voisin nom="Bilbao" distance="320.110659389108" lignes="JOON" />
-		<voisin nom="Paris" distance="1166.2982294028113" lignes="JOON" />
-		<voisin nom="Bucarest" distance="3329.9096227270247" lignes="JOON" />
-		<voisin nom="Dublin" distance="1464.4797662339342" lignes="JOON" />
-		<voisin nom="Lisbonne" distance="648.4220067445353" lignes="JOON" />
+		<voisin nom="La Paz" distance="8343.161774735232" lignes="Air 350" />
 		<voisin nom="Vienne" distance="2392.8579866481855" lignes="JOON" />
-		<voisin nom="Athènes" distance="3075.63875904656" lignes="JOON" />
-		<voisin nom="Alger" distance="864.5833808809556" lignes="JOON" />
-		<voisin nom="Thessalonique" distance="2954.3394426485916" lignes="JOON" />
-		<voisin nom="Venise" distance="1856.0490146977218" lignes="JOON" />
-		<voisin nom="Lourdes" distance="496.28065646449437" lignes="JOON" />
-		<voisin nom="Porto" distance="574.8699677574899" lignes="JOON" />
-		<voisin nom="Milan" distance="1531.7748954272188" lignes="JOON" />
-		<voisin nom="Séville" distance="428.501299509373" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="1717.148688413263" lignes="JOON" />
-		<voisin nom="Funchal" distance="1699.7640148623739" lignes="JOON" />
-		<voisin nom="Stockholm" distance="3184.634401681176" lignes="JOON" />
-		<voisin nom="Helsinki" distance="3830.352940105801" lignes="JOON" />
-		<voisin nom="Margrethe II" distance="4684.881603996421" lignes="JOON" />
-		<voisin nom="Amsterdam" distance="1608.063283105993" lignes="JOON" />
-		<voisin nom="Copenhague" distance="2460.7626410650823" lignes="JOON" />
-		<voisin nom="Zagreb" distance="2260.678224408571" lignes="JOON" />
-		<voisin nom="Francfort" distance="1715.9820585561208" lignes="JOON" />
-		<voisin nom="Varsovie" distance="3013.5347508650875" lignes="JOON" />
-		<voisin nom="Düsseldorf" distance="1661.6118458864896" lignes="JOON" />
-		<voisin nom="Paris Orly" distance="1128.8321975353638" lignes="JOON" />
-		<voisin nom="Las Palmas" distance="1904.535948340924" lignes="JOON" />
-		<voisin nom="Malaga" distance="436.44856015270966" lignes="JOON" />
-		<voisin nom="Marseille" distance="1030.8278132661776" lignes="JOON" />
-		<voisin nom="Dubrovnik" distance="2440.5851708631835" lignes="JOON" />
-		<voisin nom="Bruxelles" distance="1463.6873538968919" lignes="JOON" />
-		<voisin nom="Nice" distance="1250.6265702517471" lignes="JOON" />
-		<voisin nom="Berlin" distance="2311.6193853576506" lignes="JOON" />
+		<voisin nom="Lisbonne" distance="648.4220067445353" lignes="JOON" />
+		<voisin nom="Abidjan" distance="3914.8615508906273" lignes="Air 350" />
 		<voisin nom="Tbilissi" distance="5403.807467203301" lignes="JOON" />
-		<voisin nom="Barcelone" distance="635.307073380562" lignes="JOON" />
-		<voisin nom="Malte" distance="2073.7292660118483" lignes="JOON" />
-		<voisin nom="Munich" distance="1916.5479126443213" lignes="JOON" />
-		<voisin nom="Palma de Majorque" distance="709.5909282139681" lignes="JOON" />
-		<voisin nom="Rome" distance="1766.2684490412294" lignes="JOON" />
-		<voisin nom="Ponta Delgada" distance="2481.3614121442915" lignes="JOON" />
+		<voisin nom="Funchal" distance="1699.7640148623739" lignes="JOON" />
+		<voisin nom="Prague" distance="2250.1993558009676" lignes="JOON" />
+		<voisin nom="Las Palmas" distance="1904.535948340924" lignes="JOON" />
+		<voisin nom="Alger" distance="864.5833808809556" lignes="JOON" />
+		<voisin nom="Copenhague" distance="2460.7626410650823" lignes="JOON" />
+		<voisin nom="Nice" distance="1250.6265702517471" lignes="JOON" />
+		<voisin nom="Helsinki" distance="3830.352940105801" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1717.148688413263" lignes="JOON" />
+		<voisin nom="Stockholm" distance="3184.634401681176" lignes="JOON" />
+		<voisin nom="Lima" distance="8759.79265531788" lignes="Air 350" />
+		<voisin nom="Porto" distance="574.8699677574899" lignes="JOON" />
 		<voisin nom="Bacau" distance="3454.3046428136718" lignes="JOON" />
+		<voisin nom="Milan" distance="1531.7748954272188" lignes="JOON" />
+		<voisin nom="Lagos" distance="3850.4072113884336" lignes="Air 350" />
+		<voisin nom="Paris Orly" distance="1128.8321975353638" lignes="JOON" />
+		<voisin nom="Marseille" distance="1030.8278132661776" lignes="JOON" />
+		<voisin nom="Zagreb" distance="2260.678224408571" lignes="JOON" />
+		<voisin nom="Berlin" distance="2311.6193853576506" lignes="JOON" />
+		<voisin nom="Ponta Delgada" distance="2481.3614121442915" lignes="JOON" />
+		<voisin nom="Düsseldorf" distance="1661.6118458864896" lignes="JOON" />
+		<voisin nom="Luxembourg" distance="1488.5793349352252" lignes="JOON" />
+		<voisin nom="Zurich" distance="1555.03203463112" lignes="JOON" />
+		<voisin nom="Dublin" distance="1464.4797662339342" lignes="JOON" />
+		<voisin nom="Malaga" distance="436.44856015270966" lignes="JOON" />
+		<voisin nom="Bucarest" distance="3329.9096227270247" lignes="JOON" />
+		<voisin nom="Palma de Majorque" distance="709.5909282139681" lignes="JOON" />
+		<voisin nom="Malte" distance="2073.7292660118483" lignes="JOON" />
+		<voisin nom="Varsovie" distance="3013.5347508650875" lignes="JOON" />
+		<voisin nom="Lyon" distance="1125.2498769613703" lignes="JOON" />
+		<voisin nom="Rome" distance="1766.2684490412294" lignes="JOON" />
+		<voisin nom="Dakar" distance="3195.946528525758" lignes="Air 350" />
+		<voisin nom="Le Cap" distance="8516.127700390962" lignes="Air 350" />
+		<voisin nom="Buenos Aires" distance="8830.93130598376" lignes="Air 350" />
+		<voisin nom="Athènes" distance="3075.63875904656" lignes="JOON" />
+		<voisin nom="Paris" distance="1166.2982294028113" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="1608.063283105993" lignes="JOON" />
+		<voisin nom="Bruxelles" distance="1463.6873538968919" lignes="JOON" />
+		<voisin nom="Windhoek" distance="7297.939980116489" lignes="Air 350" />
+		<voisin nom="Dubrovnik" distance="2440.5851708631835" lignes="JOON" />
+		<voisin nom="Margrethe II" distance="4684.881603996421" lignes="JOON" />
+		<voisin nom="Oslo" distance="2725.3371823026673" lignes="JOON" />
+		<voisin nom="El Calafate" distance="9667.781544061554" lignes="Air 350" />
+		<voisin nom="Bilbao" distance="320.110659389108" lignes="JOON" />
+		<voisin nom="Lourdes" distance="496.28065646449437" lignes="JOON" />
+		<voisin nom="Guadeloupe" distance="6762.836410429486" lignes="Air 350" />
+		<voisin nom="Munich" distance="1916.5479126443213" lignes="JOON" />
+		<voisin nom="Santiago Chili" distance="9059.214577096194" lignes="Air 350" />
+		<voisin nom="Venise" distance="1856.0490146977218" lignes="JOON" />
+		<voisin nom="Barcelone" distance="635.307073380562" lignes="JOON" />
+		<voisin nom="Quito" distance="8644.683958460846" lignes="Air 350" />
+		<voisin nom="Francfort" distance="1715.9820585561208" lignes="JOON" />
+		<voisin nom="Thessalonique" distance="2954.3394426485916" lignes="JOON" />
+		<voisin nom="Séville" distance="428.501299509373" lignes="JOON" />
 	</gare>
 	<gare nom="Malaga" coord="-4.4950028, 36.6794172">
 		<voisin nom="Berlin" distance="2652.2941303616444" lignes="JOON" />
-		<voisin nom="Paris" distance="1579.8062058887972" lignes="JOON" />
 		<voisin nom="Madrid" distance="436.44856015270966" lignes="JOON" />
+		<voisin nom="Paris" distance="1579.8062058887972" lignes="JOON" />
 	</gare>
 	<gare nom="Malte" coord="14.4832795, 35.8541135|14.4832795, 35.8541135">
 		<voisin nom="Naples" distance="542.8663361959333" lignes="AirBaltic" />
-		<voisin nom="Prague" distance="1536.3487330271973" lignes="AirBaltic" />
-		<voisin nom="Lisbonne" distance="2648.9248050751116" lignes="AirBaltic" />
 		<voisin nom="Vienne" distance="1335.191177715136" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="1076.0638955297904" lignes="AirBaltic" />
-		<voisin nom="Venise" distance="1071.5735417684903" lignes="AirBaltic" />
-		<voisin nom="Séville" distance="2274.8632256704" lignes="AirBaltic" />
-		<voisin nom="Milan" distance="1195.085033307708" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="2570.4606925396656" lignes="AirBaltic" />
-		<voisin nom="Edimbourg" distance="2976.9170877122147" lignes="AirBaltic" />
-		<voisin nom="Amsterdam" distance="2102.765324922466" lignes="AirBaltic" />
-		<voisin nom="Genève" distance="1469.555955815572" lignes="AirBaltic" />
-		<voisin nom="Hambourg" distance="1996.745997249057" lignes="AirBaltic" />
-		<voisin nom="Francfort" distance="1680.8123476470598" lignes="AirBaltic" />
-		<voisin nom="Varsovie" distance="1872.7189626565892" lignes="AirBaltic" />
-		<voisin nom="Düsseldorf" distance="1893.10774304769" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="1990.0173123467396" lignes="AirBaltic" />
-		<voisin nom="Cracovie" distance="1623.1957635959955" lignes="AirBaltic" />
-		<voisin nom="Nice" distance="1175.5117270870862" lignes="AirBaltic" />
-		<voisin nom="Barcelone" distance="1504.475705092559" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="1387.9246737043318" lignes="AirBaltic" />
-		<voisin nom="Rome" distance="690.370435854866" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="1772.751754488195" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="1788.3929387612532" lignes="JOON" />
-		<voisin nom="Madrid" distance="2073.7292660118483" lignes="JOON" />
+		<voisin nom="Lisbonne" distance="2648.9248050751116" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="1963.3175158539636" lignes="JOON" />
-		<voisin nom="Bucarest" distance="1578.6041231743204" lignes="JOON" />
-		<voisin nom="Dublin" distance="3015.1570006185457" lignes="JOON" />
+		<voisin nom="Rome" distance="690.370435854866" lignes="AirBaltic" />
+		<voisin nom="Prague" distance="1536.3487330271973" lignes="AirBaltic" />
+		<voisin nom="Varsovie" distance="1872.7189626565892" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="1387.9246737043318" lignes="AirBaltic" />
+		<voisin nom="Edimbourg" distance="2976.9170877122147" lignes="AirBaltic" />
+		<voisin nom="Madrid" distance="2073.7292660118483" lignes="JOON" />
+		<voisin nom="Genève" distance="1469.555955815572" lignes="AirBaltic" />
+		<voisin nom="Amsterdam" distance="2102.765324922468" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="2570.4606925396656" lignes="AirBaltic" />
+		<voisin nom="Bruxelles" distance="1990.0173123467396" lignes="AirBaltic" />
+		<voisin nom="Düsseldorf" distance="1893.10774304769" lignes="AirBaltic" />
+		<voisin nom="Milan" distance="1195.085033307708" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="2809.821703445655" lignes="JOON" />
+		<voisin nom="Berlin" distance="1788.3929387612532" lignes="JOON" />
+		<voisin nom="Nice" distance="1175.5117270870862" lignes="AirBaltic" />
+		<voisin nom="Bacau" distance="1772.751754488195" lignes="AirBaltic" />
+		<voisin nom="Venise" distance="1071.5735417684903" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="3015.1570006185457" lignes="JOON" />
+		<voisin nom="Barcelone" distance="1504.475705092559" lignes="AirBaltic" />
+		<voisin nom="Cracovie" distance="1623.1957635959955" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="1578.6041231743204" lignes="JOON" />
+		<voisin nom="Francfort" distance="1680.8123476470598" lignes="AirBaltic" />
+		<voisin nom="Hambourg" distance="1996.745997249057" lignes="AirBaltic" />
+		<voisin nom="Séville" distance="2274.8632256704" lignes="AirBaltic" />
+		<voisin nom="Athènes" distance="1076.0638955297904" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Manille" coord="121.016508, 14.5122739">
 		<voisin nom="Darwin" distance="2052.340275986019" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="9789.740960333977" lignes="Air 350" />
 	</gare>
 	<gare nom="Margrethe II" coord="-38.0, 67.0|-38.0, 67.0">
-		<voisin nom="Montréal" distance="4144.3117396731195" lignes="Air 350" />
-		<voisin nom="Mumbai" distance="12873.034209604944" lignes="Air 350" />
-		<voisin nom="Athènes" distance="7535.486883526108" lignes="Air 350" />
-		<voisin nom="Winnipeg" distance="6561.59851657212" lignes="Air 350" />
-		<voisin nom="Chennai" distance="13563.29145883779" lignes="Air 350" />
-		<voisin nom="Saskatoon" distance="7596.013838229515" lignes="Air 350" />
-		<voisin nom="Ottawa" distance="4335.293111148816" lignes="Air 350" />
-		<voisin nom="Edmonton" distance="8355.522483335018" lignes="Air 350" />
-		<voisin nom="Toronto" distance="4743.92704148218" lignes="Air 350" />
-		<voisin nom="Mexico" distance="6500.044129768042" lignes="Air 350" />
-		<voisin nom="Lahore" distance="12787.272584217793" lignes="Air 350" />
-		<voisin nom="Calgary" distance="8380.589747852931" lignes="Air 350" />
-		<voisin nom="Bucarest" distance="7508.385032799048" lignes="Air 350" />
-		<voisin nom="New Delhi" distance="13084.264041337228" lignes="Air 350" />
-		<voisin nom="Vancouver" distance="9350.043091620157" lignes="Air 350" />
-		<voisin nom="Rome" distance="6179.842551002681" lignes="Air 350" />
-		<voisin nom="Québec" distance="3892.5878407095324" lignes="Air 350" />
-		<voisin nom="Zurich" distance="5566.155483300078" lignes="JOON" />
-		<voisin nom="Oslo" distance="5511.624649917085" lignes="JOON" />
-		<voisin nom="Luxembourg" distance="5240.699439666724" lignes="JOON" />
-		<voisin nom="Paris" distance="4879.354110813505" lignes="JOON" />
-		<voisin nom="Dublin" distance="3791.3016007036117" lignes="JOON" />
-		<voisin nom="Vienne" distance="6387.227312804583" lignes="JOON" />
-		<voisin nom="Madrid" distance="4684.881603996421" lignes="JOON" />
-		<voisin nom="Venise" distance="6036.265071842339" lignes="JOON" />
-		<voisin nom="Milan" distance="5719.9355405856395" lignes="JOON" />
-		<voisin nom="Stockholm" distance="6272.7309532349445" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="4016.663161784265" lignes="JOON" />
-		<voisin nom="Helsinki" distance="7042.555620926831" lignes="JOON" />
-		<voisin nom="Amsterdam" distance="4997.352236819074" lignes="JOON" />
-		<voisin nom="Copenhague" distance="5762.161348838052" lignes="JOON" />
-		<voisin nom="Hambourg" distance="5521.258153068542" lignes="JOON" />
-		<voisin nom="Francfort" distance="5474.822277145314" lignes="JOON" />
-		<voisin nom="Paris Orly" distance="4871.50813227225" lignes="JOON" />
-		<voisin nom="Bruxelles" distance="5013.591273667821" lignes="JOON" />
-		<voisin nom="Berlin" distance="5934.880800546666" lignes="JOON" />
-		<voisin nom="Barcelone" distance="5186.561299560924" lignes="JOON" />
-		<voisin nom="Munich" distance="5872.068049584774" lignes="JOON" />
-		<voisin nom="Ilulissat" distance="1468.5444182438519" lignes="HOP!" />
-		<voisin nom="Nuuk" distance="1537.9758300785747" lignes="HOP!" />
-		<voisin nom="Sisimiut" distance="1750.175443912878" lignes="HOP!" />
-		<voisin nom="Narsarsuaq" distance="957.121847042961" lignes="HOP!" />
-		<voisin nom="Keflavik" distance="1734.590228553246" lignes="HOP!" />
-		<voisin nom="Reykjavik" distance="1807.7281487050002" lignes="HOP!" />
 		<voisin nom="Kangerlussuaq" distance="1413.1593706879037" lignes="HOP!" />
+		<voisin nom="Vienne" distance="6387.227312804583" lignes="JOON" />
+		<voisin nom="Winnipeg" distance="6561.59851657212" lignes="Air 350" />
+		<voisin nom="Mumbai" distance="12873.034209604944" lignes="Air 350" />
+		<voisin nom="Ottawa" distance="4335.293111148816" lignes="Air 350" />
+		<voisin nom="Munich" distance="5872.068049584774" lignes="JOON" />
+		<voisin nom="Montréal" distance="4144.3117396731195" lignes="Air 350" />
+		<voisin nom="Mexico" distance="6500.044129768042" lignes="Air 350" />
+		<voisin nom="Québec" distance="3892.5878407095324" lignes="Air 350" />
+		<voisin nom="Stockholm" distance="6272.730953234945" lignes="JOON" />
+		<voisin nom="Milan" distance="5719.9355405856395" lignes="JOON" />
+		<voisin nom="Keflavik" distance="1734.590228553246" lignes="HOP!" />
+		<voisin nom="New Delhi" distance="13084.264041337228" lignes="Air 350" />
+		<voisin nom="Helsinki" distance="7042.555620926831" lignes="JOON" />
+		<voisin nom="Nuuk" distance="1537.9758300785747" lignes="HOP!" />
+		<voisin nom="Berlin" distance="5934.880800546666" lignes="JOON" />
+		<voisin nom="Luxembourg" distance="5240.699439666724" lignes="JOON" />
+		<voisin nom="Madrid" distance="4684.881603996421" lignes="JOON" />
+		<voisin nom="Zurich" distance="5566.155483300078" lignes="JOON" />
+		<voisin nom="Dublin" distance="3791.3016007036117" lignes="JOON" />
+		<voisin nom="Bucarest" distance="7508.385032799048" lignes="Air 350" />
+		<voisin nom="Hambourg" distance="5521.258153068542" lignes="JOON" />
+		<voisin nom="Chennai" distance="13563.29145883779" lignes="Air 350" />
+		<voisin nom="Paris Orly" distance="4871.50813227225" lignes="JOON" />
+		<voisin nom="Toronto" distance="4743.92704148218" lignes="Air 350" />
+		<voisin nom="Rome" distance="6179.842551002681" lignes="Air 350" />
+		<voisin nom="Edimbourg" distance="4016.663161784265" lignes="JOON" />
+		<voisin nom="Athènes" distance="7535.486883526108" lignes="Air 350" />
+		<voisin nom="Paris" distance="4879.354110813505" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="4997.352236819074" lignes="JOON" />
+		<voisin nom="Reykjavik" distance="1807.7281487050002" lignes="HOP!" />
+		<voisin nom="Bruxelles" distance="5013.591273667821" lignes="JOON" />
+		<voisin nom="Ilulissat" distance="1468.5444182438519" lignes="HOP!" />
+		<voisin nom="Calgary" distance="8380.589747852931" lignes="Air 350" />
+		<voisin nom="Saskatoon" distance="7596.013838229515" lignes="Air 350" />
+		<voisin nom="Edmonton" distance="8355.522483335017" lignes="Air 350" />
+		<voisin nom="Lahore" distance="12787.272584217793" lignes="Air 350" />
+		<voisin nom="Copenhague" distance="5762.161348838052" lignes="JOON" />
+		<voisin nom="Venise" distance="6036.265071842339" lignes="JOON" />
+		<voisin nom="Vancouver" distance="9350.043091620157" lignes="Air 350" />
+		<voisin nom="Barcelone" distance="5186.561299560924" lignes="JOON" />
+		<voisin nom="Francfort" distance="5474.822277145314" lignes="JOON" />
+		<voisin nom="Sisimiut" distance="1750.175443912878" lignes="HOP!" />
+		<voisin nom="Oslo" distance="5511.624649917085" lignes="JOON" />
+		<voisin nom="Narsarsuaq" distance="957.121847042961" lignes="HOP!" />
 	</gare>
 	<gare nom="Marrakech" coord="-8.0210505, 31.6047881">
 		<voisin nom="Paris" distance="2262.4799869797716" lignes="JOON" />
 	</gare>
 	<gare nom="Marseille" coord="5.214414, 43.4384235|5.214414, 43.4384235">
-		<voisin nom="Réunion" distance="7946.75031659431" lignes="Air 350" />
-		<voisin nom="Madrid" distance="1030.8278132661776" lignes="JOON" />
 		<voisin nom="Berlin" distance="1348.6931509187054" lignes="JOON" />
 		<voisin nom="Paris" distance="686.2303458023201" lignes="JOON" />
 		<voisin nom="Dublin" distance="1691.3600337159312" lignes="JOON" />
+		<voisin nom="Madrid" distance="1030.8278132661776" lignes="JOON" />
+		<voisin nom="Réunion" distance="7946.75031659431" lignes="Air 350" />
 	</gare>
 	<gare nom="Martinique" coord="-61.00493, 14.591708|-61.00493, 14.591708">
 		<voisin nom="Cayenne" distance="1129.6468464338864" lignes="AirBaltic" />
@@ -1133,156 +1133,156 @@
 		<voisin nom="Le Cap" distance="1098.806471934984" lignes="HOP!" />
 	</gare>
 	<gare nom="Maurice" coord="57.6789971, -20.4331335|57.6789971, -20.4331335">
-		<voisin nom="Paris" distance="8570.467954494961" lignes="Air 350" />
 		<voisin nom="Bucarest" distance="6115.492519367224" lignes="Air 350" />
+		<voisin nom="Paris" distance="8570.467954494961" lignes="Air 350" />
 		<voisin nom="Réunion" distance="242.84185713893277" lignes="HOP!" />
 	</gare>
 	<gare nom="Melbourne" coord="144.8410273, -37.6690123">
-		<voisin nom="Darwin" distance="2579.981155702217" lignes="Air 350" />
+		<voisin nom="Darwin" distance="2579.9811557022153" lignes="Air 350" />
 	</gare>
 	<gare nom="Mexico" coord="-99.0719083, 19.4360762">
 		<voisin nom="Margrethe II" distance="6500.044129768042" lignes="Air 350" />
-		<voisin nom="Paris" distance="11178.920082887706" lignes="Air 350" />
 		<voisin nom="Dublin" distance="10161.967357906047" lignes="Air 350" />
+		<voisin nom="Paris" distance="11178.920082887704" lignes="Air 350" />
 	</gare>
 	<gare nom="Milan" coord="9.276308, 45.452176|9.276308, 45.452176">
 		<voisin nom="Malte" distance="1195.085033307708" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1172.5694412366995" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="1966.3341839742293" lignes="AirBaltic" />
 		<voisin nom="Oslo" distance="1628.0619267100128" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5719.9355405856395" lignes="JOON" />
+		<voisin nom="Paris Orly" distance="850.4016784686996" lignes="HOP!" />
 		<voisin nom="Berlin" distance="891.8711817358364" lignes="JOON" />
 		<voisin nom="Madrid" distance="1531.7748954272188" lignes="JOON" />
+		<voisin nom="Bacau" distance="1966.3341839742293" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="1172.5694412366995" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="5719.9355405856395" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1826.4190612279763" lignes="HOP!" />
+		<voisin nom="Dublin" distance="1941.6166953042336" lignes="JOON" />
 		<voisin nom="Paris" distance="846.1590687655165" lignes="JOON" />
 		<voisin nom="Bucarest" distance="1873.3817930928465" lignes="JOON" />
-		<voisin nom="Dublin" distance="1941.6166953042336" lignes="JOON" />
 		<voisin nom="Helsinki" distance="2350.840005370933" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="1826.4190612279763" lignes="HOP!" />
-		<voisin nom="Paris Orly" distance="850.4016784686996" lignes="HOP!" />
 	</gare>
 	<gare nom="Montpellier" coord="3.9652372, 43.5795991|3.9652372, 43.5795991">
-		<voisin nom="Paris" distance="623.7660385194754" lignes="JOON" />
 		<voisin nom="Paris Orly" distance="599.1157931964615" lignes="HOP!" />
+		<voisin nom="Paris" distance="623.7660385194754" lignes="JOON" />
 	</gare>
 	<gare nom="Montréal" coord="-73.7454814, 45.4656851|-73.7454814, 45.4656851">
 		<voisin nom="Margrethe II" distance="4144.3117396731195" lignes="Air 350" />
-		<voisin nom="Paris" distance="8496.453586601943" lignes="Air 350" />
+		<voisin nom="St Pierre" distance="1956.4678287004806" lignes="HOP!" />
 		<voisin nom="Dublin" distance="7532.073388292387" lignes="Air 350" />
-		<voisin nom="St Pierre" distance="1956.467828700478" lignes="HOP!" />
+		<voisin nom="Paris" distance="8496.453586601943" lignes="Air 350" />
 	</gare>
 	<gare nom="Moscou Vnukovo" coord="37.2886189, 55.6060388">
 		<voisin nom="Kaliningrad" distance="1860.6687117139452" lignes="HOP!" />
 	</gare>
 	<gare nom="Mumbai" coord="72.8656144, 19.0895595">
-		<voisin nom="Margrethe II" distance="12873.034209604944" lignes="Air 350" />
 		<voisin nom="Bacau" distance="5373.021594292579" lignes="Air 350" />
-		<voisin nom="Darwin" distance="6241.863545526271" lignes="Air 350" />
 		<voisin nom="Bucarest" distance="5429.359059230601" lignes="Air 350" />
+		<voisin nom="Margrethe II" distance="12873.034209604944" lignes="Air 350" />
+		<voisin nom="Darwin" distance="6241.863545526271" lignes="Air 350" />
 	</gare>
 	<gare nom="Munich" coord="11.7750279, 48.3536621|11.7750279, 48.3536621">
-		<voisin nom="Nice" distance="723.2852644606876" lignes="AirBaltic" />
-		<voisin nom="Vienne" distance="534.0094735774655" lignes="AirBaltic" />
-		<voisin nom="Amsterdam" distance="893.3125974653908" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="796.3207748325057" lignes="AirBaltic" />
-		<voisin nom="Oslo" distance="1294.3533034378122" lignes="AirBaltic" />
-		<voisin nom="Naples" distance="856.9117455241745" lignes="AirBaltic" />
-		<voisin nom="Edimbourg" distance="1883.1707727165253" lignes="AirBaltic" />
-		<voisin nom="Prague" distance="335.6468755098501" lignes="AirBaltic" />
-		<voisin nom="Luxembourg" distance="634.637192378229" lignes="AirBaltic" />
-		<voisin nom="Hambourg" distance="610.1330795255366" lignes="AirBaltic" />
-		<voisin nom="Varsovie" distance="1101.219751033896" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1387.9246737043318" lignes="AirBaltic" />
-		<voisin nom="Düsseldorf" distance="643.9357043414731" lignes="AirBaltic" />
-		<voisin nom="Venise" distance="316.6107745986175" lignes="AirBaltic" />
-		<voisin nom="Porto" distance="2409.1009796080984" lignes="AirBaltic" />
-		<voisin nom="Göteborg" distance="1015.750415964775" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="1695.6504367538357" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5872.068049584774" lignes="JOON" />
+		<voisin nom="Naples" distance="856.9117455241745" lignes="AirBaltic" />
+		<voisin nom="Vienne" distance="534.0094735774655" lignes="AirBaltic" />
 		<voisin nom="Madrid" distance="1916.5479126443213" lignes="JOON" />
+		<voisin nom="Prague" distance="335.6468755098501" lignes="AirBaltic" />
+		<voisin nom="Varsovie" distance="1101.219751033896" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="796.3207748325057" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="5872.068049584774" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1883.1707727165253" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="1029.7032573040399" lignes="JOON" />
-		<voisin nom="Bucarest" distance="1641.6219667292667" lignes="JOON" />
-		<voisin nom="Dublin" distance="2083.6621317329827" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="893.3125974653908" lignes="AirBaltic" />
+		<voisin nom="Porto" distance="2409.1009796080984" lignes="AirBaltic" />
+		<voisin nom="Bacau" distance="1695.6504367538357" lignes="AirBaltic" />
+		<voisin nom="Göteborg" distance="1015.750415964775" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="1934.0540058008326" lignes="JOON" />
+		<voisin nom="Nice" distance="723.2852644606876" lignes="AirBaltic" />
+		<voisin nom="Düsseldorf" distance="643.9357043414731" lignes="AirBaltic" />
+		<voisin nom="Luxembourg" distance="634.637192378229" lignes="AirBaltic" />
+		<voisin nom="Venise" distance="316.6107745986175" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="2083.6621317329827" lignes="JOON" />
+		<voisin nom="Bucarest" distance="1641.6219667292667" lignes="JOON" />
+		<voisin nom="Hambourg" distance="610.1330795255366" lignes="AirBaltic" />
+		<voisin nom="Oslo" distance="1294.3533034378122" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Nairobi" coord="36.9260693, -1.3227102">
 		<voisin nom="Bucarest" distance="4474.228782254206" lignes="Air 350" />
 	</gare>
 	<gare nom="Nantes" coord="-1.606232, 47.157419|-1.606232, 47.157419">
+		<voisin nom="Paris Orly" distance="475.3324415098682" lignes="HOP!" />
 		<voisin nom="Berlin" distance="1780.1614376381829" lignes="JOON" />
 		<voisin nom="Paris" distance="506.30414054541035" lignes="JOON" />
-		<voisin nom="Paris Orly" distance="475.3324415098682" lignes="HOP!" />
 	</gare>
 	<gare nom="Naples" coord="14.289243, 40.8847493|14.289243, 40.8847493">
 		<voisin nom="Malte" distance="542.8663361959333" lignes="AirBaltic" />
 		<voisin nom="Munich" distance="856.9117455241745" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="1245.5345364979305" lignes="JOON" />
 		<voisin nom="Paris" distance="1582.9878912621502" lignes="JOON" />
 		<voisin nom="Bucarest" distance="1368.073414125748" lignes="JOON" />
-		<voisin nom="Madrid" distance="1988.271938911145" lignes="JOON" />
 		<voisin nom="Paris Orly" distance="1582.724703706894" lignes="HOP!" />
+		<voisin nom="Berlin" distance="1245.5345364979305" lignes="JOON" />
+		<voisin nom="Madrid" distance="1988.271938911145" lignes="JOON" />
 	</gare>
 	<gare nom="Narsarsuaq" coord="-45.4178059, 61.1614002|-45.4178059, 61.1614002">
+		<voisin nom="Vagar" distance="4246.877324562427" lignes="HOP!" />
+		<voisin nom="Margrethe II" distance="957.121847042961" lignes="HOP!" />
 		<voisin nom="Toronto" distance="3873.665786389508" lignes="JOON" />
 		<voisin nom="Berlin" distance="6620.432648819389" lignes="JOON" />
-		<voisin nom="Margrethe II" distance="957.121847042961" lignes="HOP!" />
-		<voisin nom="Vagar" distance="4246.877324562427" lignes="HOP!" />
 	</gare>
 	<gare nom="New Delhi" coord="77.0999578, 28.5561624">
-		<voisin nom="Margrethe II" distance="13084.264041337228" lignes="Air 350" />
 		<voisin nom="Bacau" distance="5667.30042794169" lignes="Air 350" />
 		<voisin nom="Bucarest" distance="5742.619235539824" lignes="Air 350" />
+		<voisin nom="Margrethe II" distance="13084.264041337228" lignes="Air 350" />
 	</gare>
 	<gare nom="Nice" coord="7.2148214, 43.6597689|7.2148214, 43.6597689">
+		<voisin nom="Toulouse" distance="650.9093107764089" lignes="AirBaltic" />
+		<voisin nom="Malte" distance="1175.5117270870862" lignes="AirBaltic" />
+		<voisin nom="Paris Orly" distance="779.1798444121503" lignes="AirBaltic" />
 		<voisin nom="Vienne" distance="1148.3755374109664" lignes="AirBaltic" />
+		<voisin nom="Lisbonne" distance="1899.0168757600666" lignes="AirBaltic" />
+		<voisin nom="Madrid" distance="1250.6265702517471" lignes="JOON" />
+		<voisin nom="Munich" distance="723.2852644606876" lignes="AirBaltic" />
+		<voisin nom="Edimbourg" distance="1802.9796866310821" lignes="AirBaltic" />
+		<voisin nom="Paris" distance="788.5486238854016" lignes="JOON" />
 		<voisin nom="Amsterdam" distance="995.3503298813398" lignes="AirBaltic" />
 		<voisin nom="Copenhague" distance="1443.5769407328592" lignes="AirBaltic" />
 		<voisin nom="Stockholm" distance="2104.382431296301" lignes="AirBaltic" />
-		<voisin nom="Hambourg" distance="1140.5063984725373" lignes="AirBaltic" />
-		<voisin nom="Luxembourg" distance="669.234593554874" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="723.2852644606876" lignes="AirBaltic" />
-		<voisin nom="Malte" distance="1175.5117270870862" lignes="AirBaltic" />
-		<voisin nom="Düsseldorf" distance="844.2781602674656" lignes="AirBaltic" />
-		<voisin nom="Paris Orly" distance="779.1798444121503" lignes="AirBaltic" />
-		<voisin nom="Lisbonne" distance="1899.0168757600666" lignes="AirBaltic" />
 		<voisin nom="Bacau" distance="2213.457717066728" lignes="AirBaltic" />
 		<voisin nom="Séville" distance="1615.3747021821162" lignes="AirBaltic" />
-		<voisin nom="Toulouse" distance="650.9093107764089" lignes="AirBaltic" />
-		<voisin nom="Edimbourg" distance="1802.9796866310821" lignes="AirBaltic" />
-		<voisin nom="Deauville" distance="1008.9201857897248" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="857.4390029032646" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="1185.2276482678158" lignes="JOON" />
-		<voisin nom="Madrid" distance="1250.6265702517471" lignes="JOON" />
-		<voisin nom="Paris" distance="788.5486238854016" lignes="JOON" />
-		<voisin nom="Bucarest" distance="2102.773098958886" lignes="JOON" />
-		<voisin nom="Dublin" distance="1850.1840269675597" lignes="JOON" />
 		<voisin nom="Helsinki" distance="2653.564074983028" lignes="JOON" />
+		<voisin nom="Berlin" distance="1185.2276482678158" lignes="JOON" />
+		<voisin nom="Düsseldorf" distance="844.2781602674656" lignes="AirBaltic" />
+		<voisin nom="Luxembourg" distance="669.234593554874" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="1850.1840269675597" lignes="JOON" />
+		<voisin nom="Bucarest" distance="2102.773098958886" lignes="JOON" />
+		<voisin nom="Bruxelles" distance="857.4390029032646" lignes="AirBaltic" />
+		<voisin nom="Hambourg" distance="1140.5063984725373" lignes="AirBaltic" />
+		<voisin nom="Deauville" distance="1008.9201857897248" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Nouméa" coord="166.2134277, -22.0153729">
 		<voisin nom="Darwin" distance="4030.7724942316527" lignes="Air 350" />
-		<voisin nom="Christchurch" distance="2450.6426505041472" lignes="Air 350" />
 		<voisin nom="Canberra" distance="2332.667663952749" lignes="Air 350" />
+		<voisin nom="Christchurch" distance="2450.6426505041472" lignes="Air 350" />
 	</gare>
 	<gare nom="Nuuk" coord="-51.6743553, 64.1917098">
 		<voisin nom="Margrethe II" distance="1537.9758300785747" lignes="HOP!" />
 	</gare>
 	<gare nom="Oslo" coord="11.1004152, 60.1975501|11.1004152, 60.1975501">
-		<voisin nom="Copenhague" distance="527.8664857549027" lignes="AirBaltic" />
-		<voisin nom="Trondheim" distance="356.8462543686741" lignes="AirBaltic" />
+		<voisin nom="Milan" distance="1628.0619267100128" lignes="AirBaltic" />
 		<voisin nom="Göteborg" distance="305.9182976498543" lignes="AirBaltic" />
 		<voisin nom="Munich" distance="1294.3533034378122" lignes="AirBaltic" />
-		<voisin nom="Milan" distance="1628.0619267100128" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="761.8609219049251" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="1542.1021963051105" lignes="JOON" />
 		<voisin nom="Longyearbyen" distance="2013.9207802784886" lignes="AirBaltic" />
-		<voisin nom="Bergen" distance="654.4626456808382" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5511.624649917085" lignes="JOON" />
 		<voisin nom="Berlin" distance="891.2703787730732" lignes="JOON" />
 		<voisin nom="Madrid" distance="2725.3371823026673" lignes="JOON" />
+		<voisin nom="Londres City" distance="1561.3805177306965" lignes="HOP!" />
+		<voisin nom="Copenhague" distance="527.8664857549027" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="5511.624649917085" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1677.203676828134" lignes="HOP!" />
+		<voisin nom="Dublin" distance="2071.9998393974015" lignes="JOON" />
 		<voisin nom="Paris" distance="1559.6701648812448" lignes="JOON" />
 		<voisin nom="Bucarest" distance="2340.5523744605553" lignes="JOON" />
-		<voisin nom="Dublin" distance="2071.9998393974015" lignes="JOON" />
-		<voisin nom="Helsinki" distance="1542.1021963051105" lignes="JOON" />
-		<voisin nom="Londres City" distance="1561.3805177306965" lignes="HOP!" />
-		<voisin nom="Edimbourg" distance="1677.203676828134" lignes="HOP!" />
+		<voisin nom="Stockholm" distance="761.8609219049251" lignes="AirBaltic" />
+		<voisin nom="Trondheim" distance="356.8462543686741" lignes="AirBaltic" />
+		<voisin nom="Bergen" distance="654.4626456808382" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Ottawa" coord="-75.6691652, 45.319212">
 		<voisin nom="Margrethe II" distance="4335.293111148816" lignes="Air 350" />
@@ -1298,145 +1298,145 @@
 		<voisin nom="Paris" distance="1673.7421401034467" lignes="JOON" />
 	</gare>
 	<gare nom="Palma de Majorque" coord="2.7361649, 39.5517407">
-		<voisin nom="Paris" distance="1051.9407080932053" lignes="JOON" />
 		<voisin nom="Madrid" distance="709.5909282139681" lignes="JOON" />
+		<voisin nom="Paris" distance="1051.9407080932053" lignes="JOON" />
 	</gare>
 	<gare nom="Panama" coord="-79.3873743, 9.0667013|-79.3873743, 9.0667013">
 		<voisin nom="Cayenne" distance="3012.566668349995" lignes="AirBaltic" />
 		<voisin nom="Dublin" distance="8486.744592099303" lignes="Air 350" />
 	</gare>
 	<gare nom="Paris" coord="2.5479245, 49.0096906|2.5479245, 49.0096906">
-		<voisin nom="Darwin" distance="11823.15344042531" lignes="Air 350" />
-		<voisin nom="Maurice" distance="8570.467954494961" lignes="Air 350" />
-		<voisin nom="Kansai" distance="14574.77244021347" lignes="Air 350" />
-		<voisin nom="Montréal" distance="8496.453586601943" lignes="Air 350" />
-		<voisin nom="Le Caire" distance="3774.890763194462" lignes="Air 350" />
-		<voisin nom="Johannesbourg" distance="8429.19677121672" lignes="Air 350" />
-		<voisin nom="Abidjan" distance="4920.932268598583" lignes="Air 350" />
-		<voisin nom="Xi'an" distance="11754.639176496095" lignes="Air 350" />
-		<voisin nom="Shanghai" distance="13091.836074569143" lignes="Air 350" />
-		<voisin nom="Guadeloupe" distance="7659.503918575637" lignes="Air 350" />
-		<voisin nom="St Martin" distance="7753.527401643431" lignes="Air 350" />
-		<voisin nom="Pékin" distance="12658.740978427968" lignes="Air 350" />
-		<voisin nom="Cancun" distance="9994.946035819348" lignes="Air 350" />
-		<voisin nom="Séoul" distance="13699.843465382814" lignes="Air 350" />
-		<voisin nom="Beyrouth" distance="3988.2247109405535" lignes="Air 350" />
-		<voisin nom="Le Cap" distance="9188.025828355174" lignes="Air 350" />
-		<voisin nom="Toronto" distance="9152.439801113544" lignes="Air 350" />
-		<voisin nom="Mexico" distance="11178.920082887706" lignes="Air 350" />
-		<voisin nom="Buenos Aires" distance="9902.818133053614" lignes="Air 350" />
-		<voisin nom="Martinique" distance="7665.812720636054" lignes="Air 350" />
-		<voisin nom="Vancouver" distance="13996.114002391292" lignes="Air 350" />
-		<voisin nom="Dakar" distance="4357.870190665062" lignes="Air 350" />
-		<voisin nom="Tokyo" distance="15082.92076762381" lignes="Air 350" />
-		<voisin nom="Cayenne" distance="7378.4922861479445" lignes="Air 350" />
-		<voisin nom="Réunion" distance="8531.807006178897" lignes="Air 350" />
-		<voisin nom="Hong Kong" distance="12104.413188964329" lignes="Air 350" />
-		<voisin nom="Prague" distance="1309.6495508321589" lignes="JOON" />
-		<voisin nom="Porto" distance="1518.2028606613403" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="1014.5009701348888" lignes="JOON" />
-		<voisin nom="Helsinki" distance="2773.7397549605257" lignes="JOON" />
-		<voisin nom="Margrethe II" distance="4879.354110813505" lignes="JOON" />
-		<voisin nom="Marseille" distance="686.2303458023201" lignes="JOON" />
-		<voisin nom="Glasgow" distance="1089.2374367051198" lignes="JOON" />
-		<voisin nom="Casablanca" distance="2071.097777366921" lignes="JOON" />
-		<voisin nom="Berlin" distance="1276.8236219835233" lignes="JOON" />
-		<voisin nom="Tunis" distance="1592.8523937796274" lignes="JOON" />
-		<voisin nom="Ajaccio" distance="1048.6492244623569" lignes="JOON" />
-		<voisin nom="Tel Aviv" distance="4006.7421220903966" lignes="JOON" />
-		<voisin nom="Kiev" distance="3158.556888433209" lignes="JOON" />
-		<voisin nom="Bilbao" distance="878.9887358733433" lignes="JOON" />
-		<voisin nom="Cagliari" distance="1300.5809327676147" lignes="JOON" />
-		<voisin nom="Dublin" distance="1095.5265721931305" lignes="JOON" />
-		<voisin nom="Vienne" distance="1563.6141435120517" lignes="JOON" />
-		<voisin nom="St Pierre" distance="6540.504866040636" lignes="JOON" />
-		<voisin nom="Alger" distance="1370.8051235016476" lignes="JOON" />
-		<voisin nom="Biarritz" distance="765.7708656792279" lignes="JOON" />
-		<voisin nom="Nantes" distance="506.30414054541035" lignes="JOON" />
-		<voisin nom="Milan" distance="846.1590687655165" lignes="JOON" />
-		<voisin nom="Stockholm" distance="2068.624008605432" lignes="JOON" />
-		<voisin nom="Bordeaux" distance="589.8011999355177" lignes="JOON" />
-		<voisin nom="Amsterdam" distance="441.8879796827912" lignes="JOON" />
-		<voisin nom="Riga" distance="2532.4953538848044" lignes="JOON" />
-		<voisin nom="Catane" distance="1883.3540083292382" lignes="JOON" />
-		<voisin nom="Hambourg" distance="974.216578062995" lignes="JOON" />
-		<voisin nom="Francfort" distance="679.1156348753128" lignes="JOON" />
-		<voisin nom="Keflavik" distance="3240.8100305530093" lignes="JOON" />
-		<voisin nom="Rovaniemi" distance="3200.7985991468854" lignes="JOON" />
-		<voisin nom="Jersey" distance="528.4630391667856" lignes="JOON" />
-		<voisin nom="Vilnius" distance="2602.1720952494306" lignes="JOON" />
-		<voisin nom="Tbilissi" distance="4776.292712205379" lignes="JOON" />
-		<voisin nom="Palma de Majorque" distance="1051.9407080932053" lignes="JOON" />
-		<voisin nom="Rome" distance="1340.6837291558218" lignes="JOON" />
-		<voisin nom="Rennes" distance="488.0438864915592" lignes="JOON" />
-		<voisin nom="Timisoara" distance="2118.281771512527" lignes="JOON" />
-		<voisin nom="Oslo" distance="1559.6701648812448" lignes="JOON" />
-		<voisin nom="Ljubljana" distance="1360.4267390439097" lignes="JOON" />
-		<voisin nom="Lyon" distance="461.7521975628229" lignes="JOON" />
-		<voisin nom="Lisbonne" distance="1726.4343317440628" lignes="JOON" />
-		<voisin nom="Marrakech" distance="2262.4799869797716" lignes="JOON" />
-		<voisin nom="Aberdeen" distance="1053.996420430591" lignes="JOON" />
-		<voisin nom="Thessalonique" distance="2451.140311651009" lignes="JOON" />
-		<voisin nom="Iasi" distance="2797.518438308005" lignes="JOON" />
-		<voisin nom="Bergerac" distance="517.6465901493502" lignes="JOON" />
-		<voisin nom="Venise" distance="1157.1426204644085" lignes="JOON" />
-		<voisin nom="Lourdes" distance="708.2760113747555" lignes="JOON" />
-		<voisin nom="Séville" distance="1594.663559765818" lignes="JOON" />
-		<voisin nom="Skopje" distance="2256.267755649359" lignes="JOON" />
-		<voisin nom="Belgrade" distance="2026.9646784131132" lignes="JOON" />
-		<voisin nom="Genève" distance="501.8500243143159" lignes="JOON" />
-		<voisin nom="Copenhague" distance="1339.796702861686" lignes="JOON" />
-		<voisin nom="Strasbourg" distance="567.9111427294965" lignes="JOON" />
-		<voisin nom="Düsseldorf" distance="533.3026662018364" lignes="JOON" />
-		<voisin nom="Malaga" distance="1579.8062058887972" lignes="JOON" />
-		<voisin nom="Dubrovnik" distance="1885.5348200697365" lignes="JOON" />
-		<voisin nom="Nice" distance="788.5486238854016" lignes="JOON" />
-		<voisin nom="Barcelone" distance="859.3766765198073" lignes="JOON" />
-		<voisin nom="Djerba" distance="1906.6894774272948" lignes="JOON" />
-		<voisin nom="Split" distance="1643.815675974621" lignes="JOON" />
-		<voisin nom="EuroAirport" distance="575.7698363507399" lignes="JOON" />
-		<voisin nom="Zurich" distance="690.4767081835023" lignes="JOON" />
 		<voisin nom="Naples" distance="1582.9878912621502" lignes="JOON" />
-		<voisin nom="Luxembourg" distance="413.9322135314054" lignes="JOON" />
-		<voisin nom="Bucarest" distance="2662.7305429304347" lignes="JOON" />
-		<voisin nom="Athènes" distance="2663.7089831662984" lignes="JOON" />
-		<voisin nom="Madrid" distance="1166.2982294028113" lignes="JOON" />
-		<voisin nom="Florence" distance="1121.4555831668617" lignes="JOON" />
-		<voisin nom="Montpellier" distance="623.7660385194754" lignes="JOON" />
+		<voisin nom="Xi'an" distance="11754.639176496095" lignes="Air 350" />
+		<voisin nom="Marseille" distance="686.2303458023201" lignes="JOON" />
 		<voisin nom="Palerme" distance="1673.7421401034467" lignes="JOON" />
-		<voisin nom="Zagreb" distance="1547.025885608479" lignes="JOON" />
+		<voisin nom="Prague" distance="1309.6495508321589" lignes="JOON" />
 		<voisin nom="Varsovie" distance="2078.8983155792416" lignes="JOON" />
-		<voisin nom="Bruxelles" distance="301.13374439480776" lignes="JOON" />
-		<voisin nom="Cracovie" distance="1922.67616199123" lignes="JOON" />
+		<voisin nom="Copenhague" distance="1339.796702861686" lignes="JOON" />
+		<voisin nom="Casablanca" distance="2071.097777366921" lignes="JOON" />
+		<voisin nom="Kansai" distance="14574.77244021347" lignes="Air 350" />
+		<voisin nom="Mexico" distance="11178.920082887704" lignes="Air 350" />
+		<voisin nom="Helsinki" distance="2773.7397549605257" lignes="JOON" />
+		<voisin nom="Ljubljana" distance="1360.4267390439097" lignes="JOON" />
+		<voisin nom="Aberdeen" distance="1053.996420430591" lignes="JOON" />
+		<voisin nom="Le Cap" distance="9188.025828355174" lignes="Air 350" />
+		<voisin nom="Cancun" distance="9994.946035819348" lignes="Air 350" />
+		<voisin nom="Florence" distance="1121.4555831668617" lignes="JOON" />
+		<voisin nom="Nice" distance="788.5486238854016" lignes="JOON" />
+		<voisin nom="Bacau" distance="2724.9102837068535" lignes="JOON" />
+		<voisin nom="Shanghai" distance="13091.836074569143" lignes="Air 350" />
+		<voisin nom="Montpellier" distance="623.7660385194754" lignes="JOON" />
+		<voisin nom="Zurich" distance="690.4767081835023" lignes="JOON" />
 		<voisin nom="Brest" distance="777.9408641048612" lignes="JOON" />
+		<voisin nom="Malaga" distance="1579.8062058887972" lignes="JOON" />
+		<voisin nom="Bucarest" distance="2662.7305429304347" lignes="JOON" />
+		<voisin nom="Hambourg" distance="974.216578062995" lignes="JOON" />
+		<voisin nom="Le Caire" distance="3774.890763194462" lignes="Air 350" />
+		<voisin nom="Palma de Majorque" distance="1051.9407080932053" lignes="JOON" />
+		<voisin nom="Dublin" distance="1095.5265721931305" lignes="JOON" />
 		<voisin nom="Héraklion" distance="2914.2524556480803" lignes="JOON" />
 		<voisin nom="Malte" distance="1963.3175158539636" lignes="JOON" />
+		<voisin nom="Martinique" distance="7665.812720636054" lignes="Air 350" />
+		<voisin nom="Dakar" distance="4357.870190665062" lignes="Air 350" />
+		<voisin nom="Margrethe II" distance="4879.354110813505" lignes="JOON" />
+		<voisin nom="Buenos Aires" distance="9902.818133053614" lignes="Air 350" />
+		<voisin nom="Madrid" distance="1166.2982294028113" lignes="JOON" />
+		<voisin nom="Séoul" distance="13699.843465382812" lignes="Air 350" />
+		<voisin nom="Genève" distance="501.8500243143159" lignes="JOON" />
+		<voisin nom="Réunion" distance="8531.807006178897" lignes="Air 350" />
+		<voisin nom="Jersey" distance="528.4630391667856" lignes="JOON" />
+		<voisin nom="Kiev" distance="3158.556888433209" lignes="JOON" />
+		<voisin nom="Cagliari" distance="1300.5809327676147" lignes="JOON" />
+		<voisin nom="Dubrovnik" distance="1885.5348200697365" lignes="JOON" />
+		<voisin nom="St Pierre" distance="6540.504866040636" lignes="JOON" />
+		<voisin nom="Oslo" distance="1559.6701648812448" lignes="JOON" />
+		<voisin nom="Split" distance="1643.815675974621" lignes="JOON" />
+		<voisin nom="Bilbao" distance="878.9887358733433" lignes="JOON" />
 		<voisin nom="Munich" distance="1029.7032573040399" lignes="JOON" />
+		<voisin nom="Guadeloupe" distance="7659.503918575637" lignes="Air 350" />
+		<voisin nom="Venise" distance="1157.1426204644085" lignes="JOON" />
+		<voisin nom="Vancouver" distance="13996.114002391292" lignes="Air 350" />
+		<voisin nom="Barcelone" distance="859.3766765198073" lignes="JOON" />
+		<voisin nom="Montréal" distance="8496.453586601943" lignes="Air 350" />
+		<voisin nom="Riga" distance="2532.4953538848044" lignes="JOON" />
+		<voisin nom="Strasbourg" distance="567.9111427294965" lignes="JOON" />
+		<voisin nom="Biarritz" distance="765.7708656792279" lignes="JOON" />
 		<voisin nom="Toulouse" distance="612.8217306651449" lignes="JOON" />
-		<voisin nom="Bacau" distance="2724.9102837068535" lignes="JOON" />
+		<voisin nom="Vienne" distance="1563.6141435120517" lignes="JOON" />
+		<voisin nom="Lisbonne" distance="1726.4343317440628" lignes="JOON" />
+		<voisin nom="Abidjan" distance="4920.932268598583" lignes="Air 350" />
+		<voisin nom="Tbilissi" distance="4776.292712205379" lignes="JOON" />
+		<voisin nom="Alger" distance="1370.8051235016476" lignes="JOON" />
+		<voisin nom="Glasgow" distance="1089.2374367051198" lignes="JOON" />
+		<voisin nom="Pékin" distance="12658.740978427968" lignes="Air 350" />
+		<voisin nom="St Martin" distance="7753.5274016434305" lignes="Air 350" />
+		<voisin nom="Edimbourg" distance="1014.5009701348888" lignes="JOON" />
+		<voisin nom="Toronto" distance="9152.439801113544" lignes="Air 350" />
+		<voisin nom="Rovaniemi" distance="3200.7985991468854" lignes="JOON" />
+		<voisin nom="Stockholm" distance="2068.624008605432" lignes="JOON" />
+		<voisin nom="Hong Kong" distance="12104.413188964329" lignes="Air 350" />
+		<voisin nom="Porto" distance="1518.2028606613403" lignes="JOON" />
+		<voisin nom="Tokyo" distance="15082.920767623807" lignes="Air 350" />
+		<voisin nom="Rennes" distance="488.0438864915592" lignes="JOON" />
+		<voisin nom="Keflavik" distance="3240.8100305530093" lignes="JOON" />
+		<voisin nom="Séville" distance="1594.663559765818" lignes="JOON" />
+		<voisin nom="Bordeaux" distance="589.8011999355177" lignes="JOON" />
+		<voisin nom="Zagreb" distance="1547.025885608479" lignes="JOON" />
+		<voisin nom="Berlin" distance="1276.8236219835233" lignes="JOON" />
+		<voisin nom="Düsseldorf" distance="533.3026662018364" lignes="JOON" />
+		<voisin nom="Luxembourg" distance="413.9322135314054" lignes="JOON" />
+		<voisin nom="Djerba" distance="1906.6894774272948" lignes="JOON" />
+		<voisin nom="Tel Aviv" distance="4006.7421220903966" lignes="JOON" />
+		<voisin nom="Cracovie" distance="1922.67616199123" lignes="JOON" />
+		<voisin nom="EuroAirport" distance="575.7698363507399" lignes="JOON" />
+		<voisin nom="Timisoara" distance="2118.281771512527" lignes="JOON" />
+		<voisin nom="Belgrade" distance="2026.9646784131132" lignes="JOON" />
+		<voisin nom="Ajaccio" distance="1048.6492244623569" lignes="JOON" />
+		<voisin nom="Skopje" distance="2256.267755649359" lignes="JOON" />
+		<voisin nom="Iasi" distance="2797.518438308005" lignes="JOON" />
+		<voisin nom="Lyon" distance="461.7521975628229" lignes="JOON" />
+		<voisin nom="Rome" distance="1340.6837291558218" lignes="JOON" />
+		<voisin nom="Vilnius" distance="2602.1720952494306" lignes="JOON" />
+		<voisin nom="Lourdes" distance="708.2760113747555" lignes="JOON" />
+		<voisin nom="Milan" distance="846.1590687655165" lignes="JOON" />
+		<voisin nom="Johannesbourg" distance="8429.19677121672" lignes="Air 350" />
+		<voisin nom="Amsterdam" distance="441.8879796827912" lignes="JOON" />
+		<voisin nom="Maurice" distance="8570.467954494961" lignes="Air 350" />
+		<voisin nom="Bergerac" distance="517.6465901493502" lignes="JOON" />
+		<voisin nom="Beyrouth" distance="3988.2247109405535" lignes="Air 350" />
+		<voisin nom="Marrakech" distance="2262.4799869797716" lignes="JOON" />
+		<voisin nom="Cayenne" distance="7378.4922861479445" lignes="Air 350" />
+		<voisin nom="Francfort" distance="679.1156348753128" lignes="JOON" />
+		<voisin nom="Catane" distance="1883.3540083292382" lignes="JOON" />
+		<voisin nom="Nantes" distance="506.30414054541035" lignes="JOON" />
+		<voisin nom="Darwin" distance="11823.15344042531" lignes="Air 350" />
+		<voisin nom="Bruxelles" distance="301.13374439480776" lignes="JOON" />
+		<voisin nom="Thessalonique" distance="2451.140311651009" lignes="JOON" />
+		<voisin nom="Tunis" distance="1592.8523937796274" lignes="JOON" />
+		<voisin nom="Athènes" distance="2663.7089831662984" lignes="JOON" />
 	</gare>
 	<gare nom="Paris Orly" coord="2.3652472, 48.7262433|2.3652472, 48.7262433">
-		<voisin nom="Nice" distance="779.1798444121503" lignes="AirBaltic" />
-		<voisin nom="Luxembourg" distance="440.0789125776317" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="4871.50813227225" lignes="JOON" />
-		<voisin nom="Berlin" distance="1305.5954361848248" lignes="JOON" />
-		<voisin nom="Madrid" distance="1128.8321975353638" lignes="JOON" />
-		<voisin nom="Bucarest" distance="2677.5663335660684" lignes="JOON" />
-		<voisin nom="Dublin" distance="1092.0988028020195" lignes="JOON,HOP!" />
-		<voisin nom="Helsinki" distance="2805.5458343293335" lignes="JOON" />
-		<voisin nom="Vienne" distance="1582.2969146301998" lignes="HOP!" />
-		<voisin nom="Amsterdam" distance="479.39358907887953" lignes="HOP!" />
-		<voisin nom="Zurich" distance="703.2596458535207" lignes="HOP!" />
+		<voisin nom="Toulouse" distance="577.8420296342471" lignes="HOP!" />
 		<voisin nom="Naples" distance="1582.724703706894" lignes="HOP!" />
-		<voisin nom="Francfort" distance="704.9684022631751" lignes="HOP!" />
-		<voisin nom="Billund" distance="1083.3936899919872" lignes="HOP!" />
+		<voisin nom="Milan" distance="850.4016784686996" lignes="HOP!" />
+		<voisin nom="Vienne" distance="1582.2969146301998" lignes="HOP!" />
+		<voisin nom="Nice" distance="779.1798444121503" lignes="AirBaltic" />
+		<voisin nom="Madrid" distance="1128.8321975353638" lignes="JOON" />
+		<voisin nom="Helsinki" distance="2805.5458343293335" lignes="JOON" />
 		<voisin nom="Lyon" distance="450.7374396804626" lignes="HOP!" />
-		<voisin nom="Montpellier" distance="599.1157931964615" lignes="HOP!" />
-		<voisin nom="Nantes" distance="475.3324415098682" lignes="HOP!" />
+		<voisin nom="Berlin" distance="1305.5954361848248" lignes="JOON" />
 		<voisin nom="Rome" distance="1339.1176762014566" lignes="HOP!" />
 		<voisin nom="Londres City" distance="402.58184501307244" lignes="HOP!" />
-		<voisin nom="Milan" distance="850.4016784686996" lignes="HOP!" />
-		<voisin nom="Toulouse" distance="577.8420296342471" lignes="HOP!" />
+		<voisin nom="Luxembourg" distance="440.0789125776317" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="4871.50813227225" lignes="JOON" />
+		<voisin nom="Montpellier" distance="599.1157931964615" lignes="HOP!" />
+		<voisin nom="Zurich" distance="703.2596458535207" lignes="HOP!" />
+		<voisin nom="Dublin" distance="1092.0988028020195" lignes="HOP!,JOON" />
+		<voisin nom="Amsterdam" distance="479.39358907887953" lignes="HOP!" />
+		<voisin nom="Bucarest" distance="2677.5663335660684" lignes="JOON" />
+		<voisin nom="Francfort" distance="704.9684022631751" lignes="HOP!" />
+		<voisin nom="Billund" distance="1083.3936899919872" lignes="HOP!" />
+		<voisin nom="Nantes" distance="475.3324415098682" lignes="HOP!" />
 	</gare>
 	<gare nom="Perth" coord="115.9672492, -31.9385476">
 		<voisin nom="Darwin" distance="2028.5479438074317" lignes="Air 350" />
@@ -1457,37 +1457,37 @@
 		<voisin nom="Darwin" distance="1835.7235449186064" lignes="HOP!" />
 	</gare>
 	<gare nom="Porto" coord="-8.6785514, 41.2421186|-8.6785514, 41.2421186">
-		<voisin nom="Munich" distance="2409.1009796080984" lignes="AirBaltic" />
 		<voisin nom="Bruxelles" distance="1815.7398646729152" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="2409.1009796080984" lignes="AirBaltic" />
+		<voisin nom="Edimbourg" distance="1731.957225863047" lignes="HOP!" />
+		<voisin nom="Dublin" distance="1371.6192362637762" lignes="JOON" />
+		<voisin nom="Paris" distance="1518.2028606613403" lignes="JOON" />
+		<voisin nom="Helsinki" distance="4277.838144146587" lignes="JOON" />
 		<voisin nom="Berlin" distance="2761.160081632814" lignes="JOON" />
 		<voisin nom="Madrid" distance="574.8699677574899" lignes="JOON" />
-		<voisin nom="Paris" distance="1518.2028606613403" lignes="JOON" />
-		<voisin nom="Dublin" distance="1371.6192362637762" lignes="JOON" />
-		<voisin nom="Helsinki" distance="4277.838144146587" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="1731.957225863047" lignes="HOP!" />
 	</gare>
 	<gare nom="Prague" coord="14.2631811, 50.101791|14.2631811, 50.101791">
 		<voisin nom="Malte" distance="1536.3487330271973" lignes="AirBaltic" />
-		<voisin nom="Zagreb" distance="509.7661832787622" lignes="AirBaltic" />
 		<voisin nom="Munich" distance="335.6468755098501" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="260.2168719012527" lignes="JOON,HOP!" />
-		<voisin nom="Madrid" distance="2250.1993558009676" lignes="JOON" />
+		<voisin nom="Dublin" distance="2312.8396204299484" lignes="JOON" />
 		<voisin nom="Paris" distance="1309.6495508321589" lignes="JOON" />
 		<voisin nom="Bucarest" distance="1436.662256633301" lignes="JOON" />
-		<voisin nom="Dublin" distance="2312.8396204299484" lignes="JOON" />
 		<voisin nom="Helsinki" distance="1599.8351927318672" lignes="JOON" />
+		<voisin nom="Zagreb" distance="509.7661832787622" lignes="AirBaltic" />
+		<voisin nom="Berlin" distance="260.2168719012527" lignes="HOP!,JOON" />
+		<voisin nom="Madrid" distance="2250.1993558009676" lignes="JOON" />
 	</gare>
 	<gare nom="Pretoria" coord="27.926416, -25.937751">
-		<voisin nom="Le Cap" distance="1322.8486231704558" lignes="HOP!" />
+		<voisin nom="Le Cap" distance="1322.8486231704521" lignes="HOP!" />
 	</gare>
 	<gare nom="Punta Cana" coord="-68.3684931, 18.5632813">
 		<voisin nom="Dublin" distance="7380.999890778349" lignes="Air 350" />
 	</gare>
 	<gare nom="Pékin" coord="116.6031121, 40.0798573">
-		<voisin nom="Paris" distance="12658.740978427968" lignes="Air 350" />
-		<voisin nom="Bacau" distance="9968.385579204141" lignes="Air 350" />
+		<voisin nom="Bacau" distance="9968.38557920414" lignes="Air 350" />
 		<voisin nom="Darwin" distance="3483.7499156749413" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="10042.514077233935" lignes="Air 350" />
+		<voisin nom="Paris" distance="12658.740978427968" lignes="Air 350" />
 	</gare>
 	<gare nom="Quito" coord="-78.3613938, -0.1243405">
 		<voisin nom="Madrid" distance="8644.683958460846" lignes="Air 350" />
@@ -1497,54 +1497,54 @@
 		<voisin nom="Dublin" distance="7266.134024590563" lignes="Air 350" />
 	</gare>
 	<gare nom="Rennes" coord="-1.734365, 48.0697843|-1.734365, 48.0697843">
-		<voisin nom="Paris" distance="488.0438864915592" lignes="JOON" />
 		<voisin nom="Edimbourg" distance="894.9315747053924" lignes="HOP!" />
+		<voisin nom="Paris" distance="488.0438864915592" lignes="JOON" />
 	</gare>
 	<gare nom="Reykjavik" coord="-21.949453, 64.132628">
 		<voisin nom="Margrethe II" distance="1807.7281487050002" lignes="HOP!" />
 	</gare>
 	<gare nom="Riga" coord="23.9733129, 56.9226554|23.9733129, 56.9226554">
-		<voisin nom="Stockholm" distance="730.6023740445372" lignes="AirBaltic" />
 		<voisin nom="Bacau" distance="1094.1496044432984" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1267.9066923774835" lignes="AirBaltic" />
 		<voisin nom="Bruxelles" distance="2263.5016328796337" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="1257.6040901909591" lignes="JOON" />
+		<voisin nom="Copenhague" distance="1267.9066923774835" lignes="AirBaltic" />
+		<voisin nom="Edimbourg" distance="3044.714401276411" lignes="HOP!" />
 		<voisin nom="Paris" distance="2532.4953538848044" lignes="JOON" />
 		<voisin nom="Helsinki" distance="361.1833456106756" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="3044.714401276411" lignes="HOP!" />
+		<voisin nom="Stockholm" distance="730.6023740445372" lignes="AirBaltic" />
+		<voisin nom="Berlin" distance="1257.6040901909591" lignes="JOON" />
 	</gare>
 	<gare nom="Rome" coord="12.2462384, 41.7998868|12.2462384, 41.7998868">
 		<voisin nom="Malte" distance="690.370435854866" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="2018.5735876775025" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1502.5657249879107" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="1705.6446801690383" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="6179.842551002681" lignes="Air 350" />
-		<voisin nom="Darwin" distance="11391.895624471108" lignes="Air 350" />
-		<voisin nom="Berlin" distance="1157.3436338311847" lignes="JOON" />
-		<voisin nom="Madrid" distance="1766.2684490412294" lignes="JOON" />
-		<voisin nom="Paris" distance="1340.6837291558218" lignes="JOON" />
-		<voisin nom="Bucarest" distance="1567.5885542032693" lignes="JOON" />
-		<voisin nom="Dublin" distance="2428.015809445099" lignes="JOON" />
-		<voisin nom="Helsinki" distance="2407.23207023217" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="2338.7277517037655" lignes="HOP!" />
-		<voisin nom="Paris Orly" distance="1339.1176762014566" lignes="HOP!" />
-		<voisin nom="St Marin" distance="244.77436803751624" lignes="HOP!" />
 		<voisin nom="Tarbes Lyon" distance="743.280043370362" lignes="HOP!" />
+		<voisin nom="Paris Orly" distance="1339.1176762014566" lignes="HOP!" />
+		<voisin nom="Paris" distance="1340.6837291558218" lignes="JOON" />
+		<voisin nom="Berlin" distance="1157.3436338311847" lignes="JOON" />
+		<voisin nom="St Marin" distance="244.77436803751624" lignes="HOP!" />
+		<voisin nom="Bacau" distance="1705.6446801690383" lignes="AirBaltic" />
+		<voisin nom="Madrid" distance="1766.2684490412294" lignes="JOON" />
+		<voisin nom="Margrethe II" distance="6179.842551002681" lignes="Air 350" />
+		<voisin nom="Edimbourg" distance="2338.7277517037655" lignes="HOP!" />
+		<voisin nom="Dublin" distance="2428.015809445099" lignes="JOON" />
+		<voisin nom="Darwin" distance="11391.895624471108" lignes="Air 350" />
+		<voisin nom="Bucarest" distance="1567.5885542032693" lignes="JOON" />
+		<voisin nom="Copenhague" distance="1502.5657249879107" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="2018.5735876775025" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="2407.23207023217" lignes="JOON" />
 	</gare>
 	<gare nom="Rotterdam" coord="4.4398832, 51.9555086">
 		<voisin nom="Edimbourg" distance="975.5360481485592" lignes="HOP!" />
 	</gare>
 	<gare nom="Rovaniemi" coord="25.8300782, 66.563104|25.8300782, 66.563104">
+		<voisin nom="Helsinki" distance="635.2221735237231" lignes="JOON" />
 		<voisin nom="Bruxelles" distance="2904.5151625598733" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="3200.7985991468854" lignes="JOON" />
-		<voisin nom="Helsinki" distance="635.2221735237231" lignes="JOON" />
 	</gare>
 	<gare nom="Réunion" coord="55.5121669, -20.8918777|55.5121669, -20.8918777">
-		<voisin nom="Marseille" distance="7946.75031659431" lignes="Air 350" />
 		<voisin nom="Cayenne" distance="12239.57926455975" lignes="Air 350" />
 		<voisin nom="Paris" distance="8531.807006178897" lignes="Air 350" />
-		<voisin nom="Maurice" distance="242.84185713893277" lignes="HOP!" />
 		<voisin nom="Seychelles" distance="1020.1254588033745" lignes="HOP!" />
+		<voisin nom="Maurice" distance="242.84185713893277" lignes="HOP!" />
+		<voisin nom="Marseille" distance="7946.75031659431" lignes="Air 350" />
 		<voisin nom="Antananarivo" distance="906.2320866554506" lignes="HOP!" />
 	</gare>
 	<gare nom="Salzbourg" coord="13.0029274, 47.7926466">
@@ -1554,8 +1554,8 @@
 		<voisin nom="Dublin" distance="8856.534239412054" lignes="Air 350" />
 	</gare>
 	<gare nom="Santiago Chili" coord="-70.7938043, -33.3905115|-70.7938043, -33.3905115">
-		<voisin nom="Madrid" distance="9059.214577096192" lignes="Air 350" />
 		<voisin nom="El Calafate" distance="613.0630975420283" lignes="HOP!" />
+		<voisin nom="Madrid" distance="9059.214577096194" lignes="Air 350" />
 	</gare>
 	<gare nom="Saskatoon" coord="-106.7004823, 52.1745886">
 		<voisin nom="Margrethe II" distance="7596.013838229515" lignes="Air 350" />
@@ -1568,14 +1568,14 @@
 		<voisin nom="Réunion" distance="1020.1254588033745" lignes="HOP!" />
 	</gare>
 	<gare nom="Shanghai" coord="121.808273, 31.1443439">
-		<voisin nom="Paris" distance="13091.836074569143" lignes="Air 350" />
 		<voisin nom="Darwin" distance="2984.0422197946746" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="10393.565642678761" lignes="Air 350" />
+		<voisin nom="Paris" distance="13091.836074569143" lignes="Air 350" />
 	</gare>
 	<gare nom="Singapour" coord="103.9915308, 1.3644202">
 		<voisin nom="Bacau" distance="8161.005808309874" lignes="Air 350" />
-		<voisin nom="Darwin" distance="3056.5073453504656" lignes="Air 350" />
 		<voisin nom="Bucarest" distance="8285.819802586211" lignes="Air 350" />
+		<voisin nom="Darwin" distance="3056.5073453504656" lignes="Air 350" />
 	</gare>
 	<gare nom="Sisimiut" coord="-53.7220589, 66.9519901">
 		<voisin nom="Margrethe II" distance="1750.175443912878" lignes="HOP!" />
@@ -1592,51 +1592,51 @@
 		<voisin nom="Paris" distance="1643.815675974621" lignes="JOON" />
 	</gare>
 	<gare nom="St Jean" coord="-52.7424429, 47.6212101">
-		<voisin nom="Trois Rivières" distance="2219.8280593700683" lignes="JOON" />
 		<voisin nom="Dublin" distance="5202.611939880163" lignes="JOON" />
+		<voisin nom="Trois Rivières" distance="2219.8280593700683" lignes="JOON" />
 	</gare>
 	<gare nom="St Marin" coord="12.6119908, 44.0201463">
 		<voisin nom="Rome" distance="244.77436803751624" lignes="HOP!" />
 	</gare>
 	<gare nom="St Martin" coord="-63.1130821, 18.0418698">
-		<voisin nom="Paris" distance="7753.527401643431" lignes="Air 350" />
+		<voisin nom="Paris" distance="7753.5274016434305" lignes="Air 350" />
 	</gare>
 	<gare nom="St Pierre" coord="-56.1778376, 46.7652581|-56.1778376, 46.7652581">
+		<voisin nom="Montréal" distance="1956.4678287004806" lignes="HOP!" />
 		<voisin nom="Paris" distance="6540.504866040636" lignes="JOON" />
-		<voisin nom="Montréal" distance="1956.467828700478" lignes="HOP!" />
 	</gare>
 	<gare nom="Stavanger" coord="5.6314021, 58.8804407">
-		<voisin nom="Stockholm" distance="1370.9360554302662" lignes="AirBaltic" />
 		<voisin nom="Copenhague" distance="859.6294635745444" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="1370.9360554302662" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Stockholm" coord="17.9237807, 59.6497622|17.9237807, 59.6497622">
-		<voisin nom="Oslo" distance="761.8609219049251" lignes="AirBaltic" />
-		<voisin nom="Göteborg" distance="662.0228559715626" lignes="AirBaltic" />
-		<voisin nom="Vienne" distance="1235.2853624593185" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="2352.0127148408164" lignes="AirBaltic" />
-		<voisin nom="Trondheim" distance="880.7670010942738" lignes="AirBaltic" />
-		<voisin nom="Venise" distance="1641.0301418281683" lignes="AirBaltic" />
-		<voisin nom="Edimbourg" distance="2403.9878725380822" lignes="AirBaltic" />
-		<voisin nom="Amsterdam" distance="1668.4976449051596" lignes="AirBaltic" />
-		<voisin nom="Riga" distance="730.6023740445372" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="729.2586600731034" lignes="AirBaltic" />
-		<voisin nom="Francfort" distance="1472.3695906039854" lignes="AirBaltic" />
-		<voisin nom="Tallinn" distance="0.0" lignes="AirBaltic" />
-		<voisin nom="Varsovie" distance="855.2461085886215" lignes="AirBaltic" />
-		<voisin nom="Stavanger" distance="1370.9360554302662" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="1773.6264410068995" lignes="AirBaltic" />
-		<voisin nom="Nice" distance="2104.382431296301" lignes="AirBaltic" />
-		<voisin nom="Tbilissi" distance="3442.9645056102536" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="2570.4606925396656" lignes="AirBaltic" />
+		<voisin nom="Vienne" distance="1235.2853624593185" lignes="AirBaltic" />
+		<voisin nom="Riga" distance="730.6023740445372" lignes="AirBaltic" />
+		<voisin nom="Tbilissi" distance="3442.9645056102536" lignes="AirBaltic" />
 		<voisin nom="Rome" distance="2018.5735876775025" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="1678.25766350836" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="6272.7309532349445" lignes="JOON" />
-		<voisin nom="Berlin" distance="919.5814307902652" lignes="JOON" />
+		<voisin nom="Varsovie" distance="855.2461085886215" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="729.2586600731034" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="6272.730953234945" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="2403.9878725380822" lignes="AirBaltic" />
 		<voisin nom="Madrid" distance="3184.634401681176" lignes="JOON" />
 		<voisin nom="Paris" distance="2068.624008605432" lignes="JOON" />
-		<voisin nom="Bucarest" distance="1799.8032898148717" lignes="JOON" />
-		<voisin nom="Dublin" distance="2776.540008647712" lignes="JOON" />
+		<voisin nom="Amsterdam" distance="1668.4976449051596" lignes="AirBaltic" />
+		<voisin nom="Stavanger" distance="1370.9360554302662" lignes="AirBaltic" />
+		<voisin nom="Francfort" distance="1472.3695906039854" lignes="AirBaltic" />
+		<voisin nom="Tallinn" distance="0.0" lignes="AirBaltic" />
+		<voisin nom="Göteborg" distance="662.0228559715626" lignes="AirBaltic" />
+		<voisin nom="Oslo" distance="761.8609219049251" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="785.5533592630803" lignes="JOON" />
+		<voisin nom="Berlin" distance="919.5814307902652" lignes="JOON" />
+		<voisin nom="Nice" distance="2104.382431296301" lignes="AirBaltic" />
+		<voisin nom="Bacau" distance="1678.25766350836" lignes="AirBaltic" />
+		<voisin nom="Venise" distance="1641.0301418281683" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="2776.540008647712" lignes="JOON" />
+		<voisin nom="Bucarest" distance="1799.8032898148717" lignes="JOON" />
+		<voisin nom="Bruxelles" distance="1773.6264410068995" lignes="AirBaltic" />
+		<voisin nom="Trondheim" distance="880.7670010942738" lignes="AirBaltic" />
+		<voisin nom="Athènes" distance="2352.0127148408164" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Strasbourg" coord="7.6280226, 48.5394301">
 		<voisin nom="Paris" distance="567.9111427294965" lignes="JOON" />
@@ -1645,20 +1645,20 @@
 		<voisin nom="Darwin" distance="2907.263480017091" lignes="Air 350" />
 	</gare>
 	<gare nom="Séoul" coord="126.4409637, 37.4610972">
-		<voisin nom="Paris" distance="13699.843465382814" lignes="Air 350" />
 		<voisin nom="Darwin" distance="3430.5670238004604" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="11023.412573711654" lignes="Air 350" />
+		<voisin nom="Paris" distance="13699.843465382812" lignes="Air 350" />
 	</gare>
 	<gare nom="Séville" coord="-5.89305, 37.4201674|-5.89305, 37.4201674">
-		<voisin nom="Nice" distance="1615.3747021821162" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="3322.4083086206433" lignes="AirBaltic" />
-		<voisin nom="Malte" distance="2274.8632256704" lignes="AirBaltic" />
 		<voisin nom="Bruxelles" distance="1892.1802737711523" lignes="AirBaltic" />
+		<voisin nom="Malte" distance="2274.8632256704" lignes="AirBaltic" />
+		<voisin nom="Nice" distance="1615.3747021821162" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="1772.1937097495888" lignes="JOON" />
+		<voisin nom="Paris" distance="1594.663559765818" lignes="JOON" />
+		<voisin nom="Helsinki" distance="4235.80225746008" lignes="JOON" />
 		<voisin nom="Berlin" distance="2721.5809006587933" lignes="JOON" />
 		<voisin nom="Madrid" distance="428.501299509373" lignes="JOON" />
-		<voisin nom="Paris" distance="1594.663559765818" lignes="JOON" />
-		<voisin nom="Dublin" distance="1772.1937097495888" lignes="JOON" />
-		<voisin nom="Helsinki" distance="4235.80225746008" lignes="JOON" />
+		<voisin nom="Athènes" distance="3322.4083086206433" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Tahiti" coord="-149.6103874, -17.5598646">
 		<voisin nom="Vancouver" distance="5836.742899880298" lignes="Air 350" />
@@ -1668,70 +1668,70 @@
 		<voisin nom="Hong Kong" distance="826.6108825041293" lignes="HOP!" />
 	</gare>
 	<gare nom="Tallinn" coord="17.923781, 59.649762">
-		<voisin nom="Stockholm" distance="0.0" lignes="AirBaltic" />
 		<voisin nom="Copenhague" distance="729.2586740192576" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="0.0" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Tarbes Lyon" coord="8.5554755, 47.4582165">
 		<voisin nom="Rome" distance="743.280043370362" lignes="HOP!" />
 	</gare>
 	<gare nom="Tbilissi" coord="44.964349, 41.6696083|44.964349, 41.6696083">
-		<voisin nom="Copenhague" distance="3833.1733618692847" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="2363.7755830947794" lignes="AirBaltic" />
 		<voisin nom="Bichkek" distance="2055.9223958688985" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="3442.9645056102536" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="2055.9223559038687" lignes="AirBaltic" />
-		<voisin nom="Katmandou" distance="4513.379611244899" lignes="JOON" />
-		<voisin nom="Berlin" distance="3644.223150622806" lignes="JOON" />
-		<voisin nom="Madrid" distance="5403.807467203301" lignes="JOON" />
-		<voisin nom="Paris" distance="4776.292712205379" lignes="JOON" />
-		<voisin nom="Lahore" distance="3316.3300532973067" lignes="JOON" />
-		<voisin nom="Bucarest" distance="2117.6998434035277" lignes="JOON" />
 		<voisin nom="Helsinki" distance="2788.6307503368844" lignes="JOON" />
+		<voisin nom="Berlin" distance="3644.223150622806" lignes="JOON" />
+		<voisin nom="Lahore" distance="3316.3300532973067" lignes="JOON" />
+		<voisin nom="Bacau" distance="2055.9223559038687" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="3833.1733618692847" lignes="AirBaltic" />
+		<voisin nom="Madrid" distance="5403.807467203301" lignes="JOON" />
+		<voisin nom="Katmandou" distance="4513.379611244899" lignes="JOON" />
+		<voisin nom="Paris" distance="4776.292712205379" lignes="JOON" />
+		<voisin nom="Bucarest" distance="2117.6998434035277" lignes="JOON" />
+		<voisin nom="Stockholm" distance="3442.9645056102536" lignes="AirBaltic" />
+		<voisin nom="Athènes" distance="2363.7755830947794" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Tel Aviv" coord="34.8854112, 32.005532|34.8854112, 32.005532">
-		<voisin nom="Athènes" distance="1345.7062027886764" lignes="AirBaltic" />
 		<voisin nom="Berlin" distance="3138.416273120814" lignes="JOON" />
+		<voisin nom="Athènes" distance="1345.7062027886764" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="4006.7421220903966" lignes="JOON" />
 	</gare>
 	<gare nom="Thessalonique" coord="22.9716758, 40.5204227|22.9716758, 40.5204227">
-		<voisin nom="Athènes" distance="285.4608865527165" lignes="AirBaltic" />
 		<voisin nom="Copenhague" distance="1967.1953833961459" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="1635.5018069745836" lignes="JOON" />
+		<voisin nom="Athènes" distance="285.4608865527165" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="2451.140311651009" lignes="JOON" />
 		<voisin nom="Bucarest" distance="536.8841461603954" lignes="JOON" />
+		<voisin nom="Berlin" distance="1635.5018069745836" lignes="JOON" />
 		<voisin nom="Madrid" distance="2954.3394426485916" lignes="JOON" />
 	</gare>
 	<gare nom="Timisoara" coord="21.320193, 45.8102336|21.320193, 45.8102336">
 		<voisin nom="Bacau" distance="626.6221403849643" lignes="AirBaltic" />
-		<voisin nom="Paris" distance="2118.281771512527" lignes="JOON" />
 		<voisin nom="Bucarest" distance="545.1781492676795" lignes="JOON" />
+		<voisin nom="Paris" distance="2118.281771512527" lignes="JOON" />
 	</gare>
 	<gare nom="Tokyo" coord="139.7798386, 35.5493932">
-		<voisin nom="Paris" distance="15082.92076762381" lignes="Air 350" />
 		<voisin nom="Darwin" distance="3854.656355287299" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="12341.508772141116" lignes="Air 350" />
+		<voisin nom="Paris" distance="15082.920767623807" lignes="Air 350" />
 	</gare>
 	<gare nom="Toronto" coord="-79.6248197, 43.6777176|-79.6248197, 43.6777176">
-		<voisin nom="Margrethe II" distance="4743.92704148218" lignes="Air 350" />
-		<voisin nom="Paris" distance="9152.439801113544" lignes="Air 350" />
-		<voisin nom="Dublin" distance="8185.258282270525" lignes="Air 350" />
 		<voisin nom="Narsarsuaq" distance="3873.665786389508" lignes="JOON" />
+		<voisin nom="Margrethe II" distance="4743.92704148218" lignes="Air 350" />
+		<voisin nom="Dublin" distance="8185.258282270524" lignes="Air 350" />
+		<voisin nom="Paris" distance="9152.439801113544" lignes="Air 350" />
 	</gare>
 	<gare nom="Toulouse" coord="1.367682, 43.6293863|1.367682, 43.6293863">
-		<voisin nom="Nice" distance="650.9093107764089" lignes="AirBaltic" />
 		<voisin nom="Copenhague" distance="1823.7662653826128" lignes="AirBaltic" />
-		<voisin nom="Berlin" distance="1661.6068884731728" lignes="JOON" />
-		<voisin nom="Paris" distance="612.8217306651449" lignes="JOON" />
 		<voisin nom="Dublin" distance="1380.0634515621384" lignes="JOON" />
+		<voisin nom="Paris" distance="612.8217306651449" lignes="JOON" />
 		<voisin nom="Paris Orly" distance="577.8420296342471" lignes="HOP!" />
+		<voisin nom="Berlin" distance="1661.6068884731728" lignes="JOON" />
+		<voisin nom="Nice" distance="650.9093107764089" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Trois Rivières" coord="-72.676191, 46.362707">
 		<voisin nom="St Jean" distance="2219.8280593700683" lignes="JOON" />
 	</gare>
 	<gare nom="Trondheim" coord="10.9225991, 63.4582698">
+		<voisin nom="Oslo" distance="356.8462543686741" lignes="AirBaltic" />
 		<voisin nom="Stockholm" distance="880.7670010942738" lignes="AirBaltic" />
 		<voisin nom="Copenhague" distance="875.6979135301125" lignes="AirBaltic" />
-		<voisin nom="Oslo" distance="356.8462543686741" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Tunis" coord="10.2190745, 36.8458578">
 		<voisin nom="Paris" distance="1592.8523937796274" lignes="JOON" />
@@ -1743,15 +1743,15 @@
 		<voisin nom="Bucarest" distance="2907.329116107598" lignes="Air 350" />
 	</gare>
 	<gare nom="Upington" coord="21.2559067, -28.4086352">
-		<voisin nom="Le Cap" distance="652.7465361261694" lignes="HOP!" />
+		<voisin nom="Le Cap" distance="652.7465361261624" lignes="HOP!" />
 	</gare>
 	<gare nom="Ushuaia" coord="-68.309701, -54.8422373">
 		<voisin nom="El Calafate" distance="450.587372872833" lignes="HOP!" />
 	</gare>
 	<gare nom="Vagar" coord="-7.27546, 62.0633297">
-		<voisin nom="Narsarsuaq" distance="4246.877324562427" lignes="HOP!" />
-		<voisin nom="Edimbourg" distance="805.4067340279302" lignes="HOP!" />
 		<voisin nom="Copenhague" distance="2329.9660783715976" lignes="HOP!" />
+		<voisin nom="Edimbourg" distance="805.4067340279302" lignes="HOP!" />
+		<voisin nom="Narsarsuaq" distance="4246.877324562427" lignes="HOP!" />
 	</gare>
 	<gare nom="Valence" coord="-0.4780256, 39.4892327">
 		<voisin nom="Barcelone" distance="348.9968820988338" lignes="AirBaltic" />
@@ -1762,64 +1762,64 @@
 		<voisin nom="Paris" distance="13996.114002391292" lignes="Air 350" />
 	</gare>
 	<gare nom="Varsovie" coord="20.9678911, 52.1672369|20.9678911, 52.1672369">
-		<voisin nom="Copenhague" distance="996.0575221654938" lignes="AirBaltic" />
-		<voisin nom="Zagreb" distance="870.2462391884291" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1872.7189626565892" lignes="AirBaltic" />
 		<voisin nom="Munich" distance="1101.219751033896" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="855.2461085886215" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="875.2000612793604" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="945.8740385671342" lignes="JOON" />
+		<voisin nom="Zagreb" distance="870.2462391884291" lignes="AirBaltic" />
 		<voisin nom="Berlin" distance="829.2396553121366" lignes="JOON" />
 		<voisin nom="Madrid" distance="3013.5347508650875" lignes="JOON" />
+		<voisin nom="Bacau" distance="875.2000612793604" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="996.0575221654938" lignes="AirBaltic" />
+		<voisin nom="Edimbourg" distance="2739.6148915742747" lignes="HOP!" />
+		<voisin nom="Dublin" distance="3032.996203868191" lignes="JOON" />
 		<voisin nom="Paris" distance="2078.8983155792416" lignes="JOON" />
 		<voisin nom="Bucarest" distance="961.6679204275107" lignes="JOON" />
-		<voisin nom="Dublin" distance="3032.996203868191" lignes="JOON" />
-		<voisin nom="Helsinki" distance="945.8740385671342" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="2739.6148915742747" lignes="HOP!" />
+		<voisin nom="Stockholm" distance="855.2461085886215" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Venise" coord="12.3460177, 45.5044899|12.3460177, 45.5044899">
-		<voisin nom="Athènes" distance="1518.6209880971637" lignes="AirBaltic" />
-		<voisin nom="Zagreb" distance="415.04996440159397" lignes="AirBaltic" />
-		<voisin nom="Luxembourg" distance="819.1148589819818" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="316.6107745986175" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1071.5735417684903" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="1641.0301418281683" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="1057.4588047478803" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="6036.265071842339" lignes="JOON" />
+		<voisin nom="Helsinki" distance="2096.920729005757" lignes="JOON" />
+		<voisin nom="Zagreb" distance="415.04996440159397" lignes="AirBaltic" />
 		<voisin nom="Berlin" distance="757.8966857489636" lignes="JOON" />
 		<voisin nom="Madrid" distance="1856.0490146977218" lignes="JOON" />
+		<voisin nom="Luxembourg" distance="819.1148589819818" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="316.6107745986175" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="6036.265071842339" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="2095.89872576321" lignes="HOP!" />
+		<voisin nom="Dublin" distance="2248.0833031709394" lignes="JOON" />
 		<voisin nom="Paris" distance="1157.1426204644085" lignes="JOON" />
 		<voisin nom="Bucarest" distance="1532.477071097248" lignes="JOON" />
-		<voisin nom="Dublin" distance="2248.083303170937" lignes="JOON" />
-		<voisin nom="Helsinki" distance="2096.920729005757" lignes="JOON" />
-		<voisin nom="Edimbourg" distance="2095.89872576321" lignes="HOP!" />
+		<voisin nom="Bruxelles" distance="1057.4588047478803" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="1641.0301418281683" lignes="AirBaltic" />
+		<voisin nom="Athènes" distance="1518.6209880971637" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Vienne" coord="16.5665751, 48.1158333|16.5665751, 48.1158333">
-		<voisin nom="Nice" distance="1148.3755374109664" lignes="AirBaltic" />
+		<voisin nom="Bucarest" distance="1121.279691217924" lignes="JOON" />
 		<voisin nom="Copenhague" distance="918.0087941530502" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="1378.826176532243" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="1342.7588263181028" lignes="AirBaltic" />
-		<voisin nom="Zagreb" distance="259.75374522533633" lignes="AirBaltic" />
-		<voisin nom="Luxembourg" distance="1164.0939738248514" lignes="AirBaltic" />
-		<voisin nom="Barcelone" distance="1776.8378390817504" lignes="AirBaltic" />
-		<voisin nom="Munich" distance="534.0094735774655" lignes="AirBaltic" />
+		<voisin nom="Nice" distance="1148.3755374109664" lignes="AirBaltic" />
 		<voisin nom="Malte" distance="1335.191177715136" lignes="AirBaltic" />
-		<voisin nom="Stockholm" distance="1235.2853624593185" lignes="AirBaltic" />
-		<voisin nom="Bacau" distance="1163.0586784214372" lignes="AirBaltic" />
-		<voisin nom="Darwin" distance="10613.03278993174" lignes="Air 350" />
-		<voisin nom="Margrethe II" distance="6387.227312804583" lignes="JOON" />
+		<voisin nom="Paris Orly" distance="1582.2969146301998" lignes="HOP!" />
+		<voisin nom="Barcelone" distance="1776.8378390817504" lignes="AirBaltic" />
+		<voisin nom="Zagreb" distance="259.75374522533633" lignes="AirBaltic" />
 		<voisin nom="Berlin" distance="570.5355941260324" lignes="JOON" />
 		<voisin nom="Madrid" distance="2392.8579866481855" lignes="JOON" />
-		<voisin nom="Paris" distance="1563.6141435120517" lignes="JOON" />
-		<voisin nom="Bucarest" distance="1121.279691217924" lignes="JOON" />
-		<voisin nom="Dublin" distance="2606.3660779413294" lignes="JOON" />
-		<voisin nom="Helsinki" distance="1575.0271858985964" lignes="JOON" />
+		<voisin nom="Bacau" distance="1163.0586784214372" lignes="AirBaltic" />
+		<voisin nom="Luxembourg" distance="1164.0939738248514" lignes="AirBaltic" />
+		<voisin nom="Munich" distance="534.0094735774655" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="6387.227312804583" lignes="JOON" />
 		<voisin nom="Edimbourg" distance="2379.9030867772567" lignes="HOP!" />
-		<voisin nom="Paris Orly" distance="1582.2969146301998" lignes="HOP!" />
+		<voisin nom="Dublin" distance="2606.3660779413294" lignes="JOON" />
+		<voisin nom="Paris" distance="1563.6141435120517" lignes="JOON" />
+		<voisin nom="Darwin" distance="10613.03278993174" lignes="Air 350" />
+		<voisin nom="Bruxelles" distance="1378.826176532243" lignes="AirBaltic" />
+		<voisin nom="Stockholm" distance="1235.2853624593185" lignes="AirBaltic" />
+		<voisin nom="Helsinki" distance="1575.0271858985964" lignes="JOON" />
+		<voisin nom="Athènes" distance="1342.7588263181028" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Vilnius" coord="25.2865584, 54.6380366">
+		<voisin nom="Helsinki" distance="573.9566080431432" lignes="JOON" />
 		<voisin nom="Berlin" distance="1330.7506285570564" lignes="JOON" />
 		<voisin nom="Paris" distance="2602.1720952494306" lignes="JOON" />
-		<voisin nom="Helsinki" distance="573.9566080431432" lignes="JOON" />
 	</gare>
 	<gare nom="Wellington" coord="174.8075984, -41.3275941">
 		<voisin nom="Darwin" distance="5598.024751179433" lignes="Air 350" />
@@ -1831,45 +1831,45 @@
 		<voisin nom="Margrethe II" distance="6561.59851657212" lignes="Air 350" />
 	</gare>
 	<gare nom="Xi'an" coord="108.7573294, 34.437111">
-		<voisin nom="Paris" distance="11754.639176496095" lignes="Air 350" />
 		<voisin nom="Darwin" distance="3417.1450541968597" lignes="Air 350" />
 		<voisin nom="Helsinki" distance="9141.10130021467" lignes="Air 350" />
+		<voisin nom="Paris" distance="11754.639176496095" lignes="Air 350" />
 	</gare>
 	<gare nom="Zagreb" coord="16.0674366, 45.7407504|16.0674366, 45.7407504">
-		<voisin nom="Vienne" distance="259.75374522533633" lignes="AirBaltic" />
-		<voisin nom="Belgrade" distance="480.20259001399415" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1130.7968786154415" lignes="AirBaltic" />
-		<voisin nom="Athènes" distance="1197.7552708300789" lignes="AirBaltic" />
-		<voisin nom="Podgorica" distance="503.28058251885085" lignes="AirBaltic" />
-		<voisin nom="Prague" distance="509.7661832787622" lignes="AirBaltic" />
-		<voisin nom="Francfort" distance="957.126754360096" lignes="AirBaltic" />
-		<voisin nom="Pistina" distance="645.5062379365768" lignes="AirBaltic" />
-		<voisin nom="Varsovie" distance="870.2462391884291" lignes="AirBaltic" />
-		<voisin nom="Venise" distance="415.04996440159397" lignes="AirBaltic" />
-		<voisin nom="Split" distance="236.84380963544274" lignes="AirBaltic" />
 		<voisin nom="Dubrovnik" distance="417.2630276407042" lignes="AirBaltic" />
 		<voisin nom="Skopje" distance="735.2517061582207" lignes="AirBaltic" />
+		<voisin nom="Vienne" distance="259.75374522533633" lignes="AirBaltic" />
+		<voisin nom="Belgrade" distance="480.20259001399415" lignes="AirBaltic" />
+		<voisin nom="Split" distance="236.84380963544274" lignes="AirBaltic" />
 		<voisin nom="Berlin" distance="769.1761810113662" lignes="JOON" />
 		<voisin nom="Madrid" distance="2260.678224408571" lignes="JOON" />
+		<voisin nom="Podgorica" distance="503.28058251885085" lignes="AirBaltic" />
+		<voisin nom="Varsovie" distance="870.2462391884291" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="1130.7968786154415" lignes="AirBaltic" />
+		<voisin nom="Venise" distance="415.04996440159397" lignes="AirBaltic" />
+		<voisin nom="Dublin" distance="2624.7347527077927" lignes="JOON" />
+		<voisin nom="Pistina" distance="645.5062379365768" lignes="AirBaltic" />
 		<voisin nom="Paris" distance="1547.025885608479" lignes="JOON" />
 		<voisin nom="Bucarest" distance="1121.6637368321385" lignes="JOON" />
-		<voisin nom="Dublin" distance="2624.7347527077927" lignes="JOON" />
+		<voisin nom="Francfort" distance="957.126754360096" lignes="AirBaltic" />
+		<voisin nom="Prague" distance="509.7661832787622" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="1811.4056441087396" lignes="JOON" />
+		<voisin nom="Athènes" distance="1197.7552708300789" lignes="AirBaltic" />
 	</gare>
 	<gare nom="Zurich" coord="8.5554755, 47.4582165|8.5554755, 47.4582165">
-		<voisin nom="Luxembourg" distance="353.99516262840575" lignes="AirBaltic" />
-		<voisin nom="Copenhague" distance="1002.2805712794585" lignes="AirBaltic" />
-		<voisin nom="Bruxelles" distance="591.7637593697348" lignes="AirBaltic" />
-		<voisin nom="Margrethe II" distance="5566.155483300078" lignes="JOON" />
+		<voisin nom="Paris Orly" distance="703.2596458535207" lignes="HOP!" />
 		<voisin nom="Berlin" distance="771.5107908527508" lignes="JOON" />
 		<voisin nom="Madrid" distance="1555.03203463112" lignes="JOON" />
+		<voisin nom="Londres City" distance="1047.8462543182022" lignes="HOP!" />
+		<voisin nom="Luxembourg" distance="353.99516262840575" lignes="AirBaltic" />
+		<voisin nom="Copenhague" distance="1002.2805712794585" lignes="AirBaltic" />
+		<voisin nom="Margrethe II" distance="5566.155483300078" lignes="JOON" />
+		<voisin nom="Edimbourg" distance="1627.425477061201" lignes="HOP!" />
+		<voisin nom="Dublin" distance="1776.2564821551657" lignes="JOON" />
 		<voisin nom="Paris" distance="690.4767081835023" lignes="JOON" />
 		<voisin nom="Bucarest" distance="1975.051568493995" lignes="JOON" />
-		<voisin nom="Dublin" distance="1776.2564821551657" lignes="JOON" />
+		<voisin nom="Bruxelles" distance="591.7637593697348" lignes="AirBaltic" />
 		<voisin nom="Helsinki" distance="2279.2049939830313" lignes="JOON" />
-		<voisin nom="Londres City" distance="1047.8462543182022" lignes="HOP!" />
-		<voisin nom="Edimbourg" distance="1627.425477061201" lignes="HOP!" />
-		<voisin nom="Paris Orly" distance="703.2596458535207" lignes="HOP!" />
 	</gare>
 	<gare nom="Édimbourg" coord="-3.3614532, 55.950785">
 		<voisin nom="Dublin" distance="426.3603127147699" lignes="JOON" />

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PONT DE BEZONS,PORTE DE VERSAILLES" couleur="a0006e">
+<ligne terminus="PORTE DE VERSAILLES,PONT DE BEZONS" couleur="a0006e">
 	<gare nom="BELVEDERE" coord="2.22595909514, 48.8760012915">
-		<voisin nom="SURESNES-LONGCHAMP" distance="0.9260749682143113" />
 		<voisin nom="PUTEAUX" distance="0.9979296517100082" />
+		<voisin nom="SURESNES-LONGCHAMP" distance="0.9260749682143113" />
 	</gare>
 	<gare nom="BRIMBORION" coord="2.23132315987, 48.8223099329">
-		<voisin nom="MUSEE DE SEVRES" distance="0.8662537226783338" />
 		<voisin nom="MEUDON-SUR-SEINE" distance="0.6373182215994138" />
+		<voisin nom="MUSEE DE SEVRES" distance="0.8662537226783338" />
 	</gare>
 	<gare nom="CHARLEBOURG" coord="2.23830930229, 48.9076645839">
-		<voisin nom="LES FAUVELLES" distance="0.5524951718586264" />
 		<voisin nom="JACQUELINE AURIOL" distance="0.4711264895591901" />
+		<voisin nom="LES FAUVELLES" distance="0.5524951718586264" />
 	</gare>
 	<gare nom="FAUBOURG DE L ARCHE" coord="2.24007925205, 48.8966643963">
 		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="0.5464513399070636" />
@@ -21,8 +21,8 @@
 		<voisin nom="SUZANNE LENGLEN" distance="0.42947260446200963" />
 	</gare>
 	<gare nom="ISSY-VAL DE SEINE" coord="2.26368964874, 48.8301196393">
-		<voisin nom="JACQUES-HENRI LARTIGUE" distance="0.6389984435417435" />
 		<voisin nom="HENRI FARMANN" distance="0.7562539448255291" />
+		<voisin nom="JACQUES-HENRI LARTIGUE" distance="0.6389984435417435" />
 	</gare>
 	<gare nom="JACQUELINE AURIOL" coord="2.23398860143, 48.9108025897">
 		<voisin nom="CHARLEBOURG" distance="0.4711264895591901" />
@@ -30,15 +30,15 @@
 	</gare>
 	<gare nom="JACQUES-HENRI LARTIGUE" coord="2.26053991367, 48.8247670255">
 		<voisin nom="ISSY-VAL DE SEINE" distance="0.6389984435417435" />
-		<voisin nom="LES MOULINEAUX" distance="0.765423861280875" />
+		<voisin nom="LES MOULINEAUX" distance="0.7654238671814716" />
 	</gare>
 	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="2.2370180564, 48.8921870764">
 		<voisin nom="FAUBOURG DE L ARCHE" distance="0.5464513399070636" />
 		<voisin nom="PUTEAUX" distance="1.0097644739142704" />
 	</gare>
 	<gare nom="LES COTEAUX" coord="2.22060356003, 48.8574714089">
-		<voisin nom="SURESNES-LONGCHAMP" distance="1.2000750601023356" />
 		<voisin nom="LES MILONS" distance="0.8496076532604818" />
+		<voisin nom="SURESNES-LONGCHAMP" distance="1.2000750601023356" />
 	</gare>
 	<gare nom="LES FAUVELLES" coord="2.23954203632, 48.9027680256">
 		<voisin nom="CHARLEBOURG" distance="0.5524951718586264" />
@@ -49,7 +49,7 @@
 		<voisin nom="PARC DE SAINT-CLOUD" distance="0.7501157326036529" />
 	</gare>
 	<gare nom="LES MOULINEAUX" coord="2.25133615621, 48.8215175225">
-		<voisin nom="JACQUES-HENRI LARTIGUE" distance="0.765423861280875" />
+		<voisin nom="JACQUES-HENRI LARTIGUE" distance="0.7654238671814716" />
 		<voisin nom="MEUDON-SUR-SEINE" distance="0.9693749823752774" />
 	</gare>
 	<gare nom="MEUDON-SUR-SEINE" coord="2.23859833779, 48.8191743291">
@@ -58,36 +58,32 @@
 	</gare>
 	<gare nom="MUSEE DE SEVRES" coord="2.22531285328, 48.8290105028">
 		<voisin nom="BRIMBORION" distance="0.8662537226783338" />
-		<voisin nom="PARC DE SAINT-CLOUD" distance="1.591490481154586" />
+		<voisin nom="PARC DE SAINT-CLOUD" distance="1.5914904783167072" />
 	</gare>
 	<gare nom="PARC DE SAINT-CLOUD" coord="2.22185149475, 48.8431243999">
 		<voisin nom="LES MILONS" distance="0.7501157326036529" />
-		<voisin nom="MUSEE DE SEVRES" distance="1.591490481154586" />
-	</gare>
-	<gare nom="PARC PIERRE LAGRAVERE" coord="2.22481218888, 48.9175149076">
+		<voisin nom="MUSEE DE SEVRES" distance="1.5914904783167072" />
 	</gare>
 	<gare nom="PONT DE BEZONS" coord="2.21758979935, 48.9232682542">
 		<voisin nom="JACQUELINE AURIOL" distance="1.8343262249309316" />
 	</gare>
 	<gare nom="PORTE D'ISSY" coord="2.28147044408, 48.8316965931">
-		<voisin nom="SUZANNE LENGLEN" distance="0.39507726885067856" />
 		<voisin nom="PORTE DE VERSAILLES" distance="0.49572190951870915" />
+		<voisin nom="SUZANNE LENGLEN" distance="0.39507726885067856" />
 	</gare>
 	<gare nom="PORTE DE VERSAILLES" coord="2.2880694576, 48.8326768719">
 		<voisin nom="PORTE D'ISSY" distance="0.49572190951870915" />
 	</gare>
 	<gare nom="PUTEAUX" coord="2.2336919188, 48.8833838129">
-		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="1.0097644739142704" />
 		<voisin nom="BELVEDERE" distance="0.9979296517100082" />
+		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="1.0097644739142704" />
 	</gare>
 	<gare nom="SURESNES-LONGCHAMP" coord="2.22141060398, 48.8682387849">
-		<voisin nom="LES COTEAUX" distance="1.2000750601023356" />
 		<voisin nom="BELVEDERE" distance="0.9260749682143113" />
+		<voisin nom="LES COTEAUX" distance="1.2000750601023356" />
 	</gare>
 	<gare nom="SUZANNE LENGLEN" coord="2.27671209053, 48.8333653438">
-		<voisin nom="PORTE D'ISSY" distance="0.39507726885067856" />
 		<voisin nom="HENRI FARMANN" distance="0.42947260446200963" />
-	</gare>
-	<gare nom="VICTOR BASCH" coord="2.22957161329, 48.9140476807">
+		<voisin nom="PORTE D'ISSY" distance="0.39507726885067856" />
 	</gare>
 </ligne>

@@ -9,15 +9,15 @@
 		<voisin nom="PLACE DES FETES" distance="0.5300382363718845" />
 	</gare>
 	<gare nom="BUTTES-CHAUMONT" coord="2131, 965">
-		<voisin nom="BOTZARIS" distance="0.8419476233634656" />
 		<voisin nom="BOLIVAR" distance="0.8699688235325129" />
+		<voisin nom="BOTZARIS" distance="0.8419476233634656" />
 	</gare>
 	<gare nom="DANUBE" coord="2267, 899">
 		<voisin nom="BOTZARIS" distance="0.5536846362261075" />
 	</gare>
 	<gare nom="JAURES" coord="1972, 891">
-		<voisin nom="LOUIS BLANC" distance="0.5623371819314776" />
 		<voisin nom="BOLIVAR" distance="0.4802466207592226" />
+		<voisin nom="LOUIS BLANC" distance="0.5623371819314776" />
 	</gare>
 	<gare nom="LOUIS BLANC" coord="1892, 921">
 		<voisin nom="JAURES" distance="0.5623371819314776" />

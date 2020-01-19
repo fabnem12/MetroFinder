@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Ealing Broadway,Epping,West Ruislip" couleur="df002c">
+<ligne terminus="Ealing Broadway,West Ruislip,Epping" couleur="df002c">
 	<gare nom="Bank" coord="960, 561">
 		<voisin nom="Liverpool Street" distance="0.8618454951772129" />
 		<voisin nom="St. Paul's" distance="0.9792319175812315" />
 	</gare>
 	<gare nom="Barkingside" coord="1435, 211">
-		<voisin nom="Newbury Park" distance="1.1211799204437496" />
 		<voisin nom="Fairlop" distance="1.1907009441807515" />
+		<voisin nom="Newbury Park" distance="1.1211799204437496" />
 	</gare>
 	<gare nom="Bethnal Green" coord="1168, 468">
 		<voisin nom="Liverpool Street" distance="3.2174989554495252" />
 		<voisin nom="Mile End" distance="2.426918080338158" />
 	</gare>
 	<gare nom="Bond Street" coord="673, 531">
-		<voisin nom="Oxford Circus" distance="0.8839215883809911" />
 		<voisin nom="Marble Arch" distance="1.0263149762936874" />
+		<voisin nom="Oxford Circus" distance="0.8839215883809911" />
 	</gare>
 	<gare nom="Buckhurst Hill" coord="1333, 99">
-		<voisin nom="Woodford" distance="2.618162022342919" />
 		<voisin nom="Loughton" distance="1.8919396046573012" />
+		<voisin nom="Woodford" distance="2.618162022342919" />
 	</gare>
 	<gare nom="Chancery Lane" coord="890, 530">
-		<voisin nom="St. Paul's" distance="1.596377193422134" />
 		<voisin nom="Holborn" distance="0.9982819794901263" />
+		<voisin nom="St. Paul's" distance="1.596377193422134" />
 	</gare>
 	<gare nom="Chigwell" coord="1385, 141">
-		<voisin nom="Roding Valley" distance="3.5183299495186864" />
 		<voisin nom="Grange Hill" distance="1.9360951219956988" />
+		<voisin nom="Roding Valley" distance="3.5183299495186864" />
 	</gare>
 	<gare nom="Debden" coord="1333, 56">
-		<voisin nom="Theydon Bois" distance="3.6357159787749915" />
 		<voisin nom="Loughton" distance="3.1534868061329275" />
+		<voisin nom="Theydon Bois" distance="3.6357159787749915" />
 	</gare>
 	<gare nom="Ealing Broadway" coord="211, 533">
 		<voisin nom="West Acton" distance="2.3363301205932556" />
@@ -43,8 +43,8 @@
 		<voisin nom="Theydon Bois" distance="2.718471788090045" />
 	</gare>
 	<gare nom="Fairlop" coord="1435, 191">
-		<voisin nom="Hainault" distance="0.8135457558376573" />
 		<voisin nom="Barkingside" distance="1.1907009441807515" />
+		<voisin nom="Hainault" distance="0.8135457558376573" />
 	</gare>
 	<gare nom="Gants Hill" coord="1411, 266">
 		<voisin nom="Newbury Park" distance="2.6290496423356964" />
@@ -55,41 +55,41 @@
 		<voisin nom="Hainault" distance="1.1409011099461601" />
 	</gare>
 	<gare nom="Greenford" coord="159, 366">
-		<voisin nom="Perivale" distance="2.5730191980506047" />
 		<voisin nom="Northolt" distance="2.6568037768036996" />
+		<voisin nom="Perivale" distance="2.5730191980506047" />
 	</gare>
 	<gare nom="Hainault" coord="1435, 168">
-		<voisin nom="Grange Hill" distance="1.1409011099461601" />
 		<voisin nom="Fairlop" distance="0.8135457558376573" />
+		<voisin nom="Grange Hill" distance="1.1409011099461601" />
 	</gare>
 	<gare nom="Hanger Lane" coord="227, 438">
 		<voisin nom="North Acton" distance="3.8096792648536235" />
 		<voisin nom="Perivale" distance="3.4038449853899273" />
 	</gare>
 	<gare nom="Holborn" coord="841, 531">
-		<voisin nom="Tottenham Court Road" distance="1.228606125859512" />
 		<voisin nom="Chancery Lane" distance="0.9982819794901263" />
+		<voisin nom="Tottenham Court Road" distance="1.228606125859512" />
 	</gare>
 	<gare nom="Holland Park" coord="506, 531">
-		<voisin nom="Shepherd's Bush (C)" distance="1.4501468536683828" />
 		<voisin nom="Notting Hill Gate" distance="1.0566556980380195" />
+		<voisin nom="Shepherd's Bush (C)" distance="1.4501468536683828" />
 	</gare>
 	<gare nom="Lancaster Gate" coord="613, 531">
 		<voisin nom="Marble Arch" distance="1.9018698790461899" />
 		<voisin nom="Queensway" distance="1.3535735340219608" />
 	</gare>
 	<gare nom="Leyton" coord="1334, 354">
-		<voisin nom="Stratford" distance="1.6742762225438108" />
 		<voisin nom="Leytonstone" distance="1.997091520166035" />
+		<voisin nom="Stratford" distance="1.6742762225438108" />
 	</gare>
 	<gare nom="Leytonstone" coord="1333, 300">
 		<voisin nom="Leyton" distance="1.997091520166035" />
-		<voisin nom="Wanstead" distance="2.5013219353613465" />
 		<voisin nom="Snaresbrook" distance="2.0318170237765893" />
+		<voisin nom="Wanstead" distance="2.5013219353613465" />
 	</gare>
 	<gare nom="Liverpool Street" coord="1042, 513">
-		<voisin nom="Bethnal Green" distance="3.2174989554495252" />
 		<voisin nom="Bank" distance="0.8618454951772129" />
+		<voisin nom="Bethnal Green" distance="3.2174989554495252" />
 	</gare>
 	<gare nom="Loughton" coord="1333, 75">
 		<voisin nom="Buckhurst Hill" distance="1.8919396046573012" />
@@ -104,8 +104,8 @@
 		<voisin nom="Stratford" distance="3.725279715176268" />
 	</gare>
 	<gare nom="Newbury Park" coord="1434, 233">
-		<voisin nom="Gants Hill" distance="2.6290496423356964" />
 		<voisin nom="Barkingside" distance="1.1211799204437496" />
+		<voisin nom="Gants Hill" distance="2.6290496423356964" />
 	</gare>
 	<gare nom="North Acton" coord="358, 534">
 		<voisin nom="East Acton" distance="1.5699563729895407" />
@@ -137,28 +137,28 @@
 		<voisin nom="Wanstead" distance="1.8527255706574384" />
 	</gare>
 	<gare nom="Roding Valley" coord="1359, 142">
-		<voisin nom="Woodford" distance="1.5666016597273427" />
 		<voisin nom="Chigwell" distance="3.5183299495186864" />
+		<voisin nom="Woodford" distance="1.5666016597273427" />
 	</gare>
 	<gare nom="Ruislip Gardens" coord="146, 214">
-		<voisin nom="West Ruislip" distance="3.19989917079909" />
 		<voisin nom="South Ruislip" distance="1.344798967404645" />
+		<voisin nom="West Ruislip" distance="3.19989917079909" />
 	</gare>
 	<gare nom="Shepherd's Bush (C)" coord="474, 531">
 		<voisin nom="Holland Park" distance="1.4501468536683828" />
 		<voisin nom="White City" distance="1.0068057631897542" />
 	</gare>
 	<gare nom="Snaresbrook" coord="1334, 221">
-		<voisin nom="South Woodford" distance="1.379733027892536" />
 		<voisin nom="Leytonstone" distance="2.0318170237765893" />
+		<voisin nom="South Woodford" distance="1.379733027892536" />
 	</gare>
 	<gare nom="South Ruislip" coord="147, 256">
-		<voisin nom="Ruislip Gardens" distance="1.344798967404645" />
 		<voisin nom="Northolt" distance="3.484792036659607" />
+		<voisin nom="Ruislip Gardens" distance="1.344798967404645" />
 	</gare>
 	<gare nom="South Woodford" coord="1334, 200">
-		<voisin nom="Woodford" distance="1.8548978443334387" />
 		<voisin nom="Snaresbrook" distance="1.379733027892536" />
+		<voisin nom="Woodford" distance="1.8548978443334387" />
 	</gare>
 	<gare nom="St. Paul's" coord="913, 542">
 		<voisin nom="Bank" distance="0.9792319175812315" />
@@ -169,20 +169,20 @@
 		<voisin nom="Mile End" distance="3.725279715176268" />
 	</gare>
 	<gare nom="Theydon Bois" coord="1333, 38">
-		<voisin nom="Epping" distance="2.718471788090045" />
 		<voisin nom="Debden" distance="3.6357159787749915" />
+		<voisin nom="Epping" distance="2.718471788090045" />
 	</gare>
 	<gare nom="Tottenham Court Road" coord="801, 531">
-		<voisin nom="Oxford Circus" distance="1.1807214387306935" />
 		<voisin nom="Holborn" distance="1.228606125859512" />
+		<voisin nom="Oxford Circus" distance="1.1807214387306935" />
 	</gare>
 	<gare nom="Wanstead" coord="1361, 265">
-		<voisin nom="Redbridge" distance="1.8527255706574384" />
 		<voisin nom="Leytonstone" distance="2.5013219353613465" />
+		<voisin nom="Redbridge" distance="1.8527255706574384" />
 	</gare>
 	<gare nom="West Acton" coord="291, 532">
-		<voisin nom="North Acton" distance="2.443784273490155" />
 		<voisin nom="Ealing Broadway" distance="2.3363301205932556" />
+		<voisin nom="North Acton" distance="2.443784273490155" />
 	</gare>
 	<gare nom="West Ruislip" coord="147, 127">
 		<voisin nom="Ruislip Gardens" distance="3.19989917079909" />

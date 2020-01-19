@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Trilokpuri Sanjay Lake,Majlis Park,Mayur Vihar Pocket I,Shiv Vihar" couleur="FFB6C1">
+<ligne terminus="Majlis Park,Mayur Vihar Pocket I,Shiv Vihar,Trilokpuri Sanjay Lake" couleur="FFB6C1">
 	<gare nom="Anand Vihar" coord="3087, 1162">
+		<voisin nom="IP Extension" distance="1.821692562551036" />
 		<voisin nom="Karkar Duma" distance="1.1215920372318566" />
-		<voisin nom="IP Extension" distance="1.8216925650303004" />
 	</gare>
 	<gare nom="Ashram" coord="2479, 1669">
-		<voisin nom="Vinobapuri" distance="1.2100615246348034" />
 		<voisin nom="Hazrat Nizamuddin" distance="1.8943778625404732" />
+		<voisin nom="Vinobapuri" distance="1.210061517169964" />
 	</gare>
 	<gare nom="Azadpur" coord="2128, 459">
 		<voisin nom="Majlis Park" distance="24.203622453948515" />
@@ -14,23 +14,23 @@
 	</gare>
 	<gare nom="Bhikaji Cama Place" coord="1935, 1802">
 		<voisin nom="Sarojini Nagar" distance="1.235172420658387" />
-		<voisin nom="Sir Vishweshwaraiah Moti Bagh" distance="1.4654990785552244" />
+		<voisin nom="Sir Vishweshwaraiah Moti Bagh" distance="1.465499075473368" />
 	</gare>
 	<gare nom="Delhi Cantt" coord="1638, 1550">
 		<voisin nom="Durgabai Deshmukh South Campus" distance="3.6341784461731126" />
 		<voisin nom="Naraina Vihar" distance="1.690127771884586" />
 	</gare>
 	<gare nom="Durgabai Deshmukh South Campus" coord="1786, 1701">
-		<voisin nom="Sir Vishweshwaraiah Moti Bagh" distance="1.3448248609041957" />
 		<voisin nom="Delhi Cantt" distance="3.6341784461731126" />
+		<voisin nom="Sir Vishweshwaraiah Moti Bagh" distance="1.3448248609041957" />
 	</gare>
 	<gare nom="ESI Hospital" coord="1392, 1021">
 		<voisin nom="Punjabi Bagh West" distance="1.991291332917845" />
 		<voisin nom="Rajouri Garden" distance="1.0624986475579141" />
 	</gare>
 	<gare nom="East Azad Nagar" coord="2911, 958">
-		<voisin nom="Shahdara" distance="1.111856506596118" />
 		<voisin nom="Krishna Nagar" distance="0.9239735963129296" />
+		<voisin nom="Shahdara" distance="1.111856506596118" />
 	</gare>
 	<gare nom="Gokulpuri" coord="2928, 693">
 		<voisin nom="Johri Enclave" distance="1.2436100492518587" />
@@ -45,28 +45,28 @@
 		<voisin nom="South Extension" distance="1.1816730973561338" />
 	</gare>
 	<gare nom="IP Extension" coord="3091, 1277">
-		<voisin nom="Mandawali - West Vinod Nagar" distance="0.9456881016021526" />
-		<voisin nom="Anand Vihar" distance="1.8216925650303004" />
+		<voisin nom="Anand Vihar" distance="1.821692562551036" />
+		<voisin nom="Mandawali - West Vinod Nagar" distance="0.9456880968263103" />
 	</gare>
 	<gare nom="Jaffrabad" coord="2913, 768">
-		<voisin nom="Shahdara" distance="1.8152168767360506" />
 		<voisin nom="Maujpur" distance="1.149600190426278" />
+		<voisin nom="Shahdara" distance="1.8152168767360506" />
 	</gare>
 	<gare nom="Johri Enclave" coord="2969, 659">
 		<voisin nom="Gokulpuri" distance="1.2436100492518587" />
 		<voisin nom="Shiv Vihar" distance="2893.3629950774257" />
 	</gare>
 	<gare nom="Karkar Duma" coord="3008, 1163">
-		<voisin nom="Karkarduma Court" distance="1.0406136954760605" />
 		<voisin nom="Anand Vihar" distance="1.1215920372318566" />
+		<voisin nom="Karkarduma Court" distance="1.0406136954760605" />
 	</gare>
 	<gare nom="Karkarduma Court" coord="2912, 1049">
 		<voisin nom="Karkar Duma" distance="1.0406136954760605" />
 		<voisin nom="Krishna Nagar" distance="0.7075395994131897" />
 	</gare>
 	<gare nom="Krishna Nagar" coord="2912, 1003">
-		<voisin nom="Karkarduma Court" distance="0.7075395994131897" />
 		<voisin nom="East Azad Nagar" distance="0.9239735963129296" />
+		<voisin nom="Karkarduma Court" distance="0.7075395994131897" />
 	</gare>
 	<gare nom="Lajpat Nagar" coord="2399, 1781">
 		<voisin nom="South Extension" distance="1.6622659437736518" />
@@ -76,62 +76,62 @@
 		<voisin nom="Azadpur" distance="24.203622453948515" />
 	</gare>
 	<gare nom="Mandawali - West Vinod Nagar" coord="3092, 1322">
-		<voisin nom="Vinod Nagar East" distance="0.5462155196982144" />
-		<voisin nom="IP Extension" distance="0.9456881016021526" />
+		<voisin nom="IP Extension" distance="0.9456880968263103" />
+		<voisin nom="Vinod Nagar East" distance="0.5462155279668505" />
 	</gare>
 	<gare nom="Maujpur" coord="2913, 734">
 		<voisin nom="Gokulpuri" distance="1.3024168192354297" />
 		<voisin nom="Jaffrabad" distance="1.149600190426278" />
 	</gare>
 	<gare nom="Maya Puri" coord="1413, 1318">
-		<voisin nom="Rajouri Garden" distance="1.4886776224083935" />
 		<voisin nom="Naraina Vihar" distance="1.5951986404317404" />
+		<voisin nom="Rajouri Garden" distance="1.4886776224083935" />
 	</gare>
 	<gare nom="Mayur Vihar Phase-1" coord="2968, 1519">
-		<voisin nom="Mayur Vihar Pocket I" distance="0.9298888015877291" />
 		<voisin nom="Hazrat Nizamuddin" distance="3.65913611592278" />
+		<voisin nom="Mayur Vihar Pocket I" distance="0.9298888015877291" />
 	</gare>
 	<gare nom="Mayur Vihar Pocket I" coord="3052, 1491">
 		<voisin nom="Mayur Vihar Phase-1" distance="0.9298888015877291" />
 	</gare>
 	<gare nom="Naraina Vihar" coord="1540, 1450">
-		<voisin nom="Maya Puri" distance="1.5951986404317404" />
 		<voisin nom="Delhi Cantt" distance="1.690127771884586" />
+		<voisin nom="Maya Puri" distance="1.5951986404317404" />
 	</gare>
 	<gare nom="Netaji Subhash Place" coord="1497, 603">
-		<voisin nom="Shalimar Bagh" distance="1.2996040747652786" />
-		<voisin nom="Shakurpur" distance="1.1848188983541013" />
+		<voisin nom="Shakurpur" distance="1.184818890730223" />
+		<voisin nom="Shalimar Bagh" distance="1.299604071290022" />
 	</gare>
 	<gare nom="Punjabi Bagh West" coord="1452, 931">
-		<voisin nom="Shakurpur" distance="1.8207384901287582" />
 		<voisin nom="ESI Hospital" distance="1.991291332917845" />
+		<voisin nom="Shakurpur" distance="1.8207384876481945" />
 	</gare>
 	<gare nom="Rajouri Garden" coord="1334, 1146">
-		<voisin nom="Maya Puri" distance="1.4886776224083935" />
 		<voisin nom="ESI Hospital" distance="1.0624986475579141" />
+		<voisin nom="Maya Puri" distance="1.4886776224083935" />
 	</gare>
 	<gare nom="Sarojini Nagar" coord="2041, 1803">
-		<voisin nom="INA" distance="1.1696861416824718" />
 		<voisin nom="Bhikaji Cama Place" distance="1.235172420658387" />
+		<voisin nom="INA" distance="1.1696861416824718" />
 	</gare>
 	<gare nom="Shahdara" coord="2910, 827">
 		<voisin nom="East Azad Nagar" distance="1.111856506596118" />
 		<voisin nom="Jaffrabad" distance="1.8152168767360506" />
 	</gare>
 	<gare nom="Shakurpur" coord="1460, 724">
-		<voisin nom="Punjabi Bagh West" distance="1.8207384901287582" />
-		<voisin nom="Netaji Subhash Place" distance="1.1848188983541013" />
+		<voisin nom="Netaji Subhash Place" distance="1.184818890730223" />
+		<voisin nom="Punjabi Bagh West" distance="1.8207384876481945" />
 	</gare>
 	<gare nom="Shalimar Bagh" coord="1778, 514">
-		<voisin nom="Netaji Subhash Place" distance="1.2996040747652786" />
 		<voisin nom="Azadpur" distance="26.87298647742861" />
+		<voisin nom="Netaji Subhash Place" distance="1.299604071290022" />
 	</gare>
 	<gare nom="Shiv Vihar" coord="3010, 619">
 		<voisin nom="Johri Enclave" distance="2893.3629950774257" />
 	</gare>
 	<gare nom="Sir Vishweshwaraiah Moti Bagh" coord="1843, 1757">
+		<voisin nom="Bhikaji Cama Place" distance="1.465499075473368" />
 		<voisin nom="Durgabai Deshmukh South Campus" distance="1.3448248609041957" />
-		<voisin nom="Bhikaji Cama Place" distance="1.4654990785552244" />
 	</gare>
 	<gare nom="South Extension" coord="2277, 1804">
 		<voisin nom="INA" distance="1.1816730973561338" />
@@ -141,11 +141,11 @@
 		<voisin nom="Vinod Nagar East" distance="0.7760223219786011" />
 	</gare>
 	<gare nom="Vinobapuri" coord="2437, 1721">
-		<voisin nom="Ashram" distance="1.2100615246348034" />
+		<voisin nom="Ashram" distance="1.210061517169964" />
 		<voisin nom="Lajpat Nagar" distance="1.2799810642773817" />
 	</gare>
 	<gare nom="Vinod Nagar East" coord="3091, 1369">
+		<voisin nom="Mandawali - West Vinod Nagar" distance="0.5462155279668505" />
 		<voisin nom="Trilokpuri Sanjay Lake" distance="0.7760223219786011" />
-		<voisin nom="Mandawali - West Vinod Nagar" distance="0.5462155196982144" />
 	</gare>
 </ligne>

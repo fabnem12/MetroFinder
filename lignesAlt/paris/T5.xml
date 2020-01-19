@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="MARCHE DE SAINT-DENIS,GARGES-SARCELLES" couleur="640082">
+<ligne terminus="GARGES-SARCELLES,MARCHE DE SAINT-DENIS" couleur="640082">
 	<gare nom="BAUDELAIRE" coord="1549, 228">
 		<voisin nom="MARCHE DE SAINT-DENIS" distance="0.3560802011863363" />
 		<voisin nom="ROGER SEMAT" distance="0.3011612626986805" />
@@ -8,8 +8,8 @@
 		<voisin nom="GUYNEMER" distance="4.903040200014648" />
 	</gare>
 	<gare nom="GUYNEMER" coord="1594, 183">
-		<voisin nom="ROGER SEMAT" distance="0.38035439369879764" />
 		<voisin nom="GARGES-SARCELLES" distance="4.903040200014648" />
+		<voisin nom="ROGER SEMAT" distance="0.38035439369879764" />
 	</gare>
 	<gare nom="MARCHE DE SAINT-DENIS" coord="1533, 276">
 		<voisin nom="BAUDELAIRE" distance="0.3560802011863363" />

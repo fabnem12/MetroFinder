@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="CHARLES DE GAULLE ETOILE,NATION" couleur="6eca97">
+<ligne terminus="NATION,CHARLES DE GAULLE ETOILE" couleur="6eca97">
 	<gare nom="BEL-AIR" coord="2.40091853812, 48.8413382509">
-		<voisin nom="DAUMESNIL" distance="0.40593151075828326" />
+		<voisin nom="DAUMESNIL" distance="0.40593149963212694" />
 		<voisin nom="PICPUS" distance="0.41536683977523675" />
 	</gare>
 	<gare nom="BERCY" coord="2.37991127145, 48.8403887481">
-		<voisin nom="DUGOMMIER" distance="0.7269757431787977" />
-		<voisin nom="QUAI DE LA GARE" distance="0.6387912673285173" />
+		<voisin nom="DUGOMMIER" distance="0.7269757307534658" />
+		<voisin nom="QUAI DE LA GARE" distance="0.6387912531878812" />
 	</gare>
 	<gare nom="BIR-HAKEIM (GRENELLE)" coord="2.28933453277, 48.8539426071">
-		<voisin nom="PASSY" distance="0.4678452494440544" />
 		<voisin nom="DUPLEIX" distance="0.5006904766849901" />
+		<voisin nom="PASSY" distance="0.4678452494440544" />
 	</gare>
 	<gare nom="BOISSIERE" coord="2.29005883493, 48.8669831104">
 		<voisin nom="KLEBER" distance="0.578152716296244" />
 		<voisin nom="TROCADERO" distance="0.4169689709408012" />
 	</gare>
 	<gare nom="CAMBRONNE" coord="2.30296829919, 48.8475070811">
+		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.3987327312096522" />
 		<voisin nom="SEVRES-LECOURBE" distance="0.5243770263632868" />
-		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.39873274253668145" />
 	</gare>
 	<gare nom="CHARLES DE GAULLE ETOILE" coord="2.29449059283, 48.8742384767">
 		<voisin nom="KLEBER" distance="0.29673174383969086" />
 	</gare>
 	<gare nom="CHEVALERET" coord="2.36812632906, 48.8349477223">
-		<voisin nom="QUAI DE LA GARE" distance="0.4160293072974826" />
 		<voisin nom="NATIONALE" distance="0.4315630344612623" />
+		<voisin nom="QUAI DE LA GARE" distance="0.4160293072974826" />
 	</gare>
 	<gare nom="CORVISART" coord="2.35041487201, 48.8297905137">
 		<voisin nom="GLACIERE" distance="0.527374720940009" />
 		<voisin nom="PLACE D'ITALIE" distance="0.4245847295312416" />
 	</gare>
 	<gare nom="DAUMESNIL" coord="2.39618288645, 48.8394454284">
-		<voisin nom="DUGOMMIER" distance="0.4829475648600778" />
-		<voisin nom="BEL-AIR" distance="0.40593151075828326" />
+		<voisin nom="BEL-AIR" distance="0.40593149963212694" />
+		<voisin nom="DUGOMMIER" distance="0.48294755550821894" />
 	</gare>
 	<gare nom="DENFERT-ROCHEREAU" coord="2.33285230996, 48.8342929805">
 		<voisin nom="RASPAIL" distance="0.5422550874881389" />
-		<voisin nom="SAINT-JACQUES" distance="0.35001083953054674" />
+		<voisin nom="SAINT-JACQUES" distance="0.3500108524343108" />
 	</gare>
 	<gare nom="DUGOMMIER" coord="2.38962001134, 48.8390411437">
-		<voisin nom="DAUMESNIL" distance="0.4829475648600778" />
-		<voisin nom="BERCY" distance="0.7269757431787977" />
+		<voisin nom="BERCY" distance="0.7269757307534658" />
+		<voisin nom="DAUMESNIL" distance="0.48294755550821894" />
 	</gare>
 	<gare nom="DUPLEIX" coord="2.29361243991, 48.850434549">
 		<voisin nom="BIR-HAKEIM (GRENELLE)" distance="0.5006904766849901" />
 		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.36405615948693215" />
 	</gare>
 	<gare nom="EDGAR QUINET" coord="2.32638461079, 48.8406632293">
-		<voisin nom="RASPAIL" distance="0.37183535755827407" />
 		<voisin nom="MONTPARNASSE" distance="0.43439036376507484" />
+		<voisin nom="RASPAIL" distance="0.37183535755827407" />
 	</gare>
 	<gare nom="GLACIERE" coord="2.34351165775, 48.831129548">
 		<voisin nom="CORVISART" distance="0.527374720940009" />
 		<voisin nom="SAINT-JACQUES" distance="0.5071554295568281" />
 	</gare>
 	<gare nom="KLEBER" coord="2.29352429034, 48.8716497691">
-		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.29673174383969086" />
 		<voisin nom="BOISSIERE" distance="0.578152716296244" />
+		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.29673174383969086" />
 	</gare>
 	<gare nom="LA MOTTE-PICQUET-GRENELLE" coord="2.29830140173, 48.8493505536">
+		<voisin nom="CAMBRONNE" distance="0.3987327312096522" />
 		<voisin nom="DUPLEIX" distance="0.36405615948693215" />
-		<voisin nom="CAMBRONNE" distance="0.39873274253668145" />
 	</gare>
 	<gare nom="MONTPARNASSE" coord="2.32050922753, 48.8411869211">
-		<voisin nom="PASTEUR" distance="0.5877564137738835" />
 		<voisin nom="EDGAR QUINET" distance="0.43439036376507484" />
+		<voisin nom="PASTEUR" distance="0.5877564137738835" />
 	</gare>
 	<gare nom="NATION" coord="2.39582358883, 48.8482371104">
 		<voisin nom="PICPUS" distance="0.5341021298701105" />
@@ -87,11 +87,11 @@
 		<voisin nom="NATION" distance="0.5341021298701105" />
 	</gare>
 	<gare nom="PLACE D'ITALIE" coord="2.35564364302, 48.831433631">
-		<voisin nom="NATIONALE" distance="0.5645775143701564" />
 		<voisin nom="CORVISART" distance="0.4245847295312416" />
+		<voisin nom="NATIONALE" distance="0.5645775143701564" />
 	</gare>
 	<gare nom="QUAI DE LA GARE" coord="2.37282572183, 48.8370451192">
-		<voisin nom="BERCY" distance="0.6387912673285173" />
+		<voisin nom="BERCY" distance="0.6387912531878812" />
 		<voisin nom="CHEVALERET" distance="0.4160293072974826" />
 	</gare>
 	<gare nom="RASPAIL" coord="2.33075419209, 48.8389642807">
@@ -99,15 +99,15 @@
 		<voisin nom="EDGAR QUINET" distance="0.37183535755827407" />
 	</gare>
 	<gare nom="SAINT-JACQUES" coord="2.33713519061, 48.8329008165">
-		<voisin nom="DENFERT-ROCHEREAU" distance="0.35001083953054674" />
+		<voisin nom="DENFERT-ROCHEREAU" distance="0.3500108524343108" />
 		<voisin nom="GLACIERE" distance="0.5071554295568281" />
 	</gare>
 	<gare nom="SEVRES-LECOURBE" coord="2.3095314901, 48.8456269667">
-		<voisin nom="PASTEUR" distance="0.40698748926274086" />
 		<voisin nom="CAMBRONNE" distance="0.5243770263632868" />
+		<voisin nom="PASTEUR" distance="0.40698748926274086" />
 	</gare>
 	<gare nom="TROCADERO" coord="2.28758016253, 48.8636109376">
-		<voisin nom="PASSY" distance="0.698087591389733" />
 		<voisin nom="BOISSIERE" distance="0.4169689709408012" />
+		<voisin nom="PASSY" distance="0.698087591389733" />
 	</gare>
 </ligne>

@@ -18,8 +18,8 @@
 		<voisin nom="ROSA PARKS" distance="2.9252607011409038" />
 	</gare>
 	<gare nom="ROSA PARKS" coord="1959, 654">
-		<voisin nom="PANTIN" distance="2.9252607011409038" />
 		<voisin nom="MAGENTA" distance="2.443302127303336" />
+		<voisin nom="PANTIN" distance="2.9252607011409038" />
 	</gare>
 	<gare nom="TOURNAN" coord="2666, 842">
 		<voisin nom="NOISY-LE-SEC" distance="37.73822461155075" />

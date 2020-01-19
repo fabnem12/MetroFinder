@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="CRETEIL-POINTE DU LAC,BALARD" couleur="e19bdf">
+<ligne terminus="BALARD,CRETEIL-POINTE DU LAC" couleur="e19bdf">
 	<gare nom="BALARD" coord="2.27811917696, 48.8361229793">
 		<voisin nom="LOURMEL" distance="0.4609331093936942" />
 	</gare>
@@ -12,28 +12,28 @@
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.29480554082271626" />
 	</gare>
 	<gare nom="BOUCICAUT" coord="2.2879457665, 48.8410940563">
-		<voisin nom="LOURMEL" distance="0.4517750708186265" />
 		<voisin nom="FELIX FAURE" distance="0.343952873114691" />
+		<voisin nom="LOURMEL" distance="0.4517750708186265" />
 	</gare>
 	<gare nom="CHARENTON-ECOLES" coord="2.41373751752, 48.8215957673">
-		<voisin nom="LIBERTE" distance="0.71362379161441" />
 		<voisin nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" distance="0.9862690075820634" />
+		<voisin nom="LIBERTE" distance="0.71362379161441" />
 	</gare>
 	<gare nom="CHEMIN VERT" coord="2.3681082907, 48.8574200375">
 		<voisin nom="BASTILLE" distance="0.45491653585793035" />
 		<voisin nom="SAINT-SEBASTIEN FROISSART" distance="0.42246169500416303" />
 	</gare>
 	<gare nom="COMMERCE" coord="2.29395196364, 48.8447947646">
-		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.5989322539688385" />
 		<voisin nom="FELIX FAURE" distance="0.2725826927723531" />
+		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.5989322539688385" />
 	</gare>
 	<gare nom="CONCORDE" coord="2.32317568086, 48.8661671149">
 		<voisin nom="INVALIDES" distance="0.7275434089079638" />
 		<voisin nom="MADELEINE" distance="0.5352894092295315" />
 	</gare>
 	<gare nom="CRETEIL-L'ECHAT (HOPITAL MONDOR)" coord="2.44943317569, 48.7967407666">
-		<voisin nom="MAISONS-ALFORT-LES JUILLIOTTES" distance="0.681669943519782" />
 		<voisin nom="CRETEIL-UNIVERSITE" distance="0.7565003989352892" />
+		<voisin nom="MAISONS-ALFORT-LES JUILLIOTTES" distance="0.681669943519782" />
 	</gare>
 	<gare nom="CRETEIL-POINTE DU LAC" coord="2.46456499321, 48.7687151253">
 		<voisin nom="CRETEIL-PREFECTURE (HOTEL DE VILLE)" distance="1.3027183850430062" />
@@ -47,104 +47,104 @@
 		<voisin nom="CRETEIL-PREFECTURE (HOTEL DE VILLE)" distance="1.298056462615232" />
 	</gare>
 	<gare nom="DAUMESNIL" coord="2.39618288645, 48.8394454284">
-		<voisin nom="MONTGALLET" distance="0.7109845740517141" />
-		<voisin nom="MICHEL BIZOT" distance="0.5198525482916931" />
+		<voisin nom="MICHEL BIZOT" distance="0.5198525396037345" />
+		<voisin nom="MONTGALLET" distance="0.7109845676993155" />
 	</gare>
 	<gare nom="ECOLE MILITAIRE" coord="2.3060974037, 48.8546821569">
-		<voisin nom="LA TOUR MAUBOURG" distance="0.47104784487824874" />
 		<voisin nom="LA MOTTE-PICQUET-GRENELLE" distance="0.823621420631189" />
+		<voisin nom="LA TOUR MAUBOURG" distance="0.47104784487824874" />
 	</gare>
 	<gare nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" coord="2.42237614285, 48.814803007">
 		<voisin nom="CHARENTON-ECOLES" distance="0.9862690075820634" />
 		<voisin nom="MAISONS-ALFORT-STADE" distance="1.0899527857276978" />
 	</gare>
 	<gare nom="FAIDHERBE-CHALIGNY" coord="2.38409221007, 48.8501778619">
-		<voisin nom="REUILLY-DIDEROT" distance="0.40171497274268586" />
 		<voisin nom="LEDRU-ROLLIN" distance="0.596605439416892" />
+		<voisin nom="REUILLY-DIDEROT" distance="0.40171497274268586" />
 	</gare>
 	<gare nom="FELIX FAURE" coord="2.29191241332, 48.8427467798">
 		<voisin nom="BOUCICAUT" distance="0.343952873114691" />
 		<voisin nom="COMMERCE" distance="0.2725826927723531" />
 	</gare>
 	<gare nom="FILLES DU CALVAIRE" coord="2.36666109472, 48.863257945">
-		<voisin nom="SAINT-SEBASTIEN FROISSART" distance="0.23601480136471573" />
 		<voisin nom="REPUBLIQUE" distance="0.4552419023717389" />
+		<voisin nom="SAINT-SEBASTIEN FROISSART" distance="0.23601480136471573" />
 	</gare>
 	<gare nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" coord="2.34315477308, 48.8714977394">
-		<voisin nom="RICHELIEU-DROUOT" distance="0.3036838832555239" />
 		<voisin nom="BONNE NOUVELLE" distance="0.5577955512307312" />
+		<voisin nom="RICHELIEU-DROUOT" distance="0.30368386838329087" />
 	</gare>
 	<gare nom="INVALIDES" coord="2.31513843219, 48.8623253291">
-		<voisin nom="LA TOUR MAUBOURG" distance="0.6118390271764578" />
 		<voisin nom="CONCORDE" distance="0.7275434089079638" />
+		<voisin nom="LA TOUR MAUBOURG" distance="0.6118390271764578" />
 	</gare>
 	<gare nom="LA MOTTE-PICQUET-GRENELLE" coord="2.29830140173, 48.8493505536">
 		<voisin nom="COMMERCE" distance="0.5989322539688385" />
 		<voisin nom="ECOLE MILITAIRE" distance="0.823621420631189" />
 	</gare>
 	<gare nom="LA TOUR MAUBOURG" coord="2.31056596095, 48.8577254129">
-		<voisin nom="INVALIDES" distance="0.6118390271764578" />
 		<voisin nom="ECOLE MILITAIRE" distance="0.47104784487824874" />
+		<voisin nom="INVALIDES" distance="0.6118390271764578" />
 	</gare>
 	<gare nom="LEDRU-ROLLIN" coord="2.37611877334, 48.8512711264">
 		<voisin nom="BASTILLE" distance="0.5406883830114564" />
 		<voisin nom="FAIDHERBE-CHALIGNY" distance="0.596605439416892" />
 	</gare>
 	<gare nom="LIBERTE" coord="2.40674222593, 48.8260549965">
-		<voisin nom="PORTE DE CHARENTON" distance="0.9028700259183817" />
 		<voisin nom="CHARENTON-ECOLES" distance="0.71362379161441" />
+		<voisin nom="PORTE DE CHARENTON" distance="0.9028700309207157" />
 	</gare>
 	<gare nom="LOURMEL" coord="2.28270002724, 48.8389609394">
-		<voisin nom="BOUCICAUT" distance="0.4517750708186265" />
 		<voisin nom="BALARD" distance="0.4609331093936942" />
+		<voisin nom="BOUCICAUT" distance="0.4517750708186265" />
 	</gare>
 	<gare nom="MADELEINE" coord="2.32575263529, 48.8706670209">
 		<voisin nom="CONCORDE" distance="0.5352894092295315" />
-		<voisin nom="OPERA" distance="0.4876872276026331" />
+		<voisin nom="OPERA" distance="0.4876872368636043" />
 	</gare>
 	<gare nom="MAISONS-ALFORT-LES JUILLIOTTES" coord="2.44692748424, 48.8026376907">
 		<voisin nom="CRETEIL-L'ECHAT (HOPITAL MONDOR)" distance="0.681669943519782" />
 		<voisin nom="MAISONS-ALFORT-STADE" distance="1.1633954961119561" />
 	</gare>
 	<gare nom="MAISONS-ALFORT-STADE" coord="2.43450989593, 48.8091443609">
-		<voisin nom="MAISONS-ALFORT-LES JUILLIOTTES" distance="1.1633954961119561" />
 		<voisin nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" distance="1.0899527857276978" />
+		<voisin nom="MAISONS-ALFORT-LES JUILLIOTTES" distance="1.1633954961119561" />
 	</gare>
 	<gare nom="MICHEL BIZOT" coord="2.40233316592, 48.837117007">
-		<voisin nom="DAUMESNIL" distance="0.5198525482916931" />
+		<voisin nom="DAUMESNIL" distance="0.5198525396037345" />
 		<voisin nom="PORTE DOREE" distance="0.3425303615352362" />
 	</gare>
 	<gare nom="MONTGALLET" coord="2.39007511282, 48.8444086721">
+		<voisin nom="DAUMESNIL" distance="0.7109845676993155" />
 		<voisin nom="REUILLY-DIDEROT" distance="0.37630357430255423" />
-		<voisin nom="DAUMESNIL" distance="0.7109845740517141" />
 	</gare>
 	<gare nom="OPERA" coord="2.33240740643, 48.8704867033">
-		<voisin nom="RICHELIEU-DROUOT" distance="0.5060811827148691" />
-		<voisin nom="MADELEINE" distance="0.4876872276026331" />
+		<voisin nom="MADELEINE" distance="0.4876872368636043" />
+		<voisin nom="RICHELIEU-DROUOT" distance="0.5060811916392423" />
 	</gare>
 	<gare nom="PORTE DE CHARENTON" coord="2.39835010387, 48.8319930862">
-		<voisin nom="LIBERTE" distance="0.9028700259183817" />
+		<voisin nom="LIBERTE" distance="0.9028700309207157" />
 		<voisin nom="PORTE DOREE" distance="0.6018297238418082" />
 	</gare>
 	<gare nom="PORTE DOREE" coord="2.40538321063, 48.8347851581">
-		<voisin nom="PORTE DE CHARENTON" distance="0.6018297238418082" />
 		<voisin nom="MICHEL BIZOT" distance="0.3425303615352362" />
+		<voisin nom="PORTE DE CHARENTON" distance="0.6018297238418082" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="2.36424799375, 48.8670267876">
 		<voisin nom="FILLES DU CALVAIRE" distance="0.4552419023717389" />
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.7720878397805687" />
 	</gare>
 	<gare nom="REUILLY-DIDEROT" coord="2.38702524211, 48.8471287213">
-		<voisin nom="MONTGALLET" distance="0.37630357430255423" />
 		<voisin nom="FAIDHERBE-CHALIGNY" distance="0.40171497274268586" />
+		<voisin nom="MONTGALLET" distance="0.37630357430255423" />
 	</gare>
 	<gare nom="RICHELIEU-DROUOT" coord="2.33903054672, 48.8717866021">
-		<voisin nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance="0.3036838832555239" />
-		<voisin nom="OPERA" distance="0.5060811827148691" />
+		<voisin nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" distance="0.30368386838329087" />
+		<voisin nom="OPERA" distance="0.5060811916392423" />
 	</gare>
 	<gare nom="SAINT-SEBASTIEN FROISSART" coord="2.36721086641, 48.8611688655">
-		<voisin nom="FILLES DU CALVAIRE" distance="0.23601480136471573" />
 		<voisin nom="CHEMIN VERT" distance="0.42246169500416303" />
+		<voisin nom="FILLES DU CALVAIRE" distance="0.23601480136471573" />
 	</gare>
 	<gare nom="STRASBOURG-SAINT-DENIS" coord="2.35439176839, 48.8694907745">
 		<voisin nom="BONNE NOUVELLE" distance="0.29480554082271626" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="MANTES-LA-JOLIE,RAMBOUILLET,MONTPARNASSE,DREUX" couleur="00b092">
+<ligne terminus="DREUX,MONTPARNASSE,MANTES-LA-JOLIE,RAMBOUILLET" couleur="00b092">
 	<gare nom="BELLEVUE" coord="2.22980800373, 48.8189478009">
 		<voisin nom="MEUDON" distance="0.9316447220190255" />
 		<voisin nom="SEVRES RIVE GAUCHE" distance="1.1243819572660483" />
@@ -9,16 +9,16 @@
 		<voisin nom="VILLIERS-NEAUPHLE PONTCHARTRAIN" distance="4.974619986425492" />
 	</gare>
 	<gare nom="CHAVILLE RIVE GAUCHE" coord="2.18863027784, 48.8046833562">
-		<voisin nom="VIROFLAY RIVE GAUCHE" distance="1.3389276613110215" />
-		<voisin nom="SEVRES RIVE GAUCHE" distance="2.6616928008398526" />
+		<voisin nom="SEVRES RIVE GAUCHE" distance="2.661692802536689" />
+		<voisin nom="VIROFLAY RIVE GAUCHE" distance="1.3389276579378313" />
 	</gare>
 	<gare nom="CLAMART" coord="2.27448967218, 48.8142394455">
-		<voisin nom="VANVES-MALAKOFF" distance="1.3683306604805225" />
 		<voisin nom="MEUDON" distance="2.4618791983362063" />
+		<voisin nom="VANVES-MALAKOFF" distance="1.3683306604805225" />
 	</gare>
 	<gare nom="COIGNIERES" coord="1.92103660004, 48.7434839859">
-		<voisin nom="LES-ESSARTS-LE-ROI" distance="3.3099799297010497" />
 		<voisin nom="LA VERRIERE" distance="2.1346270565942387" />
+		<voisin nom="LES-ESSARTS-LE-ROI" distance="3.3099799297010497" />
 	</gare>
 	<gare nom="DREUX" coord="1.36997423412, 48.73095467">
 		<voisin nom="MARCHEZAIS BROUE" distance="11.318786743023928" />
@@ -28,47 +28,47 @@
 		<voisin nom="NEZEL-AULNAY" distance="3.5764572598089353" />
 	</gare>
 	<gare nom="FONTENAY-LE-FLEURY" coord="2.0405192047, 48.8072466121">
-		<voisin nom="VILLEPREUX-LES-CLAYES" distance="3.941841987966967" />
 		<voisin nom="SAINT-CYR" distance="2.4858887644517145" />
+		<voisin nom="VILLEPREUX-LES-CLAYES" distance="3.941841987966967" />
 	</gare>
 	<gare nom="GARANCIERES-LA QUEUE" coord="1.76505675656, 48.8104024644">
-		<voisin nom="ORGERUS-BEHOUST" distance="4.877210694471891" />
 		<voisin nom="MONTFORT-L'AMAURY-MERE" distance="3.8678836142431776" />
+		<voisin nom="ORGERUS-BEHOUST" distance="4.877210694471891" />
 	</gare>
 	<gare nom="HOUDAN" coord="1.60270169299, 48.7960253678">
+		<voisin nom="MARCHEZAIS BROUE" distance="7.23974003923931" />
 		<voisin nom="TACOIGNIERES-RICHEBOURG" distance="6.120029739690773" />
-		<voisin nom="MARCHEZAIS BROUE" distance="7.239740040486995" />
 	</gare>
 	<gare nom="LA VERRIERE" coord="1.94383520242, 48.7553892687">
-		<voisin nom="TRAPPES" distance="5.085072730026384" />
 		<voisin nom="COIGNIERES" distance="2.1346270565942387" />
+		<voisin nom="TRAPPES" distance="5.085072730026384" />
 	</gare>
 	<gare nom="LE PERRAY" coord="1.85659206527, 48.6930965921">
 		<voisin nom="LES-ESSARTS-LE-ROI" distance="4.0394023642100105" />
 		<voisin nom="RAMBOUILLET" distance="5.711906855400908" />
 	</gare>
 	<gare nom="LES-ESSARTS-LE-ROI" coord="1.8900045637, 48.7219159611">
-		<voisin nom="LE PERRAY" distance="4.0394023642100105" />
 		<voisin nom="COIGNIERES" distance="3.3099799297010497" />
+		<voisin nom="LE PERRAY" distance="4.0394023642100105" />
 	</gare>
 	<gare nom="MANTES-LA-JOLIE" coord="1.70301613419, 48.9895025071">
 		<voisin nom="EPONE-MEZIERES" distance="8.279750057787401" />
 	</gare>
 	<gare nom="MARCHEZAIS BROUE" coord="1.51333305235, 48.7684217766">
-		<voisin nom="HOUDAN" distance="7.239740040486995" />
 		<voisin nom="DREUX" distance="11.318786743023928" />
+		<voisin nom="HOUDAN" distance="7.23974003923931" />
 	</gare>
 	<gare nom="MAREIL-SUR-MAULDRE" coord="1.87173847573, 48.8932385948">
 		<voisin nom="BEYNES" distance="3.7110046945724924" />
 		<voisin nom="MAULE" distance="2.08001248550255" />
 	</gare>
 	<gare nom="MAULE" coord="1.85722753849, 48.909305376">
-		<voisin nom="NEZEL-AULNAY" distance="3.49502650895741" />
 		<voisin nom="MAREIL-SUR-MAULDRE" distance="2.08001248550255" />
+		<voisin nom="NEZEL-AULNAY" distance="3.49502650895741" />
 	</gare>
 	<gare nom="MEUDON" coord="2.24091929487, 48.8148843142">
-		<voisin nom="CLAMART" distance="2.4618791983362063" />
 		<voisin nom="BELLEVUE" distance="0.9316447220190255" />
+		<voisin nom="CLAMART" distance="2.4618791983362063" />
 	</gare>
 	<gare nom="MONTFORT-L'AMAURY-MERE" coord="1.81646679422, 48.80260198">
 		<voisin nom="GARANCIERES-LA QUEUE" distance="3.8678836142431776" />
@@ -86,44 +86,44 @@
 		<voisin nom="TACOIGNIERES-RICHEBOURG" distance="2.5269231484261074" />
 	</gare>
 	<gare nom="PLAISIR-GRIGNON" coord="1.94440175807, 48.8319161843">
-		<voisin nom="VILLIERS-NEAUPHLE PONTCHARTRAIN" distance="5.239137199256887" />
 		<voisin nom="PLAISIR-LES-CLAYES" distance="1.1499118685453686" />
+		<voisin nom="VILLIERS-NEAUPHLE PONTCHARTRAIN" distance="5.239137199256887" />
 	</gare>
 	<gare nom="PLAISIR-LES-CLAYES" coord="1.96002656025, 48.8309595286">
-		<voisin nom="VILLEPREUX-LES-CLAYES" distance="2.540256627019144" />
 		<voisin nom="PLAISIR-GRIGNON" distance="1.1499118685453686" />
+		<voisin nom="VILLEPREUX-LES-CLAYES" distance="2.540256627019144" />
 	</gare>
 	<gare nom="RAMBOUILLET" coord="1.83293547306, 48.6442219535">
 		<voisin nom="LE PERRAY" distance="5.711906855400908" />
 	</gare>
 	<gare nom="SAINT-CYR" coord="2.07184700593, 48.7987076353">
 		<voisin nom="FONTENAY-LE-FLEURY" distance="2.4858887644517145" />
-		<voisin nom="VERSAILLES-CHANTIERS" distance="4.723435206213988" />
 		<voisin nom="SAINT-QUENTIN-EN-YVELINES" distance="2.360810827913316" />
+		<voisin nom="VERSAILLES-CHANTIERS" distance="4.723435206213988" />
 	</gare>
 	<gare nom="SAINT-QUENTIN-EN-YVELINES" coord="2.04462198717, 48.7873902383">
-		<voisin nom="TRAPPES" distance="3.123392893443582" />
 		<voisin nom="SAINT-CYR" distance="2.360810827913316" />
+		<voisin nom="TRAPPES" distance="3.123392893443582" />
 	</gare>
 	<gare nom="SEVRES RIVE GAUCHE" coord="2.21485979544, 48.8212170379">
-		<voisin nom="CHAVILLE RIVE GAUCHE" distance="2.6616928008398526" />
 		<voisin nom="BELLEVUE" distance="1.1243819572660483" />
+		<voisin nom="CHAVILLE RIVE GAUCHE" distance="2.661692802536689" />
 	</gare>
 	<gare nom="TACOIGNIERES-RICHEBOURG" coord="1.66901016137, 48.8294290153">
-		<voisin nom="ORGERUS-BEHOUST" distance="2.5269231484261074" />
 		<voisin nom="HOUDAN" distance="6.120029739690773" />
+		<voisin nom="ORGERUS-BEHOUST" distance="2.5269231484261074" />
 	</gare>
 	<gare nom="TRAPPES" coord="2.00656686906, 48.7748028098">
 		<voisin nom="LA VERRIERE" distance="5.085072730026384" />
 		<voisin nom="SAINT-QUENTIN-EN-YVELINES" distance="3.123392893443582" />
 	</gare>
 	<gare nom="VANVES-MALAKOFF" coord="2.29206181457, 48.8183876387">
-		<voisin nom="MONTPARNASSE" distance="3.2844028906231513" />
 		<voisin nom="CLAMART" distance="1.3683306604805225" />
+		<voisin nom="MONTPARNASSE" distance="3.2844028906231513" />
 	</gare>
 	<gare nom="VERSAILLES-CHANTIERS" coord="2.1360504883, 48.7952802463">
-		<voisin nom="VIROFLAY RIVE GAUCHE" distance="2.661131888063828" />
 		<voisin nom="SAINT-CYR" distance="4.723435206213988" />
+		<voisin nom="VIROFLAY RIVE GAUCHE" distance="2.661131888063828" />
 	</gare>
 	<gare nom="VILLEPREUX-LES-CLAYES" coord="1.99286453652, 48.8236532688">
 		<voisin nom="FONTENAY-LE-FLEURY" distance="3.941841987966967" />
@@ -131,11 +131,11 @@
 	</gare>
 	<gare nom="VILLIERS-NEAUPHLE PONTCHARTRAIN" coord="1.87750420433, 48.8153286196">
 		<voisin nom="BEYNES" distance="4.974619986425492" />
-		<voisin nom="PLAISIR-GRIGNON" distance="5.239137199256887" />
 		<voisin nom="MONTFORT-L'AMAURY-MERE" distance="4.693680709193147" />
+		<voisin nom="PLAISIR-GRIGNON" distance="5.239137199256887" />
 	</gare>
 	<gare nom="VIROFLAY RIVE GAUCHE" coord="2.17138981276, 48.8007184639">
-		<voisin nom="CHAVILLE RIVE GAUCHE" distance="1.3389276613110215" />
+		<voisin nom="CHAVILLE RIVE GAUCHE" distance="1.3389276579378313" />
 		<voisin nom="VERSAILLES-CHANTIERS" distance="2.661131888063828" />
 	</gare>
 </ligne>

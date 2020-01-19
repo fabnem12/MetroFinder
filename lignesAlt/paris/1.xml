@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="CHATEAU DE VINCENNES,LA DEFENSE-GRANDE ARCHE" couleur="ffcd00">
+<ligne terminus="LA DEFENSE-GRANDE ARCHE,CHATEAU DE VINCENNES" couleur="ffcd00">
 	<gare nom="ARGENTINE" coord="625, 1105">
 		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.5947305349821552" />
 		<voisin nom="PORTE MAILLOT" distance="0.7194927862036059" />
@@ -24,16 +24,16 @@
 		<voisin nom="BERAULT" distance="1.255731068839912" />
 	</gare>
 	<gare nom="CHATELET" coord="1480, 1470">
-		<voisin nom="LOUVRE-RIVOLI" distance="0.7676088196339472" />
 		<voisin nom="HOTEL DE VILLE" distance="0.3970696833423217" />
+		<voisin nom="LOUVRE-RIVOLI" distance="0.7676088196339472" />
 	</gare>
 	<gare nom="CONCORDE" coord="953, 1433">
-		<voisin nom="TUILERIES" distance="0.8002618814397798" />
 		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="1.0454740176930073" />
+		<voisin nom="TUILERIES" distance="0.8002618814397798" />
 	</gare>
 	<gare nom="ESPLANADE DE LA DEFENSE" coord="377, 857">
-		<voisin nom="PONT DE NEUILLY (AVENUE DE MADRID)" distance="1.4670926658994425" />
 		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="1.2777442913601547" />
+		<voisin nom="PONT DE NEUILLY (AVENUE DE MADRID)" distance="1.4670926658994425" />
 	</gare>
 	<gare nom="FRANKLIN-D.ROOSEVELT" coord="848, 1329">
 		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="0.7559740682335936" />
@@ -67,16 +67,16 @@
 		<voisin nom="REUILLY-DIDEROT" distance="0.9871553199519724" />
 	</gare>
 	<gare nom="PALAIS ROYAL-MUSEE DU LOUVRE" coord="1186, 1470">
-		<voisin nom="TUILERIES" distance="0.7698871118377809" />
 		<voisin nom="LOUVRE-RIVOLI" distance="0.5219186181120502" />
+		<voisin nom="TUILERIES" distance="0.7698871118377809" />
 	</gare>
 	<gare nom="PONT DE NEUILLY (AVENUE DE MADRID)" coord="430, 910">
-		<voisin nom="LES SABLONS (JARDIN D'ACCLIMATATION)" distance="1.3036901133525252" />
 		<voisin nom="ESPLANADE DE LA DEFENSE" distance="1.4670926658994425" />
+		<voisin nom="LES SABLONS (JARDIN D'ACCLIMATATION)" distance="1.3036901133525252" />
 	</gare>
 	<gare nom="PORTE DE VINCENNES" coord="2333, 1700">
-		<voisin nom="SAINT-MANDE" distance="1.0996493356364057" />
 		<voisin nom="NATION" distance="1.5426766120484594" />
+		<voisin nom="SAINT-MANDE" distance="1.0996493356364057" />
 	</gare>
 	<gare nom="PORTE MAILLOT" coord="541, 1021">
 		<voisin nom="ARGENTINE" distance="0.7194927862036059" />

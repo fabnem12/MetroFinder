@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Rithala,Dilshad Garden" couleur="ee2e24">
+<ligne terminus="Dilshad Garden,Rithala" couleur="ee2e24">
 	<gare nom="Dilshad Garden" coord="3190, 841">
 		<voisin nom="Jhil Mil" distance="0.883275451739879" />
 	</gare>
 	<gare nom="Inder Lok" coord="1699, 776">
-		<voisin nom="Shastri Nagar" distance="1.2084397989091253" />
 		<voisin nom="Kanhaiya Nagar" distance="1.1324162825716588" />
+		<voisin nom="Shastri Nagar" distance="1.2084397989091253" />
 	</gare>
 	<gare nom="Jhil Mil" coord="3125, 842">
 		<voisin nom="Dilshad Garden" distance="0.883275451739879" />
@@ -16,36 +16,36 @@
 		<voisin nom="Keshav Puram" distance="0.6163415819225342" />
 	</gare>
 	<gare nom="Kashmere Gate" coord="2339, 878">
-		<voisin nom="Tis Hazari" distance="1.5248848412429152" />
 		<voisin nom="Shastri Park" distance="1.5248848412429152" />
+		<voisin nom="Tis Hazari" distance="1.5248848412429152" />
 	</gare>
 	<gare nom="Keshav Puram" coord="1586, 661">
-		<voisin nom="Netaji Subhash Place" distance="1.3474566200697347" />
 		<voisin nom="Kanhaiya Nagar" distance="0.6163415819225342" />
+		<voisin nom="Netaji Subhash Place" distance="1.3474566167178958" />
 	</gare>
 	<gare nom="Kohat Enclave" coord="1548, 623">
-		<voisin nom="Pitam Pura" distance="0.9653523129027899" />
 		<voisin nom="Netaji Subhash Place" distance="1.2042988201680926" />
+		<voisin nom="Pitam Pura" distance="0.9653523129027899" />
 	</gare>
 	<gare nom="Mansarovar Park" coord="3037, 839">
 		<voisin nom="Jhil Mil" distance="1.207229383351065" />
 		<voisin nom="Shahdara" distance="1.003618639609914" />
 	</gare>
 	<gare nom="Netaji Subhash Place" coord="1496, 572">
+		<voisin nom="Keshav Puram" distance="1.3474566167178958" />
 		<voisin nom="Kohat Enclave" distance="1.2042988201680926" />
-		<voisin nom="Keshav Puram" distance="1.3474566200697347" />
 	</gare>
 	<gare nom="Pitam Pura" coord="1466, 544">
-		<voisin nom="Rohini East" distance="0.8210848052003423" />
 		<voisin nom="Kohat Enclave" distance="0.9653523129027899" />
+		<voisin nom="Rohini East" distance="0.8210848052003423" />
 	</gare>
 	<gare nom="Pratap Nagar" coord="2073, 877">
-		<voisin nom="Shastri Nagar" distance="1.709878900225543" />
 		<voisin nom="Pul Bangash" distance="0.8295123116190352" />
+		<voisin nom="Shastri Nagar" distance="1.709878900225543" />
 	</gare>
 	<gare nom="Pul Bangash" coord="2214, 879">
-		<voisin nom="Tis Hazari" distance="2.5327142278576984" />
 		<voisin nom="Pratap Nagar" distance="0.8295123116190352" />
+		<voisin nom="Tis Hazari" distance="2.5327142278576984" />
 	</gare>
 	<gare nom="Rithala" coord="1350, 426">
 		<voisin nom="Rohini West" distance="1.0392370064997096" />
@@ -59,12 +59,12 @@
 		<voisin nom="Rohini East" distance="1.2973244758176476" />
 	</gare>
 	<gare nom="Seelampur" coord="2765, 842">
-		<voisin nom="Welcome" distance="1.0898642184360658" />
 		<voisin nom="Shastri Park" distance="4.100118429987912" />
+		<voisin nom="Welcome" distance="1.0898642184360658" />
 	</gare>
 	<gare nom="Shahdara" coord="2922, 840">
-		<voisin nom="Welcome" distance="1.2294477303325901" />
 		<voisin nom="Mansarovar Park" distance="1.003618639609914" />
+		<voisin nom="Welcome" distance="1.2294477303325901" />
 	</gare>
 	<gare nom="Shastri Nagar" coord="1879, 876">
 		<voisin nom="Inder Lok" distance="1.2084397989091253" />
@@ -79,7 +79,7 @@
 		<voisin nom="Pul Bangash" distance="2.5327142278576984" />
 	</gare>
 	<gare nom="Welcome" coord="2833, 839">
-		<voisin nom="Shahdara" distance="1.2294477303325901" />
 		<voisin nom="Seelampur" distance="1.0898642184360658" />
+		<voisin nom="Shahdara" distance="1.2294477303325901" />
 	</gare>
 </ligne>

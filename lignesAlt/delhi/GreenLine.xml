@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Bahdurgarh City,Inder Lok,Kirti Nagar" couleur="339900">
+<ligne terminus="Kirti Nagar,Bahdurgarh City,Inder Lok" couleur="339900">
 	<gare nom="Ashok Park Main" coord="1616, 882">
-		<voisin nom="Satguru Ram Singh Marg" distance="1.1040236449792682" />
-		<voisin nom="Punjabi Bagh" distance="0.8952169702749595" />
 		<voisin nom="Inder Lok" distance="1.4807363941265195" />
+		<voisin nom="Punjabi Bagh" distance="0.8952169702749595" />
+		<voisin nom="Satguru Ram Singh Marg" distance="1.1040236449792682" />
 	</gare>
 	<gare nom="Bahdurgarh City" coord="110, 880">
 		<voisin nom="Pandit Shree Ram Sharma" distance="1.5472388820874585" />
@@ -24,31 +24,31 @@
 	</gare>
 	<gare nom="Mundka" coord="608, 882">
 		<voisin nom="Mundka Industrial Area (MIA)" distance="1.2817967177662932" />
-		<voisin nom="Rajdhani Park" distance="1.330889552361588" />
+		<voisin nom="Rajdhani Park" distance="1.3308895557551508" />
 	</gare>
 	<gare nom="Mundka Industrial Area (MIA)" coord="551, 879">
 		<voisin nom="Ghevra Metro station" distance="2.0582787436509924" />
 		<voisin nom="Mundka" distance="1.2817967177662932" />
 	</gare>
 	<gare nom="Nangloi" coord="865, 880">
-		<voisin nom="Surajmal Stadium" distance="0.9082637838413042" />
 		<voisin nom="Nangloi Rly Station" distance="0.8395564342097936" />
+		<voisin nom="Surajmal Stadium" distance="0.9082637838413042" />
 	</gare>
 	<gare nom="Nangloi Rly Station" coord="770, 882">
 		<voisin nom="Nangloi" distance="0.8395564342097936" />
-		<voisin nom="Rajdhani Park" distance="1.1953078991692798" />
+		<voisin nom="Rajdhani Park" distance="1.1953079029477687" />
 	</gare>
 	<gare nom="Pandit Shree Ram Sharma" coord="201, 882">
 		<voisin nom="Bahdurgarh City" distance="1.5472388820874585" />
 		<voisin nom="Tikri Border" distance="1.291224604942696" />
 	</gare>
 	<gare nom="Paschim Vihar (East)" coord="1262, 881">
-		<voisin nom="Paschim Vihar (West)" distance="1.0032636932087096" />
 		<voisin nom="Madi Pur" distance="0.7194173481797685" />
+		<voisin nom="Paschim Vihar (West)" distance="1.0032636932087096" />
 	</gare>
 	<gare nom="Paschim Vihar (West)" coord="1194, 880">
-		<voisin nom="Peera Garhi" distance="0.9414698105394244" />
 		<voisin nom="Paschim Vihar (East)" distance="1.0032636932087096" />
+		<voisin nom="Peera Garhi" distance="0.9414698105394244" />
 	</gare>
 	<gare nom="Peera Garhi" coord="1118, 882">
 		<voisin nom="Paschim Vihar (West)" distance="0.9414698105394244" />
@@ -59,31 +59,31 @@
 		<voisin nom="Shivaji Park" distance="1.5423427505835323" />
 	</gare>
 	<gare nom="Rajdhani Park" coord="699, 880">
-		<voisin nom="Nangloi Rly Station" distance="1.1953078991692798" />
-		<voisin nom="Mundka" distance="1.330889552361588" />
+		<voisin nom="Mundka" distance="1.3308895557551508" />
+		<voisin nom="Nangloi Rly Station" distance="1.1953079029477687" />
 	</gare>
 	<gare nom="Satguru Ram Singh Marg" coord="1731, 1040">
 		<voisin nom="Ashok Park Main" distance="1.1040236449792682" />
 		<voisin nom="Kirti Nagar" distance="0.9580344320955195" />
 	</gare>
 	<gare nom="Shivaji Park" coord="1397, 882">
-		<voisin nom="Punjabi Bagh" distance="1.5423427505835323" />
 		<voisin nom="Madi Pur" distance="1.0651717983059856" />
+		<voisin nom="Punjabi Bagh" distance="1.5423427505835323" />
 	</gare>
 	<gare nom="Surajmal Stadium" coord="951, 882">
 		<voisin nom="Nangloi" distance="0.9082637838413042" />
 		<voisin nom="Udyog Nagar" distance="0.6721382611619122" />
 	</gare>
 	<gare nom="Tikri Border" coord="435, 879">
-		<voisin nom="Tikri Kalan" distance="1.2972268616897646" />
 		<voisin nom="Pandit Shree Ram Sharma" distance="1.291224604942696" />
+		<voisin nom="Tikri Kalan" distance="1.2972268651713896" />
 	</gare>
 	<gare nom="Tikri Kalan" coord="368, 882">
 		<voisin nom="Ghevra Metro station" distance="1.8424635605160526" />
-		<voisin nom="Tikri Border" distance="1.2972268616897646" />
+		<voisin nom="Tikri Border" distance="1.2972268651713896" />
 	</gare>
 	<gare nom="Udyog Nagar" coord="1028, 880">
-		<voisin nom="Surajmal Stadium" distance="0.6721382611619122" />
 		<voisin nom="Peera Garhi" distance="1.1589128869867409" />
+		<voisin nom="Surajmal Stadium" distance="0.6721382611619122" />
 	</gare>
 </ligne>

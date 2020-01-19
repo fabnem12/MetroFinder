@@ -24,11 +24,11 @@
 	</gare>
 	<gare nom="SEVRES-VILLE-D'AVRAY" coord="2.20072125659, 48.8272387754">
 		<voisin nom="SAINT-CLOUD" distance="2.4378494917688074" />
-		<voisin nom="VERSAILLES-CHANTIERS" distance="5.927298494575486" />
+		<voisin nom="VERSAILLES-CHANTIERS" distance="5.92729849381351" />
 	</gare>
 	<gare nom="SURESNES-MONT VALERIEN" coord="2.22102955043, 48.8717141912">
-		<voisin nom="SAINT-CLOUD" distance="2.861938444628701" />
 		<voisin nom="PUTEAUX" distance="1.5959119046143366" />
+		<voisin nom="SAINT-CLOUD" distance="2.861938444628701" />
 	</gare>
 	<gare nom="TRAPPES" coord="2.00656686906, 48.7748028098">
 		<voisin nom="LA VERRIERE" distance="5.085072730026384" />
@@ -36,6 +36,6 @@
 	</gare>
 	<gare nom="VERSAILLES-CHANTIERS" coord="2.1360504883, 48.7952802463">
 		<voisin nom="SAINT-CYR" distance="4.723435206213988" />
-		<voisin nom="SEVRES-VILLE-D'AVRAY" distance="5.927298494575486" />
+		<voisin nom="SEVRES-VILLE-D'AVRAY" distance="5.92729849381351" />
 	</gare>
 </ligne>

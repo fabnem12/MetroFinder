@@ -5,8 +5,8 @@
 		<voisin nom="PIGALLE" distance="0.24999548731676027" />
 	</gare>
 	<gare nom="ASSEMBLEE NATIONALE" coord="2.32099819195, 48.8607869635">
-		<voisin nom="SOLFERINO" distance="0.2985489012623379" />
 		<voisin nom="CONCORDE" distance="0.6197807722522045" />
+		<voisin nom="SOLFERINO" distance="0.2985489163903697" />
 	</gare>
 	<gare nom="CONCORDE" coord="2.32317568086, 48.8661671149">
 		<voisin nom="ASSEMBLEE NATIONALE" distance="0.6197807722522045" />
@@ -17,8 +17,8 @@
 		<voisin nom="VAUGIRARD (ADOLPHE CHERIOU)" distance="0.4099785476759324" />
 	</gare>
 	<gare nom="CORENTIN-CELTON" coord="2.27941168205, 48.8270854489">
-		<voisin nom="PORTE DE VERSAILLES" distance="0.8887941369552587" />
 		<voisin nom="MAIRIE D'ISSY" distance="0.5727381358375117" />
+		<voisin nom="PORTE DE VERSAILLES" distance="0.888794142036815" />
 	</gare>
 	<gare nom="FALGUIERE" coord="2.31785278304, 48.8444701413">
 		<voisin nom="MONTPARNASSE" distance="0.3309764482341973" />
@@ -36,27 +36,27 @@
 		<voisin nom="JULES JOFFRIN" distance="0.5301164960067482" />
 	</gare>
 	<gare nom="MADELEINE" coord="2.32575263529, 48.8706670209">
-		<voisin nom="SAINT-LAZARE" distance="0.5779423354429956" />
 		<voisin nom="CONCORDE" distance="0.5352894092295315" />
+		<voisin nom="SAINT-LAZARE" distance="0.5779423354429956" />
 	</gare>
 	<gare nom="MAIRIE D'ISSY" coord="2.27304152514, 48.8241050307">
 		<voisin nom="CORENTIN-CELTON" distance="0.5727381358375117" />
 	</gare>
 	<gare nom="MARCADET-POISSONNIERS" coord="2.34981545185, 48.8914650003">
-		<voisin nom="MARX DORMOY" distance="0.7530530112938569" />
 		<voisin nom="JULES JOFFRIN" distance="0.392827744595546" />
+		<voisin nom="MARX DORMOY" distance="0.7530530112938569" />
 	</gare>
 	<gare nom="MARX DORMOY" coord="2.35999576641, 48.8904854538">
-		<voisin nom="PORTE DE LA CHAPELLE" distance="0.7533480499245956" />
 		<voisin nom="MARCADET-POISSONNIERS" distance="0.7530530112938569" />
+		<voisin nom="PORTE DE LA CHAPELLE" distance="0.7533480559197759" />
 	</gare>
 	<gare nom="MONTPARNASSE" coord="2.32098483563, 48.8423274377">
-		<voisin nom="NOTRE-DAME-DES-CHAMPS" distance="0.6408764501122192" />
 		<voisin nom="FALGUIERE" distance="0.3309764482341973" />
+		<voisin nom="NOTRE-DAME-DES-CHAMPS" distance="0.6408764501122192" />
 	</gare>
 	<gare nom="NOTRE-DAME-DE-LORETTE" coord="2.33788648907, 48.8760262116">
+		<voisin nom="SAINT-GEORGES" distance="0.26791137954976063" />
 		<voisin nom="TRINITE-D'ESTIENNE D'ORVES" distance="0.39255962810098005" />
-		<voisin nom="SAINT-GEORGES" distance="0.2679113964077875" />
 	</gare>
 	<gare nom="NOTRE-DAME-DES-CHAMPS" coord="2.3287780269, 48.8449426325">
 		<voisin nom="MONTPARNASSE" distance="0.6408764501122192" />
@@ -72,22 +72,22 @@
 	</gare>
 	<gare nom="PORTE DE LA CHAPELLE" coord="2.35950786882, 48.8972452881">
 		<voisin nom="FRONT POPULAIRE" distance="1.1388650961083833" />
-		<voisin nom="MARX DORMOY" distance="0.7533480499245956" />
+		<voisin nom="MARX DORMOY" distance="0.7533480559197759" />
 	</gare>
 	<gare nom="PORTE DE VERSAILLES" coord="2.2880694576, 48.8326768719">
-		<voisin nom="CORENTIN-CELTON" distance="0.8887941369552587" />
 		<voisin nom="CONVENTION" distance="0.8119170153682316" />
+		<voisin nom="CORENTIN-CELTON" distance="0.888794142036815" />
 	</gare>
 	<gare nom="RENNES" coord="2.32778212715, 48.8484578485">
 		<voisin nom="NOTRE-DAME-DES-CHAMPS" distance="0.39805495738043245" />
 		<voisin nom="SEVRES-BABYLONE" distance="0.37447808205543054" />
 	</gare>
 	<gare nom="RUE DU BAC" coord="2.32571242217, 48.8555509402">
-		<voisin nom="SOLFERINO" distance="0.37904718115036296" />
 		<voisin nom="SEVRES-BABYLONE" distance="0.42954383588648765" />
+		<voisin nom="SOLFERINO" distance="0.379047169235072" />
 	</gare>
 	<gare nom="SAINT-GEORGES" coord="2.33759508282, 48.8784252576">
-		<voisin nom="NOTRE-DAME-DE-LORETTE" distance="0.2679113964077875" />
+		<voisin nom="NOTRE-DAME-DE-LORETTE" distance="0.26791137954976063" />
 		<voisin nom="PIGALLE" distance="0.44191701808889045" />
 	</gare>
 	<gare nom="SAINT-LAZARE" coord="2.32425603265, 48.875764594">
@@ -99,16 +99,16 @@
 		<voisin nom="RUE DU BAC" distance="0.42954383588648765" />
 	</gare>
 	<gare nom="SOLFERINO" coord="2.32315485584, 48.8585111299">
-		<voisin nom="ASSEMBLEE NATIONALE" distance="0.2985489012623379" />
-		<voisin nom="RUE DU BAC" distance="0.37904718115036296" />
+		<voisin nom="ASSEMBLEE NATIONALE" distance="0.2985489163903697" />
+		<voisin nom="RUE DU BAC" distance="0.379047169235072" />
 	</gare>
 	<gare nom="TRINITE-D'ESTIENNE D'ORVES" coord="2.3325430273, 48.8763179623">
 		<voisin nom="NOTRE-DAME-DE-LORETTE" distance="0.39255962810098005" />
 		<voisin nom="SAINT-LAZARE" distance="0.6098410916583934" />
 	</gare>
 	<gare nom="VAUGIRARD (ADOLPHE CHERIOU)" coord="2.30110751488, 48.8395165854">
-		<voisin nom="VOLONTAIRES" distance="0.5479467999274895" />
 		<voisin nom="CONVENTION" distance="0.4099785476759324" />
+		<voisin nom="VOLONTAIRES" distance="0.5479467999274895" />
 	</gare>
 	<gare nom="VOLONTAIRES" coord="2.30794867934, 48.8415055224">
 		<voisin nom="PASTEUR" distance="0.37946498694873293" />

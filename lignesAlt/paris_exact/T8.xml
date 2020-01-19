@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ligne terminus="SAINT-DENIS-PORTE DE PARIS,EPINAY-ORGEMONT" couleur="6e6e00">
 	<gare nom="BLUMENTHAL" coord="2.33918092342, 48.9478076496">
+		<voisin nom="DELAUNAY-BELLEVILLE" distance="0.6452302348157039" />
 		<voisin nom="LES MOBILES" distance="0.7928555393010103" />
-		<voisin nom="DELAUNAY-BELLEVILLE" distance="0.6452302278159429" />
 	</gare>
 	<gare nom="CESAR" coord="2.34252182604, 48.9495813451">
+		<voisin nom="DELAUNAY-BELLEVILLE" distance="0.5687968433590586" />
 		<voisin nom="JEAN VILAR" distance="0.35677064780770273" />
-		<voisin nom="DELAUNAY-BELLEVILLE" distance="0.5687968354186885" />
 	</gare>
 	<gare nom="DELAUNAY-BELLEVILLE" coord="2.34731292517, 48.9455555392">
-		<voisin nom="BLUMENTHAL" distance="0.6452302278159429" />
-		<voisin nom="CESAR" distance="0.5687968354186885" />
-		<voisin nom="PAUL ELUARD" distance="0.6709899866966237" />
+		<voisin nom="BLUMENTHAL" distance="0.6452302348157039" />
+		<voisin nom="CESAR" distance="0.5687968433590586" />
+		<voisin nom="PAUL ELUARD" distance="0.6709899934276592" />
 	</gare>
 	<gare nom="EPINAY-ORGEMONT" coord="2.2955916949, 48.9555044771">
 		<voisin nom="EPINAY-SUR-SEINE" distance="0.5462929086502386" />
 	</gare>
 	<gare nom="EPINAY-SUR-SEINE" coord="2.3023404202, 48.9533964617">
 		<voisin nom="EPINAY-ORGEMONT" distance="0.5462929086502386" />
-		<voisin nom="GILBERT BONNEMAISON" distance="0.46384721431612425" />
+		<voisin nom="GILBERT BONNEMAISON" distance="0.4638471948422227" />
 	</gare>
 	<gare nom="GARE DE SAINT-DENIS" coord="2.34786240776, 48.9352661458">
-		<voisin nom="PIERRE DE GEYTER" distance="0.5032781278090389" />
 		<voisin nom="PAUL ELUARD" distance="0.5292121033489979" />
+		<voisin nom="PIERRE DE GEYTER" distance="0.5032781278090389" />
 	</gare>
 	<gare nom="GILBERT BONNEMAISON" coord="2.30787256835, 48.9554374261">
+		<voisin nom="EPINAY-SUR-SEINE" distance="0.4638471948422227" />
 		<voisin nom="LACEPEDE" distance="0.2715211959101517" />
-		<voisin nom="EPINAY-SUR-SEINE" distance="0.46384721431612425" />
 	</gare>
 	<gare nom="JEAN VILAR" coord="2.34346127953, 48.9527263299">
-		<voisin nom="PABLO NERUDA" distance="0.43996609032053974" />
 		<voisin nom="CESAR" distance="0.35677064780770273" />
+		<voisin nom="PABLO NERUDA" distance="0.43996609032053974" />
 	</gare>
 	<gare nom="LACEPEDE" coord="2.31152630869, 48.9558768749">
-		<voisin nom="ROSE BERTIN" distance="0.41381958464214513" />
 		<voisin nom="GILBERT BONNEMAISON" distance="0.2715211959101517" />
+		<voisin nom="ROSE BERTIN" distance="0.41381958464214513" />
 	</gare>
 	<gare nom="LES BEATUS" coord="2.32021652167, 48.9517087836">
 		<voisin nom="LES MOBILES" distance="0.6599757842587242" />
@@ -46,15 +46,15 @@
 	</gare>
 	<gare nom="PABLO NERUDA" coord="2.34310923573, 48.956671846">
 		<voisin nom="JEAN VILAR" distance="0.43996609032053974" />
-		<voisin nom="VILLETANEUSE-UNIVERSITE" distance="0.3045184963639213" />
+		<voisin nom="VILLETANEUSE-UNIVERSITE" distance="0.3045185111953924" />
 	</gare>
 	<gare nom="PAUL ELUARD" coord="2.34520750593, 48.9396887087">
-		<voisin nom="DELAUNAY-BELLEVILLE" distance="0.6709899866966237" />
+		<voisin nom="DELAUNAY-BELLEVILLE" distance="0.6709899934276592" />
 		<voisin nom="GARE DE SAINT-DENIS" distance="0.5292121033489979" />
 	</gare>
 	<gare nom="PIERRE DE GEYTER" coord="2.35270198439, 48.9320518227">
-		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="0.41786320369472363" />
 		<voisin nom="GARE DE SAINT-DENIS" distance="0.5032781278090389" />
+		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="0.41786320369472363" />
 	</gare>
 	<gare nom="ROSE BERTIN" coord="2.31540361211, 48.9531682468">
 		<voisin nom="LACEPEDE" distance="0.41381958464214513" />
@@ -64,6 +64,6 @@
 		<voisin nom="PIERRE DE GEYTER" distance="0.41786320369472363" />
 	</gare>
 	<gare nom="VILLETANEUSE-UNIVERSITE" coord="2.34205380139, 48.9593181442">
-		<voisin nom="PABLO NERUDA" distance="0.3045184963639213" />
+		<voisin nom="PABLO NERUDA" distance="0.3045185111953924" />
 	</gare>
 </ligne>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Depot Greater Noida,Noida Sector 51" couleur="00ffff">
+<ligne terminus="Noida Sector 51,Depot Greater Noida" couleur="00ffff">
 	<gare nom="Alpha 1  Greater Noida" coord="3511, 2537">
 		<voisin nom="Delta 1 Greater Noida" distance="2.905666007901442" />
 		<voisin nom="Pari Chowk  Greater Noida" distance="0.8500899638633139" />
@@ -12,8 +12,8 @@
 		<voisin nom="GNIDA Office" distance="0.5495993382232608" />
 	</gare>
 	<gare nom="GNIDA Office" coord="3573, 2537">
-		<voisin nom="Depot Greater Noida" distance="0.5495993382232608" />
 		<voisin nom="Delta 1 Greater Noida" distance="1.3226853031712549" />
+		<voisin nom="Depot Greater Noida" distance="0.5495993382232608" />
 	</gare>
 	<gare nom="Knowledge Park II" coord="3447, 2537">
 		<voisin nom="Noida Sector 148" distance="2.686644413783804" />
@@ -24,8 +24,8 @@
 		<voisin nom="Noida Sector 83" distance="1.1075614094023398" />
 	</gare>
 	<gare nom="Noida Sector 101" coord="3434, 2006">
-		<voisin nom="Noida Sector 81" distance="1.8337051508536555" />
 		<voisin nom="Noida Sector 76" distance="1.6124910606983762" />
+		<voisin nom="Noida Sector 81" distance="1.8337051508536555" />
 	</gare>
 	<gare nom="Noida Sector 137" coord="3434, 2210">
 		<voisin nom="Noida Sector 142" distance="0.0" />
@@ -36,16 +36,16 @@
 		<voisin nom="Noida Sector 143" distance="1.2811965013674689" />
 	</gare>
 	<gare nom="Noida Sector 143" coord="3434, 2300">
-		<voisin nom="Noida Sector 144" distance="1.3581083460651893" />
 		<voisin nom="Noida Sector 142" distance="1.2811965013674689" />
+		<voisin nom="Noida Sector 144" distance="1.3581083460651893" />
 	</gare>
 	<gare nom="Noida Sector 144" coord="3434, 2343">
-		<voisin nom="Noida Sector 145" distance="1.939788019920676" />
 		<voisin nom="Noida Sector 143" distance="1.3581083460651893" />
+		<voisin nom="Noida Sector 145" distance="1.9397880245773267" />
 	</gare>
 	<gare nom="Noida Sector 145" coord="3434, 2391">
+		<voisin nom="Noida Sector 144" distance="1.9397880245773267" />
 		<voisin nom="Noida Sector 146" distance="1.7207255039015397" />
-		<voisin nom="Noida Sector 144" distance="1.939788019920676" />
 	</gare>
 	<gare nom="Noida Sector 146" coord="3434, 2435">
 		<voisin nom="Noida Sector 145" distance="1.7207255039015397" />
@@ -60,11 +60,11 @@
 		<voisin nom="Noida Sector 147" distance="1.1208878220483303" />
 	</gare>
 	<gare nom="Noida Sector 50" coord="3434, 1924">
-		<voisin nom="Noida Sector 51" distance="4.45338516053163" />
+		<voisin nom="Noida Sector 51" distance="4.453385159517467" />
 		<voisin nom="Noida Sector 76" distance="1.0426632485033842" />
 	</gare>
 	<gare nom="Noida Sector 51" coord="3436, 1902">
-		<voisin nom="Noida Sector 50" distance="4.45338516053163" />
+		<voisin nom="Noida Sector 50" distance="4.453385159517467" />
 	</gare>
 	<gare nom="Noida Sector 76" coord="3434, 1958">
 		<voisin nom="Noida Sector 101" distance="1.6124910606983762" />
@@ -79,7 +79,7 @@
 		<voisin nom="Noida Sector 137" distance="3.2146483537702615" />
 	</gare>
 	<gare nom="Pari Chowk  Greater Noida" coord="3479, 2537">
-		<voisin nom="Knowledge Park II" distance="0.9876914913316007" />
 		<voisin nom="Alpha 1  Greater Noida" distance="0.8500899638633139" />
+		<voisin nom="Knowledge Park II" distance="0.9876914913316007" />
 	</gare>
 </ligne>

@@ -6,13 +6,13 @@ from cherche import donnees, lectureXMLLigne, lectureXMLVille
 import codecs, sys, os
 import constantes as ctes
 
+ville = None
+
 #Initialisation###########################################################################################################
 #-Identification de la ville
-ville, _ = ctes.identVille(sys.argv[-1])
+if ville is None: ville, _ = ctes.identVille(sys.argv[-1])
 modeDev = False
 sansEnregistrer = False
-
-#if "tae" in ville: showinfo("Attention","Le réseau aérien ne se base pas sur le même système de coordonnées que le métro. Par conséquent, ce programme n'est pas accessible au réseau "+ville+" pour le moment. Une mise à jour à cet effet est prévue."); quit()
 
 #-Constantes
 class Ligne():
@@ -219,7 +219,7 @@ def ecritXML(toutesLesLignes=False):
 
                 if gare.get("coordImg") != (0,0) and gare.get("voisins") != []:
                     fichier.write("\t<gare nom=\""+nomGare+"\" coord=\""+str(gare.get("coord"))[1:-1]+"\">\n")
-                    for voisin in gare.get("voisins"):
+                    for voisin in sorted(gare.get("voisins"), key=lambda x: x.get("nom")):
                         dist = ctes.distance(gare.get("coordGPS"),voisin.get("coordGPS"), GPS=True)
                         if ligne.get("num") == "pedestre":
                             dist = str(ctes.penaliteCorresNew)

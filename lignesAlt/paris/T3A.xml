@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ligne terminus="PORTE DE VINCENNES,PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" couleur="ff5a00">
 	<gare nom="ALEXANDRA DAVID-NEEL" coord="2366, 1778">
-		<voisin nom="PORTE DE VINCENNES" distance="0.40632374079131023" />
 		<voisin nom="MONTEMPOIVRE" distance="0.459304542083761" />
+		<voisin nom="PORTE DE VINCENNES" distance="0.40632374079131023" />
 	</gare>
 	<gare nom="AVENUE DE FRANCE" coord="2046, 2202">
 		<voisin nom="BARON LE ROY" distance="1.4687238581297657" />
 		<voisin nom="MARYSE BASTIE" distance="0.42191315695024556" />
 	</gare>
 	<gare nom="BALARD" coord="637, 2209">
-		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="0.8030276120972168" />
 		<voisin nom="DESNOUETTES" distance="0.6842206963612486" />
+		<voisin nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" distance="0.8030276120972168" />
 	</gare>
 	<gare nom="BARON LE ROY" coord="2125, 2123">
 		<voisin nom="AVENUE DE FRANCE" distance="1.4687238581297657" />
 		<voisin nom="PORTE DE CHARENTON" distance="0.5739584297989813" />
 	</gare>
 	<gare nom="CITE UNIVERSITAIRE" coord="1452, 2290">
-		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.780056949955889" />
 		<voisin nom="MONTSOURIS" distance="0.6294203630207341" />
+		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.780056949955889" />
 	</gare>
 	<gare nom="DESNOUETTES" coord="702, 2209">
 		<voisin nom="BALARD" distance="0.6842206963612486" />
@@ -33,8 +33,8 @@
 		<voisin nom="PORTE DE VERSAILLES" distance="0.9027094767421593" />
 	</gare>
 	<gare nom="JEAN MOULIN" coord="1259, 2290">
-		<voisin nom="PORTE D'ORLEANS" distance="0.7647366348244937" />
 		<voisin nom="DIDOT" distance="0.6213856717487176" />
+		<voisin nom="PORTE D'ORLEANS" distance="0.7647366348244937" />
 	</gare>
 	<gare nom="MARYSE BASTIE" coord="2007, 2242">
 		<voisin nom="AVENUE DE FRANCE" distance="0.42191315695024556" />
@@ -45,8 +45,8 @@
 		<voisin nom="PORTE DOREE" distance="0.6830784973872391" />
 	</gare>
 	<gare nom="MONTSOURIS" coord="1390, 2291">
-		<voisin nom="PORTE D'ORLEANS" distance="0.8898395706323893" />
 		<voisin nom="CITE UNIVERSITAIRE" distance="0.6294203630207341" />
+		<voisin nom="PORTE D'ORLEANS" distance="0.8898395706323893" />
 	</gare>
 	<gare nom="PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU" coord="566, 2153">
 		<voisin nom="BALARD" distance="0.8030276120972168" />
@@ -64,8 +64,8 @@
 		<voisin nom="MONTSOURIS" distance="0.8898395706323893" />
 	</gare>
 	<gare nom="PORTE DE BRANCION" coord="932, 2291">
-		<voisin nom="PORTE DE VANVES" distance="0.5303278883714959" />
 		<voisin nom="GEORGES BRASSENS" distance="0.5918289107277932" />
+		<voisin nom="PORTE DE VANVES" distance="0.5303278883714959" />
 	</gare>
 	<gare nom="PORTE DE CHARENTON" coord="2205, 2044">
 		<voisin nom="BARON LE ROY" distance="0.5739584297989813" />
@@ -76,12 +76,12 @@
 		<voisin nom="PORTE D'IVRY" distance="0.6134208232568489" />
 	</gare>
 	<gare nom="PORTE DE VANVES" coord="1044, 2291">
-		<voisin nom="PORTE DE BRANCION" distance="0.5303278883714959" />
 		<voisin nom="DIDOT" distance="0.8979039024471506" />
+		<voisin nom="PORTE DE BRANCION" distance="0.5303278883714959" />
 	</gare>
 	<gare nom="PORTE DE VERSAILLES" coord="771, 2258">
-		<voisin nom="GEORGES BRASSENS" distance="0.9027094767421593" />
 		<voisin nom="DESNOUETTES" distance="0.4893480682257747" />
+		<voisin nom="GEORGES BRASSENS" distance="0.9027094767421593" />
 	</gare>
 	<gare nom="PORTE DE VINCENNES" coord="2333, 1719">
 		<voisin nom="ALEXANDRA DAVID-NEEL" distance="0.40632374079131023" />
@@ -91,11 +91,11 @@
 		<voisin nom="PORTE DE CHARENTON" distance="0.8422595155778977" />
 	</gare>
 	<gare nom="POTERNE DES PEUPLIERS" coord="1613, 2291">
-		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.5910555474416522" />
 		<voisin nom="PORTE D'ITALIE" distance="1.0436509654420567" />
+		<voisin nom="STADE CHARLETY (PORTE DE GENTILLY)" distance="0.5910555474416522" />
 	</gare>
 	<gare nom="STADE CHARLETY (PORTE DE GENTILLY)" coord="1517, 2291">
-		<voisin nom="POTERNE DES PEUPLIERS" distance="0.5910555474416522" />
 		<voisin nom="CITE UNIVERSITAIRE" distance="0.780056949955889" />
+		<voisin nom="POTERNE DES PEUPLIERS" distance="0.5910555474416522" />
 	</gare>
 </ligne>

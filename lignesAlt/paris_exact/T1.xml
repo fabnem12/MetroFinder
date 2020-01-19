@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="LES COURTILLES,NOISY-LE-SEC" couleur="0055c8">
+<ligne terminus="NOISY-LE-SEC,LES COURTILLES" couleur="0055c8">
 	<gare nom="AUGUSTE DELAUNE" coord="2.46052340367, 48.9067006317">
 		<voisin nom="JEAN ROSTAND" distance="0.4681488866002169" />
 		<voisin nom="PONT DE BONDY" distance="0.726201698880028" />
@@ -9,28 +9,28 @@
 		<voisin nom="MARCHE DE SAINT-DENIS" distance="0.3376131365101675" />
 	</gare>
 	<gare nom="BOBIGNY-PABLO PICASSO" coord="2.45000466303, 48.9065332885">
-		<voisin nom="JEAN ROSTAND" distance="0.3485645135978792" />
 		<voisin nom="HOTEL DE VILLE - MAISON DE LA CULTURE" distance="0.43991687491900233" />
+		<voisin nom="JEAN ROSTAND" distance="0.3485645135978792" />
 	</gare>
 	<gare nom="CHEMIN DES RENIERS" coord="2.32149519817, 48.9346085677">
-		<voisin nom="PARC DES CHANTERAINES" distance="0.6161611365640337" />
 		<voisin nom="LA NOUE" distance="0.3895900771818995" />
+		<voisin nom="PARC DES CHANTERAINES" distance="0.6161611365640337" />
 	</gare>
 	<gare nom="CIMETIERE DE SAINT-DENIS" coord="2.3636407022, 48.9363891471">
-		<voisin nom="HOPITAL DELAFONTAINE" distance="0.6273361585742926" />
 		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="0.2834470509280276" />
+		<voisin nom="HOPITAL DELAFONTAINE" distance="0.6273361585742926" />
 	</gare>
 	<gare nom="COSMONAUTES" coord="2.3782254904, 48.9317348255">
-		<voisin nom="SIX ROUTES" distance="0.516577383283799" />
-		<voisin nom="HOPITAL DELAFONTAINE" distance="0.5615214167456011" />
+		<voisin nom="HOPITAL DELAFONTAINE" distance="0.5615214006590998" />
+		<voisin nom="SIX ROUTES" distance="0.5165773657977161" />
 	</gare>
 	<gare nom="DANTON" coord="2.40662275371, 48.9227111893">
 		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.36125879081860046" />
 		<voisin nom="STADE GEO ANDRE" distance="0.38083867720853815" />
 	</gare>
 	<gare nom="DRANCY-AVENIR" coord="2.41769109334, 48.9177837253">
+		<voisin nom="HOPITAL AVICENNE" distance="0.5775575121157452" />
 		<voisin nom="MAURICE LACHATRE" distance="0.32187644084848266" />
-		<voisin nom="HOPITAL AVICENNE" distance="0.5775575042958185" />
 	</gare>
 	<gare nom="ESCADRILLE NORMANDIE-NIEMEN" coord="2.43542099299, 48.9127049753">
 		<voisin nom="GASTON ROULAUD" distance="0.3402229608246666" />
@@ -41,20 +41,20 @@
 		<voisin nom="TIMBAUD" distance="0.43034612439432907" />
 	</gare>
 	<gare nom="GARE DE SAINT-DENIS" coord="2.34786240776, 48.9352661458">
-		<voisin nom="THEATRE GERARD PHILIPE" distance="0.31115999665795996" />
 		<voisin nom="L ILE-SAINT-DENIS" distance="0.6423962054744644" />
+		<voisin nom="THEATRE GERARD PHILIPE" distance="0.31115999665795996" />
 	</gare>
 	<gare nom="GASTON ROULAUD" coord="2.43127800347, 48.9140932644">
 		<voisin nom="ESCADRILLE NORMANDIE-NIEMEN" distance="0.3402229608246666" />
 		<voisin nom="HOPITAL AVICENNE" distance="0.4979862282729636" />
 	</gare>
 	<gare nom="HOPITAL AVICENNE" coord="2.42500989427, 48.9158378929">
-		<voisin nom="DRANCY-AVENIR" distance="0.5775575042958185" />
+		<voisin nom="DRANCY-AVENIR" distance="0.5775575121157452" />
 		<voisin nom="GASTON ROULAUD" distance="0.4979862282729636" />
 	</gare>
 	<gare nom="HOPITAL DELAFONTAINE" coord="2.37108317162, 48.9335864037">
 		<voisin nom="CIMETIERE DE SAINT-DENIS" distance="0.6273361585742926" />
-		<voisin nom="COSMONAUTES" distance="0.5615214167456011" />
+		<voisin nom="COSMONAUTES" distance="0.5615214006590998" />
 	</gare>
 	<gare nom="HOTEL DE VILLE - MAISON DE LA CULTURE" coord="2.44399233455, 48.9065365591">
 		<voisin nom="BOBIGNY-PABLO PICASSO" distance="0.43991687491900233" />
@@ -65,32 +65,32 @@
 		<voisin nom="STADE GEO ANDRE" distance="0.7790078022272982" />
 	</gare>
 	<gare nom="JEAN ROSTAND" coord="2.45435282652, 48.9078125468">
-		<voisin nom="BOBIGNY-PABLO PICASSO" distance="0.3485645135978792" />
 		<voisin nom="AUGUSTE DELAUNE" distance="0.4681488866002169" />
+		<voisin nom="BOBIGNY-PABLO PICASSO" distance="0.3485645135978792" />
 	</gare>
 	<gare nom="L ILE-SAINT-DENIS" coord="2.33910838701, 48.9357480421">
 		<voisin nom="GARE DE SAINT-DENIS" distance="0.6423962054744644" />
 		<voisin nom="MAIRIE DE VILLENEUVE-LA-GARENNE" distance="0.34957261142921614" />
 	</gare>
 	<gare nom="LA COURNEUVE 8 MAI 1945" coord="2.41059861509, 48.92078597">
-		<voisin nom="MAURICE LACHATRE" distance="0.29685141509502405" />
 		<voisin nom="DANTON" distance="0.36125879081860046" />
+		<voisin nom="MAURICE LACHATRE" distance="0.29685141509502405" />
 	</gare>
 	<gare nom="LA FERME" coord="2.43748780358, 48.9096663654">
-		<voisin nom="LIBERATION" distance="0.3155636610390348" />
 		<voisin nom="ESCADRILLE NORMANDIE-NIEMEN" distance="0.3705168369797725" />
+		<voisin nom="LIBERATION" distance="0.3155636610390348" />
 	</gare>
 	<gare nom="LA NOUE" coord="2.32679331227, 48.9349758267">
 		<voisin nom="CHEMIN DES RENIERS" distance="0.3895900771818995" />
 		<voisin nom="MAIRIE DE VILLENEUVE-LA-GARENNE" distance="0.5557891393647858" />
 	</gare>
 	<gare nom="LE LUTH" coord="2.28865600596, 48.9318139969">
-		<voisin nom="LES COURTILLES" distance="0.40235692638203313" />
 		<voisin nom="LE VILLAGE" distance="0.4675332426510596" />
+		<voisin nom="LES COURTILLES" distance="0.40235692638203313" />
 	</gare>
 	<gare nom="LE VILLAGE" coord="2.29460298939, 48.9333553822">
-		<voisin nom="TIMBAUD" distance="0.49314699569353654" />
 		<voisin nom="LE LUTH" distance="0.4675332426510596" />
+		<voisin nom="TIMBAUD" distance="0.49314699569353654" />
 	</gare>
 	<gare nom="LES COURTILLES" coord="2.28372255733, 48.9302142123">
 		<voisin nom="LE LUTH" distance="0.40235692638203313" />
@@ -100,26 +100,26 @@
 		<voisin nom="LA FERME" distance="0.3155636610390348" />
 	</gare>
 	<gare nom="MAIRIE DE VILLENEUVE-LA-GARENNE" coord="2.33433291316, 48.9356057093">
-		<voisin nom="LA NOUE" distance="0.5557891393647858" />
 		<voisin nom="L ILE-SAINT-DENIS" distance="0.34957261142921614" />
+		<voisin nom="LA NOUE" distance="0.5557891393647858" />
 	</gare>
 	<gare nom="MARCHE DE SAINT-DENIS" coord="2.35632186742, 48.9389501578">
-		<voisin nom="THEATRE GERARD PHILIPE" distance="0.46175000253721965" />
 		<voisin nom="BASILIQUE DE SAINT-DENIS" distance="0.3376131365101675" />
+		<voisin nom="THEATRE GERARD PHILIPE" distance="0.46175000253721965" />
 	</gare>
 	<gare nom="MAURICE LACHATRE" coord="2.41383718232, 48.9191790277">
-		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.29685141509502405" />
 		<voisin nom="DRANCY-AVENIR" distance="0.32187644084848266" />
+		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.29685141509502405" />
 	</gare>
 	<gare nom="NOISY-LE-SEC" coord="2.45836341065, 48.8966524511">
-		<voisin nom="PETIT NOISY" distance="0.6673759932747501" />
+		<voisin nom="PETIT NOISY" distance="0.667376006809721" />
 	</gare>
 	<gare nom="PARC DES CHANTERAINES" coord="2.3131326405, 48.9339320289">
 		<voisin nom="CHEMIN DES RENIERS" distance="0.6161611365640337" />
 		<voisin nom="GARE DE GENNEVILLIERS" distance="0.44516760004425804" />
 	</gare>
 	<gare nom="PETIT NOISY" coord="2.46546048136, 48.9004173041">
-		<voisin nom="NOISY-LE-SEC" distance="0.6673759932747501" />
+		<voisin nom="NOISY-LE-SEC" distance="0.667376006809721" />
 		<voisin nom="PONT DE BONDY" distance="0.5801656681971804" />
 	</gare>
 	<gare nom="PONT DE BONDY" coord="2.46997154361, 48.9047032038">
@@ -127,12 +127,12 @@
 		<voisin nom="PETIT NOISY" distance="0.5801656681971804" />
 	</gare>
 	<gare nom="SIX ROUTES" coord="2.38475886144, 48.9299710262">
+		<voisin nom="COSMONAUTES" distance="0.5165773657977161" />
 		<voisin nom="HOTEL DE VILLE DE LA COURNEUVE" distance="0.6323610431989908" />
-		<voisin nom="COSMONAUTES" distance="0.516577383283799" />
 	</gare>
 	<gare nom="STADE GEO ANDRE" coord="2.40207341436, 48.9243751434">
-		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.7406007433564967" />
 		<voisin nom="DANTON" distance="0.38083867720853815" />
+		<voisin nom="LA COURNEUVE 8 MAI 1945" distance="0.7406007433564967" />
 	</gare>
 	<gare nom="THEATRE GERARD PHILIPE" coord="2.35040001854, 48.9375098964">
 		<voisin nom="GARE DE SAINT-DENIS" distance="0.31115999665795996" />

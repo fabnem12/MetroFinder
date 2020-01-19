@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="Tower Hill,Bank,Tower Gateway,Monument,Bow Church,Bow Road" couleur="">
-	<gare nom="Bank" coord="966, 568">
+<ligne terminus="Bow Road,Tower Hill,Bow Church,Monument,Tower Gateway,Bank" couleur="">
+	<gare nom="Bank" coord="959, 561">
 		<voisin nom="Monument" distance="4.6096306961911235" />
 	</gare>
 	<gare nom="Bow Church" coord="1239, 502">
