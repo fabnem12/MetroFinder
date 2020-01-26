@@ -1,3 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="" couleur="ff1400">
+<ligne terminus="CHATILLON MONTROUGE,VIROFLAY RIVE DROITE" couleur="ff1400">
+	<gare nom="CENTRE DE CHATILLON" coord="865, 2456">
+		<voisin nom="PARC ANDRE MALRAUX" distance="0.9253986340167414" />
+		<voisin nom="VAUBAN" distance="0.6502210469082101" />
+	</gare>
+	<gare nom="CHATILLON MONTROUGE" coord="889, 2456">
+		<voisin nom="VAUBAN" distance="0.7951374695379606" />
+	</gare>
+	<gare nom="DEWOITINE" coord="737, 2456">
+		<voisin nom="INOVEL PARC NORD" distance="0.64004086213512" />
+		<voisin nom="VELIZY 2" distance="0.6384989347028821" />
+	</gare>
+	<gare nom="DIVISION LECLERC" coord="842, 2456">
+		<voisin nom="PARC ANDRE MALRAUX" distance="1.1980269356639452" />
+		<voisin nom="SOLEIL LEVANT" distance="1.1289364245599183" />
+	</gare>
+	<gare nom="GEORGES MILLANDY" coord="775, 2456">
+		<voisin nom="GEORGES POMPIDOU" distance="0.7020399573905644" />
+		<voisin nom="MEUDON-LA-FORET" distance="0.6348987434040557" />
+	</gare>
+	<gare nom="GEORGES POMPIDOU" coord="786, 2456">
+		<voisin nom="GEORGES MILLANDY" distance="0.7020399573905644" />
+		<voisin nom="PAVE BLANC" distance="0.5527842828087507" />
+	</gare>
+	<gare nom="HOPITAL BECLERE" coord="822, 2456">
+		<voisin nom="MAIL DE LA PLAINE" distance="0.9028459143466974" />
+		<voisin nom="SOLEIL LEVANT" distance="1.0679715934685834" />
+	</gare>
+	<gare nom="INOVEL PARC NORD" coord="723, 2456">
+		<voisin nom="DEWOITINE" distance="0.64004086213512" />
+		<voisin nom="LOUVOIS" distance="1.412849906059469" />
+	</gare>
+	<gare nom="L ONDE" coord="679, 2456">
+		<voisin nom="MAIRIE DE VELIZY" distance="1.2270731879054364" />
+		<voisin nom="ROBERT WAGNER" distance="0.3964905165232574" />
+	</gare>
+	<gare nom="LOUVOIS" coord="707, 2456">
+		<voisin nom="INOVEL PARC NORD" distance="1.412849906059469" />
+		<voisin nom="MAIRIE DE VELIZY" distance="0.5687437833318782" />
+	</gare>
+	<gare nom="MAIL DE LA PLAINE" coord="810, 2456">
+		<voisin nom="HOPITAL BECLERE" distance="0.9028459143466974" />
+		<voisin nom="PAVE BLANC" distance="0.8607383155913242" />
+	</gare>
+	<gare nom="MAIRIE DE VELIZY" coord="694, 2456">
+		<voisin nom="L ONDE" distance="1.2270731879054364" />
+		<voisin nom="LOUVOIS" distance="0.5687437833318782" />
+	</gare>
+	<gare nom="MEUDON-LA-FORET" coord="763, 2456">
+		<voisin nom="GEORGES MILLANDY" distance="0.6348987434040557" />
+		<voisin nom="VELIZY 2" distance="0.6079324408251399" />
+	</gare>
+	<gare nom="PARC ANDRE MALRAUX" coord="853, 2456">
+		<voisin nom="CENTRE DE CHATILLON" distance="0.9253986340167414" />
+		<voisin nom="DIVISION LECLERC" distance="1.1980269356639452" />
+	</gare>
+	<gare nom="PAVE BLANC" coord="797, 2456">
+		<voisin nom="GEORGES POMPIDOU" distance="0.5527842828087507" />
+		<voisin nom="MAIL DE LA PLAINE" distance="0.8607383155913242" />
+	</gare>
+	<gare nom="ROBERT WAGNER" coord="665, 2456">
+		<voisin nom="L ONDE" distance="0.3964905165232574" />
+		<voisin nom="VIROFLAY RIVE GAUCHE" distance="1.9210517532973967" />
+	</gare>
+	<gare nom="SOLEIL LEVANT" coord="834, 2456">
+		<voisin nom="DIVISION LECLERC" distance="1.1289364245599183" />
+		<voisin nom="HOPITAL BECLERE" distance="1.0679715934685834" />
+	</gare>
+	<gare nom="VAUBAN" coord="879, 2456">
+		<voisin nom="CENTRE DE CHATILLON" distance="0.6502210469082101" />
+		<voisin nom="CHATILLON MONTROUGE" distance="0.7951374695379606" />
+	</gare>
+	<gare nom="VELIZY 2" coord="750, 2456">
+		<voisin nom="DEWOITINE" distance="0.6384989347028821" />
+		<voisin nom="MEUDON-LA-FORET" distance="0.6079324408251399" />
+	</gare>
+	<gare nom="VIROFLAY RIVE DROITE" coord="298, 2220">
+		<voisin nom="VIROFLAY RIVE GAUCHE" distance="0.6117790547056453" />
+	</gare>
+	<gare nom="VIROFLAY RIVE GAUCHE" coord="411, 2414">
+		<voisin nom="ROBERT WAGNER" distance="1.9210517532973967" />
+		<voisin nom="VIROFLAY RIVE DROITE" distance="0.6117790547056453" />
+	</gare>
 </ligne>

@@ -1,3 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="" couleur="640082">
+<ligne terminus="GARGES-SARCELLES,MARCHE DE SAINT-DENIS" couleur="640082">
+	<gare nom="ALCIDE D'ORBIGNY" coord="1819, 157">
+		<voisin nom="JACQUES PREVERT" distance="0.6212887332819147" />
+		<voisin nom="MAIRIE DE PIERREFITTE" distance="0.4520086235523493" />
+	</gare>
+	<gare nom="BAUDELAIRE" coord="1782, 219">
+		<voisin nom="MARCHE DE SAINT-DENIS" distance="0.3560802011863363" />
+		<voisin nom="ROGER SEMAT" distance="0.3011612626986805" />
+	</gare>
+	<gare nom="BUTTE PINSON" coord="1830, 138">
+		<voisin nom="JACQUES PREVERT" distance="0.308761863482157" />
+		<voisin nom="LES CHOLETTES" distance="0.8104646394242734" />
+	</gare>
+	<gare nom="GARGES-SARCELLES" coord="1852, 97">
+		<voisin nom="LES LOCHERES" distance="0.6480714540259178" />
+	</gare>
+	<gare nom="GUYNEMER" coord="1793, 200">
+		<voisin nom="PETIT PIERREFITTE" distance="0.4960479440812259" />
+		<voisin nom="ROGER SEMAT" distance="0.38035439369879764" />
+	</gare>
+	<gare nom="JACQUES PREVERT" coord="1824, 147">
+		<voisin nom="ALCIDE D'ORBIGNY" distance="0.6212887332819147" />
+		<voisin nom="BUTTE PINSON" distance="0.308761863482157" />
+	</gare>
+	<gare nom="JONCHEROLLES" coord="1803, 182">
+		<voisin nom="PETIT PIERREFITTE" distance="0.3290740154910026" />
+		<voisin nom="SUZANNE VALADON" distance="0.39702342067588364" />
+	</gare>
+	<gare nom="LES CHOLETTES" coord="1835, 129">
+		<voisin nom="BUTTE PINSON" distance="0.8104646394242734" />
+		<voisin nom="LES FLANADES" distance="0.5835748402910684" />
+	</gare>
+	<gare nom="LES FLANADES" coord="1840, 121">
+		<voisin nom="LES CHOLETTES" distance="0.5835748402910684" />
+		<voisin nom="PAUL VALERY" distance="0.42471737786934055" />
+	</gare>
+	<gare nom="LES LOCHERES" coord="1848, 103">
+		<voisin nom="GARGES-SARCELLES" distance="0.6480714540259178" />
+		<voisin nom="PAUL VALERY" distance="0.5457743917405479" />
+	</gare>
+	<gare nom="MAIRIE DE PIERREFITTE" coord="1814, 165">
+		<voisin nom="ALCIDE D'ORBIGNY" distance="0.4520086235523493" />
+		<voisin nom="SUZANNE VALADON" distance="0.5170588043565528" />
+	</gare>
+	<gare nom="MARCHE DE SAINT-DENIS" coord="1779, 225">
+		<voisin nom="BAUDELAIRE" distance="0.3560802011863363" />
+	</gare>
+	<gare nom="PAUL VALERY" coord="1844, 112">
+		<voisin nom="LES FLANADES" distance="0.42471737786934055" />
+		<voisin nom="LES LOCHERES" distance="0.5457743917405479" />
+	</gare>
+	<gare nom="PETIT PIERREFITTE" coord="1798, 192">
+		<voisin nom="GUYNEMER" distance="0.4960479440812259" />
+		<voisin nom="JONCHEROLLES" distance="0.3290740154910026" />
+	</gare>
+	<gare nom="ROGER SEMAT" coord="1788, 209">
+		<voisin nom="BAUDELAIRE" distance="0.3011612626986805" />
+		<voisin nom="GUYNEMER" distance="0.38035439369879764" />
+	</gare>
+	<gare nom="SUZANNE VALADON" coord="1809, 174">
+		<voisin nom="JONCHEROLLES" distance="0.39702342067588364" />
+		<voisin nom="MAIRIE DE PIERREFITTE" distance="0.5170588043565528" />
+	</gare>
 </ligne>

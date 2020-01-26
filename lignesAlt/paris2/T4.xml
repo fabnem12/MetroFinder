@@ -1,3 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="" couleur="fed100">
+<ligne terminus="AULNAY-SOUS-BOIS,BONDY" couleur="fed100">
+	<gare nom="ALLEE DE LA TOUR RENDEZ-VOUS" coord="2765, 481">
+		<voisin nom="LES COQUETIERS" distance="0.9363898641539307" />
+		<voisin nom="LES PAVILLONS-SOUS-BOIS" distance="0.8333018933865682" />
+	</gare>
+	<gare nom="AULNAY-SOUS-BOIS" coord="2289, 268">
+		<voisin nom="ROUGEMONT-CHANTELOUP" distance="2.1793183996562284" />
+	</gare>
+	<gare nom="BONDY" coord="2864, 480">
+		<voisin nom="LA REMISE A JORELLE" distance="0.9094011966735984" />
+	</gare>
+	<gare nom="FREINVILLE-SEVRAN" coord="2557, 422">
+		<voisin nom="L'ABBAYE" distance="0.6021168392284227" />
+		<voisin nom="ROUGEMONT-CHANTELOUP" distance="0.6570533271250234" />
+	</gare>
+	<gare nom="GARGAN" coord="2666, 475">
+		<voisin nom="LES PAVILLONS-SOUS-BOIS" distance="0.8697019023018981" />
+		<voisin nom="LYCEE HENRI SELLIER" distance="0.9087273878933207" />
+	</gare>
+	<gare nom="L'ABBAYE" coord="2593, 443">
+		<voisin nom="FREINVILLE-SEVRAN" distance="0.6021168392284227" />
+		<voisin nom="LYCEE HENRI SELLIER" distance="0.6663323212157325" />
+	</gare>
+	<gare nom="LA REMISE A JORELLE" coord="2834, 481">
+		<voisin nom="BONDY" distance="0.9094011966735984" />
+		<voisin nom="LES COQUETIERS" distance="1.2793491135767256" />
+	</gare>
+	<gare nom="LES COQUETIERS" coord="2802, 481">
+		<voisin nom="ALLEE DE LA TOUR RENDEZ-VOUS" distance="0.9363898641539307" />
+		<voisin nom="LA REMISE A JORELLE" distance="1.2793491135767256" />
+	</gare>
+	<gare nom="LES PAVILLONS-SOUS-BOIS" coord="2718, 481">
+		<voisin nom="ALLEE DE LA TOUR RENDEZ-VOUS" distance="0.8333018933865682" />
+		<voisin nom="GARGAN" distance="0.8697019023018981" />
+	</gare>
+	<gare nom="LYCEE HENRI SELLIER" coord="2630, 464">
+		<voisin nom="GARGAN" distance="0.9087273878933207" />
+		<voisin nom="L'ABBAYE" distance="0.6663323212157325" />
+	</gare>
+	<gare nom="ROUGEMONT-CHANTELOUP" coord="2529, 407">
+		<voisin nom="AULNAY-SOUS-BOIS" distance="2.1793183996562284" />
+		<voisin nom="FREINVILLE-SEVRAN" distance="0.6570533271250234" />
+	</gare>
 </ligne>

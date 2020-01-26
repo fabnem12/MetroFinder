@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ligne terminus="BOISSY-SAINT-LEGER,CERGY LE HAUT,CHESSY - MARNE-LA-VALLEE,POISSY,SAINT-GERMAIN-EN-LAYE" couleur="f7403a">
-	<gare nom="AUBER" coord="1390, 1231">
+	<gare nom="ACHERES-GRAND-CORMIER" coord="402, 697">
+		<voisin nom="MAISONS-LAFFITTE" distance="5.781025409979112" />
+		<voisin nom="POISSY" distance="6.336772260287613" />
+	</gare>
+	<gare nom="ACHERES-VILLE" coord="386, 675">
+		<voisin nom="CONFLANS-FIN-D'OISE" distance="2.306152156225009" />
+	</gare>
+	<gare nom="AUBER" coord="1390, 1230">
 		<voisin nom="CHARLES DE GAULLE ETOILE" distance="3.951566720702521" />
 		<voisin nom="CHATELET-LES HALLES" distance="2.2223614735604498" />
 	</gare>
 	<gare nom="BOISSY-SAINT-LEGER" coord="2864, 2273">
-		<voisin nom="SAINT-MAUR-CRETEIL" distance="6.9748510317213475" />
+		<voisin nom="SUCY-BONNEUIL" distance="2.1953654065468613" />
 	</gare>
-	<gare nom="CERGY LE HAUT" coord="110, 687">
+	<gare nom="BRY-SUR-MARNE" coord="2743, 1999">
+		<voisin nom="NEUILLY-PLAISANCE" distance="1.6507447693985262" />
+		<voisin nom="NOISY-LE-GRAND-MONT D'EST" distance="2.4741260137507344" />
+	</gare>
+	<gare nom="BUSSY-SAINT-GEORGES" coord="2800, 1999">
+		<voisin nom="TORCY" distance="6.004699687631774" />
+		<voisin nom="VAL-D'EUROPE" distance="7.4749258696655545" />
+	</gare>
+	<gare nom="CERGY LE HAUT" coord="138, 676">
 		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="2.6006265477359882" />
 	</gare>
-	<gare nom="CERGY-PREFECTURE" coord="130, 681">
+	<gare nom="CERGY-PREFECTURE" coord="171, 676">
 		<voisin nom="CERGY LE HAUT" distance="7.734216598548846" />
 		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="5.245344668146213" />
 	</gare>
-	<gare nom="CERGY-SAINT-CHRISTOPHE" coord="144, 675">
+	<gare nom="CERGY-SAINT-CHRISTOPHE" coord="201, 676">
 		<voisin nom="CERGY LE HAUT" distance="2.6006265477359882" />
 		<voisin nom="CERGY-PREFECTURE" distance="5.245344668146213" />
 		<voisin nom="NANTERRE-PREFECTURE" distance="27.117946833167693" />
+	</gare>
+	<gare nom="CHAMPIGNY" coord="2826, 2206">
+		<voisin nom="LA VARENNE-CHENNEVIERES" distance="1.336019461113282" />
+		<voisin nom="LE PARC-DE-SAINT-MAUR" distance="2.6729200677444886" />
 	</gare>
 	<gare nom="CHARLES DE GAULLE ETOILE" coord="1001, 1123">
 		<voisin nom="AUBER" distance="3.951566720702521" />
@@ -27,8 +46,16 @@
 		<voisin nom="AUBER" distance="2.2223614735604498" />
 		<voisin nom="GARE DE LYON" distance="3.5221243476667636" />
 	</gare>
+	<gare nom="CHATOU-CROISSY" coord="305, 914">
+		<voisin nom="LE VESINET-CENTRE" distance="2.4326126415397904" />
+		<voisin nom="RUEIL-MALMAISON" distance="1.8748700555256013" />
+	</gare>
 	<gare nom="CHESSY - MARNE-LA-VALLEE" coord="2859, 2000">
-		<voisin nom="VINCENNES" distance="38.923897849358326" />
+		<voisin nom="VAL-D'EUROPE" distance="1.8913615703878812" />
+	</gare>
+	<gare nom="CONFLANS-FIN-D'OISE" coord="363, 675">
+		<voisin nom="ACHERES-VILLE" distance="2.306152156225009" />
+		<voisin nom="NEUVILLE UNIVERSITE" distance="2.6212539579676917" />
 	</gare>
 	<gare nom="FONTENAY-SOUS-BOIS" coord="2724, 2031">
 		<voisin nom="NOGENT-SUR-MARNE" distance="1.3740526535666602" />
@@ -38,6 +65,10 @@
 		<voisin nom="CHATELET-LES HALLES" distance="3.5221243476667636" />
 		<voisin nom="NATION" distance="2.5527847314554535" />
 	</gare>
+	<gare nom="HOUILLES-CARRIERES-SUR-SEINE" coord="475, 675">
+		<voisin nom="MAISONS-LAFFITTE" distance="5.349455283804732" />
+		<voisin nom="SARTROUVILLE" distance="3.691778982517855" />
+	</gare>
 	<gare nom="JOINVILLE-LE-PONT" coord="2772, 2114">
 		<voisin nom="NOGENT-SUR-MARNE" distance="1.7117925995168684" />
 		<voisin nom="SAINT-MAUR-CRETEIL" distance="1.9227839686547472" />
@@ -45,6 +76,31 @@
 	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="710, 678">
 		<voisin nom="CHARLES DE GAULLE ETOILE" distance="6.702081565307414" />
 		<voisin nom="NANTERRE-PREFECTURE" distance="1.5869270341747206" />
+	</gare>
+	<gare nom="LA VARENNE-CHENNEVIERES" coord="2841, 2233">
+		<voisin nom="CHAMPIGNY" distance="1.336019461113282" />
+		<voisin nom="SUCY-BONNEUIL" distance="2.7148391996658976" />
+	</gare>
+	<gare nom="LE PARC-DE-SAINT-MAUR" coord="2811, 2181">
+		<voisin nom="CHAMPIGNY" distance="2.6729200677444886" />
+		<voisin nom="SAINT-MAUR-CRETEIL" distance="1.519965879824895" />
+	</gare>
+	<gare nom="LE VESINET-CENTRE" coord="272, 914">
+		<voisin nom="CHATOU-CROISSY" distance="2.4326126415397904" />
+		<voisin nom="LE VESINET-LE PECQ" distance="1.643455230130693" />
+	</gare>
+	<gare nom="LE VESINET-LE PECQ" coord="242, 914">
+		<voisin nom="LE VESINET-CENTRE" distance="1.643455230130693" />
+		<voisin nom="SAINT-GERMAIN-EN-LAYE" distance="3.036908499387379" />
+	</gare>
+	<gare nom="LOGNES" coord="2777, 1999">
+		<voisin nom="NOISIEL" distance="1.9790712062127704" />
+		<voisin nom="TORCY" distance="2.4404914699183156" />
+	</gare>
+	<gare nom="MAISONS-LAFFITTE" coord="426, 675">
+		<voisin nom="ACHERES-GRAND-CORMIER" distance="5.781025409979112" />
+		<voisin nom="HOUILLES-CARRIERES-SUR-SEINE" distance="5.349455283804732" />
+		<voisin nom="SARTROUVILLE" distance="1.6579293277223148" />
 	</gare>
 	<gare nom="NANTERRE-PREFECTURE" coord="560, 676">
 		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="27.117946833167693" />
@@ -63,24 +119,66 @@
 		<voisin nom="GARE DE LYON" distance="2.5527847314554535" />
 		<voisin nom="VINCENNES" distance="4.173102211761431" />
 	</gare>
+	<gare nom="NEUILLY-PLAISANCE" coord="2732, 1999">
+		<voisin nom="BRY-SUR-MARNE" distance="1.6507447693985262" />
+		<voisin nom="VAL-DE-FONTENAY" distance="2.74627900988139" />
+	</gare>
+	<gare nom="NEUVILLE UNIVERSITE" coord="334, 675">
+		<voisin nom="CONFLANS-FIN-D'OISE" distance="2.6212539579676917" />
+	</gare>
 	<gare nom="NOGENT-SUR-MARNE" coord="2749, 2073">
 		<voisin nom="FONTENAY-SOUS-BOIS" distance="1.3740526535666602" />
 		<voisin nom="JOINVILLE-LE-PONT" distance="1.7117925995168684" />
 	</gare>
+	<gare nom="NOISIEL" coord="2771, 1999">
+		<voisin nom="LOGNES" distance="1.9790712062127704" />
+		<voisin nom="NOISY-CHAMPS" distance="3.9932192374368864" />
+	</gare>
+	<gare nom="NOISY-CHAMPS" coord="2764, 1999">
+		<voisin nom="NOISIEL" distance="3.9932192374368864" />
+		<voisin nom="NOISY-LE-GRAND-MONT D'EST" distance="3.6039705521102983" />
+	</gare>
+	<gare nom="NOISY-LE-GRAND-MONT D'EST" coord="2751, 1999">
+		<voisin nom="BRY-SUR-MARNE" distance="2.4741260137507344" />
+		<voisin nom="NOISY-CHAMPS" distance="3.6039705521102983" />
+	</gare>
+	<gare nom="POISSY" coord="375, 697">
+		<voisin nom="ACHERES-GRAND-CORMIER" distance="6.336772260287613" />
+	</gare>
 	<gare nom="RUEIL-MALMAISON" coord="347, 902">
+		<voisin nom="CHATOU-CROISSY" distance="1.8748700555256013" />
 		<voisin nom="NANTERRE-VILLE" distance="2.6718745382088502" />
-		<voisin nom="SAINT-GERMAIN-EN-LAYE" distance="8.732800781672237" />
 	</gare>
 	<gare nom="SAINT-GERMAIN-EN-LAYE" coord="142, 913">
-		<voisin nom="RUEIL-MALMAISON" distance="8.732800781672237" />
+		<voisin nom="LE VESINET-LE PECQ" distance="3.036908499387379" />
 	</gare>
 	<gare nom="SAINT-MAUR-CRETEIL" coord="2794, 2151">
-		<voisin nom="BOISSY-SAINT-LEGER" distance="6.9748510317213475" />
 		<voisin nom="JOINVILLE-LE-PONT" distance="1.9227839686547472" />
+		<voisin nom="LE PARC-DE-SAINT-MAUR" distance="1.519965879824895" />
 	</gare>
-	<gare nom="VINCENNES" coord="2624, 1952">
-		<voisin nom="CHESSY - MARNE-LA-VALLEE" distance="38.923897849358326" />
+	<gare nom="SARTROUVILLE" coord="450, 675">
+		<voisin nom="HOUILLES-CARRIERES-SUR-SEINE" distance="3.691778982517855" />
+		<voisin nom="MAISONS-LAFFITTE" distance="1.6579293277223148" />
+	</gare>
+	<gare nom="SUCY-BONNEUIL" coord="2856, 2258">
+		<voisin nom="BOISSY-SAINT-LEGER" distance="2.1953654065468613" />
+		<voisin nom="LA VARENNE-CHENNEVIERES" distance="2.7148391996658976" />
+	</gare>
+	<gare nom="TORCY" coord="2790, 1999">
+		<voisin nom="BUSSY-SAINT-GEORGES" distance="6.004699687631774" />
+		<voisin nom="LOGNES" distance="2.4404914699183156" />
+	</gare>
+	<gare nom="VAL-D'EUROPE" coord="2828, 2000">
+		<voisin nom="BUSSY-SAINT-GEORGES" distance="7.4749258696655545" />
+		<voisin nom="CHESSY - MARNE-LA-VALLEE" distance="1.8913615703878812" />
+	</gare>
+	<gare nom="VAL-DE-FONTENAY" coord="2721, 1997">
+		<voisin nom="NEUILLY-PLAISANCE" distance="2.74627900988139" />
+		<voisin nom="VINCENNES" distance="6.267164559826478" />
+	</gare>
+	<gare nom="VINCENNES" coord="2624, 1953">
 		<voisin nom="FONTENAY-SOUS-BOIS" distance="3.408480104339527" />
 		<voisin nom="NATION" distance="4.173102211761431" />
+		<voisin nom="VAL-DE-FONTENAY" distance="6.267164559826478" />
 	</gare>
 </ligne>

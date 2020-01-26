@@ -33,8 +33,10 @@ class Ligne():
 
             try:
                 gare = Gare(nomGare, coordGPS[nomGare], coordImg[nomGare], voisins[nomGare], statut)
-            except:
-                print("Erreur sur la ligne",self.num)
+            except Exception as e:
+                print("Erreur sur la ligne",self.num,":")
+                print(e)
+                print()
                 print("nomGare :",nomGare)
                 print("coordGPS",nomGare, nomGare in coordGPS)
                 if nomGare in coordGPS: print(coordGPS[nomGare])
@@ -109,6 +111,8 @@ lignes = dict()
 for numero in listeLignes:
     lignes[numero] = Ligne(numero)
     if lignes[numero].pourrie: del lignes[numero]
+
+couleurTrait = "red"
 
 #-Initialisation des données
 lignesOK = ctes.lignesOK(ville, creation=False)
@@ -303,7 +307,7 @@ def trace():
                     if gare not in voisin.get("voisins"): #lien à sens unique de gare à voisin
                         fleche = "last"
 
-                    traits += [canvasCarte.create_line(x1, y1, x2, y2, fill="red", width=ctes.largeurTrait, arrow=fleche)]
+                    traits += [canvasCarte.create_line(x1, y1, x2, y2, fill=couleurTrait, width=ctes.largeurTrait, arrow=fleche)]
 
 def selecGare(gare, index="", viaListbox=False):
     global ligneEnCours, gareEnCours
@@ -410,6 +414,8 @@ def setLigne(): #Changer la ligne traitee
         if gare.get("coordImg") == (0,0) and gare.get("nom") in dicoCoordImg and ligne.get("num") not in ["pedestre"]:
             coordPossibles = dicoCoordImg[gare.get("nom")]
             if len(coordPossibles) > 0: gare.setCoordImg(choice(coordPossibles))
+
+            gare.setStatut("normal")
 
         statut, cercle = gare.get("statut"), gare.get("cercle")
         if statut in ("","fourche","terminus","normal"):
@@ -622,7 +628,7 @@ def clic(event, cote):
             fListeObjet.mainloop()
 
 def touches(event):
-    global gareEnCours, sansEnregistrer
+    global gareEnCours, sansEnregistrer, couleurTrait
 
     touche = event.keysym
     actionsDeplacement = {"Left":(-1,0), "Right":(1,0), "Up":(0,-1), "Down":((0,1))}
@@ -653,6 +659,8 @@ def touches(event):
                 canvasCarte.delete(gareEnCours.get("cercle"))
 
             deselecGare()
+        if touche == "Caps_Lock":
+            couleurTrait = "black" if couleurTrait == "red" else "red"
 #Fin Fonctions graphiques#################################################################################################
 
 #Initialisation graphique#################################################################################################

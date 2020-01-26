@@ -137,13 +137,14 @@ def ecritXMLVille(ville, listeGaresVille):
 
                 nomVoisin, numLigneVoisin = voisin.get("nom"), ctes.traitementNom(ligneVoisin.get("num"))
                 if nomVoisin not in voisins:
-                    voisins[nomVoisin] = [dist, numLigneVoisin]
+                    voisins[nomVoisin] = [dist, [numLigneVoisin]]
                 else:
-                    voisins[nomVoisin][1] += ","+numLigneVoisin
+                    voisins[nomVoisin][1] += [numLigneVoisin]
+                    voisins[nomVoisin][0] = min(voisins[nomVoisin][0], dist)
 
-            for nomVoisin in voisins:
+            for nomVoisin in sorted(voisins):
                 dist, numLigneVoisin = voisins[nomVoisin]
-                printF("\t\t<voisin nom=\""+ctes.traitementNom(nomVoisin)+"\" distance=\""+dist+"\" lignes=\""+numLigneVoisin+"\" />\n")
+                printF("\t\t<voisin nom=\""+ctes.traitementNom(nomVoisin)+"\" distance=\""+dist+"\" lignes=\""+",".join(sorted(numLigneVoisin))+"\" />\n")
             printF("\t</gare>\n")
 
         printF("</data>")
