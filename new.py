@@ -10,7 +10,7 @@ import constantes as ctes
 modeDev = False
 
 #Identification de la ville
-ville = "tae"
+ville = None
 
 if ville is None: ville, console = ctes.identVille(sys.argv[-1])
 if ville in ctes.GPSCompte: #charger le module pour simuler une sphère
