@@ -645,8 +645,7 @@ def touches(event):
             elif gareEnCours.get("statut") in ("terminus", "fourche"): gareEnCours.setStatut("normal")
         if touche == "dollar": #danger : pas d'enregistrement
             sansEnregistrer = not sansEnregistrer
-            dollar = ""
-            if sansEnregistrer: dollar = "$"
+            dollar = "$" if sansEnregistrer else ""
 
             fenetre.title("Ajouter une ligne à "+ville.capitalize()+" "+dollar)
         if touche == "Delete": #on supprime le cercle de la gareEnCours
