@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PORTE DE VINCENNES,PORTE DE LA CHAPELLE" couleur="009641">
+<ligne terminus="PORTE DE LA CHAPELLE,PORTE DE VINCENNES" couleur="009641">
 	<gare nom="ADRIENNE BOLLAND" coord="2560, 1269">
 		<voisin nom="PORTE DES LILAS" distance="0.494009497725267" />
 		<voisin nom="SEVERINE" distance="0.5448984082224985" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="ANTONY,AEROPORT D ORLY - TERMINAL SUD" couleur="7f7f7f">
+<ligne terminus="AEROPORT D ORLY - TERMINAL SUD,ANTONY" couleur="7f7f7f">
 	<gare nom="AEROPORT D ORLY - TERMINAL OUEST" coord="1588, 2787">
 		<voisin nom="AEROPORT D ORLY - TERMINAL SUD" distance="1.104220923587756" />
 		<voisin nom="ANTONY" distance="7.147997854346879" />

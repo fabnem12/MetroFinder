@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="SAINT-DENIS-UNIVERSITE,LES COURTILLES-ASNIERES-GENNEVILLIERS,CHATILLON-MONTROUGE" couleur="6ec4e8">
+<ligne terminus="CHATILLON-MONTROUGE,LES COURTILLES-ASNIERES-GENNEVILLIERS,SAINT-DENIS-UNIVERSITE" couleur="6ec4e8">
 	<gare nom="BASILIQUE DE SAINT-DENIS" coord="1825, 222">
 		<voisin nom="SAINT-DENIS-PORTE DE PARIS" distance="0.9965676203500912" />
 		<voisin nom="SAINT-DENIS-UNIVERSITE" distance="0.9612868618733166" />
@@ -24,7 +24,7 @@
 		<voisin nom="SAINT-FRANCOIS-XAVIER" distance="0.53732142398527" />
 	</gare>
 	<gare nom="GABRIEL PERI-ASNIERES-GENNEVILLIERS" coord="1057, 342">
-		<voisin nom="LES AGNETTES-ASNIERES-GENNEVILLIERS" distance="1.1977014989550796" />
+		<voisin nom="LES AGNETTES-ASNIERES-GENNEVILLIERS" distance="1.197701495184142" />
 		<voisin nom="MAIRIE DE CLICHY" distance="1.9165125536489869" />
 	</gare>
 	<gare nom="GAITE" coord="1111, 2122">
@@ -46,17 +46,17 @@
 	<gare nom="LA FOURCHE" coord="1287, 739">
 		<voisin nom="BROCHANT" distance="0.7297850688902946" />
 		<voisin nom="GUY MOQUET" distance="0.6541471228152986" />
-		<voisin nom="PLACE DE CLICHY" distance="0.4584356899574821" />
+		<voisin nom="PLACE DE CLICHY" distance="0.4096826304920733" />
 	</gare>
 	<gare nom="LES AGNETTES-ASNIERES-GENNEVILLIERS" coord="1029, 295">
-		<voisin nom="GABRIEL PERI-ASNIERES-GENNEVILLIERS" distance="1.1977014989550796" />
+		<voisin nom="GABRIEL PERI-ASNIERES-GENNEVILLIERS" distance="1.197701495184142" />
 		<voisin nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" distance="0.8829416432003799" />
 	</gare>
 	<gare nom="LES COURTILLES-ASNIERES-GENNEVILLIERS" coord="973, 198">
 		<voisin nom="LES AGNETTES-ASNIERES-GENNEVILLIERS" distance="0.8829416432003799" />
 	</gare>
 	<gare nom="LIEGE" coord="1365, 876">
-		<voisin nom="PLACE DE CLICHY" distance="0.4519651563853218" />
+		<voisin nom="PLACE DE CLICHY" distance="0.4644468273875297" />
 		<voisin nom="SAINT-LAZARE" distance="0.5292678550255328" />
 	</gare>
 	<gare nom="MAIRIE DE CLICHY" coord="1095, 408">
@@ -79,7 +79,7 @@
 		<voisin nom="CHAMPS-ELYSEES-CLEMENCEAU" distance="0.6888869461512018" />
 		<voisin nom="SAINT-LAZARE" distance="1.1132609471887156" />
 	</gare>
-	<gare nom="MONTPARNASSE" coord="1142, 2001">
+	<gare nom="MONTPARNASSE" coord="1165, 2030">
 		<voisin nom="DUROC" distance="0.7307189293278293" />
 		<voisin nom="GAITE" distance="0.4439854570073834" />
 	</gare>
@@ -87,9 +87,9 @@
 		<voisin nom="GAITE" distance="0.7170214328476644" />
 		<voisin nom="PLAISANCE" distance="0.49904908473989823" />
 	</gare>
-	<gare nom="PLACE DE CLICHY" coord="1318, 793">
-		<voisin nom="LA FOURCHE" distance="0.4584356899574821" />
-		<voisin nom="LIEGE" distance="0.4519651563853218" />
+	<gare nom="PLACE DE CLICHY" coord="1318, 794">
+		<voisin nom="LA FOURCHE" distance="0.4096826304920733" />
+		<voisin nom="LIEGE" distance="0.4644468273875297" />
 	</gare>
 	<gare nom="PLAISANCE" coord="1061, 2209">
 		<voisin nom="PERNETY" distance="0.49904908473989823" />
@@ -120,7 +120,7 @@
 	</gare>
 	<gare nom="SAINT-LAZARE" coord="1285, 1087">
 		<voisin nom="LIEGE" distance="0.5292678550255328" />
-		<voisin nom="PLACE DE CLICHY" distance="0.9599902496214018" />
+		<voisin nom="PLACE DE CLICHY" distance="0.9540965068237601" />
 	</gare>
 	<gare nom="VARENNE" coord="1075, 1676">
 		<voisin nom="INVALIDES" distance="0.68278040685985" />

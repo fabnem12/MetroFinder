@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="MAIRIE D'ISSY,FRONT POPULAIRE" couleur="007852">
+<ligne terminus="FRONT POPULAIRE,MAIRIE D'ISSY" couleur="007852">
 	<gare nom="ABBESSES" coord="1548, 700">
 		<voisin nom="LAMARCK-CAULAINCOURT" distance="0.5721818192870329" />
 		<voisin nom="PIGALLE" distance="0.25576350144019494" />

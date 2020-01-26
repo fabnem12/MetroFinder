@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="VILLEJUIF-LOUIS ARAGON,PORTE DE L'ESSONNE" couleur="6e491e">
+<ligne terminus="PORTE DE L'ESSONNE,VILLEJUIF-LOUIS ARAGON" couleur="6e491e">
 	<gare nom="AEROPORT D ORLY" coord="1670, 2786">
 		<voisin nom="COEUR D'ORLY" distance="0.5957194094758976" />
 		<voisin nom="PORTE DE L'ESSONNE" distance="1.700048976336542" />

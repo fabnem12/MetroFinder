@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PORTE DE VERSAILLES,PONT DE BEZONS" couleur="a0006e">
+<ligne terminus="PONT DE BEZONS,PORTE DE VERSAILLES" couleur="a0006e">
 	<gare nom="BELVEDERE" coord="556, 1127">
 		<voisin nom="PUTEAUX" distance="1.2005235566602268" />
 		<voisin nom="SURESNES-LONGCHAMP" distance="1.000975582915236" />

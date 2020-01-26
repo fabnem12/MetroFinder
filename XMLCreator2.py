@@ -210,7 +210,7 @@ def ecritXML(toutesLesLignes=False):
 
         with codecs.open("lignesAlt/"+ville+"/"+numLigne+".xml", 'w', 'utf-8') as fichier:
             fichier.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
-            fichier.write("<ligne terminus=\"" + ",".join([ctes.traitementNom(x.get("nom")) for x in terminus]) + "\" couleur=\""+ligne.get("couleur")+"\">\n")
+            fichier.write("<ligne terminus=\"" + ",".join(sorted([ctes.traitementNom(x.get("nom")) for x in terminus])) + "\" couleur=\""+ligne.get("couleur")+"\">\n")
 
             listeGaresLigne=terminus+reste
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PONT DE SEVRES,MAIRIE DE MONTREUIL" couleur="b6bd00">
+<ligne terminus="MAIRIE DE MONTREUIL,PONT DE SEVRES" couleur="b6bd00">
 	<gare nom="ALMA-MARCEAU" coord="1002, 1325">
 		<voisin nom="FRANKLIN-D.ROOSEVELT" distance="0.9136479445008243" />
 		<voisin nom="IENA" distance="0.7602052024686143" />

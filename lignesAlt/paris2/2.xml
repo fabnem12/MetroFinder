@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PORTE DAUPHINE,NATION" couleur="003ca6">
+<ligne terminus="NATION,PORTE DAUPHINE" couleur="003ca6">
 	<gare nom="ALEXANDRE DUMAS" coord="2299, 1575">
 		<voisin nom="AVRON" distance="0.6829396925633447" />
 		<voisin nom="PHILIPPE AUGUSTE" distance="0.5859492006858485" />
@@ -22,7 +22,7 @@
 	</gare>
 	<gare nom="BLANCHE" coord="1404, 759">
 		<voisin nom="PIGALLE" distance="0.6225281677188588" />
-		<voisin nom="PLACE DE CLICHY" distance="0.45656879800664757" />
+		<voisin nom="PLACE DE CLICHY" distance="0.5216105813982688" />
 	</gare>
 	<gare nom="CHARLES DE GAULLE ETOILE" coord="935, 1121">
 		<voisin nom="TERNES" distance="0.5944167085461393" />
@@ -72,14 +72,14 @@
 		<voisin nom="BLANCHE" distance="0.6225281677188588" />
 	</gare>
 	<gare nom="PLACE DE CLICHY" coord="1324, 783">
-		<voisin nom="BLANCHE" distance="0.45656879800664757" />
-		<voisin nom="ROME" distance="0.7469030602066102" />
+		<voisin nom="BLANCHE" distance="0.5216105813982688" />
+		<voisin nom="ROME" distance="0.6871905408081226" />
 	</gare>
 	<gare nom="PORTE DAUPHINE" coord="785, 1241">
 		<voisin nom="VICTOR HUGO" distance="0.9371664834341743" />
 	</gare>
 	<gare nom="ROME" coord="1180, 856">
-		<voisin nom="PLACE DE CLICHY" distance="0.7469030602066102" />
+		<voisin nom="PLACE DE CLICHY" distance="0.6871905408081226" />
 		<voisin nom="VILLIERS" distance="0.6893456726123098" />
 	</gare>
 	<gare nom="STALINGRAD" coord="2059, 918">

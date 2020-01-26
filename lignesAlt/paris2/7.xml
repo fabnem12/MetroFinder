@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="MAIRIE D'IVRY,VILLEJUIF-LOUIS ARAGON,LA COURNEUVE 8 MAI 1945" couleur="fa9aba">
+<ligne terminus="LA COURNEUVE 8 MAI 1945,MAIRIE D'IVRY,VILLEJUIF-LOUIS ARAGON" couleur="fa9aba">
 	<gare nom="AUBERVILLIERS-PANTIN (QUATRE CHEMINS)" coord="2242, 577">
 		<voisin nom="FORT D'AUBERVILLIERS" distance="1.8357137639912295" />
 		<voisin nom="PORTE DE LA VILLETTE" distance="0.9482991561614377" />
@@ -64,7 +64,7 @@
 		<voisin nom="STALINGRAD" distance="0.3280815785620994" />
 	</gare>
 	<gare nom="MAIRIE D'IVRY" coord="1896, 2518">
-		<voisin nom="PIERRE CURIE" distance="0.8821388200025311" />
+		<voisin nom="PIERRE CURIE" distance="0.8821388148826369" />
 	</gare>
 	<gare nom="MAISON BLANCHE" coord="1512, 2289">
 		<voisin nom="LE KREMLIN-BICETRE" distance="1.4324670465167335" />
@@ -80,7 +80,7 @@
 		<voisin nom="PYRAMIDES" distance="0.45087153577361194" />
 	</gare>
 	<gare nom="PIERRE CURIE" coord="1876, 2481">
-		<voisin nom="MAIRIE D'IVRY" distance="0.8821388200025311" />
+		<voisin nom="MAIRIE D'IVRY" distance="0.8821388148826369" />
 		<voisin nom="PORTE D'IVRY" distance="1.073565168433824" />
 	</gare>
 	<gare nom="PLACE D'ITALIE" coord="1592, 2149">

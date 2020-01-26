@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="POISSY,SAINT-GERMAIN-EN-LAYE,BOISSY-SAINT-LEGER,CERGY LE HAUT,CHESSY - MARNE-LA-VALLEE" couleur="f7403a">
+<ligne terminus="BOISSY-SAINT-LEGER,CERGY LE HAUT,CHESSY - MARNE-LA-VALLEE,POISSY,SAINT-GERMAIN-EN-LAYE" couleur="f7403a">
 	<gare nom="AUBER" coord="1390, 1231">
 		<voisin nom="CHARLES DE GAULLE ETOILE" distance="3.951566720702521" />
 		<voisin nom="CHATELET-LES HALLES" distance="2.2223614735604498" />
 	</gare>
 	<gare nom="BOISSY-SAINT-LEGER" coord="2864, 2273">
-		<voisin nom="VINCENNES" distance="13.22292287741732" />
+		<voisin nom="SAINT-MAUR-CRETEIL" distance="6.9748510317213475" />
 	</gare>
 	<gare nom="CERGY LE HAUT" coord="110, 687">
 		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="2.6006265477359882" />
@@ -17,7 +17,7 @@
 	<gare nom="CERGY-SAINT-CHRISTOPHE" coord="144, 675">
 		<voisin nom="CERGY LE HAUT" distance="2.6006265477359882" />
 		<voisin nom="CERGY-PREFECTURE" distance="5.245344668146213" />
-		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="28.56728568006489" />
+		<voisin nom="NANTERRE-PREFECTURE" distance="27.117946833167693" />
 	</gare>
 	<gare nom="CHARLES DE GAULLE ETOILE" coord="1001, 1123">
 		<voisin nom="AUBER" distance="3.951566720702521" />
@@ -30,29 +30,57 @@
 	<gare nom="CHESSY - MARNE-LA-VALLEE" coord="2859, 2000">
 		<voisin nom="VINCENNES" distance="38.923897849358326" />
 	</gare>
+	<gare nom="FONTENAY-SOUS-BOIS" coord="2724, 2031">
+		<voisin nom="NOGENT-SUR-MARNE" distance="1.3740526535666602" />
+		<voisin nom="VINCENNES" distance="3.408480104339527" />
+	</gare>
 	<gare nom="GARE DE LYON" coord="1892, 1851">
 		<voisin nom="CHATELET-LES HALLES" distance="3.5221243476667636" />
 		<voisin nom="NATION" distance="2.5527847314554535" />
 	</gare>
+	<gare nom="JOINVILLE-LE-PONT" coord="2772, 2114">
+		<voisin nom="NOGENT-SUR-MARNE" distance="1.7117925995168684" />
+		<voisin nom="SAINT-MAUR-CRETEIL" distance="1.9227839686547472" />
+	</gare>
 	<gare nom="LA DEFENSE-GRANDE ARCHE" coord="710, 678">
-		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="28.56728568006489" />
 		<voisin nom="CHARLES DE GAULLE ETOILE" distance="6.702081565307414" />
-		<voisin nom="POISSY" distance="22.286100948334347" />
-		<voisin nom="SAINT-GERMAIN-EN-LAYE" distance="15.84111681718807" />
+		<voisin nom="NANTERRE-PREFECTURE" distance="1.5869270341747206" />
+	</gare>
+	<gare nom="NANTERRE-PREFECTURE" coord="560, 676">
+		<voisin nom="CERGY-SAINT-CHRISTOPHE" distance="27.117946833167693" />
+		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="1.5869270341747206" />
+		<voisin nom="NANTERRE-UNIVERSITE" distance="1.0982354336306956" />
+	</gare>
+	<gare nom="NANTERRE-UNIVERSITE" coord="443, 762">
+		<voisin nom="NANTERRE-PREFECTURE" distance="1.0982354336306956" />
+		<voisin nom="NANTERRE-VILLE" distance="2.3243009283578013" />
+	</gare>
+	<gare nom="NANTERRE-VILLE" coord="400, 834">
+		<voisin nom="NANTERRE-UNIVERSITE" distance="2.3243009283578013" />
+		<voisin nom="RUEIL-MALMAISON" distance="2.6718745382088502" />
 	</gare>
 	<gare nom="NATION" coord="2256, 1754">
 		<voisin nom="GARE DE LYON" distance="2.5527847314554535" />
 		<voisin nom="VINCENNES" distance="4.173102211761431" />
 	</gare>
-	<gare nom="POISSY" coord="110, 658">
-		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="22.286100948334347" />
+	<gare nom="NOGENT-SUR-MARNE" coord="2749, 2073">
+		<voisin nom="FONTENAY-SOUS-BOIS" distance="1.3740526535666602" />
+		<voisin nom="JOINVILLE-LE-PONT" distance="1.7117925995168684" />
+	</gare>
+	<gare nom="RUEIL-MALMAISON" coord="347, 902">
+		<voisin nom="NANTERRE-VILLE" distance="2.6718745382088502" />
+		<voisin nom="SAINT-GERMAIN-EN-LAYE" distance="8.732800781672237" />
 	</gare>
 	<gare nom="SAINT-GERMAIN-EN-LAYE" coord="142, 913">
-		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="15.84111681718807" />
+		<voisin nom="RUEIL-MALMAISON" distance="8.732800781672237" />
+	</gare>
+	<gare nom="SAINT-MAUR-CRETEIL" coord="2794, 2151">
+		<voisin nom="BOISSY-SAINT-LEGER" distance="6.9748510317213475" />
+		<voisin nom="JOINVILLE-LE-PONT" distance="1.9227839686547472" />
 	</gare>
 	<gare nom="VINCENNES" coord="2624, 1952">
-		<voisin nom="BOISSY-SAINT-LEGER" distance="13.22292287741732" />
 		<voisin nom="CHESSY - MARNE-LA-VALLEE" distance="38.923897849358326" />
+		<voisin nom="FONTENAY-SOUS-BOIS" distance="3.408480104339527" />
 		<voisin nom="NATION" distance="4.173102211761431" />
 	</gare>
 </ligne>

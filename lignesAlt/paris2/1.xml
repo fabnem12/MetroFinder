@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="LA DEFENSE-GRANDE ARCHE,CHATEAU DE VINCENNES" couleur="ffcd00">
+<ligne terminus="CHATEAU DE VINCENNES,LA DEFENSE-GRANDE ARCHE" couleur="ffcd00">
 	<gare nom="ARGENTINE" coord="897, 1040">
 		<voisin nom="CHARLES DE GAULLE ETOILE" distance="0.5947305349821552" />
 		<voisin nom="PORTE MAILLOT" distance="0.6022925761966718" />

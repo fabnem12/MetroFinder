@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="CHELLES-GOURNAY,TOURNAN,HAUSSMANN-SAINT-LAZARE" couleur="de81d3">
+<ligne terminus="CHELLES-GOURNAY,HAUSSMANN-SAINT-LAZARE,TOURNAN" couleur="de81d3">
 	<gare nom="BONDY" coord="2741, 667">
 		<voisin nom="LE RAINCY-VILLEMOMBLE-MONTFERMEIL" distance="3.689395996621775" />
 		<voisin nom="NOISY-LE-SEC" distance="2.4035674079024107" />

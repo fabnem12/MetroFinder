@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="BOULOGNE-PONT DE SAINT CLOUD,AUSTERLITZ" couleur="c9910d">
+<ligne terminus="AUSTERLITZ,BOULOGNE-PONT DE SAINT CLOUD" couleur="c9910d">
 	<gare nom="AUSTERLITZ" coord="1769, 1963">
 		<voisin nom="JUSSIEU" distance="1.2379919783030409" />
 	</gare>

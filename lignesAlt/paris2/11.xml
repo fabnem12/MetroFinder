@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="MAIRIE DES LILAS,CHATELET" couleur="704b1c">
+<ligne terminus="CHATELET,MAIRIE DES LILAS" couleur="704b1c">
 	<gare nom="ARTS ET METIERS" coord="1944, 1301">
 		<voisin nom="RAMBUTEAU" distance="0.6063510678782923" />
 		<voisin nom="REPUBLIQUE" distance="0.8513550905803795" />

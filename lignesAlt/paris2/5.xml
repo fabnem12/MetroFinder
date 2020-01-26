@@ -28,11 +28,11 @@
 		<voisin nom="HOCHE" distance="1.2408654157880008" />
 	</gare>
 	<gare nom="GARE DE L'EST" coord="1916, 1035">
-		<voisin nom="GARE DU NORD" distance="0.5382102601312939" />
+		<voisin nom="GARE DU NORD" distance="0.5382102517396712" />
 		<voisin nom="JACQUES BONSERGENT" distance="0.6743777801722611" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="1860, 894">
-		<voisin nom="GARE DE L'EST" distance="0.5382102601312939" />
+		<voisin nom="GARE DE L'EST" distance="0.5382102517396712" />
 		<voisin nom="STALINGRAD" distance="1.0510248921445704" />
 	</gare>
 	<gare nom="HOCHE" coord="2403, 842">

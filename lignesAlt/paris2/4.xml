@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="PORTE DE CLIGNANCOURT,MAIRIE DE MONTROUGE" couleur="be418d">
+<ligne terminus="MAIRIE DE MONTROUGE,PORTE DE CLIGNANCOURT" couleur="be418d">
 	<gare nom="ALESIA" coord="1284, 2305">
 		<voisin nom="MOUTON-DUVERNET" distance="0.430997419891832" />
 		<voisin nom="PORTE D'ORLEANS" distance="0.5599894363372077" />
 	</gare>
-	<gare nom="BARBES-ROCHECHOUART" coord="1774, 767">
+	<gare nom="BARBES-ROCHECHOUART" coord="1775, 768">
 		<voisin nom="CHATEAU ROUGE" distance="0.410145212846445" />
 		<voisin nom="GARE DU NORD" distance="0.7986810083971859" />
 	</gare>
@@ -27,17 +27,17 @@
 		<voisin nom="MOUTON-DUVERNET" distance="0.4978754871380969" />
 		<voisin nom="RASPAIL" distance="0.5696580946638384" />
 	</gare>
-	<gare nom="ETIENNE-MARCEL" coord="1750, 1400">
+	<gare nom="ETIENNE-MARCEL" coord="1750, 1399">
 		<voisin nom="LES HALLES" distance="0.39362969031752565" />
 		<voisin nom="REAUMUR-SEBASTOPOL" distance="0.4712256515383505" />
 	</gare>
 	<gare nom="GARE DE L'EST" coord="1925, 1029">
 		<voisin nom="CHATEAU D'EAU" distance="0.4461997957525393" />
-		<voisin nom="GARE DU NORD" distance="0.5382102601312939" />
+		<voisin nom="GARE DU NORD" distance="0.5382102517396712" />
 	</gare>
 	<gare nom="GARE DU NORD" coord="1848, 894">
 		<voisin nom="BARBES-ROCHECHOUART" distance="0.7986810083971859" />
-		<voisin nom="GARE DE L'EST" distance="0.5382102601312939" />
+		<voisin nom="GARE DE L'EST" distance="0.5382102517396712" />
 	</gare>
 	<gare nom="LES HALLES" coord="1721, 1450">
 		<voisin nom="CHATELET" distance="0.4855569133176489" />
@@ -50,11 +50,11 @@
 		<voisin nom="CHATEAU ROUGE" distance="0.45512444235605026" />
 		<voisin nom="SIMPLON" distance="0.3576889722954373" />
 	</gare>
-	<gare nom="MONTPARNASSE" coord="1142, 2001">
+	<gare nom="MONTPARNASSE" coord="1265, 1964">
 		<voisin nom="SAINT-PLACIDE" distance="0.8211124397394136" />
 		<voisin nom="VAVIN" distance="0.8933199862531167" />
 	</gare>
-	<gare nom="MOUTON-DUVERNET" coord="1313, 2257">
+	<gare nom="MOUTON-DUVERNET" coord="1312, 2257">
 		<voisin nom="ALESIA" distance="0.430997419891832" />
 		<voisin nom="DENFERT-ROCHEREAU" distance="0.4978754871380969" />
 	</gare>
@@ -66,7 +66,7 @@
 		<voisin nom="ALESIA" distance="0.5599894363372077" />
 		<voisin nom="MAIRIE DE MONTROUGE" distance="0.8362788509574391" />
 	</gare>
-	<gare nom="PORTE DE CLIGNANCOURT" coord="1616, 491">
+	<gare nom="PORTE DE CLIGNANCOURT" coord="1615, 491">
 		<voisin nom="SIMPLON" distance="0.5036587091875536" />
 	</gare>
 	<gare nom="RASPAIL" coord="1327, 2113">
@@ -77,15 +77,15 @@
 		<voisin nom="ETIENNE-MARCEL" distance="0.4712256515383505" />
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="0.4370875475030512" />
 	</gare>
-	<gare nom="SAINT-GERMAIN-DES-PRES" coord="1414, 1777">
+	<gare nom="SAINT-GERMAIN-DES-PRES" coord="1415, 1777">
 		<voisin nom="ODEON" distance="0.6758745554793487" />
 		<voisin nom="SAINT-SULPICE" distance="0.36125904085851307" />
 	</gare>
-	<gare nom="SAINT-MICHEL" coord="1559, 1731">
+	<gare nom="SAINT-MICHEL" coord="1560, 1730">
 		<voisin nom="CITE" distance="0.4903862500234093" />
 		<voisin nom="ODEON" distance="0.4201743621263969" />
 	</gare>
-	<gare nom="SAINT-PLACIDE" coord="1294, 1913">
+	<gare nom="SAINT-PLACIDE" coord="1293, 1913">
 		<voisin nom="MONTPARNASSE" distance="0.8211124397394136" />
 		<voisin nom="SAINT-SULPICE" distance="0.7288447075319701" />
 	</gare>

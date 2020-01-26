@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ligne terminus="CRETEIL-POINTE DU LAC,BALARD" couleur="e19bdf">
+<ligne terminus="BALARD,CRETEIL-POINTE DU LAC" couleur="e19bdf">
 	<gare nom="BALARD" coord="775, 1992">
 		<voisin nom="LOURMEL" distance="0.5997368423922744" />
 	</gare>
@@ -16,7 +16,7 @@
 		<voisin nom="LOURMEL" distance="0.6303154186382481" />
 	</gare>
 	<gare nom="CHARENTON-ECOLES" coord="2312, 2275">
-		<voisin nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" distance="1.2229210162817468" />
+		<voisin nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" distance="1.222921012588575" />
 		<voisin nom="LIBERTE" distance="0.9232383955630453" />
 	</gare>
 	<gare nom="CHEMIN VERT" coord="1948, 1532">
@@ -55,7 +55,7 @@
 		<voisin nom="LA TOUR MAUBOURG" distance="0.6016855743145114" />
 	</gare>
 	<gare nom="ECOLE VETERINAIRE DE MAISONS-ALFORT" coord="2335, 2316">
-		<voisin nom="CHARENTON-ECOLES" distance="1.2229210162817468" />
+		<voisin nom="CHARENTON-ECOLES" distance="1.222921012588575" />
 		<voisin nom="MAISONS-ALFORT-STADE" distance="1.4901466326493267" />
 	</gare>
 	<gare nom="FAIDHERBE-CHALIGNY" coord="1998, 1731">
@@ -67,7 +67,7 @@
 		<voisin nom="COMMERCE" distance="0.3216207387557161" />
 	</gare>
 	<gare nom="FILLES DU CALVAIRE" coord="2040, 1372">
-		<voisin nom="REPUBLIQUE" distance="0.49787365469987654" />
+		<voisin nom="REPUBLIQUE" distance="0.4978736456283835" />
 		<voisin nom="SAINT-SEBASTIEN FROISSART" distance="0.24028145058851386" />
 	</gare>
 	<gare nom="GRANDS BOULEVARDS (RUE MONTMARTRE)" coord="1719, 1171">
@@ -131,7 +131,7 @@
 		<voisin nom="PORTE DE CHARENTON" distance="0.8422595155778977" />
 	</gare>
 	<gare nom="REPUBLIQUE" coord="1973, 1205">
-		<voisin nom="FILLES DU CALVAIRE" distance="0.49787365469987654" />
+		<voisin nom="FILLES DU CALVAIRE" distance="0.4978736456283835" />
 		<voisin nom="STRASBOURG-SAINT-DENIS" distance="1.1308993077092573" />
 	</gare>
 	<gare nom="REUILLY-DIDEROT" coord="2040, 1802">
