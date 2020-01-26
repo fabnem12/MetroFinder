@@ -3,12 +3,16 @@ from cherche import lectureXMLVille, lectureXMLLigne
 from heapq import *
 from tkinter import *
 import sys, math
+
+from coordTAE2 import retrouveTAE
 import constantes as ctes
 
 modeDev = False
 
 #Identification de la ville
-ville, console = ctes.identVille(sys.argv[-1])
+ville = "tae"
+
+if ville is None: ville, console = ctes.identVille(sys.argv[-1])
 if ville in ctes.GPSCompte: #charger le module pour simuler une sphère
     from geographiclib.geodesic import Geodesic
     geod = Geodesic.WGS84

@@ -1,8 +1,9 @@
 # -*- coding: utf8 -*-
-import csv, codecs
+import csv, codecs, os
 import constantes as ctes
-#import coordTAE
 import xml.etree.ElementTree as ET
+
+from coordTAE2 import retrouveTAE
 
 def donnees(ligneCherche, requete, ville): #cherche les données CSV
 	gares = dict()
@@ -10,17 +11,12 @@ def donnees(ligneCherche, requete, ville): #cherche les données CSV
 
 	if "paris" in ville:
 		fichier = "csv-data/paris.csv"
-	elif ville not in ("londres","tae"):
-		fichier = "csv-data/"+ville+".csv"
 	elif ville == "londres":
 		gares = {ligneCherche:[]}
 		if ligneCherche != "pedestre": gares["pedestre"] = []
 		fichier = "csv-data/londres-stations.csv"
 	else:
-		pass
-		gares = {ligneCherche:[]}
-		if requete == "gares": fichier = "csv-data/TAE.csv"
-		elif requete == "coord": fichier = "csv-data/TAE.csv"
+		fichier = "csv-data/"+ville+".csv"
 
 	coordGPS = dict()
 
@@ -111,6 +107,8 @@ def lectureXMLVille(ville, alt=""):
 	if ville in ctes.GPSCompte: a = lambda x: float(x)
 
 	fichier = "reseau"+alt+"_"+ville+".xml"
+	if ville == "tae":
+		retrouveTAE()
 
 	gares = dict()
 	coordImg = dict()

@@ -2,8 +2,9 @@
 from tkinter import *
 from tkinter.messagebox import *
 from random import choice
-from cherche import donnees, lectureXMLLigne, lectureXMLVille
 import codecs, sys, os
+
+from cherche import donnees, lectureXMLLigne, lectureXMLVille
 import constantes as ctes
 
 ville = None

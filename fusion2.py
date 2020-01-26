@@ -167,7 +167,8 @@ def ecritXMLVille(ville, listeGaresVille):
 def fusion(ville = ""):
     print("Recherche d'informations...")
 
-    ville, _ = ctes.identVille(ville if ville != "" else sys.argv[-1])
+    if ville == "":
+        ville, _ = ctes.identVille(ville if ville != "" else sys.argv[-1])
     #ville = "paris2"
 
     if ville in ctes.GPSCompte: typeVal = float
