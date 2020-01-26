@@ -16,7 +16,7 @@
 		<voisin nom="LA DEFENSE-GRANDE ARCHE" distance="0.6034576889727682" />
 		<voisin nom="LES FAUVELLES" distance="0.681562507931524" />
 	</gare>
-	<gare nom="HENRI FARMANN" coord="701, 1992">
+	<gare nom="HENRI FARMANN" coord="700, 1992">
 		<voisin nom="ISSY-VAL DE SEINE" distance="0.9858989002951176" />
 		<voisin nom="SUZANNE LENGLEN" distance="0.6281579813859699" />
 	</gare>
@@ -71,11 +71,11 @@
 	<gare nom="PONT DE BEZONS" coord="347, 556">
 		<voisin nom="PARC PIERRE LAGRAVERE" distance="1.0276072509729102" />
 	</gare>
-	<gare nom="PORTE D'ISSY" coord="794, 2067">
+	<gare nom="PORTE D'ISSY" coord="795, 2069">
 		<voisin nom="PORTE DE VERSAILLES" distance="0.7426470053983476" />
 		<voisin nom="SUZANNE LENGLEN" distance="0.5612782729453819" />
 	</gare>
-	<gare nom="PORTE DE VERSAILLES" coord="842, 2122">
+	<gare nom="PORTE DE VERSAILLES" coord="840, 2123">
 		<voisin nom="PORTE D'ISSY" distance="0.7426470053983476" />
 	</gare>
 	<gare nom="PUTEAUX" coord="643, 977">

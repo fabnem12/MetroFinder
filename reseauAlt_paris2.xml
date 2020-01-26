@@ -1111,7 +1111,7 @@
 		<voisin nom="CAROLINE AIGLE" distance="1.173184621028566" lignes="T7" />
 		<voisin nom="FRATERNELLE" distance="0.7587838193459108" lignes="T7" />
 	</gare>
-	<gare nom="HENRI FARMANN" coord="701, 1992">
+	<gare nom="HENRI FARMANN" coord="700, 1992">
 		<voisin nom="ISSY-VAL DE SEINE" distance="0.9858989002951176" lignes="T2" />
 		<voisin nom="SUZANNE LENGLEN" distance="0.6281579813859699" lignes="T2" />
 	</gare>
@@ -2228,7 +2228,7 @@
 	<gare nom="PORTE D'AUTEUIL" coord="462, 1675">
 		<voisin nom="BOULOGNE-JEAN JAURES" distance="2.2015958862330205" lignes="10" />
 	</gare>
-	<gare nom="PORTE D'ISSY" coord="794, 2067">
+	<gare nom="PORTE D'ISSY" coord="795, 2069">
 		<voisin nom="PORTE DE VERSAILLES" distance="0.7426470053983476" lignes="T2" />
 		<voisin nom="SUZANNE LENGLEN" distance="0.5612782729453819" lignes="T2" />
 	</gare>
@@ -2330,7 +2330,7 @@
 		<voisin nom="PLAISANCE" distance="1.0558533177951483" lignes="13" />
 		<voisin nom="PORTE DE BRANCION" distance="0.5303278883714959" lignes="T3A" />
 	</gare>
-	<gare nom="PORTE DE VERSAILLES" coord="842, 2117|855, 2149">
+	<gare nom="PORTE DE VERSAILLES" coord="840, 2117|855, 2149">
 		<voisin nom="CONVENTION" distance="1.0832772079933843" lignes="12" />
 		<voisin nom="CORENTIN-CELTON" distance="1.1470307844169212" lignes="12" />
 		<voisin nom="DESNOUETTES" distance="0.4893480682257747" lignes="T3A" />
